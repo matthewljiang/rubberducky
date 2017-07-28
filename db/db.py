@@ -1,5 +1,6 @@
 from pymongo import MongoClient
 import json
+import os
 
 c = MongoClient()
 db = c.rubberducky
@@ -34,3 +35,12 @@ with open('congress-legislators/committee-membership-current.json') as file:
 		com['thomas_id']=item
 		com['members']=committee_membership_current_json[item]
 		committee_membership_current.update_one({"thomas_id":com["thomas_id"]},{"$set":com},upsert=True)
+
+votes = db['votes']
+rootdir = "./congress/data/115/votes/2017"
+for subdir, dirs, files in os.walk(rootdir):
+	for f in files:
+		if f.endswith('.json'):
+			with open(os.path.join(subdir, f)) as file:
+				votes_json = json.load(file)
+				votes.update_one({"chamber":votes_json["chamber"],"number":votes_json["number"]},{"$set":votes_json},upsert=True)
