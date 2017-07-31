@@ -28,7 +28,7 @@ const styling = {
   imageContainer: {
     width: '8em', height: '8em',
     left: '0', right: '0',
-    marginLeft: 'auto', marginRight: 'auto', marginBottom: '.5em',
+    marginLeft: '1em', marginRight: '1em', marginBottom: '.5em',
     borderTopLeftRadius: '50% 50%', borderTopRightRadius: '50% 50%',
     borderBottomLeftRadius: '50% 50%', borderBottomRightRadius: '50% 50%',
     overflow: 'hidden',

@@ -15,9 +15,10 @@ const styling = {
   },
   body: {
     height: '100%',
+    width: '100%',
     marginLeft: '3em',
     color: colors.appPrimary,
-    overflowY: 'scroll'
+    overflowY: 'auto'
   }
 };
 
