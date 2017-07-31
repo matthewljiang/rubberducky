@@ -6,6 +6,8 @@ import Titlebar from './core/Titlebar.js';
 import Home from './home/Home.js';
 import SingleRep from './representative/Rep.js';
 import RepList from './representative/RepList.js';
+import Committee from './committee/Committee.js';
+import CommitteeList from './committee/CommitteeList.js';
 
 import colors from './core/colors.js';
 
@@ -14,7 +16,9 @@ const styling = {
     backgroundColor: colors.pageBackground,
     height: '100%',
     width: '100%',
-    fontFamily: "'Helvetica Neue', Helvetica, Arial, sans-serif"
+    fontFamily: "'Helvetica Neue', Helvetica, Arial, sans-serif",
+    display: 'flex',
+    flexFlow: 'column'
   }
 };
 
@@ -28,6 +32,8 @@ class Main extends React.Component {
               <Route path='/ducky' component={Home}/>
               <Route path='/ducky/representatives' component={RepList}/>
               <Route path='/ducky/representative/:repId' component={SingleRep}/>
+              <Route exact path='/ducky/committees' component={CommitteeList}/>
+              <Route exact path='/ducky/committee/:tag' component={Committee}/>
             </Switch>
           </div>
         </Router>

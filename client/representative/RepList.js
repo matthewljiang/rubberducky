@@ -12,6 +12,9 @@ const styling = {
     display: 'flex',
     flexFlow: 'column',
     padding: '2em 4em'
+  },
+  body: {
+    backgroundColor: '#fff'
   }
 };
 

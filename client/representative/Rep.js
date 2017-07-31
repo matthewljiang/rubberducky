@@ -10,13 +10,12 @@ const styling = {
   container: {
     height: '100%',
     width: '100%',
-    display: 'flex',
-    position: 'fixed'
+    display: 'flex'
   },
   body: {
-    height: '100%',
+    height: '90%',
     width: '100%',
-    marginLeft: '3em',
+    margin: '2em',
     color: colors.appPrimary,
     overflowY: 'auto'
   }
