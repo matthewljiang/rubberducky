@@ -9,7 +9,7 @@ app = Flask(__name__)
 app.register_blueprint(api, url_prefix='/api')
 
 @app.route('/')
-@app.route('/frontend/<path:p>')
+@app.route('/ducky/<path:p>')
 def ui(p=None):
     return render_template('index.html')
 

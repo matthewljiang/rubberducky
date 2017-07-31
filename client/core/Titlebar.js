@@ -18,30 +18,30 @@ const styling = {
     fontSize: '1.5em',
     margin: '0 1em',
     textTransform: 'lowercase',
-    fontFamily: "'Helvetica Neue', Helvetica, Arial, sans-serif"
   }
 
 }
 
-const TitlebarLink = Radium(React.createClass({
+class TitlebarLink extends React.Component {
   render() {
     return (
         <div style={styling.linkContainer}>
-          <Link to="/" style={styling.titlelink}>Home</Link>
+          <Link to={this.props.dest} style={styling.titlelink}>{this.props.text}</Link>
         </div>
         );
   }
-}));
+};
+TitlebarLink = Radium(TitlebarLink);
 
-const Titlebar = Radium(React.createClass({
+class Titlebar extends React.Component {
   render() {
     return (
           <div style={styling.titlebar}>
-            <TitlebarLink/>
-            <TitlebarLink/>
+            <TitlebarLink dest={"/home"} text={"home"}/>
+            <TitlebarLink dest={"/representative/1"} text={"rep"}/>
           </div>
         );
   }
-}));
+};
 
-export default Titlebar;
+export default Radium(Titlebar);
