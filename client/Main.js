@@ -26,6 +26,7 @@ class Main extends React.Component {
             <Titlebar/>
             <Switch>
               <Route path='/ducky' component={Home}/>
+              <Route path='/ducky/representatives' component={RepList}/>
               <Route path='/ducky/representative/:repId' component={SingleRep}/>
             </Switch>
           </div>

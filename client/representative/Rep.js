@@ -68,9 +68,9 @@ class Rep extends React.Component {
                   this.state.votingRecord.map((record) => {
                   return (
                   <tr>
-                    <th>{record.number}</th>
-                    <th>{record.name}</th>
-                    <th>{record.status}</th>
+                    <td>{record.number}</td>
+                    <td>{record.name}</td>
+                    <td>{record.status}</td>
                   </tr>)
                   })
                   }

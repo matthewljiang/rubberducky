@@ -36,10 +36,10 @@ TitlebarLink = Radium(TitlebarLink);
 class Titlebar extends React.Component {
   render() {
     return (
-          <div style={styling.titlebar}>
-            <TitlebarLink dest={"/home"} text={"home"}/>
-            <TitlebarLink dest={"/representative/1"} text={"rep"}/>
-          </div>
+        <div style={styling.titlebar}>
+          <TitlebarLink dest={"/home"} text={"home"}/>
+          <TitlebarLink dest={"/representatives"} text={"reps"}/>
+        </div>
         );
   }
 };
