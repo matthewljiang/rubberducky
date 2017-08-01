@@ -23,6 +23,7 @@ with open('congress-legislators/legislators-current.json') as file:
 		soc = legislators_social_media.find_one({"id.bioguide":bioguide})
 		if soc is not None:
 			item["social"] = soc["social"]
+		item["votes"] = []
 		legislators_current.update_one({"id.bioguide":item["id"]["bioguide"]},{"$set":item},upsert=True)
 
 #create or update committees
@@ -52,7 +53,7 @@ with open('congress-legislators/committee-membership-current.json') as file:
 			committee_membership_current.update_one({"thomas_id":com["thomas_id"]},{"$set":com},upsert=True)
 			
 
-
+#create or update votes
 votes = db['votes']
 rootdir = "./congress/data/115/votes/2017"
 for subdir, dirs, files in os.walk(rootdir):
@@ -60,4 +61,41 @@ for subdir, dirs, files in os.walk(rootdir):
 		if f.endswith('.json'):
 			with open(os.path.join(subdir, f)) as file:
 				votes_json = json.load(file)
+				if not "bill" in votes_json:
+					votes_json["bill"] = None
+				for vote_type in votes_json["votes"]:
+					for v in votes_json["votes"][vote_type]:
+						if votes_json["chamber"] == 'h':
+							legislators_current.update_one({"id.bioguide":v["id"]},
+														   {"$push":{"votes":{
+														   		"bill":votes_json["bill"],
+														   		"chamber":votes_json["chamber"],
+														   		"congress":votes_json["congress"],
+														   		"number":votes_json["number"],
+														   		"date":votes_json["date"],
+														   		"vote":vote_type
+							}}})
+						else:
+							if not isinstance(v, str): 
+							    legislators_current.update_one({"id.lis":v["id"]},
+														   {"$push":{"votes":{
+														   		"bill":votes_json["bill"],
+														   		"chamber":votes_json["chamber"],
+														   		"congress":votes_json["congress"],
+														   		"number":votes_json["number"],
+														   		"date":votes_json["date"],
+														   		"vote":vote_type
+								}}})
 				votes.update_one({"chamber":votes_json["chamber"],"number":votes_json["number"]},{"$set":votes_json},upsert=True)
+
+
+#create or update bills
+rootdir = "./congress/data/115/bills"
+bills = db['bills']
+for subdir, dirs, files in os.walk(rootdir):
+	for f in files:
+		if f.endswith('.json'):
+			with open(os.path.join(subdir, f)) as file:
+				bills_json = json.load(file)
+				bills.update_one({"bill_id":bills_json["bill_id"]},{"$set":bills_json},upsert=True)
+
