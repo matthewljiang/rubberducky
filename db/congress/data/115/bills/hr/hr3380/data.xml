@@ -1,0 +1,46 @@
+<bill session="115" type="h" number="3380" updated="2017-07-28T07:17:18Z">
+  <state datetime="2017-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-25"/>
+  </status>
+  <introduced datetime="2017-07-25"/>
+  <titles>
+    <title type="official" as="introduced">To cancel the registration of all uses of the pesticide chlorpyrifos, and for other purposes.</title>
+    <title type="display">To cancel the registration of all uses of the pesticide chlorpyrifos, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="V000081"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001300" joined="2017-07-26"/>
+    <cosponsor bioguide_id="B000574" joined="2017-07-26"/>
+    <cosponsor bioguide_id="D000191" joined="2017-07-25"/>
+    <cosponsor bioguide_id="E000288" joined="2017-07-25"/>
+    <cosponsor bioguide_id="E000296" joined="2017-07-26"/>
+    <cosponsor bioguide_id="J000298" joined="2017-07-25"/>
+    <cosponsor bioguide_id="K000389" joined="2017-07-26"/>
+    <cosponsor bioguide_id="M000087" joined="2017-07-25"/>
+    <cosponsor bioguide_id="M001143" joined="2017-07-27"/>
+    <cosponsor bioguide_id="M001137" joined="2017-07-26"/>
+    <cosponsor bioguide_id="S001170" joined="2017-07-25"/>
+    <cosponsor bioguide_id="S001165" joined="2017-07-26"/>
+    <cosponsor bioguide_id="W000822" joined="2017-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-25" state="REFERRED">
+      <text>Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-25">
+      <text>Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="115" type="s" number="1099" updated="2017-07-20T04:47:32Z">
+  <state datetime="2017-05-17">REPORTED</state>
+  <status>
+    <unknown datetime="2017-05-17"/>
+  </status>
+  <introduced datetime="2017-05-11"/>
+  <titles>
+    <title type="short" as="introduced">Saving Federal Dollars Through Better Use of Government Purchase and Travel Cards Act of 2017</title>
+    <title type="short" as="introduced">Saving Federal Dollars Through Better Use of Government Purchase and Travel Cards Act of 2017</title>
+    <title type="short" as="reported to senate">Saving Federal Dollars Through Better Use of Government Purchase and Travel Cards Act of 2017</title>
+    <title type="short" as="reported to senate">Saving Federal Dollars Through Better Use of Government Purchase and Travel Cards Act of 2017</title>
+    <title type="official" as="introduced">A bill to provide for the identification and prevention of improper payments and the identification of strategic sourcing opportunities by reviewing and analyzing the use of Federal agency charge cards.</title>
+    <title type="display">Saving Federal Dollars Through Better Use of Government Purchase and Travel Cards Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C000174"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000622" joined="2017-06-13"/>
+    <cosponsor bioguide_id="G000386" joined="2017-05-11"/>
+    <cosponsor bioguide_id="M001170" joined="2017-05-11"/>
+    <cosponsor bioguide_id="T000464" joined="2017-06-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-11">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2017-05-17" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2017-07-11">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-129.</text>
+    </action>
+    <calendar datetime="2017-07-11" calendar="Senate Legislative" under="General Orders" number="169">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 169.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>S. Rept. 115-129</report>
+  </committee-reports>
+</bill>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Hold Congress Accountable on Healthcare Act</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-14T13:02:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-14T13:02:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-14T13:02:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-14T13:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>4</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Government Reform, Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionDate>2017-07-14</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Government Reform, Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2017-07-14</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Government Reform, Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionDate>2017-07-14</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Government Reform, Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionDate>2017-07-14</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-14</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-14</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <policyArea />
+    <recordedVotes />
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <notes />
+    <createDate>2017-07-15T03:11:33Z</createDate>
+    <amendments />
+    <cosponsors />
+    <updateDate>2017-07-24T21:00:13Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>L000565</bioguideId>
+        <byRequestType />
+        <district>2</district>
+        <party>D</party>
+        <lastName>Loebsack</lastName>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <firstName>David</firstName>
+        <middleName />
+        <state>IA</state>
+        <identifiers>
+          <lisID>1846</lisID>
+          <gpoId>7915</gpoId>
+          <bioguideId>L000565</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>Hold Congress Accountable on Healthcare Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Hold Congress Accountable on Healthcare Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>To provide for the health coverage of Members of Congress to be affected if the rate of individuals without health insurance increases.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Hold Congress Accountable on Healthcare Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-07-14</introducedDate>
+    <constitutionalAuthorityStatementText />
+    <congress>115</congress>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-07-14</actionDate>
+      <text>Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Government Reform, Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <billNumber>3253</billNumber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

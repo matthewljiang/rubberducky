@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-01-30</introducedDate>
+    <updateDate>2017-06-19T20:45:14Z</updateDate>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>This Land Is Our Land Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>This Land Is Our Land Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To prohibit the construction of new border barriers, including walls or fences, on certain Federal land, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>This Land Is Our Land Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <relatedBills />
+    <latestAction>
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+      <links />
+      <actionDate>2017-02-10</actionDate>
+    </latestAction>
+    <notes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <billNumber>739</billNumber>
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <actionDate>2017-02-10</actionDate>
+        <committee>
+          <systemCode>hshm11</systemCode>
+          <name>Border and Maritime Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>B00100</actionCode>
+        <actionDate>2017-02-01</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H861-862</url>
+            <name>H861-862</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Sponsor introductory remarks on measure. (CR H861-862)</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-01-30</actionDate>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Homeland Security.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-01-30</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-01-30</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ESPAILLAT:H.R. 739.Congress has the power to enact this legislation pursuantto the following:Article One of the United States Constitution, section 8,clause 18:The Congress shall have Power--To make all Laws which shallbe necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereoforArticle One of the United States Constitution, Section 8,Clause 3:The Congress shall have Power--To regulate Commerce withforeign Nations, and among the several States, and with theIndian tribes;[Page H746]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <firstName>BETTY</firstName>
+        <state>MN</state>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <identifiers>
+          <gpoId>8004</gpoId>
+          <bioguideId>M001143</bioguideId>
+          <lisID>1653</lisID>
+        </identifiers>
+        <bioguideId>M001143</bioguideId>
+        <lastName>MCCOLLUM</lastName>
+      </item>
+      <item>
+        <firstName>LUIS</firstName>
+        <state>IL</state>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName>V.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000535</bioguideId>
+          <lisID>478</lisID>
+          <gpoId>7924</gpoId>
+        </identifiers>
+        <bioguideId>G000535</bioguideId>
+        <lastName>GUTIERREZ</lastName>
+      </item>
+      <item>
+        <firstName>JAMES</firstName>
+        <state>MA</state>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <bioguideId>M000312</bioguideId>
+        <lastName>MCGOVERN</lastName>
+      </item>
+      <item>
+        <firstName>BARBARA</firstName>
+        <state>CA</state>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>13</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+          <lisID>1501</lisID>
+        </identifiers>
+        <bioguideId>L000551</bioguideId>
+        <lastName>LEE</lastName>
+      </item>
+      <item>
+        <firstName>Michelle</firstName>
+        <state>NM</state>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2146</lisID>
+          <bioguideId>L000580</bioguideId>
+        </identifiers>
+        <bioguideId>L000580</bioguideId>
+        <lastName>Lujan Grisham</lastName>
+      </item>
+      <item>
+        <firstName>Ruben</firstName>
+        <state>AZ</state>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000574</bioguideId>
+          <lisID>2226</lisID>
+        </identifiers>
+        <bioguideId>G000574</bioguideId>
+        <lastName>Gallego</lastName>
+      </item>
+      <item>
+        <firstName>ELEANOR</firstName>
+        <state>DC</state>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName>HOLMES</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <lastName>NORTON</lastName>
+      </item>
+      <item>
+        <firstName>Juan</firstName>
+        <state>CA</state>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>51</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>V000130</bioguideId>
+          <lisID>2112</lisID>
+        </identifiers>
+        <bioguideId>V000130</bioguideId>
+        <lastName>Vargas</lastName>
+      </item>
+      <item>
+        <firstName>Filemon</firstName>
+        <state>TX</state>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>34</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>V000132</bioguideId>
+          <lisID>2167</lisID>
+        </identifiers>
+        <bioguideId>V000132</bioguideId>
+        <lastName>Vela</lastName>
+      </item>
+      <item>
+        <firstName>Beto</firstName>
+        <state>TX</state>
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>16</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>O000170</bioguideId>
+          <lisID>2162</lisID>
+        </identifiers>
+        <bioguideId>O000170</bioguideId>
+        <lastName>O'Rourke</lastName>
+      </item>
+      <item>
+        <firstName>Ted</firstName>
+        <state>CA</state>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>33</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000582</bioguideId>
+          <lisID>2230</lisID>
+        </identifiers>
+        <bioguideId>L000582</bioguideId>
+        <lastName>Lieu</lastName>
+      </item>
+      <item>
+        <firstName>Darren</firstName>
+        <state>FL</state>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+          <lisID>2319</lisID>
+        </identifiers>
+        <bioguideId>S001200</bioguideId>
+        <lastName>Soto</lastName>
+      </item>
+      <item>
+        <firstName>Norma</firstName>
+        <state>CA</state>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>35</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>T000474</bioguideId>
+          <lisID>2231</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>T000474</bioguideId>
+        <lastName>Torres</lastName>
+      </item>
+      <item>
+        <firstName>NYDIA</firstName>
+        <state>NY</state>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <bioguideId>V000081</bioguideId>
+        <lastName>VELAZQUEZ</lastName>
+      </item>
+      <item>
+        <firstName>Yvette</firstName>
+        <state>NY</state>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName>D.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <gpoId>8072</gpoId>
+          <bioguideId>C001067</bioguideId>
+          <lisID>1864</lisID>
+        </identifiers>
+        <bioguideId>C001067</bioguideId>
+        <lastName>Clarke</lastName>
+      </item>
+      <item>
+        <firstName>Jamie</firstName>
+        <state>MD</state>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>R000606</bioguideId>
+        <lastName>Raskin</lastName>
+      </item>
+      <item>
+        <firstName>Dwight</firstName>
+        <state>PA</state>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+          <lisID>2298</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>E000296</bioguideId>
+        <lastName>Evans</lastName>
+      </item>
+      <item>
+        <firstName>Judy</firstName>
+        <state>CA</state>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>27</district>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <identifiers>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+        </identifiers>
+        <bioguideId>C001080</bioguideId>
+        <lastName>Chu</lastName>
+      </item>
+      <item>
+        <firstName>Debbie</firstName>
+        <state>FL</state>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>23</district>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000797</bioguideId>
+          <lisID>1777</lisID>
+          <gpoId>7892</gpoId>
+        </identifiers>
+        <bioguideId>W000797</bioguideId>
+        <lastName>Wasserman Schultz</lastName>
+      </item>
+      <item>
+        <firstName>Keith</firstName>
+        <state>MN</state>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>E000288</bioguideId>
+          <lisID>1857</lisID>
+          <gpoId>8005</gpoId>
+        </identifiers>
+        <bioguideId>E000288</bioguideId>
+        <lastName>Ellison</lastName>
+      </item>
+      <item>
+        <firstName>Marc</firstName>
+        <state>TX</state>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>33</district>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>V000131</bioguideId>
+          <lisID>2166</lisID>
+        </identifiers>
+        <bioguideId>V000131</bioguideId>
+        <lastName>Veasey</lastName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <title>This Land Is Our Land Act</title>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>E000297</bioguideId>
+          <lisID>2342</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>E000297</bioguideId>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <lastName>Espaillat</lastName>
+        <district>13</district>
+        <party>D</party>
+        <middleName />
+        <byRequestType />
+        <firstName>Adriano</firstName>
+        <state>NY</state>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <createDate>2017-01-31T05:23:09Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hshm00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Homeland Security Committee</name>
+          <subcommittees>
+            <item>
+              <name>Border and Maritime Security Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-10T13:55:44Z</date>
+                </item>
+              </activities>
+              <systemCode>hshm11</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-30T17:04:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <committeeReports />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

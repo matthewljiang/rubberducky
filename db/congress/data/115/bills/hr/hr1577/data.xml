@@ -1,0 +1,44 @@
+<bill session="115" type="h" number="1577" updated="2017-06-19T21:30:18Z">
+  <state datetime="2017-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-16"/>
+  </status>
+  <introduced datetime="2017-03-16"/>
+  <titles>
+    <title type="short" as="introduced">National Park Service Transparency and Accountability Act</title>
+    <title type="short" as="introduced">National Park Service Transparency and Accountability Act</title>
+    <title type="official" as="introduced">To require the Secretary of the Interior submit a report to Congress evaluating the Capital Investment Strategy and its results, and for other purposes.</title>
+    <title type="display">National Park Service Transparency and Accountability Act</title>
+  </titles>
+  <sponsor bioguide_id="M001197"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001053" joined="2017-03-20"/>
+    <cosponsor bioguide_id="F000448" joined="2017-03-16"/>
+    <cosponsor bioguide_id="G000565" joined="2017-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-16">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-03-16" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-03-27">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Federal Lands" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of the Interior"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

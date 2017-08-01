@@ -1,0 +1,28 @@
+<bill session="115" type="s" number="1618" updated="2017-07-25T05:54:46Z">
+  <state datetime="2017-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-24"/>
+  </status>
+  <introduced datetime="2017-07-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 for purposes of the tax on private foundation excess business holdings to treat as outstanding any employee-owned stock purchased by a business enterprise pursuant to certain employee stock ownership retirement plans.</title>
+    <title type="display">A bill to amend the Internal Revenue Code of 1986 for purposes of the tax on private foundation excess business holdings to treat as outstanding any employee-owned stock purchased by a business enterprise pursuant to certain employee stock ownership retirement plans.</title>
+  </titles>
+  <sponsor bioguide_id="S000770"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-07-24">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

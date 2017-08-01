@@ -1,0 +1,39 @@
+<bill session="115" type="s" number="1608" updated="2017-07-28T10:45:05Z">
+  <state datetime="2017-07-20">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-20"/>
+  </status>
+  <introduced datetime="2017-07-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Capitol Police Board to make payments from the United States Capitol Police Memorial Fund to employees of the United States Capitol Police who have sustained serious line-of-duty injuries, and for other purposes.</title>
+    <title type="display">A bill to authorize the Capitol Police Board to make payments from the United States Capitol Police Memorial Fund to employees of the United States Capitol Police who have sustained serious line-of-duty injuries, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="F000444"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001236" joined="2017-07-26"/>
+    <cosponsor bioguide_id="C001056" joined="2017-07-26"/>
+    <cosponsor bioguide_id="D000607" joined="2017-07-20"/>
+    <cosponsor bioguide_id="I000024" joined="2017-07-27"/>
+    <cosponsor bioguide_id="K000393" joined="2017-07-26"/>
+    <cosponsor bioguide_id="M000133" joined="2017-07-26"/>
+    <cosponsor bioguide_id="M001169" joined="2017-07-20"/>
+    <cosponsor bioguide_id="P000603" joined="2017-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-20">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSRA" name="Senate Rules and Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <district>2</district>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <firstName>Ann</firstName>
+        <middleName />
+        <party>R</party>
+        <state>MO</state>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <identifiers>
+          <lisID>2137</lisID>
+          <gpoId />
+          <bioguideId>W000812</bioguideId>
+        </identifiers>
+        <bioguideId>W000812</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Wagner</lastName>
+      </item>
+      <item>
+        <district>2</district>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <firstName>Dwight</firstName>
+        <middleName />
+        <party>D</party>
+        <state>PA</state>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <identifiers>
+          <lisID>2298</lisID>
+          <gpoId />
+          <bioguideId>E000296</bioguideId>
+        </identifiers>
+        <bioguideId>E000296</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Evans</lastName>
+      </item>
+      <item>
+        <district>21</district>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <firstName>Elise</firstName>
+        <middleName>M.</middleName>
+        <party>R</party>
+        <state>NY</state>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <identifiers>
+          <lisID>2263</lisID>
+          <gpoId />
+          <bioguideId>S001196</bioguideId>
+        </identifiers>
+        <bioguideId>S001196</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Stefanik</lastName>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Intelligence (Permanent) Committee</name>
+          <chamber>House</chamber>
+          <type>Select</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-14T13:00:26Z</date>
+            </item>
+          </activities>
+          <systemCode>hlig00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the House Committee on Intelligence (Permanent Select).</text>
+      <actionDate>2017-07-14</actionDate>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <updateDate>2017-07-26T07:16:31Z</updateDate>
+    <cboCostEstimates />
+    <introducedDate>2017-07-14</introducedDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Intelligence (Permanent Select).</text>
+        <committee>
+          <systemCode>hlig00</systemCode>
+          <name>Intelligence (Permanent) Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-14</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-14</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-14</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <lastName>Torres</lastName>
+        <bioguideId>T000474</bioguideId>
+        <state>CA</state>
+        <middleName>J.</middleName>
+        <party>D</party>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <district>35</district>
+        <byRequestType />
+        <firstName>Norma</firstName>
+        <identifiers>
+          <lisID>2231</lisID>
+          <gpoId />
+          <bioguideId>T000474</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>North Korea Follow the Money Act</title>
+    <notes />
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <laws />
+    <billNumber>3261</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. TORRES:H.R. 3261.Congress has the power to enact this legislation pursuantto the following:According to Article 1: Section 8: Clause 18: of the UnitedStates Constitution, seen below, this bill falls within theConstitutional Authority of the United States Congress.Article 1: Section 8: Clause 18: To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.____________________[Page H5885]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2017-07-15T03:11:34Z</createDate>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <title>North Korea Follow the Money Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>To direct the Director of National Intelligence to produce a national intelligence estimate of the revenue sources of the North Korean regime, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>North Korea Follow the Money Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>North Korea Follow the Money Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

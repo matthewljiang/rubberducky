@@ -1,0 +1,34 @@
+<bill session="115" type="h" number="1800" updated="2017-06-16T16:45:09Z">
+  <state datetime="2017-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-30"/>
+  </status>
+  <introduced datetime="2017-03-30"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Secretary of Agriculture to transfer certain Federal land to facilitate scientific research supporting Federal space and defense programs.</title>
+    <title type="display">To direct the Secretary of Agriculture to transfer certain Federal land to facilitate scientific research supporting Federal space and defense programs.</title>
+  </titles>
+  <sponsor bioguide_id="B001250"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-03-30">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-03-30" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-04-11">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Federal Lands" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

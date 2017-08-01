@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Veterans PARC Act of 2017</title>
+    <sponsors>
+      <item>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <identifiers>
+          <bioguideId>W000797</bioguideId>
+          <lisID>1777</lisID>
+          <gpoId>7892</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Wasserman Schultz</lastName>
+        <district>23</district>
+        <firstName>Debbie</firstName>
+        <bioguideId>W000797</bioguideId>
+        <state>FL</state>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>Veterans Priority Access to Reliable Care Act of 2017 or the Veterans PARC Act of 2017</strong></p> <p>This bill authorizes the Department of Veterans Affairs (VA) to use a passenger carrier to transport an individual employed at a VA medical facility between a parking facility and the medical facility.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-04-06</actionDate>
+          <updateDate>2017-04-06T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-07-24T18:19:06Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills />
+    <titles>
+      <item>
+        <title>Veterans PARC Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Veterans Priority Access to Reliable Care Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Veterans PARC Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Veterans Priority Access to Reliable Care Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to transport an individual employed at a medical facility of the Department of Veterans Affairs between a parking facility and the medical facility.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Veterans PARC Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <updateDate>2017-07-24T18:30:12Z</updateDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. WASSERMAN SCHULTZ:H.R. 1977.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution[Page H2790]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <latestAction>
+      <links />
+      <actionDate>2017-04-07</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-04-06T13:08:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr03</systemCode>
+              <activities>
+                <item>
+                  <date>2017-04-07T17:40:04Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <introducedDate>2017-04-06</introducedDate>
+    <calendarNumbers />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <createDate>2017-04-07T03:11:57Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>1977</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-04-07</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-04-06</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-04-06</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-04-06</actionDate>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <laws />
+    <billType>HR</billType>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <district>4</district>
+        <lastName>Rutherford</lastName>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <state>FL</state>
+        <bioguideId>R000609</bioguideId>
+        <middleName>H.</middleName>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2316</lisID>
+          <gpoId />
+          <bioguideId>R000609</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

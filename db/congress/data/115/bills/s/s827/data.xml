@@ -1,0 +1,41 @@
+<bill session="115" type="s" number="827" updated="2017-07-20T16:56:15Z">
+  <state datetime="2017-04-05">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-05"/>
+  </status>
+  <introduced datetime="2017-04-05"/>
+  <titles>
+    <title type="short" as="introduced">Record Expungement Designed to Enhance Employment Act of 2017</title>
+    <title type="short" as="introduced">Record Expungement Designed to Enhance Employment Act of 2017</title>
+    <title type="short" as="introduced">REDEEM Act</title>
+    <title type="short" as="introduced">REDEEM Act</title>
+    <title type="official" as="introduced">A bill to provide for the sealing or expungement of records relating to Federal nonviolent criminal offenses, and for other purposes.</title>
+    <title type="display">REDEEM Act</title>
+  </titles>
+  <sponsor bioguide_id="P000603"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001288" joined="2017-04-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-05">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-04-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="901"/>
+    <bill type="s" session="115" relation="unknown" number="329"/>
+    <bill type="s" session="115" relation="unknown" number="511"/>
+    <bill type="h" session="115" relation="unknown" number="1906"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

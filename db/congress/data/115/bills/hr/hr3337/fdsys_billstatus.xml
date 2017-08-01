@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>To ban meat and poultry products processed in China from school lunches, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To ban meat and poultry products processed in China from school lunches, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To ban meat and poultry products processed in China from school lunches, and for other purposes.</title>
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText />
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <cboCostEstimates />
+    <billNumber>3337</billNumber>
+    <updateDate>2017-07-21T07:31:34Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>DELAURO</lastName>
+        <middleName />
+        <state>CT</state>
+        <firstName>ROSA</firstName>
+        <identifiers>
+          <lisID>281</lisID>
+          <bioguideId>D000216</bioguideId>
+          <gpoId>7868</gpoId>
+        </identifiers>
+        <bioguideId>D000216</bioguideId>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <party>D</party>
+        <district>3</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <lastName>Speier</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>S001175</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <lisID>1890</lisID>
+          <gpoId>7817</gpoId>
+          <bioguideId>S001175</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <district>14</district>
+        <firstName>Jackie</firstName>
+      </item>
+      <item>
+        <lastName>SLAUGHTER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <bioguideId>S000480</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <lisID>1069</lisID>
+          <bioguideId>S000480</bioguideId>
+          <gpoId>8089</gpoId>
+        </identifiers>
+        <state>NY</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <district>25</district>
+        <firstName>LOUISE</firstName>
+      </item>
+      <item>
+        <lastName>Pingree</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>P000597</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <state>ME</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <district>1</district>
+        <firstName>Chellie</firstName>
+      </item>
+      <item>
+        <lastName>JONES</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <bioguideId>J000255</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8026</gpoId>
+          <lisID>612</lisID>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <state>NC</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <district>3</district>
+        <firstName>WALTER</firstName>
+      </item>
+      <item>
+        <lastName>Clark</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <bioguideId>C001101</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <lisID>2196</lisID>
+          <gpoId />
+          <bioguideId>C001101</bioguideId>
+        </identifiers>
+        <state>MA</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <district>5</district>
+        <firstName>Katherine</firstName>
+      </item>
+      <item>
+        <lastName>RUSH</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <bioguideId>R000515</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <lisID>1003</lisID>
+          <gpoId>7921</gpoId>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+        <state>IL</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <district>1</district>
+        <firstName>BOBBY</firstName>
+      </item>
+      <item>
+        <lastName>Clarke</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <bioguideId>C001067</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8072</gpoId>
+          <bioguideId>C001067</bioguideId>
+          <lisID>1864</lisID>
+        </identifiers>
+        <state>NY</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <district>9</district>
+        <firstName>Yvette</firstName>
+      </item>
+    </cosponsors>
+    <laws />
+    <notes />
+    <originChamber>House</originChamber>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+      <actionDate>2017-07-20</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Education and the Workforce Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-20T13:03:05Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsed00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-20</actionDate>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-20</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-20</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-07-21T03:11:38Z</createDate>
+    <congress>115</congress>
+    <amendments />
+    <relatedBills />
+    <introducedDate>2017-07-20</introducedDate>
+    <recordedVotes />
+    <policyArea />
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

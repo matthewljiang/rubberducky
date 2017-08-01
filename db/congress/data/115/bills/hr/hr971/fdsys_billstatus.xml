@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-02-08T04:46:01Z</createDate>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <relatedBills />
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-02-07</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+      </item>
+      <item>
+        <actionDate>2017-02-07</actionDate>
+        <committee>
+          <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+          <systemCode>hsvr09</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-02-07</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-02-07</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors />
+    <introducedDate>2017-02-07</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>M001188</bioguideId>
+        <lastName>Meng</lastName>
+        <firstName>Grace</firstName>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001188</bioguideId>
+          <lisID>2148</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <state>NY</state>
+        <district>6</district>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <title>Surviving Spouse Contracting Preference Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Surviving Spouse Contracting Preference Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>To amend title 38, United States Code, to treat small businesses, owned by surviving spouses of members of the Armed Forces killed in the line of duty, as small business concerns owned and controlled by veterans for purposes of contracting goals and preferences of the Department of Veterans Affairs, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Surviving Spouse Contracting Preference Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <congress>115</congress>
+    <billNumber>971</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsvr00</systemCode>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr09</systemCode>
+              <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-07T14:03:33Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-07T15:06:50Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. MENG:H.R. 971.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution.[Page H1086]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <title>Surviving Spouse Contracting Preference Act</title>
+    <updateDate>2017-06-19T21:00:29Z</updateDate>
+    <laws />
+    <billType>HR</billType>
+    <recordedVotes />
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <actionDate>2017-02-07</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

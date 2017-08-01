@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <title>Urging the Secretary of the Interior to recognize the cultural significance of Rib Mountain by adding it to the National Register of Historic Places.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Urging the Secretary of the Interior to recognize the cultural significance of Rib Mountain by adding it to the National Register of Historic Places.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-06-28T14:00:07Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <name>Federal Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-06-30T13:43:12Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A resolution urging the Secretary of the Interior to recognize the cultural significance of Rib Mountain by adding it to the National Register of Historic Places.</latestTitle>
+        <congress>115</congress>
+        <type>SRES</type>
+        <number>206</number>
+        <latestAction>
+          <actionDate>2017-06-28</actionDate>
+          <text>Referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S3834)</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <introducedDate>2017-06-28</introducedDate>
+    <billType>HRES</billType>
+    <constitutionalAuthorityStatementText />
+    <sponsors>
+      <item>
+        <lastName>Duffy</lastName>
+        <byRequestType />
+        <party>R</party>
+        <firstName>Sean</firstName>
+        <middleName>P.</middleName>
+        <district>7</district>
+        <identifiers>
+          <lisID>2072</lisID>
+          <gpoId>8220</gpoId>
+          <bioguideId>D000614</bioguideId>
+        </identifiers>
+        <bioguideId>D000614</bioguideId>
+        <state>WI</state>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>S000244</bioguideId>
+          <lisID>1041</lisID>
+          <gpoId>8218</gpoId>
+        </identifiers>
+        <firstName>F.</firstName>
+        <district>5</district>
+        <middleName>JAMES</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000244</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SENSENBRENNER</lastName>
+        <state>WI</state>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2355</lisID>
+          <bioguideId>G000579</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Mike</firstName>
+        <district>8</district>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000579</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Gallagher</lastName>
+        <state>WI</state>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2276</lisID>
+          <bioguideId>G000576</bioguideId>
+        </identifiers>
+        <firstName>Glenn</firstName>
+        <district>6</district>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000576</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Grothman</lastName>
+        <state>WI</state>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <firstName>RON</firstName>
+        <district>3</district>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000188</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>KIND</lastName>
+        <state>WI</state>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <amendments />
+    <notes />
+    <latestAction>
+      <actionDate>2017-06-30</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </latestAction>
+    <billNumber>418</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-06-30</actionDate>
+        <committee>
+          <name>Federal Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-06-28</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-06-28</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-06-28</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <title>Urging the Secretary of the Interior to recognize the cultural significance of Rib Mountain by adding it to the National Register of Historic Places.</title>
+    <recordedVotes />
+    <committeeReports />
+    <version>1.0.0</version>
+    <updateDate>2017-07-11T07:12:25Z</updateDate>
+    <originChamber>House</originChamber>
+    <laws />
+    <calendarNumbers />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <createDate>2017-06-29T03:11:33Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

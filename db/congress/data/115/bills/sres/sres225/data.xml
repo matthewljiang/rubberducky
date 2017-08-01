@@ -1,0 +1,46 @@
+<bill session="115" type="sr" number="225" updated="2017-07-29T04:35:36Z">
+  <state datetime="2017-07-20">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-20"/>
+  </status>
+  <introduced datetime="2017-07-20"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating July 22, 2017, as "National Day of the American Cowboy".</title>
+    <title type="display">A resolution designating July 22, 2017, as "National Day of the American Cowboy".</title>
+  </titles>
+  <sponsor bioguide_id="E000285"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001261" joined="2017-07-20"/>
+    <cosponsor bioguide_id="C001056" joined="2017-07-20"/>
+    <cosponsor bioguide_id="C000880" joined="2017-07-20"/>
+    <cosponsor bioguide_id="H001046" joined="2017-07-20"/>
+    <cosponsor bioguide_id="H001069" joined="2017-07-20"/>
+    <cosponsor bioguide_id="H001061" joined="2017-07-20"/>
+    <cosponsor bioguide_id="I000024" joined="2017-07-20"/>
+    <cosponsor bioguide_id="L000575" joined="2017-07-20"/>
+    <cosponsor bioguide_id="M001176" joined="2017-07-20"/>
+    <cosponsor bioguide_id="R000584" joined="2017-07-20"/>
+    <cosponsor bioguide_id="R000605" joined="2017-07-20"/>
+    <cosponsor bioguide_id="T000464" joined="2017-07-20"/>
+    <cosponsor bioguide_id="T000250" joined="2017-07-20"/>
+    <cosponsor bioguide_id="U000039" joined="2017-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-20">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-20" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S4118" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

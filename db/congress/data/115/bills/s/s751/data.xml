@@ -1,0 +1,58 @@
+<bill session="115" type="s" number="751" updated="2017-07-28T10:37:59Z">
+  <state datetime="2017-03-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-28"/>
+  </status>
+  <introduced datetime="2017-03-28"/>
+  <titles>
+    <title type="short" as="introduced">National Park Service Legacy Act of 2017</title>
+    <title type="short" as="introduced">National Park Service Legacy Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend title 54, United States Code, to establish, fund, and provide for the use of amounts in a National Park Service Legacy Restoration Fund to address the maintenance backlog of the National Park Service, and for other purposes.</title>
+    <title type="display">National Park Service Legacy Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="W000805"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000360" joined="2017-04-05"/>
+    <cosponsor bioguide_id="C001047" joined="2017-04-27"/>
+    <cosponsor bioguide_id="C001035" joined="2017-04-03"/>
+    <cosponsor bioguide_id="F000062" joined="2017-04-05"/>
+    <cosponsor bioguide_id="K000384" joined="2017-03-28"/>
+    <cosponsor bioguide_id="K000383" joined="2017-03-28"/>
+    <cosponsor bioguide_id="K000367" joined="2017-04-24"/>
+    <cosponsor bioguide_id="M001183" joined="2017-04-27"/>
+    <cosponsor bioguide_id="M001111" joined="2017-06-07"/>
+    <cosponsor bioguide_id="P000449" joined="2017-03-28"/>
+    <cosponsor bioguide_id="S001194" joined="2017-03-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-28">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-03-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="2584"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Charitable contributions"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of the Interior"/>
+    <term name="Energy revenues and royalties"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government trust funds"/>
+    <term name="Mining"/>
+    <term name="Oil and gas"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Public-private cooperation"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

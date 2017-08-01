@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <billType>HRES</billType>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>Y000065</bioguideId>
+          <lisID>2115</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <firstName>Ted</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>FL</state>
+        <district>3</district>
+        <bioguideId>Y000065</bioguideId>
+        <lastName>Yoho</lastName>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1664</lisID>
+          <gpoId>8102</gpoId>
+          <bioguideId>T000462</bioguideId>
+        </identifiers>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <firstName>PATRICK</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>OH</state>
+        <district>12</district>
+        <bioguideId>T000462</bioguideId>
+        <lastName>TIBERI</lastName>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>J000290</bioguideId>
+          <lisID>1921</lisID>
+          <gpoId>7950</gpoId>
+        </identifiers>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <firstName>Lynn</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>KS</state>
+        <district>2</district>
+        <bioguideId>J000290</bioguideId>
+        <lastName>Jenkins</lastName>
+        <middleName />
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001298</bioguideId>
+          <lisID>2337</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <firstName>Don</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>NE</state>
+        <district>2</district>
+        <bioguideId>B001298</bioguideId>
+        <lastName>Bacon</lastName>
+        <middleName />
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001295</bioguideId>
+          <lisID>2243</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>IL</state>
+        <district>12</district>
+        <bioguideId>B001295</bioguideId>
+        <lastName>Bost</lastName>
+        <middleName />
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2049</lisID>
+          <gpoId>8108</gpoId>
+          <bioguideId>G000563</bioguideId>
+        </identifiers>
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <firstName>Bob</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>OH</state>
+        <district>7</district>
+        <bioguideId>G000563</bioguideId>
+        <lastName>Gibbs</lastName>
+        <middleName />
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000362</bioguideId>
+          <lisID>1724</lisID>
+          <gpoId>7918</gpoId>
+        </identifiers>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>IA</state>
+        <district>4</district>
+        <bioguideId>K000362</bioguideId>
+        <lastName>King</lastName>
+        <middleName />
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001198</bioguideId>
+          <lisID>2328</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <firstName>Roger</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>KS</state>
+        <district>1</district>
+        <bioguideId>M001198</bioguideId>
+        <lastName>Marshall</lastName>
+        <middleName>W.</middleName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000594</bioguideId>
+          <lisID>1930</lisID>
+          <gpoId>8003</gpoId>
+        </identifiers>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <firstName>Erik</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>MN</state>
+        <district>3</district>
+        <bioguideId>P000594</bioguideId>
+        <lastName>Paulsen</lastName>
+        <middleName />
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000244</bioguideId>
+          <lisID>1041</lisID>
+          <gpoId>8218</gpoId>
+        </identifiers>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <firstName>F.</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>WI</state>
+        <district>5</district>
+        <bioguideId>S000244</bioguideId>
+        <lastName>SENSENBRENNER</lastName>
+        <middleName>JAMES</middleName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+          <lisID>2137</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <firstName>Ann</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>MO</state>
+        <district>2</district>
+        <bioguideId>W000812</bioguideId>
+        <lastName>Wagner</lastName>
+        <middleName />
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1931</lisID>
+          <gpoId>8017</gpoId>
+          <bioguideId>L000569</bioguideId>
+        </identifiers>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <firstName>Blaine</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>MO</state>
+        <district>3</district>
+        <bioguideId>L000569</bioguideId>
+        <lastName>Luetkemeyer</lastName>
+        <middleName />
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000491</bioguideId>
+          <lisID>711</lisID>
+          <gpoId>8111</gpoId>
+        </identifiers>
+        <fullName>Rep. Lucas, Frank D. [R-OK-3]</fullName>
+        <firstName>FRANK</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>OK</state>
+        <district>3</district>
+        <bioguideId>L000491</bioguideId>
+        <lastName>LUCAS</lastName>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <title>Recognizing the importance of the United States-Japan partnership and supporting the pursuit of closer trade ties between the United States and Japan.</title>
+    <createDate>2017-03-31T05:06:59Z</createDate>
+    <billNumber>236</billNumber>
+    <amendments />
+    <constitutionalAuthorityStatementText />
+    <introducedDate>2017-03-30</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Trade Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-31T13:36:46Z</date>
+                </item>
+              </activities>
+              <systemCode>hswm04</systemCode>
+            </item>
+          </subcommittees>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-30T13:07:25Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Free trade and trade barriers</name>
+          </item>
+          <item>
+            <name>Japan</name>
+          </item>
+          <item>
+            <name>Tariffs</name>
+          </item>
+          <item>
+            <name>Trade agreements and negotiations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Foreign Trade and International Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <notes />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <calendarNumbers />
+    <updateDate>2017-06-15T21:30:10Z</updateDate>
+    <congress>115</congress>
+    <actions>
+      <item>
+        <actionDate>2017-03-31</actionDate>
+        <committee>
+          <systemCode>hswm04</systemCode>
+          <name>Trade Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-30</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-03-30</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-03-30</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-06-15T21:24:33Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Calls upon the President to: (1) consult with the House of Representatives and the Senate to consider opportunities to promote further economic and commercial activity and cooperation between the United States and Japan; (2) invite Japan to begin discussions toward establishing the basis for closer trade ties with the United States; and (3) determine whether negotiation of a trade agreement with Japan would be likely to achieve the negotiating objectives established by the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 and, if so, to commence such negotiations.</p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2017-03-30T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2017-03-30</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <title>Recognizing the importance of the United States-Japan partnership and supporting the pursuit of closer trade ties between the United States and Japan.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Recognizing the importance of the United States-Japan partnership and supporting the pursuit of closer trade ties between the United States and Japan.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Foreign Trade and International Finance</name>
+    </policyArea>
+    <latestAction>
+      <text>Referred to the Subcommittee on Trade.</text>
+      <actionDate>2017-03-31</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <firstName>Adrian</firstName>
+        <lastName>Smith</lastName>
+        <byRequestType />
+        <party>R</party>
+        <bioguideId>S001172</bioguideId>
+        <district>3</district>
+        <identifiers>
+          <lisID>1860</lisID>
+          <gpoId>8040</gpoId>
+          <bioguideId>S001172</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
+        <state>NE</state>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

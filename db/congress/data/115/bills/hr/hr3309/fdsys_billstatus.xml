@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <laws />
+    <committeeReports />
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText />
+    <introducedDate>2017-07-19</introducedDate>
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>SAM</firstName>
+        <bioguideId>J000174</bioguideId>
+        <lastName>JOHNSON</lastName>
+        <district>3</district>
+        <identifiers>
+          <lisID>603</lisID>
+          <bioguideId>J000174</bioguideId>
+          <gpoId>8159</gpoId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Johnson, Sam [R-TX-3]</fullName>
+        <state>TX</state>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <actions>
+      <item>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billNumber>3309</billNumber>
+    <congress>115</congress>
+    <policyArea />
+    <updateDate>2017-07-20T07:31:38Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <cboCostEstimates />
+    <amendments />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To require the Commissioner of Social Security to make publicly available on-line tools to allow individuals eligible for disability benefits to assess the impact of earnings on the individual's eligibility for, and amount of, benefits received through Federal and State benefit programs.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To require the Commissioner of Social Security to make publicly available on-line tools to allow individuals eligible for disability benefits to assess the impact of earnings on the individual's eligibility for, and amount of, benefits received through Federal and State benefit programs.</title>
+      </item>
+    </titles>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <date>2017-07-19T14:03:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <title>To require the Commissioner of Social Security to make publicly available on-line tools to allow individuals eligible for disability benefits to assess the impact of earnings on the individual's eligibility for, and amount of, benefits received through Federal and State benefit programs.</title>
+    <cosponsors />
+    <version>1.0.0</version>
+    <createDate>2017-07-20T03:11:33Z</createDate>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2017-07-19</actionDate>
+    </latestAction>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

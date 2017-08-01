@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-06-19T21:30:21Z</updateDate>
+    <recordedVotes />
+    <laws />
+    <sponsors>
+      <item>
+        <middleName />
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <firstName>Amy</firstName>
+        <state>MN</state>
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-03-21T19:50:59Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-01-24T15:00:00Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-01-11T17:31:27Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Improving Rural Call Quality and Reliability Act of 2017</title>
+    <notes />
+    <introducedDate>2017-01-11</introducedDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Federal Communications Commission (FCC)</name>
+          </item>
+          <item>
+            <name>Federal preemption</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-6</citation>
+      </committeeReport>
+    </committeeReports>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <congress>115</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-01-11T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-02-01T23:07:33Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><strong>Improving Rural Call Quality and Reliability Act of </strong><strong>2017</strong></p> <p>This bill amends the Communications Act of 1934 to require intermediate providers that offer the capability to transmit voice communications and signaling information from one destination to another, and that charge a rate to any other entity (including an affiliated entity) for such a transmission, to: (1) register with the Federal Communications Commission (FCC), and (2) comply with service quality standards to be established by the FCC. </p> <p>An "intermediate provider" is an entity that: (1) enters a business arrangement with a long-distance voice service provider that makes the initial call path choice for more than 100,000 domestic retail subscriber lines, or with another intermediate provider, to carry, route, or transmit voice traffic from a call placed from or to an end user connection using a North American Numbering Plan resource; and (2) does not itself (directly or in conjunction with an affiliate) serve as such a long-distance initial call path choice provider in the context of originating or terminating a given call. </p> <p>The bill prohibits such long-distance providers (including local exchange carriers, interexchange carriers, commercial mobile radio services, interconnected voice over Internet Protocol [VoIP] services, and certain non-interconnected VoIP services) from using an intermediate provider to transmit voice communications and signals unless the intermediate provider is so registered. </p> <p>The FCC must: (1) ensure the integrity of the transmission of voice communications to all customers in the United States, (2) prevent unjust or unreasonable discrimination among areas of the United States in the delivery of such voice communications, and (3) make a registry of intermediate providers publicly available on the FCC website. </p> <p>The bill shall not be construed to preempt or expand the authority of a state agency or public utility commission to collect data, or enforce state law and regulations, regarding the completion of intrastate voice communications. </p> <p>Certain long-distance providers that make initial call path choices are exempt from service quality standards that the FCC is required to establish under this bill if they certify under a safe harbor provision in existing FCC rules that they monitor the performance of, or do not use, intermediate providers. </p>]]></text>
+          <actionDate>2017-01-11</actionDate>
+        </item>
+        <item>
+          <versionCode>80</versionCode>
+          <updateDate>2017-03-21T12:36:37Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-27T18:29:19Z</lastSummaryUpdateDate>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <name>Reported to Senate without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><strong>Improving Rural Call Quality and Reliability Act of </strong><strong>2017</strong></p> <p>(Sec. 2) This bill amends the Communications Act of 1934 to require intermediate providers that offer the capability to transmit voice communications and signaling information from one destination to another, and that charge a rate to any other entity (including an affiliated entity) for such a transmission, to: (1) register with the Federal Communications Commission (FCC), and (2) comply with service quality standards to be established by the FCC. </p> <p>An "intermediate provider" is an entity that: (1) enters a business arrangement with a long-distance voice service provider that makes the initial call path choice for more than 100,000 domestic retail subscriber lines, or with another intermediate provider, to carry, route, or transmit voice traffic from a call placed from or to an end user connection using a North American Numbering Plan resource; and (2) does not itself (directly or in conjunction with an affiliate) serve as such a long-distance initial call path choice provider in the context of originating or terminating a given call. </p> <p>The bill prohibits such long-distance providers (including local exchange carriers, interexchange carriers, commercial mobile radio services, interconnected voice over Internet Protocol [VoIP] services, and certain non-interconnected VoIP services) from using an intermediate provider to transmit voice communications and signals unless the intermediate provider is so registered. </p> <p>The FCC must: (1) ensure the integrity of the transmission of voice communications to all customers in the United States, (2) prevent unjust or unreasonable discrimination among areas of the United States in the delivery of such voice communications, and (3) make a registry of intermediate providers publicly available on the FCC website. </p> <p>The bill shall not be construed to preempt or expand the authority of a state agency or public utility commission to collect data, or enforce state law and regulations, regarding the completion of intrastate voice communications. </p> <p>Certain long-distance providers that make initial call path choices are exempt from service quality standards that the FCC is required to establish under this bill if they certify under a safe harbor provision in existing FCC rules that they monitor the performance of, or do not use, intermediate providers. </p>]]></text>
+          <actionDate>2017-03-21</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0019</number>
+      </item>
+    </calendarNumbers>
+    <relatedBills>
+      <item>
+        <number>460</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+          <actionDate>2017-01-24</actionDate>
+        </latestAction>
+        <latestTitle>Improving Rural Call Quality and Reliability Act of 2017</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <bioguideId>T000250</bioguideId>
+        <state>SD</state>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <identifiers>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>THUNE</lastName>
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <bioguideId>T000464</bioguideId>
+        <state>MT</state>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Tester</lastName>
+        <firstName>Jon</firstName>
+      </item>
+      <item>
+        <bioguideId>K000383</bioguideId>
+        <state>ME</state>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <party>I</party>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>King</lastName>
+        <firstName>Angus</firstName>
+      </item>
+      <item>
+        <bioguideId>G000386</bioguideId>
+        <state>IA</state>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>ERNEST</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>GRASSLEY</lastName>
+        <firstName>CHARLES</firstName>
+      </item>
+      <item>
+        <bioguideId>E000295</bioguideId>
+        <state>IA</state>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <identifiers>
+          <lisID>2283</lisID>
+          <gpoId />
+          <bioguideId>E000295</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Ernst</lastName>
+        <firstName>Joni</firstName>
+      </item>
+      <item>
+        <bioguideId>F000457</bioguideId>
+        <state>MN</state>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <identifiers>
+          <bioguideId>F000457</bioguideId>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Franken</lastName>
+        <firstName>Al</firstName>
+      </item>
+      <item>
+        <bioguideId>R000605</bioguideId>
+        <state>SD</state>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000605</bioguideId>
+          <lisID>2288</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Rounds</lastName>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <bioguideId>M001170</bioguideId>
+        <state>MO</state>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <identifiers>
+          <bioguideId>M001170</bioguideId>
+          <lisID>1820</lisID>
+          <gpoId>8252</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>McCaskill</lastName>
+        <firstName>Claire</firstName>
+      </item>
+    </cosponsors>
+    <billNumber>96</billNumber>
+    <billType>S</billType>
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/52399</url>
+        <pubDate>2017-01-31T21:16:00Z</pubDate>
+        <title>S. 96, Improving Rural Call Quality and Reliability Act of 2017</title>
+      </item>
+    </cboCostEstimates>
+    <latestAction>
+      <actionDate>2017-03-21</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 19.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <item>
+        <actionDate>2017-03-21</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 19.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-03-21</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-6</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/6</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-6.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-6.</text>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2017-03-21</actionDate>
+        <links>
+          <link>
+            <name>report No. 115-6</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/6</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-01-24</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-01-11</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-01-11</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-01-12T08:17:36Z</createDate>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <chamberCode>S</chamberCode>
+        <parentTitleType />
+        <title>Improving Rural Call Quality and Reliability Act of 2017</title>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Improving Rural Call Quality and Reliability Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <chamberCode>S</chamberCode>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Improving Rural Call Quality and Reliability Act of 2017</title>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Improving Rural Call Quality and Reliability Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to amend the Communications Act of 1934 to ensure the integrity of voice communications and to prevent unjust or unreasonable discrimination among areas of the United States in the delivery of such communications.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Improving Rural Call Quality and Reliability Act of 2017</title>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BISHOP of Utah:H.R. 1800.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the U.S. Constitution providesCongress with the authority and responsibility to ``providefor the common Defense and general Welfare of the UnitedStates,'' and to ``promote progress of Science.'' Thismeasure will help ensure that public lands already in use forimportant scientific and defense-based research will remainavailable into the future to support those important publicpurposes.[Page H2599]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <cosponsors />
+    <relatedBills />
+    <recordedVotes />
+    <createDate>2017-03-31T05:07:09Z</createDate>
+    <introducedDate>2017-03-30</introducedDate>
+    <billNumber>1800</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <activities>
+                <item>
+                  <date>2017-04-11T18:12:10Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Federal Lands Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-03-30T13:00:43Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <amendments />
+    <latestAction>
+      <actionDate>2017-04-11</actionDate>
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+      <links />
+    </latestAction>
+    <updateDate>2017-06-16T16:45:09Z</updateDate>
+    <calendarNumbers />
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-11</actionDate>
+        <committee>
+          <name>Federal Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <actionDate>2017-03-30</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-03-30</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-03-30</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+    </actions>
+    <title>To direct the Secretary of Agriculture to transfer certain Federal land to facilitate scientific research supporting Federal space and defense programs.</title>
+    <titles>
+      <item>
+        <title>To direct the Secretary of Agriculture to transfer certain Federal land to facilitate scientific research supporting Federal space and defense programs.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To direct the Secretary of Agriculture to transfer certain Federal land to facilitate scientific research supporting Federal space and defense programs.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>UT</state>
+        <identifiers>
+          <lisID>1753</lisID>
+          <gpoId>8189</gpoId>
+          <bioguideId>B001250</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Rob</firstName>
+        <lastName>Bishop</lastName>
+        <middleName />
+        <fullName>Rep. Bishop, Rob [R-UT-1]</fullName>
+        <bioguideId>B001250</bioguideId>
+        <district>1</district>
+      </item>
+    </sponsors>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

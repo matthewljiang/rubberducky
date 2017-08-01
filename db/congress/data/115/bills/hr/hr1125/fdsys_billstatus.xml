@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Family relationships</name>
+          </item>
+          <item>
+            <name>Foreign language and bilingual programs</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Refugees, asylum, displaced persons</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-02-17T04:46:13Z</createDate>
+    <notes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001299</bioguideId>
+          <lisID>2326</lisID>
+        </identifiers>
+        <lastName>Banks</lastName>
+        <middleName />
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <bioguideId>B001299</bioguideId>
+        <party>R</party>
+        <district>3</district>
+        <firstName>Jim</firstName>
+        <state>IN</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <updateDate>2017-06-19T21:00:09Z</updateDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BANKS of Indiana:H.R. 1125.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 4 grants the Congress power toestablish an uniform rule of naturalization.[Page H1304]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <billNumber>1125</billNumber>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Homeland Security Committee</name>
+          <subcommittees>
+            <item>
+              <name>Counterterrorism and Intelligence Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-07T20:09:52Z</date>
+                </item>
+              </activities>
+              <systemCode>hshm05</systemCode>
+            </item>
+            <item>
+              <name>Border and Maritime Security Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-07T20:09:32Z</date>
+                </item>
+              </activities>
+              <systemCode>hshm11</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hshm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-16T15:06:40Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <name>Immigration and Border Security Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-06T21:04:56Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju01</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-16T15:06:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <cosponsors />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <relatedBills />
+    <cboCostEstimates />
+    <title>VISA Act of 2017</title>
+    <billType>HR</billType>
+    <titles>
+      <item>
+        <chamberName />
+        <title>VISA Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Visa Investigation and Social Media Activity Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>VISA Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Visa Investigation and Social Media Activity Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>To amend the Immigration and Nationality Act to provide for new procedures pertaining to the processing of petitions and applications for immigrant or nonimmigrant visas, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>VISA Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <actions>
+      <item>
+        <actionDate>2017-03-07</actionDate>
+        <committee>
+          <name>Counterterrorism and Intelligence Subcommittee</name>
+          <systemCode>hshm05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-07</actionDate>
+        <committee>
+          <name>Border and Maritime Security Subcommittee</name>
+          <systemCode>hshm11</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-06</actionDate>
+        <committee>
+          <name>Immigration and Border Security Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-02-16</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <text>Referred to House Homeland Security</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-02-16</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <text>Referred to House Judiciary</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-02-16</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+        <committee />
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-02-16</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-02-16</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>3</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <actionDate>2017-03-07</actionDate>
+      <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+    </latestAction>
+    <calendarNumbers />
+    <introducedDate>2017-02-16</introducedDate>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

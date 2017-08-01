@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Western Hemisphere Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-18T15:55:44Z</date>
+                </item>
+              </activities>
+              <systemCode>hsfa07</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsfa00</systemCode>
+          <chamber>House</chamber>
+          <name>Foreign Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2017-05-24T15:55:27Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:04:45Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:04:50Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <laws />
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <party>D</party>
+        <lastName>Sires</lastName>
+        <firstName>Albio</firstName>
+        <bioguideId>S001165</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8055</gpoId>
+          <bioguideId>S001165</bioguideId>
+          <lisID>1818</lisID>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <party>R</party>
+        <lastName>Duncan</lastName>
+        <firstName>Jeff</firstName>
+        <bioguideId>D000615</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2057</lisID>
+          <gpoId>8143</gpoId>
+          <bioguideId>D000615</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <party>D</party>
+        <lastName>Wasserman Schultz</lastName>
+        <firstName>Debbie</firstName>
+        <bioguideId>W000797</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1777</lisID>
+          <gpoId>7892</gpoId>
+          <bioguideId>W000797</bioguideId>
+        </identifiers>
+        <district>23</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <party>R</party>
+        <lastName>Yoho</lastName>
+        <firstName>Ted</firstName>
+        <bioguideId>Y000065</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>Y000065</bioguideId>
+          <lisID>2115</lisID>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <party>D</party>
+        <lastName>Cardenas</lastName>
+        <firstName>Tony</firstName>
+        <bioguideId>C001097</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2107</lisID>
+          <gpoId />
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <district>29</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
+        <party>R</party>
+        <lastName>Diaz-Balart</lastName>
+        <firstName>Mario</firstName>
+        <bioguideId>D000600</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1717</lisID>
+          <gpoId>7893</gpoId>
+          <bioguideId>D000600</bioguideId>
+        </identifiers>
+        <district>25</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Norcross, Donald [D-NJ-1]</fullName>
+        <party>D</party>
+        <lastName>Norcross</lastName>
+        <firstName>Donald</firstName>
+        <bioguideId>N000188</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>N000188</bioguideId>
+          <gpoId />
+          <lisID>2202</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <party>R</party>
+        <lastName>Curbelo</lastName>
+        <firstName>Carlos</firstName>
+        <bioguideId>C001107</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2235</lisID>
+          <bioguideId>C001107</bioguideId>
+        </identifiers>
+        <district>26</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <party>D</party>
+        <lastName>Deutch</lastName>
+        <firstName>Theodore</firstName>
+        <bioguideId>D000610</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1976</lisID>
+          <gpoId>7891</gpoId>
+          <bioguideId>D000610</bioguideId>
+        </identifiers>
+        <district>22</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <party>R</party>
+        <lastName>Bilirakis</lastName>
+        <firstName>Gus</firstName>
+        <bioguideId>B001257</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7881</gpoId>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <party>D</party>
+        <lastName>Cuellar</lastName>
+        <firstName>Henry</firstName>
+        <bioguideId>C001063</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8184</gpoId>
+          <bioguideId>C001063</bioguideId>
+          <lisID>1807</lisID>
+        </identifiers>
+        <district>28</district>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <party>R</party>
+        <lastName>SMITH</lastName>
+        <firstName>CHRISTOPHER</firstName>
+        <bioguideId>S000522</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S000522</bioguideId>
+          <lisID>1071</lisID>
+          <gpoId>8046</gpoId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <party>D</party>
+        <lastName>Wilson</lastName>
+        <firstName>Frederica</firstName>
+        <bioguideId>W000808</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+          <lisID>2004</lisID>
+          <gpoId>7889</gpoId>
+        </identifiers>
+        <district>24</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <party>R</party>
+        <lastName>Poe</lastName>
+        <firstName>Ted</firstName>
+        <bioguideId>P000592</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8158</gpoId>
+          <bioguideId>P000592</bioguideId>
+          <lisID>1802</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <party>D</party>
+        <lastName>HASTINGS</lastName>
+        <firstName>ALCEE</firstName>
+        <bioguideId>H000324</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <district>20</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName>L.</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. DeSantis, Ron [R-FL-6]</fullName>
+        <party>R</party>
+        <lastName>DeSantis</lastName>
+        <firstName>Ron</firstName>
+        <bioguideId>D000621</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2116</lisID>
+          <bioguideId>D000621</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <party>D</party>
+        <lastName>Boyle</lastName>
+        <firstName>Brendan</firstName>
+        <bioguideId>B001296</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2267</lisID>
+          <bioguideId>B001296</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <party>R</party>
+        <lastName>McCaul</lastName>
+        <firstName>Michael</firstName>
+        <bioguideId>M001157</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1804</lisID>
+          <gpoId>8166</gpoId>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <party>D</party>
+        <lastName>Kelly</lastName>
+        <firstName>Robin</firstName>
+        <bioguideId>K000385</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2190</lisID>
+          <gpoId />
+          <bioguideId>K000385</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <middleName>L.</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <party>R</party>
+        <lastName>Weber</lastName>
+        <firstName>Randy</firstName>
+        <bioguideId>W000814</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2161</lisID>
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <district>14</district>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <party>R</party>
+        <lastName>Donovan</lastName>
+        <firstName>Daniel</firstName>
+        <bioguideId>D000625</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2293</lisID>
+          <bioguideId>D000625</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <party>R</party>
+        <lastName>CHABOT</lastName>
+        <firstName>STEVE</firstName>
+        <bioguideId>C000266</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <party>R</party>
+        <lastName>Rooney</lastName>
+        <firstName>Thomas</firstName>
+        <bioguideId>R000583</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7888</gpoId>
+          <bioguideId>R000583</bioguideId>
+          <lisID>1916</lisID>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+        <party>R</party>
+        <lastName>Rooney</lastName>
+        <firstName>Francis</firstName>
+        <bioguideId>R000607</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000607</bioguideId>
+          <lisID>2323</lisID>
+        </identifiers>
+        <district>19</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <party>R</party>
+        <lastName>Wilson</lastName>
+        <firstName>Joe</firstName>
+        <bioguideId>W000795</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000795</bioguideId>
+          <lisID>1688</lisID>
+          <gpoId>8142</gpoId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <createDate>2017-04-06T03:11:54Z</createDate>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <actionDate>2017-05-24</actionDate>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <recordedVotes />
+    <introducedDate>2017-04-05</introducedDate>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>972</number>
+        <latestTitle>Nicaraguan Investment Conditionality Act (NICA) of 2017</latestTitle>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Foreign Relations.</text>
+          <actionDate>2017-04-27</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <title>Nicaraguan Investment Conditionality Act (NICA) of 2017</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ROS-LEHTINEN:H.R. 1918.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2754]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Ros-Lehtinen, Ileana [R-FL-27]</fullName>
+        <lastName>ROS-LEHTINEN</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>R000435</bioguideId>
+          <gpoId>7890</gpoId>
+          <lisID>985</lisID>
+        </identifiers>
+        <bioguideId>R000435</bioguideId>
+        <district>27</district>
+        <firstName>ILEANA</firstName>
+      </item>
+    </sponsors>
+    <actions>
+      <item>
+        <actionDate>2017-05-24</actionDate>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-24</actionDate>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <systemCode>hsfa07</systemCode>
+          <name>Western Hemisphere Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Western Hemisphere.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <text>Referred to House Financial Services</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <text>Referred to House Foreign Affairs</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100-A</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <titles>
+      <item>
+        <title>Nicaraguan Investment Conditionality Act (NICA) of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Nicaraguan Investment Conditionality Act (NICA) of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To oppose loans at international financial institutions for the Government of Nicaragua unless the Government of Nicaragua is taking effective steps to hold free, fair, and transparent elections, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Nicaraguan Investment Conditionality Act (NICA) of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <billNumber>1918</billNumber>
+    <updateDate>2017-07-28T07:16:20Z</updateDate>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

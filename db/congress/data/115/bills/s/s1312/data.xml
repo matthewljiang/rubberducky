@@ -1,0 +1,59 @@
+<bill session="115" type="s" number="1312" updated="2017-07-20T16:56:27Z">
+  <state datetime="2017-06-29">REPORTED</state>
+  <status>
+    <unknown datetime="2017-06-29"/>
+  </status>
+  <introduced datetime="2017-06-07"/>
+  <titles>
+    <title type="short" as="introduced">Trafficking Victims Protection Act of 2017</title>
+    <title type="short" as="introduced">Trafficking Victims Protection Act of 2017</title>
+    <title type="official" as="introduced">A bill to prioritize the fight against human trafficking in the United States.</title>
+    <title type="display">Trafficking Victims Protection Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="G000386"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001277" joined="2017-06-21"/>
+    <cosponsor bioguide_id="B000944" joined="2017-06-28"/>
+    <cosponsor bioguide_id="C001088" joined="2017-06-26"/>
+    <cosponsor bioguide_id="C001071" joined="2017-06-07"/>
+    <cosponsor bioguide_id="C001056" joined="2017-06-07"/>
+    <cosponsor bioguide_id="C001113" joined="2017-07-12"/>
+    <cosponsor bioguide_id="C000880" joined="2017-06-15"/>
+    <cosponsor bioguide_id="C001098" joined="2017-07-19"/>
+    <cosponsor bioguide_id="D000563" joined="2017-06-29"/>
+    <cosponsor bioguide_id="F000062" joined="2017-06-07"/>
+    <cosponsor bioguide_id="H000338" joined="2017-06-13"/>
+    <cosponsor bioguide_id="K000393" joined="2017-07-10"/>
+    <cosponsor bioguide_id="K000367" joined="2017-06-07"/>
+    <cosponsor bioguide_id="L000174" joined="2017-06-26"/>
+    <cosponsor bioguide_id="M001170" joined="2017-07-10"/>
+    <cosponsor bioguide_id="P000595" joined="2017-07-17"/>
+    <cosponsor bioguide_id="R000595" joined="2017-06-07"/>
+    <cosponsor bioguide_id="T000476" joined="2017-06-27"/>
+    <cosponsor bioguide_id="V000128" joined="2017-07-17"/>
+    <cosponsor bioguide_id="Y000064" joined="2017-06-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-07">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-06-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S3335-3336" label="Sponsor introductory remarks on measure"/>
+    </action>
+    <calendar datetime="2017-06-29" state="REPORTED">
+      <text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="1808"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

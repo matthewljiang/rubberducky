@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-06-19T22:15:19Z</updateDate>
+    <recordedVotes />
+    <laws />
+    <sponsors>
+      <item>
+        <middleName />
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <firstName>Marco</firstName>
+        <state>FL</state>
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-05-11T20:58:18Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Foreign Relations Committee</name>
+          <chamber>Senate</chamber>
+          <systemCode>ssfr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>North Korean Human Rights Reauthorization Act of 2017</title>
+    <notes />
+    <introducedDate>2017-05-11</introducedDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>China</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>International exchange and broadcasting</name>
+          </item>
+          <item>
+            <name>Military command and structure</name>
+          </item>
+          <item>
+            <name>Music</name>
+          </item>
+          <item>
+            <name>News media and reporting</name>
+          </item>
+          <item>
+            <name>North Korea</name>
+          </item>
+          <item>
+            <name>Protest and dissent</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Refugees, asylum, displaced persons</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+          <item>
+            <name>Television and film</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>United Nations</name>
+          </item>
+          <item>
+            <name>Women's rights</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <congress>115</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <bioguideId>C000141</bioguideId>
+        <state>MD</state>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>CARDIN</lastName>
+        <firstName>BENJAMIN</firstName>
+      </item>
+      <item>
+        <bioguideId>G000562</bioguideId>
+        <state>CO</state>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Gardner</lastName>
+        <firstName>Cory</firstName>
+      </item>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <state>NJ</state>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>MENENDEZ</lastName>
+        <firstName>ROBERT</firstName>
+      </item>
+      <item>
+        <bioguideId>C001098</bioguideId>
+        <state>TX</state>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <lisID>2175</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Cruz</lastName>
+        <firstName>Ted</firstName>
+      </item>
+    </cosponsors>
+    <billNumber>1118</billNumber>
+    <billType>S</billType>
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <latestAction>
+      <actionDate>2017-05-11</actionDate>
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-05-11</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-05-11</actionDate>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <createDate>2017-05-12T00:26:39Z</createDate>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>North Korean Human Rights Reauthorization Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>North Korean Human Rights Reauthorization Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to reauthorize the North Korea Human Rights Act of 2004, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>North Korean Human Rights Reauthorization Act of 2017</title>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

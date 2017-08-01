@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Urging the Government of Kenya and Kenya's political parties to respect democratic principles and hold credible, peaceful, and transparent elections in August 2017.</title>
+    <sponsors>
+      <item>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <identifiers>
+          <lisID>344</lisID>
+          <gpoId>8078</gpoId>
+          <bioguideId>E000179</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <lastName>ENGEL</lastName>
+        <district>16</district>
+        <firstName>ELIOT</firstName>
+        <bioguideId>E000179</bioguideId>
+        <state>NY</state>
+        <middleName>L.</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Urging the Government of Kenya and Kenya's political parties to respect democratic principles and hold credible, peaceful, and transparent elections in August 2017.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Urging the Government of Kenya and Kenya's political parties to respect democratic principles and hold credible, peaceful, and transparent elections in August 2017.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <updateDate>2017-07-26T07:15:28Z</updateDate>
+    <constitutionalAuthorityStatementText />
+    <cboCostEstimates />
+    <latestAction>
+      <links />
+      <actionDate>2017-07-14</actionDate>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-14T13:00:06Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <introducedDate>2017-07-14</introducedDate>
+    <calendarNumbers />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <createDate>2017-07-15T03:11:31Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>449</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-14</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-14</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-14</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <laws />
+    <billType>HRES</billType>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <party>R</party>
+        <lastName>SMITH</lastName>
+        <firstName>CHRISTOPHER</firstName>
+        <bioguideId>S000522</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1071</lisID>
+          <gpoId>8046</gpoId>
+          <bioguideId>S000522</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <party>D</party>
+        <lastName>Bass</lastName>
+        <firstName>Karen</firstName>
+        <bioguideId>B001270</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7838</gpoId>
+          <lisID>1996</lisID>
+          <bioguideId>B001270</bioguideId>
+        </identifiers>
+        <district>37</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <middleName />
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <party>D</party>
+        <lastName>CAPUANO</lastName>
+        <firstName>MICHAEL</firstName>
+        <bioguideId>C001037</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1564</lisID>
+          <gpoId>7973</gpoId>
+          <bioguideId>C001037</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <party>D</party>
+        <lastName>Payne</lastName>
+        <firstName>Donald</firstName>
+        <bioguideId>P000604</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8373</gpoId>
+          <bioguideId>P000604</bioguideId>
+          <lisID>2097</lisID>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <party>R</party>
+        <lastName>Rooney</lastName>
+        <firstName>Thomas</firstName>
+        <bioguideId>R000583</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1916</lisID>
+          <gpoId>7888</gpoId>
+          <bioguideId>R000583</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Frankel, Lois [D-FL-21]</fullName>
+        <party>D</party>
+        <lastName>Frankel</lastName>
+        <firstName>Lois</firstName>
+        <bioguideId>F000462</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>F000462</bioguideId>
+          <lisID>2119</lisID>
+          <gpoId />
+        </identifiers>
+        <district>21</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName />
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <party>D</party>
+        <lastName>MCGOVERN</lastName>
+        <firstName>JAMES</firstName>
+        <bioguideId>M000312</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <party>D</party>
+        <lastName>Grijalva</lastName>
+        <firstName>Raul</firstName>
+        <bioguideId>G000551</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <party>D</party>
+        <lastName>NORTON</lastName>
+        <firstName>ELEANOR</firstName>
+        <bioguideId>N000147</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <state>DC</state>
+        <middleName>HOLMES</middleName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <party>D</party>
+        <lastName>LEE</lastName>
+        <firstName>BARBARA</firstName>
+        <bioguideId>L000551</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7814</gpoId>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <middleName />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

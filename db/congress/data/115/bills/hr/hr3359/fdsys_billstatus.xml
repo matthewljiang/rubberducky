@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-27T07:16:52Z</updateDate>
+    <relatedBills />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <actionDate>2017-07-25</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>TX</state>
+        <middleName>T.</middleName>
+        <firstName>Michael</firstName>
+        <lastName>McCaul</lastName>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <identifiers>
+          <gpoId>8166</gpoId>
+          <bioguideId>M001157</bioguideId>
+          <lisID>1804</lisID>
+        </identifiers>
+        <byRequestType />
+        <district>10</district>
+        <bioguideId>M001157</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>To amend the Homeland Security Act of 2002 to authorize the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To amend the Homeland Security Act of 2002 to authorize the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security, and for other purposes.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <introducedDate>2017-07-24</introducedDate>
+    <policyArea />
+    <title>To amend the Homeland Security Act of 2002 to authorize the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security, and for other purposes.</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>4</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>6</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <committee>
+          <name>Water Resources and Environment Subcommittee</name>
+          <systemCode>hspw02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <committee>
+          <name>Railroads, Pipelines, and Hazardous Materials Subcommittee</name>
+          <systemCode>hspw14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <committee>
+          <name>Highways and Transit Subcommittee</name>
+          <systemCode>hspw12</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <committee>
+          <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+          <systemCode>hspw13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <committee>
+          <name>Coast Guard and Maritime Transportation Subcommittee</name>
+          <systemCode>hspw07</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <committee>
+          <name>Aviation Subcommittee</name>
+          <systemCode>hspw05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committees on Energy and Commerce, Oversight and Government Reform, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionDate>2017-07-24</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committees on Energy and Commerce, Oversight and Government Reform, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionDate>2017-07-24</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committees on Energy and Commerce, Oversight and Government Reform, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2017-07-24</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committees on Energy and Commerce, Oversight and Government Reform, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <actionDate>2017-07-24</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-24</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-24</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <identifiers>
+          <gpoId>8020</gpoId>
+          <bioguideId>T000193</bioguideId>
+          <lisID>1151</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>BENNIE</firstName>
+        <middleName />
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>THOMPSON</lastName>
+        <party>D</party>
+        <state>MS</state>
+        <bioguideId>T000193</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000601</bioguideId>
+          <lisID>2268</lisID>
+          <gpoId />
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <middleName />
+        <fullName>Rep. Ratcliffe, John [R-TX-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Ratcliffe</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <bioguideId>R000601</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <identifiers>
+          <gpoId>7960</gpoId>
+          <lisID>2023</lisID>
+          <bioguideId>R000588</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Cedric</firstName>
+        <middleName>L.</middleName>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Richmond</lastName>
+        <party>D</party>
+        <state>LA</state>
+        <bioguideId>R000588</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000386</bioguideId>
+          <lisID>2264</lisID>
+        </identifiers>
+        <district>24</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <middleName />
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Katko</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <bioguideId>K000386</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001073</bioguideId>
+          <lisID>2269</lisID>
+        </identifiers>
+        <district>23</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Will</firstName>
+        <middleName />
+        <fullName>Rep. Hurd, Will [R-TX-23]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Hurd</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <bioguideId>H001073</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2293</lisID>
+          <bioguideId>D000625</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Daniel</firstName>
+        <middleName>M.</middleName>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Donovan</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <bioguideId>D000625</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2355</lisID>
+          <bioguideId>G000579</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+        <middleName />
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Gallagher</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <bioguideId>G000579</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001077</bioguideId>
+          <gpoId />
+          <lisID>2329</lisID>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Clay</firstName>
+        <middleName />
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Higgins</lastName>
+        <party>R</party>
+        <state>LA</state>
+        <bioguideId>H001077</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000580</bioguideId>
+          <lisID>2353</lisID>
+          <gpoId />
+        </identifiers>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Thomas</firstName>
+        <middleName>A.</middleName>
+        <fullName>Rep. Garrett, Thomas A., Jr. [R-VA-5]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Garrett</lastName>
+        <party>R</party>
+        <state>VA</state>
+        <bioguideId>G000580</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Brian</firstName>
+        <middleName>K.</middleName>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Fitzpatrick</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <bioguideId>F000466</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <identifiers>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+          <lisID>635</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>PETER</firstName>
+        <middleName>T.</middleName>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>KING</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <bioguideId>K000210</bioguideId>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <createDate>2017-07-25T03:11:35Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-24T16:01:35Z</date>
+            </item>
+          </activities>
+          <systemCode>hspw00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Water Resources and Environment Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-25T19:28:46Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw02</systemCode>
+            </item>
+            <item>
+              <name>Railroads, Pipelines, and Hazardous Materials Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-25T19:28:32Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw14</systemCode>
+            </item>
+            <item>
+              <name>Highways and Transit Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-25T19:28:20Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw12</systemCode>
+            </item>
+            <item>
+              <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-25T19:28:06Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw13</systemCode>
+            </item>
+            <item>
+              <name>Coast Guard and Maritime Transportation Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-25T19:27:53Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw07</systemCode>
+            </item>
+            <item>
+              <name>Aviation Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-25T19:27:42Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw05</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <name>Oversight and Government Reform Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-24T16:01:30Z</date>
+            </item>
+          </activities>
+          <systemCode>hsgo00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-24T16:01:25Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <name>Homeland Security Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-24T16:01:20Z</date>
+            </item>
+          </activities>
+          <systemCode>hshm00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>3359</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

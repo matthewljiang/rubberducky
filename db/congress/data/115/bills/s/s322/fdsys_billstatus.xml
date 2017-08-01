@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Pet and Women Safety Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Pet and Women Safety Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to protect victims of domestic violence, sexual assault, stalking, and dating violence from emotional and psychological trauma caused by acts of violence or threats of violence against their pets.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Pet and Women Safety Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssaf00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-02-07T16:10:31Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-02-07T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-05-15T20:13:01Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b></s></b><b>Pet and Women Safety Act of 2017</b></p> <p>This bill amends the federal criminal code to broaden the definition of stalking to include conduct that causes a person to experience a reasonable fear of death or serious bodily injury to his or her pet.</p> <p>Additionally, an interstate violation of a protection order includes interstate travel with the intent to violate a protection order against a pet that is included within the scope of the protection order. The bill specifies the applicable criminal penalty&#8212;a prison term of up to five years, a fine, or both&#8212;for a person who commits an interstate violation of a protection order against a pet.</p> <p>With respect to a defendant who commits a domestic violence offense or an interstate violation of a protection order, mandatory restitution in the &quot;full amount of victim's losses&quot; includes costs incurred for veterinary services related to the pet.</p> <p>The bill directs the Department of Agriculture to award grants for shelter and housing assistance and support services for domestic violence victims with pets.</p> <p>Finally, it expresses the sense of Congress that states should include, in domestic violence protection orders, protections against violence or threats against a person's pet.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-02-07</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>909</number>
+        <latestTitle>Pet and Women Safety Act of 2017</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-03-09</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Animal protection and human-animal relationships</name>
+          </item>
+          <item>
+            <name>Assault and harassment offenses</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Crimes against animals and natural resources</name>
+          </item>
+          <item>
+            <name>Crimes against women</name>
+          </item>
+          <item>
+            <name>Domestic violence and child abuse</name>
+          </item>
+          <item>
+            <name>Homelessness and emergency shelter</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+          <item>
+            <name>Veterinary medicine and animal diseases</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <introducedDate>2017-02-07</introducedDate>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <lastName>Peters</lastName>
+        <byRequestType />
+        <party>D</party>
+        <firstName>Gary</firstName>
+        <middleName>C.</middleName>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+        </identifiers>
+        <bioguideId>P000595</bioguideId>
+        <state>MI</state>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <middleName />
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <firstName>Dean</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <lisID>1863</lisID>
+          <gpoId>8060</gpoId>
+          <bioguideId>H001041</bioguideId>
+        </identifiers>
+        <bioguideId>H001041</bioguideId>
+        <lastName>Heller</lastName>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <state>NV</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <firstName>Lisa</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8234</gpoId>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <bioguideId>M001153</bioguideId>
+        <lastName>Murkowski</lastName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <state>AK</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <firstName>BERNARD</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>I</party>
+        <identifiers>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <bioguideId>S000033</bioguideId>
+        <lastName>SANDERS</lastName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <state>VT</state>
+      </item>
+      <item>
+        <middleName>ANN</middleName>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <firstName>DEBORAH</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <bioguideId>S000770</bioguideId>
+        <lastName>STABENOW</lastName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <state>MI</state>
+      </item>
+      <item>
+        <middleName>MARGARET</middleName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <firstName>SUSAN</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <bioguideId>C001035</bioguideId>
+        <lastName>COLLINS</lastName>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <state>ME</state>
+      </item>
+      <item>
+        <middleName>JOSEPH</middleName>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <firstName>PATRICK</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <lisID>1383</lisID>
+          <gpoId>8244</gpoId>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <bioguideId>L000174</bioguideId>
+        <lastName>LEAHY</lastName>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <state>VT</state>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001288</bioguideId>
+        <lastName>Booker</lastName>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <state>NJ</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <firstName>Al</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8339</gpoId>
+          <lisID>1969</lisID>
+          <bioguideId>F000457</bioguideId>
+        </identifiers>
+        <bioguideId>F000457</bioguideId>
+        <lastName>Franken</lastName>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <state>MN</state>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+          <lisID>2182</lisID>
+        </identifiers>
+        <bioguideId>W000817</bioguideId>
+        <lastName>Warren</lastName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <state>MA</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <firstName>Bob</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <lisID>1828</lisID>
+          <gpoId>8282</gpoId>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <bioguideId>C001070</bioguideId>
+        <lastName>Casey</lastName>
+        <sponsorshipDate>2017-05-10</sponsorshipDate>
+        <state>PA</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <firstName>Catherine</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <lisID>2299</lisID>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001113</bioguideId>
+        <lastName>Cortez Masto</lastName>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <state>NV</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <firstName>TAMMY</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <bioguideId>B001230</bioguideId>
+        <lastName>BALDWIN</lastName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <state>WI</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <bioguideId>S001181</bioguideId>
+        <lastName>Shaheen</lastName>
+        <sponsorshipDate>2017-06-19</sponsorshipDate>
+        <state>NH</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <firstName>ROB</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <bioguideId>P000449</bioguideId>
+        <lastName>PORTMAN</lastName>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <state>OH</state>
+      </item>
+    </cosponsors>
+    <amendments />
+    <billType>S</billType>
+    <latestAction>
+      <actionDate>2017-02-07</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </latestAction>
+    <billNumber>322</billNumber>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-02-07</actionDate>
+        <committee>
+          <systemCode>ssaf00</systemCode>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-02-07</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <title>Pet and Women Safety Act of 2017</title>
+    <recordedVotes />
+    <committeeReports />
+    <updateDate>2017-07-11T04:44:12Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <laws />
+    <calendarNumbers />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <createDate>2017-02-08T08:07:49Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

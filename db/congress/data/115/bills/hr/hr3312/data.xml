@@ -1,0 +1,52 @@
+<bill session="115" type="h" number="3312" updated="2017-07-29T07:17:59Z">
+  <state datetime="2017-07-19">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-19"/>
+  </status>
+  <introduced datetime="2017-07-19"/>
+  <titles>
+    <title type="short" as="introduced">Systemic Risk Designation Improvement Act of 2017</title>
+    <title type="short" as="introduced">Systemic Risk Designation Improvement Act of 2017</title>
+    <title type="official" as="introduced">To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to specify when bank holding companies may be subject to certain enhanced supervision, and for other purposes.</title>
+    <title type="display">Systemic Risk Designation Improvement Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="L000569"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001281" joined="2017-07-24"/>
+    <cosponsor bioguide_id="B001305" joined="2017-07-19"/>
+    <cosponsor bioguide_id="G000583" joined="2017-07-19"/>
+    <cosponsor bioguide_id="H000324" joined="2017-07-26"/>
+    <cosponsor bioguide_id="H001072" joined="2017-07-19"/>
+    <cosponsor bioguide_id="L000583" joined="2017-07-28"/>
+    <cosponsor bioguide_id="L000584" joined="2017-07-24"/>
+    <cosponsor bioguide_id="M001187" joined="2017-07-28"/>
+    <cosponsor bioguide_id="M001137" joined="2017-07-19"/>
+    <cosponsor bioguide_id="P000588" joined="2017-07-26"/>
+    <cosponsor bioguide_id="P000608" joined="2017-07-28"/>
+    <cosponsor bioguide_id="P000599" joined="2017-07-28"/>
+    <cosponsor bioguide_id="S001157" joined="2017-07-19"/>
+    <cosponsor bioguide_id="S000250" joined="2017-07-24"/>
+    <cosponsor bioguide_id="S001185" joined="2017-07-26"/>
+    <cosponsor bioguide_id="S001191" joined="2017-07-19"/>
+    <cosponsor bioguide_id="S001187" joined="2017-07-19"/>
+    <cosponsor bioguide_id="V000131" joined="2017-07-28"/>
+    <cosponsor bioguide_id="W000816" joined="2017-07-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-19">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-19" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

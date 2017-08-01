@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Meadows</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <firstName>Mark</firstName>
+        <state>NC</state>
+        <district>11</district>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001187</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>NORTON</lastName>
+        <middleName>HOLMES</middleName>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>ELEANOR</firstName>
+        <state>DC</state>
+        <district>0</district>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000147</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Connolly</lastName>
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Gerald</firstName>
+        <state>VA</state>
+        <district>11</district>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001078</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Wittman</lastName>
+        <middleName>J.</middleName>
+        <identifiers>
+          <lisID>1886</lisID>
+          <gpoId>8192</gpoId>
+          <bioguideId>W000804</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Robert</firstName>
+        <state>VA</state>
+        <district>1</district>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000804</bioguideId>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <title>TSP Modernization Act of 2017</title>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <title>TSP Modernization Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To amend title 5, United States Code, to provide for flexibility in making withdrawals from a Thrift Savings Plan account, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>TSP Modernization Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>TSP Modernization Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>3031</billNumber>
+    <recordedVotes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+          <actionDate>2017-04-06</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>S</type>
+        <number>873</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>TSP Modernization Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CUMMINGS:H.R. 3031.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the United StatesConstitution (general welfare clause).[Page H5139]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>C000984</bioguideId>
+        <firstName>ELIJAH</firstName>
+        <district>7</district>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <identifiers>
+          <gpoId>7982</gpoId>
+          <bioguideId>C000984</bioguideId>
+          <lisID>256</lisID>
+        </identifiers>
+        <lastName>CUMMINGS</lastName>
+        <middleName>E.</middleName>
+        <party>D</party>
+        <byRequestType />
+        <state>MD</state>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <introducedDate>2017-06-23</introducedDate>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <latestAction>
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <links />
+      <actionDate>2017-07-19</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2017-07-19T17:01:06Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-23T13:01:00Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-07-25T07:17:48Z</updateDate>
+    <createDate>2017-06-24T03:11:35Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

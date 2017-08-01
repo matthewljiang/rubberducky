@@ -1,0 +1,35 @@
+<bill session="115" type="h" number="3524" updated="2017-07-28T07:32:41Z">
+  <state datetime="2017-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-27"/>
+  </status>
+  <introduced datetime="2017-07-27"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to clarify the treatment of contributions to Alaska Native Settlement Trusts, and for other purposes.</title>
+    <title type="display">To amend the Internal Revenue Code of 1986 to clarify the treatment of contributions to Alaska Native Settlement Trusts, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="Y000033"/>
+  <cosponsors>
+    <cosponsor bioguide_id="L000566" joined="2017-07-27"/>
+    <cosponsor bioguide_id="L000565" joined="2017-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-27" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-27">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

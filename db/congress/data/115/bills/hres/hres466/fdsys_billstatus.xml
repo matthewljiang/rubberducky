@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000480</bioguideId>
+        <identifiers>
+          <lisID>709</lisID>
+          <gpoId>8079</gpoId>
+          <bioguideId>L000480</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>LOWEY</lastName>
+        <party>D</party>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+        <firstName>NITA</firstName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <middleName>M.</middleName>
+        <state>NY</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001049</bioguideId>
+        <identifiers>
+          <gpoId>8009</gpoId>
+          <bioguideId>C001049</bioguideId>
+          <lisID>1654</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>CLAY</lastName>
+        <party>D</party>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <firstName>WM.</firstName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <middleName>LACY</middleName>
+        <state>MO</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001056</bioguideId>
+        <identifiers>
+          <gpoId>8207</gpoId>
+          <lisID>2071</lisID>
+          <bioguideId>H001056</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Herrera Beutler</lastName>
+        <party>R</party>
+        <fullName>Rep. Herrera Beutler, Jaime [R-WA-3]</fullName>
+        <firstName>Jaime</firstName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <middleName />
+        <state>WA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001189</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001189</bioguideId>
+          <lisID>2130</lisID>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Messer</lastName>
+        <party>R</party>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <firstName>Luke</firstName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <middleName />
+        <state>IN</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000574</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2226</lisID>
+          <bioguideId>G000574</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gallego</lastName>
+        <party>D</party>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <firstName>Ruben</firstName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <middleName />
+        <state>AZ</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000466</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Fitzpatrick</lastName>
+        <party>R</party>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <firstName>Brian</firstName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <middleName>K.</middleName>
+        <state>PA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001200</bioguideId>
+        <identifiers>
+          <lisID>2319</lisID>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Soto</lastName>
+        <party>D</party>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <firstName>Darren</firstName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <middleName />
+        <state>FL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000147</bioguideId>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <middleName>HOLMES</middleName>
+        <state>DC</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C000714</bioguideId>
+        <identifiers>
+          <gpoId>7999</gpoId>
+          <bioguideId>C000714</bioguideId>
+          <lisID>229</lisID>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>CONYERS</lastName>
+        <party>D</party>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <middleName />
+        <state>MI</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000179</bioguideId>
+        <identifiers>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <district>32</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>NAPOLITANO</lastName>
+        <party>D</party>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <firstName>GRACE</firstName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <middleName>F.</middleName>
+        <state>CA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000560</bioguideId>
+        <identifiers>
+          <gpoId>8206</gpoId>
+          <bioguideId>L000560</bioguideId>
+          <lisID>1675</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>LARSEN</lastName>
+        <party>D</party>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <firstName>RICK</firstName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <middleName />
+        <state>WA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000577</bioguideId>
+        <identifiers>
+          <gpoId>8107</gpoId>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>RYAN</lastName>
+        <party>D</party>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <firstName>TIM</firstName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <middleName />
+        <state>OH</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>Y000062</bioguideId>
+        <identifiers>
+          <bioguideId>Y000062</bioguideId>
+          <lisID>1853</lisID>
+          <gpoId>7955</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Yarmuth</lastName>
+        <party>D</party>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <middleName>A.</middleName>
+        <state>KY</state>
+      </item>
+    </cosponsors>
+    <billNumber>466</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-07-20</introducedDate>
+    <updateDate>2017-07-29T07:15:56Z</updateDate>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-20</actionDate>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-20</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-20</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>R000578</bioguideId>
+        <middleName>G.</middleName>
+        <lastName>Reichert</lastName>
+        <identifiers>
+          <gpoId>8212</gpoId>
+          <lisID>1810</lisID>
+          <bioguideId>R000578</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <state>WA</state>
+        <district>8</district>
+        <firstName>David</firstName>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <title>Supporting the role of the United States in promoting children's access to quality education in the poorest countries through the Global Partnership for Education.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Supporting the role of the United States in promoting children's access to quality education in the poorest countries through the Global Partnership for Education.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-07-21T03:11:33Z</createDate>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-20T13:02:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2017-07-20</actionDate>
+      <links />
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <billType>HRES</billType>
+    <amendments />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <relatedBills />
+    <title>Supporting the role of the United States in promoting children's access to quality education in the poorest countries through the Global Partnership for Education.</title>
+    <constitutionalAuthorityStatementText />
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

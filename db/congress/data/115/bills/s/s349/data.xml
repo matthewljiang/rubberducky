@@ -1,0 +1,44 @@
+<bill session="115" type="s" number="349" updated="2017-07-20T18:46:11Z">
+  <state datetime="2017-02-09">REFERRED</state>
+  <status>
+    <introduced datetime="2017-02-09"/>
+  </status>
+  <introduced datetime="2017-02-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to clarify the rights of all persons who are held or detained at a port of entry or at any detention facility overseen by U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement.</title>
+    <title type="display">A bill to clarify the rights of all persons who are held or detained at a port of entry or at any detention facility overseen by U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement.</title>
+  </titles>
+  <sponsor bioguide_id="H001075"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001277" joined="2017-02-09"/>
+    <cosponsor bioguide_id="B001288" joined="2017-02-09"/>
+    <cosponsor bioguide_id="C000174" joined="2017-02-09"/>
+    <cosponsor bioguide_id="G000555" joined="2017-02-09"/>
+    <cosponsor bioguide_id="M000133" joined="2017-02-09"/>
+    <cosponsor bioguide_id="W000817" joined="2017-02-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-02-09">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-02-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="1006"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Administrative remedies"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Detention of persons"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Lawyers and legal services"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

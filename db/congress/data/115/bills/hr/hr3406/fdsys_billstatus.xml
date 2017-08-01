@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <district>12</district>
+        <lastName>Dingell</lastName>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <state>MI</state>
+        <bioguideId>D000624</bioguideId>
+        <middleName />
+        <firstName>Debbie</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000624</bioguideId>
+          <lisID>2251</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <title>To amend section 30113 of title 49, United States Code, to increase the annual number of vehicles that may be exempted for the development of new vehicle safety features, and for other purposes.</title>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <title>To amend section 30113 of title 49, United States Code, to increase the annual number of vehicles that may be exempted for the development of new vehicle safety features, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend section 30113 of title 49, United States Code, to increase the annual number of vehicles that may be exempted for the development of new vehicle safety features, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>3406</billNumber>
+    <recordedVotes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <relatedBills />
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>U000031</bioguideId>
+        <firstName>FRED</firstName>
+        <district>6</district>
+        <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
+        <identifiers>
+          <gpoId>7991</gpoId>
+          <bioguideId>U000031</bioguideId>
+          <lisID>1177</lisID>
+        </identifiers>
+        <lastName>UPTON</lastName>
+        <middleName />
+        <party>R</party>
+        <byRequestType />
+        <state>MI</state>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <introducedDate>2017-07-26</introducedDate>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+      <actionDate>2017-07-26</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-26T14:05:05Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-07-28T11:45:18Z</updateDate>
+    <createDate>2017-07-27T03:11:33Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-26</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-26</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-26</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

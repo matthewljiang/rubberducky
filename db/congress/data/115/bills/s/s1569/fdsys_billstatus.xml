@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea />
+    <originChamber>Senate</originChamber>
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <introducedDate>2017-07-17</introducedDate>
+    <actions>
+      <item>
+        <actionDate>2017-07-17</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-07-17</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <version>1.0.0</version>
+    <committeeReports />
+    <notes />
+    <amendments />
+    <title>A bill to amend the Public Health Service Act to eliminate the non-application of certain State waiver provisions to Members of Congress and congressional staff.</title>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+      <actionDate>2017-07-17</actionDate>
+      <links />
+    </latestAction>
+    <relatedBills />
+    <recordedVotes />
+    <congress>115</congress>
+    <createDate>2017-07-18T00:26:34Z</createDate>
+    <billNumber>1569</billNumber>
+    <updateDate>2017-07-18T04:32:18Z</updateDate>
+    <titles>
+      <item>
+        <title>A bill to amend the Public Health Service Act to eliminate the non-application of certain State waiver provisions to Members of Congress and congressional staff.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>A bill to amend the Public Health Service Act to eliminate the non-application of certain State waiver provisions to Members of Congress and congressional staff.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <sponsors>
+      <item>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <bioguideId>C001098</bioguideId>
+        <lastName>Cruz</lastName>
+        <state>TX</state>
+        <firstName>Ted</firstName>
+        <byRequestType />
+        <identifiers>
+          <lisID>2175</lisID>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Rules and Administration Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-17T20:38:10Z</date>
+            </item>
+          </activities>
+          <systemCode>ssra00</systemCode>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

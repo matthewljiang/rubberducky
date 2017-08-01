@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres488-115", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "J000298", 
+      "district": "7", 
+      "name": "Jayapal, Pramila", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-28", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-28", 
+  "number": "488", 
+  "official_title": "Of inquiry requesting the President and directing the Attorney General to transmit, respectively, certain documents to the House of Representatives relating to the removal of former Federal Bureau of Investigation Director James Comey.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "C001084", 
+    "district": "1", 
+    "name": "Cicilline, David N.", 
+    "state": "RI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-07-28", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Of inquiry requesting the President and directing the Attorney General to transmit, respectively, certain documents to the House of Representatives relating to the removal of former Federal Bureau of Investigation Director James Comey.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Of inquiry requesting the President and directing the Attorney General to transmit, respectively, certain documents to the House of Representatives relating to the removal of former Federal Bureau of Investigation Director James Comey.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-29T07:32:57Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hres/BILLSTATUS-115hres488.xml"
+}

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-06-22T18:19:03Z</updateDate>
+    <recordedVotes />
+    <laws />
+    <sponsors>
+      <item>
+        <middleName />
+        <lastName>Hudson</lastName>
+        <party>R</party>
+        <firstName>Richard</firstName>
+        <state>NC</state>
+        <bioguideId>H001067</bioguideId>
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001067</bioguideId>
+          <lisID>2140</lisID>
+        </identifiers>
+        <district>8</district>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution and Civil Justice Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-04-06T21:22:55Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-03-23T13:02:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-03-24T13:13:24Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-03-23T13:02:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>ACCESS Act of 2017</title>
+    <notes />
+    <introducedDate>2017-03-23</introducedDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Drug safety, medical device, and laboratory regulation</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Legal fees and court costs</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <calendarNumbers />
+    <congress>115</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HUDSON:H.R. 1704.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the Constituion.[Page H2370]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-06-13</actionDate>
+          <actionTime>17:48:31</actionTime>
+          <text>Rules Committee Resolution H. Res. 382 Reported to House. Rule provides for consideration of H.R. 1215 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. The resolution makes in order as original text for purpose of amendment an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-10. The resolution makes in order only those amendments printed in the report.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>115</congress>
+        <number>1215</number>
+        <latestTitle>Protecting Access to Care Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <district>16</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Smucker, Lloyd [R-PA-16]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-05-30</sponsorshipDate>
+        <firstName>Lloyd</firstName>
+        <bioguideId>S001199</bioguideId>
+        <lastName>Smucker</lastName>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001199</bioguideId>
+          <lisID>2346</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2017-06-02</sponsorshipDate>
+        <firstName>Scott</firstName>
+        <bioguideId>T000470</bioguideId>
+        <lastName>Tipton</lastName>
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000470</bioguideId>
+          <lisID>1997</lisID>
+          <gpoId>7861</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <billNumber>1704</billNumber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <actionDate>2017-04-06</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-24</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to House Energy and Commerce</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-03-23</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Referred to House Judiciary</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-03-23</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+        <actionDate>2017-03-23</actionDate>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-03-23</actionDate>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-03-23</actionDate>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-03-24T05:20:59Z</createDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Accessible Care by Curbing Excessive lawSuitS Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>ACCESS Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Accessible Care by Curbing Excessive lawSuitS Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To improve patient access to health care services and provide improved medical care by reducing the excessive burden the liability system places on the health care delivery system.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>ACCESS Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2017-04-06</actionDate>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

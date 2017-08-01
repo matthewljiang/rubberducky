@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <notes />
+    <recordedVotes />
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionDate>2017-07-12</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-12</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-12</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2017-07-24T16:30:14Z</updateDate>
+    <createDate>2017-07-13T03:11:36Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2017-07-12</actionDate>
+        </latestAction>
+        <number>1539</number>
+        <latestTitle>Protecting Domestic Violence and Stalking Victims Act of 2017</latestTitle>
+        <congress>115</congress>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. DINGELL:H.R. 3207.Congress has the power to enact this legislation pursuantto the following:Article I Section VIll[Page H5759]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <district>11</district>
+        <lastName>Donovan</lastName>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <state>NY</state>
+        <bioguideId>D000625</bioguideId>
+        <middleName>M.</middleName>
+        <firstName>Daniel</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2293</lisID>
+          <bioguideId>D000625</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Zero Tolerance for Domestic Abusers Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To protect victims of stalking from gun violence.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Zero Tolerance for Domestic Abusers Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Zero Tolerance for Domestic Abusers Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <latestAction>
+      <text>Referred to the House Committee on the Judiciary.</text>
+      <actionDate>2017-07-12</actionDate>
+      <links />
+    </latestAction>
+    <billType>HR</billType>
+    <introducedDate>2017-07-12</introducedDate>
+    <title>Zero Tolerance for Domestic Abusers Act</title>
+    <sponsors>
+      <item>
+        <lastName>Dingell</lastName>
+        <party>D</party>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <bioguideId>D000624</bioguideId>
+        <firstName>Debbie</firstName>
+        <identifiers>
+          <lisID>2251</lisID>
+          <gpoId />
+          <bioguideId>D000624</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>MI</state>
+        <district>12</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billNumber>3207</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Assault and harassment offenses</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Domestic violence and child abuse</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-12T14:00:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

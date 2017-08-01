@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <title>To amend the Internal Revenue Code of 1986 to allow tax free distributions from section 529 college savings plans for certain expenses associated with registered apprenticeship programs.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend the Internal Revenue Code of 1986 to allow tax free distributions from section 529 college savings plans for certain expenses associated with registered apprenticeship programs.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <recordedVotes />
+    <amendments />
+    <committeeReports />
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText />
+    <updateDate>2017-07-29T07:18:08Z</updateDate>
+    <introducedDate>2017-07-25</introducedDate>
+    <policyArea />
+    <title>To amend the Internal Revenue Code of 1986 to allow tax free distributions from section 529 college savings plans for certain expenses associated with registered apprenticeship programs.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-25</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Ways and Means.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-25</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-25</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-25T14:02:30Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-07-25</actionDate>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <createDate>2017-07-26T03:11:34Z</createDate>
+    <cosponsors>
+      <item>
+        <district>1</district>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <firstName>Donald</firstName>
+        <middleName />
+        <party>D</party>
+        <state>NJ</state>
+        <fullName>Rep. Norcross, Donald [D-NJ-1]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>N000188</bioguideId>
+          <lisID>2202</lisID>
+        </identifiers>
+        <bioguideId>N000188</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Norcross</lastName>
+      </item>
+      <item>
+        <district>3</district>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>Mike</firstName>
+        <middleName />
+        <party>R</party>
+        <state>PA</state>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <identifiers>
+          <gpoId>8708</gpoId>
+          <bioguideId>K000376</bioguideId>
+          <lisID>2051</lisID>
+        </identifiers>
+        <bioguideId>K000376</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kelly</lastName>
+      </item>
+      <item>
+        <district>2</district>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>Jackie</firstName>
+        <middleName />
+        <party>R</party>
+        <state>IN</state>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <identifiers>
+          <lisID>2128</lisID>
+          <gpoId />
+          <bioguideId>W000813</bioguideId>
+        </identifiers>
+        <bioguideId>W000813</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Walorski</lastName>
+      </item>
+    </cosponsors>
+    <billNumber>3395</billNumber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <firstName>Patrick</firstName>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <identifiers>
+          <bioguideId>M001181</bioguideId>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+        </identifiers>
+        <bioguideId>M001181</bioguideId>
+        <district>7</district>
+        <middleName />
+        <lastName>Meehan</lastName>
+        <state>PA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <laws />
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="3333" updated="2017-07-21T07:31:34Z">
+  <state datetime="2017-07-20">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-20"/>
+  </status>
+  <introduced datetime="2017-07-20"/>
+  <titles>
+    <title type="official" as="introduced">To provide for the orderly disposal of certain Federal lands, to benefit education and other purposes through the sales of such lands, to consolidate Federal lands to improve management, to provide for the acquisition of lands for recreational and other opportunities, and for other purposes.</title>
+    <title type="display">To provide for the orderly disposal of certain Federal lands, to benefit education and other purposes through the sales of such lands, to consolidate Federal lands to improve management, to provide for the acquisition of lands for recreational and other opportunities, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="G000565"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000369" joined="2017-07-20"/>
+    <cosponsor bioguide_id="F000448" joined="2017-07-20"/>
+    <cosponsor bioguide_id="S001183" joined="2017-07-20"/>
+    <cosponsor bioguide_id="S000250" joined="2017-07-20"/>
+    <cosponsor bioguide_id="Y000033" joined="2017-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-20">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-20" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-20">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

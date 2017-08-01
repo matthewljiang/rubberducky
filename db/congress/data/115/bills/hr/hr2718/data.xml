@@ -1,0 +1,59 @@
+<bill session="115" type="h" number="2718" updated="2017-06-28T07:16:29Z">
+  <state datetime="2017-05-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-25"/>
+  </status>
+  <introduced datetime="2017-05-25"/>
+  <titles>
+    <title type="short" as="introduced">Federal Student Loan Refinancing Act</title>
+    <title type="short" as="introduced">Federal Student Loan Refinancing Act</title>
+    <title type="official" as="introduced">To allow certain student loan borrowers to refinance Federal student loans.</title>
+    <title type="display">Federal Student Loan Refinancing Act</title>
+  </titles>
+  <sponsor bioguide_id="P000608"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001287" joined="2017-05-25"/>
+    <cosponsor bioguide_id="B001296" joined="2017-05-25"/>
+    <cosponsor bioguide_id="C001097" joined="2017-05-25"/>
+    <cosponsor bioguide_id="C001080" joined="2017-05-25"/>
+    <cosponsor bioguide_id="C001038" joined="2017-06-27"/>
+    <cosponsor bioguide_id="J000032" joined="2017-05-25"/>
+    <cosponsor bioguide_id="L000565" joined="2017-05-25"/>
+    <cosponsor bioguide_id="L000397" joined="2017-05-25"/>
+    <cosponsor bioguide_id="M001185" joined="2017-05-25"/>
+    <cosponsor bioguide_id="M001166" joined="2017-06-27"/>
+    <cosponsor bioguide_id="M001137" joined="2017-05-25"/>
+    <cosponsor bioguide_id="M001160" joined="2017-05-25"/>
+    <cosponsor bioguide_id="M001202" joined="2017-05-25"/>
+    <cosponsor bioguide_id="N000002" joined="2017-05-25"/>
+    <cosponsor bioguide_id="P000613" joined="2017-05-25"/>
+    <cosponsor bioguide_id="P000607" joined="2017-05-25"/>
+    <cosponsor bioguide_id="R000515" joined="2017-05-25"/>
+    <cosponsor bioguide_id="S001150" joined="2017-05-25"/>
+    <cosponsor bioguide_id="S001191" joined="2017-05-25"/>
+    <cosponsor bioguide_id="S001193" joined="2017-05-25"/>
+    <cosponsor bioguide_id="V000130" joined="2017-05-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-25" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Higher education"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Student aid and college costs"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

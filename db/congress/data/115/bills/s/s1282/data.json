@@ -1,0 +1,102 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-05-25", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-05-25", 
+      "action_code": "", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [
+        {
+          "reference": "CR S3221-3222", 
+          "type": "Sponsor introductory remarks on measure"
+        }, 
+        {
+          "reference": "CR S3222", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1282-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "T000464", 
+      "district": null, 
+      "name": "Tester, Jon", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-05-25", 
+      "state": "MT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-05-25", 
+  "number": "1282", 
+  "official_title": "A bill to redesignate certain clinics of the Department of Veterans Affairs located in Montana.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "D000618", 
+    "district": null, 
+    "name": "Daines, Steve", 
+    "state": "MT", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-05-25", 
+  "subjects": [
+    "Armed forces and national security"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to redesignate certain clinics of the Department of Veterans Affairs located in Montana.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to redesignate certain clinics of the Department of Veterans Affairs located in Montana.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-20T16:56:23Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1282.xml"
+}

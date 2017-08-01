@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <laws />
+    <committeeReports />
+    <sponsors>
+      <item>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <middleName />
+        <bioguideId>M001183</bioguideId>
+        <party>D</party>
+        <state>WV</state>
+        <identifiers>
+          <gpoId>8256</gpoId>
+          <lisID>1983</lisID>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <lastName>Manchin</lastName>
+        <firstName>Joe</firstName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <title>A bill to amend titles 10 and 32, United States Code, to improve and enhance authorities relating to the employment, use, status, and benefits of military technicians (dual status), and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>A bill to amend titles 10 and 32, United States Code, to improve and enhance authorities relating to the employment, use, status, and benefits of military technicians (dual status), and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To amend titles 10 and 32, United States Code, to improve and enhance authorities relating to the employment, use, status, and benefits of military technicians (dual status), and for other purposes.</latestTitle>
+        <number>1777</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+          <actionDate>2017-04-12</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Armed Services Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-29T20:45:47Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <systemCode>ssas00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <firstName>SUSAN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>ME</state>
+        <middleName>MARGARET</middleName>
+        <bioguideId>C001035</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <lastName>COLLINS</lastName>
+        <identifiers>
+          <gpoId>8291</gpoId>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Jon</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MT</state>
+        <middleName />
+        <bioguideId>T000464</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <lastName>Tester</lastName>
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Jeanne</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NH</state>
+        <middleName />
+        <bioguideId>S001181</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <lastName>Shaheen</lastName>
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>GA</state>
+        <middleName>Alfred</middleName>
+        <bioguideId>P000612</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <lastName>Perdue</lastName>
+        <identifiers>
+          <lisID>2286</lisID>
+          <gpoId />
+          <bioguideId>P000612</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>SD</state>
+        <middleName />
+        <bioguideId>R000605</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <lastName>Rounds</lastName>
+        <identifiers>
+          <lisID>2288</lisID>
+          <bioguideId>R000605</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Heidi</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>ND</state>
+        <middleName />
+        <bioguideId>H001069</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <lastName>Heitkamp</lastName>
+        <identifiers>
+          <lisID>2174</lisID>
+          <bioguideId>H001069</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Amy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <middleName />
+        <bioguideId>K000367</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>BENJAMIN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MD</state>
+        <middleName>L.</middleName>
+        <bioguideId>C000141</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <lastName>CARDIN</lastName>
+        <identifiers>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>ROGER</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MS</state>
+        <middleName>F.</middleName>
+        <bioguideId>W000437</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <lastName>WICKER</lastName>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>ND</state>
+        <middleName />
+        <bioguideId>H001061</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <lastName>Hoeven</lastName>
+        <identifiers>
+          <gpoId>8331</gpoId>
+          <lisID>2079</lisID>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>LA</state>
+        <middleName>Neely</middleName>
+        <bioguideId>K000393</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <lastName>Kennedy</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000393</bioguideId>
+          <lisID>2303</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>SD</state>
+        <middleName>R.</middleName>
+        <bioguideId>T000250</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <lastName>THUNE</lastName>
+        <identifiers>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Al</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <middleName />
+        <bioguideId>F000457</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <lastName>Franken</lastName>
+        <identifiers>
+          <bioguideId>F000457</bioguideId>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-06-05</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <committee>
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-03-29</actionDate>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <billNumber>766</billNumber>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <links />
+      <actionDate>2017-03-29</actionDate>
+    </latestAction>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-03-30T04:33:14Z</createDate>
+    <introducedDate>2017-03-29</introducedDate>
+    <title>A bill to amend titles 10 and 32, United States Code, to improve and enhance authorities relating to the employment, use, status, and benefits of military technicians (dual status), and for other purposes.</title>
+    <version>1.0.0</version>
+    <updateDate>2017-07-20T16:56:13Z</updateDate>
+    <congress>115</congress>
+    <recordedVotes />
+    <billType>S</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

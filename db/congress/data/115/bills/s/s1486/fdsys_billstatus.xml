@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <firstName>Dan</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>Sullivan</lastName>
+        <state>AK</state>
+        <identifiers>
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <bioguideId>S001198</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <chamber>Senate</chamber>
+          <systemCode>sseg00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-06-29T18:10:09Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-06-30T00:41:34Z</createDate>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-06-29</actionDate>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <number>1481</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Alaska Native Claims Settlement Improvement Act of 2017</latestTitle>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-06-29</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <state>AK</state>
+        <lastName>Murkowski</lastName>
+        <byRequestType />
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <firstName>Lisa</firstName>
+        <party>R</party>
+        <middleName />
+        <bioguideId>M001153</bioguideId>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <billType>S</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <links />
+      <actionDate>2017-06-29</actionDate>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </latestAction>
+    <committeeReports />
+    <title>ANCSA Barrow Sand and Gravel Access Act of 2017</title>
+    <congress>115</congress>
+    <policyArea />
+    <cboCostEstimates />
+    <billNumber>1486</billNumber>
+    <updateDate>2017-07-18T04:32:17Z</updateDate>
+    <introducedDate>2017-06-29</introducedDate>
+    <calendarNumbers />
+    <laws />
+    <amendments />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>ANCSA Barrow Sand and Gravel Access Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to amend the Barrow Gas Field Transfer Act of 1984 with respect to the Ukpeagvik Inupiat Corporation sand and gravel resources, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>ANCSA Barrow Sand and Gravel Access Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>ANCSA Barrow Sand and Gravel Access Act of 2017</title>
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

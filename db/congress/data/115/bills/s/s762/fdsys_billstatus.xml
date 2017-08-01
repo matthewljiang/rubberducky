@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>IRS Whistleblower Improvements Act of 2017</title>
+    <notes />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S2101</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2101</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S2101)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-03-29</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <laws />
+    <billNumber>762</billNumber>
+    <relatedBills />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-03-29T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-06-30T12:20:33Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-29</actionDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><b>IRS Whistleblower Improvements Act of 2017 </b></p> <p>This bill amends the Internal Revenue Code (IRC), with respect to whistle-blowers, to establish rules regarding the disclosure of tax return information and retaliation by employers. </p> <p>The Internal Revenue Service (IRS) may disclose tax return information to whistle-blowers if: (1) the information is related to the investigation of any taxpayer with respect to whom the whistle-blower has provided information; and (2) the disclosure is necessary to obtain information, which is not otherwise reasonably available, with respect to the correct determination of tax liability or the amount to be collected with respect to the enforcement of any other provision of the IRC. </p> <p>The bill also: (1) requires the IRS to provide updates to whistle-blowers regarding investigations, and (2) subjects whistle-blowers who receive tax return information to criminal penalties for the unauthorized disclosure of taxpayer information.</p> <p>An employer or any officer, employee, contractor, subcontractor, or agent of the employer may not retaliate against an employee for certain lawful activities related to alleged underpayments of taxes or violations of tax law. The specified activities include: (1) providing certain information or assistance to federal agencies or Congress; and (2) testifying, participating in, or otherwise assisting in IRS actions.</p> <p>The bill also specifies: (1) enforcement actions that may be brought before the Department of Labor or in federal court to enforce the laws against retaliation, (2) procedures that apply to the actions, and (3) remedies that must be provided to employees that prevail in the actions. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <firstName>CHARLES</firstName>
+        <lastName>GRASSLEY</lastName>
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <state>IA</state>
+        <bioguideId>G000386</bioguideId>
+        <middleName>ERNEST</middleName>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S2101)</text>
+      <actionDate>2017-03-29</actionDate>
+      <links />
+    </latestAction>
+    <version>1.0.0</version>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <lastName>WYDEN</lastName>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <state>OR</state>
+        <firstName>RON</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <createDate>2017-03-30T04:33:14Z</createDate>
+    <recordedVotes />
+    <introducedDate>2017-03-29</introducedDate>
+    <congress>115</congress>
+    <updateDate>2017-07-05T12:13:21Z</updateDate>
+    <amendments />
+    <billType>S</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <date>2017-03-29T17:56:06Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>IRS Whistleblower Improvements Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>IRS Whistleblower Improvements Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A bill to amend the Internal Revenue Code of 1986 to reform provisions relating to whistleblowers.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>IRS Whistleblower Improvements Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

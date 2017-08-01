@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-07-21T20:57:15Z</updateDate>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>AMBER Alert in Indian Country Act of 2017</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+          <actionDate>2017-05-25</actionDate>
+        </latestAction>
+        <number>2666</number>
+        <congress>115</congress>
+      </item>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>AMBER Alert in Indian Country Act of 2017</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on the Judiciary.</text>
+          <actionDate>2017-06-29</actionDate>
+        </latestAction>
+        <number>3147</number>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <lastName>MCCAIN</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <firstName>JOHN</firstName>
+        <middleName>SIDNEY</middleName>
+        <identifiers>
+          <bioguideId>M000303</bioguideId>
+          <lisID>754</lisID>
+          <gpoId>8253</gpoId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <bioguideId>M000303</bioguideId>
+      </item>
+    </sponsors>
+    <billNumber>772</billNumber>
+    <notes />
+    <introducedDate>2017-03-29</introducedDate>
+    <billType>S</billType>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Heidi</firstName>
+        <sponsorshipDate>2017-05-08</sponsorshipDate>
+        <bioguideId>H001069</bioguideId>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <state>ND</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>2174</lisID>
+          <bioguideId>H001069</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Heitkamp</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>TOM</firstName>
+        <sponsorshipDate>2017-05-10</sponsorshipDate>
+        <bioguideId>U000039</bioguideId>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <state>NM</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>UDALL</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+        <sponsorshipDate>2017-05-10</sponsorshipDate>
+        <bioguideId>D000618</bioguideId>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <state>MT</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>2138</lisID>
+          <gpoId />
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Daines</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jon</firstName>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <bioguideId>T000464</bioguideId>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <state>MT</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Tester</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Lisa</firstName>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <bioguideId>M001153</bioguideId>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <state>AK</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Murkowski</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>TAMMY</firstName>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <bioguideId>B001230</bioguideId>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <state>WI</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>BALDWIN</lastName>
+      </item>
+    </cosponsors>
+    <actions>
+      <actionTypeCounts>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-13</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+        <actionDate>2017-03-29</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <laws />
+    <amendments />
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/52947</url>
+        <pubDate>2017-07-21T20:45:00Z</pubDate>
+        <title>S. 772, AMBER Alert in Indian Country Act of 2017</title>
+      </item>
+    </cboCostEstimates>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>slia00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2017-06-13T18:30:34Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-29T21:39:34Z</date>
+            </item>
+          </activities>
+          <type>Other</type>
+          <name>Indian Affairs Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+      <links />
+      <actionDate>2017-06-13</actionDate>
+    </latestAction>
+    <originChamber>Senate</originChamber>
+    <congress>115</congress>
+    <calendarNumbers />
+    <createDate>2017-03-30T04:33:15Z</createDate>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <title>AMBER Alert in Indian Country Act of 2017</title>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>AMBER Alert in Indian Country Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>AMBER Alert in Indian Country Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the PROTECT Act to make Indian tribes eligible for AMBER Alert grants.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>AMBER Alert in Indian Country Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,36 @@
+<bill session="115" type="s" number="791" updated="2017-06-29T17:15:11Z">
+  <state datetime="2017-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-30"/>
+  </status>
+  <introduced datetime="2017-03-30"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Innovation Protection Act of 2017</title>
+    <title type="short" as="introduced">Small Business Innovation Protection Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend the Small Business Act to expand intellectual property education and training for small businesses, and for other purposes.</title>
+    <title type="display">Small Business Innovation Protection Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="P000595"/>
+  <cosponsors>
+    <cosponsor bioguide_id="R000584" joined="2017-03-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-30">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-03-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2655"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

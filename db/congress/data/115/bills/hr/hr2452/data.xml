@@ -1,0 +1,103 @@
+<bill session="115" type="h" number="2452" updated="2017-07-24T18:15:34Z">
+  <state datetime="2017-05-16">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-16"/>
+  </status>
+  <introduced datetime="2017-05-16"/>
+  <titles>
+    <title type="short" as="introduced">Deborah Sampson Act</title>
+    <title type="short" as="introduced">Deborah Sampson Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to improve the benefits and services provided by the Department of Veterans Affairs to women veterans, and for other purposes.</title>
+    <title type="display">Deborah Sampson Act</title>
+  </titles>
+  <sponsor bioguide_id="E000293"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000371" joined="2017-06-08"/>
+    <cosponsor bioguide_id="B001285" joined="2017-05-16"/>
+    <cosponsor bioguide_id="C001103" joined="2017-06-12"/>
+    <cosponsor bioguide_id="C001066" joined="2017-05-25"/>
+    <cosponsor bioguide_id="C001068" joined="2017-06-23"/>
+    <cosponsor bioguide_id="C001106" joined="2017-05-16"/>
+    <cosponsor bioguide_id="F000466" joined="2017-06-12"/>
+    <cosponsor bioguide_id="G000571" joined="2017-05-16"/>
+    <cosponsor bioguide_id="G000582" joined="2017-05-16"/>
+    <cosponsor bioguide_id="G000583" joined="2017-07-24"/>
+    <cosponsor bioguide_id="H001064" joined="2017-06-12"/>
+    <cosponsor bioguide_id="H001047" joined="2017-06-07"/>
+    <cosponsor bioguide_id="J000255" joined="2017-05-18"/>
+    <cosponsor bioguide_id="K000381" joined="2017-06-07"/>
+    <cosponsor bioguide_id="K000210" joined="2017-05-19"/>
+    <cosponsor bioguide_id="K000387" joined="2017-05-22"/>
+    <cosponsor bioguide_id="K000382" joined="2017-05-16"/>
+    <cosponsor bioguide_id="L000567" joined="2017-05-16"/>
+    <cosponsor bioguide_id="M001199" joined="2017-05-24"/>
+    <cosponsor bioguide_id="M000312" joined="2017-06-23"/>
+    <cosponsor bioguide_id="M001197" joined="2017-05-16"/>
+    <cosponsor bioguide_id="M001196" joined="2017-05-16"/>
+    <cosponsor bioguide_id="O000170" joined="2017-05-16"/>
+    <cosponsor bioguide_id="P000608" joined="2017-05-16"/>
+    <cosponsor bioguide_id="P000597" joined="2017-05-16"/>
+    <cosponsor bioguide_id="P000607" joined="2017-05-22"/>
+    <cosponsor bioguide_id="R000600" joined="2017-05-16"/>
+    <cosponsor bioguide_id="R000602" joined="2017-05-16"/>
+    <cosponsor bioguide_id="R000515" joined="2017-05-19"/>
+    <cosponsor bioguide_id="S001177" joined="2017-05-16"/>
+    <cosponsor bioguide_id="S001170" joined="2017-06-07"/>
+    <cosponsor bioguide_id="S001196" joined="2017-05-18"/>
+    <cosponsor bioguide_id="T000472" joined="2017-05-16"/>
+    <cosponsor bioguide_id="T000468" joined="2017-05-18"/>
+    <cosponsor bioguide_id="W000813" joined="2017-05-16"/>
+    <cosponsor bioguide_id="W000799" joined="2017-05-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-16">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-16" state="REFERRED">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2017-05-16">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="681"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Child care and development"/>
+    <term name="Child health"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against women"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Disability and paralysis"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Government information and archives"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Homelessness and emergency shelter"/>
+    <term name="Hospital care"/>
+    <term name="Lawyers and legal services"/>
+    <term name="Mental health"/>
+    <term name="National symbols"/>
+    <term name="Public-private cooperation"/>
+    <term name="Sex offenses"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Transportation costs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions and compensation"/>
+    <term name="Women's employment"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

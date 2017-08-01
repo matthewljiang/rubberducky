@@ -1,0 +1,66 @@
+<bill session="115" type="h" number="1624" updated="2017-07-27T07:13:28Z">
+  <state datetime="2017-07-25">REPORTED</state>
+  <status>
+    <unknown datetime="2017-07-25"/>
+  </status>
+  <introduced datetime="2017-03-20"/>
+  <titles>
+    <title type="short" as="introduced">Municipal Finance Support Act of 2017</title>
+    <title type="short" as="introduced">Municipal Finance Support Act of 2017</title>
+    <title type="official" as="introduced">To require the appropriate Federal banking agencies to treat certain municipal obligations as level 2A liquid assets, and for other purposes.</title>
+    <title type="display">Municipal Finance Support Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="M001189"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001107" joined="2017-05-03"/>
+    <cosponsor bioguide_id="D000620" joined="2017-05-23"/>
+    <cosponsor bioguide_id="H001067" joined="2017-03-21"/>
+    <cosponsor bioguide_id="H001059" joined="2017-03-20"/>
+    <cosponsor bioguide_id="K000385" joined="2017-03-20"/>
+    <cosponsor bioguide_id="K000188" joined="2017-03-20"/>
+    <cosponsor bioguide_id="K000210" joined="2017-03-20"/>
+    <cosponsor bioguide_id="M000087" joined="2017-03-20"/>
+    <cosponsor bioguide_id="M001137" joined="2017-03-20"/>
+    <cosponsor bioguide_id="M001160" joined="2017-03-20"/>
+    <cosponsor bioguide_id="N000147" joined="2017-03-20"/>
+    <cosponsor bioguide_id="P000611" joined="2017-03-20"/>
+    <cosponsor bioguide_id="R000593" joined="2017-05-11"/>
+    <cosponsor bioguide_id="S001185" joined="2017-03-20"/>
+    <cosponsor bioguide_id="S000344" joined="2017-03-20"/>
+    <cosponsor bioguide_id="S001191" joined="2017-03-20"/>
+    <cosponsor bioguide_id="V000131" joined="2017-03-20"/>
+    <cosponsor bioguide_id="V000081" joined="2017-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-20">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-03-20" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2017-07-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-07-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 60 - 0.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="828"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Department of the Treasury"/>
+    <term name="Federal Deposit Insurance Corporation (FDIC)"/>
+    <term name="Federal Reserve System"/>
+    <term name="Securities"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

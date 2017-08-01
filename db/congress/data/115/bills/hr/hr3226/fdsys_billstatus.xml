@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HARPER:H.R. 3224.Congress has the power to enact this legislation pursuantto the following:``Article I, Section 8, Clause 3 of the United StatesConstitution.''[Page H5832]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-24T15:00:12Z</updateDate>
+    <relatedBills />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2017-07-13</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>PR</state>
+        <middleName />
+        <firstName>Jenniffer</firstName>
+        <lastName>Gonzalez-Colon</lastName>
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <identifiers>
+          <bioguideId>G000582</bioguideId>
+          <lisID>2347</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <district>0</district>
+        <bioguideId>G000582</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Supplemental Security Income Equality Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To extend the supplemental security income program to Puerto Rico, the United States Virgin Islands, Guam, and American Samoa, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Supplemental Security Income Equality Act</title>
+      </item>
+    </titles>
+    <introducedDate>2017-07-13</introducedDate>
+    <policyArea />
+    <title>Supplemental Security Income Equality Act</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-13</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-13</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-13</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <party>D</party>
+        <lastName>Bordallo</lastName>
+        <firstName>Madeleine</firstName>
+        <bioguideId>B001245</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7911</gpoId>
+          <lisID>1723</lisID>
+          <bioguideId>B001245</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <state>GU</state>
+        <middleName>Z.</middleName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <party>R</party>
+        <lastName>Radewagen</lastName>
+        <firstName>Aumua Amata</firstName>
+        <bioguideId>R000600</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000600</bioguideId>
+          <lisID>2222</lisID>
+          <gpoId />
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <state>AS</state>
+        <middleName>Coleman</middleName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <party>D</party>
+        <lastName>Sablan</lastName>
+        <firstName>Gregorio</firstName>
+        <bioguideId>S001177</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8018</gpoId>
+          <bioguideId>S001177</bioguideId>
+          <lisID>1962</lisID>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <state>MP</state>
+        <middleName>Kilili Camacho</middleName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Plaskett, Stacey E. [D-VI-At Large]</fullName>
+        <party>D</party>
+        <lastName>Plaskett</lastName>
+        <firstName>Stacey</firstName>
+        <bioguideId>P000610</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000610</bioguideId>
+          <lisID>2274</lisID>
+          <gpoId />
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <state>VI</state>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <createDate>2017-07-14T03:11:34Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-13T14:00:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>3226</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

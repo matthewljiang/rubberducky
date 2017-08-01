@@ -1,0 +1,28 @@
+<bill session="115" type="s" number="1613" updated="2017-07-21T05:17:47Z">
+  <state datetime="2017-07-20">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-20"/>
+  </status>
+  <introduced datetime="2017-07-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Pittman-Robertson Wildlife Restoration Act to modernize the funding of wildlife conservation, and for other purposes.</title>
+    <title type="display">A bill to amend the Pittman-Robertson Wildlife Restoration Act to modernize the funding of wildlife conservation, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="R000584"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-07-20">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

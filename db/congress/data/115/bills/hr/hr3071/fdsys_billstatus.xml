@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Federal Acquisition Savings Act of 2017</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <name>Oversight and Government Reform Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-27T14:01:45Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-06-27</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-06-27</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-06-27</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <recordedVotes />
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <notes />
+    <createDate>2017-06-28T03:11:37Z</createDate>
+    <amendments />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <identifiers>
+          <lisID>1913</lisID>
+          <gpoId>7869</gpoId>
+          <bioguideId>H001047</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001047</bioguideId>
+        <lastName>Himes</lastName>
+        <firstName>James</firstName>
+        <party>D</party>
+        <state>CT</state>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+        </identifiers>
+        <district>6</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000576</bioguideId>
+        <lastName>Grothman</lastName>
+        <firstName>Glenn</firstName>
+        <party>R</party>
+        <state>WI</state>
+        <middleName />
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <identifiers>
+          <bioguideId>A000372</bioguideId>
+          <lisID>2239</lisID>
+          <gpoId />
+        </identifiers>
+        <district>12</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>A000372</bioguideId>
+        <lastName>Allen</lastName>
+        <firstName>Rick</firstName>
+        <party>R</party>
+        <state>GA</state>
+        <middleName>W.</middleName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+        </identifiers>
+        <district>11</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001187</bioguideId>
+        <lastName>Meadows</lastName>
+        <firstName>Mark</firstName>
+        <party>R</party>
+        <state>NC</state>
+        <middleName />
+        <sponsorshipDate>2017-07-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+        <identifiers>
+          <gpoId>7884</gpoId>
+          <lisID>2003</lisID>
+          <bioguideId>R000593</bioguideId>
+        </identifiers>
+        <district>15</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000593</bioguideId>
+        <lastName>Ross</lastName>
+        <firstName>Dennis</firstName>
+        <party>R</party>
+        <state>FL</state>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+          <lisID>2270</lisID>
+          <gpoId />
+        </identifiers>
+        <district>36</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001291</bioguideId>
+        <lastName>Babin</lastName>
+        <firstName>Brian</firstName>
+        <party>R</party>
+        <state>TX</state>
+        <middleName />
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <identifiers>
+          <bioguideId>H001071</bioguideId>
+          <lisID>2237</lisID>
+          <gpoId />
+        </identifiers>
+        <district>10</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001071</bioguideId>
+        <lastName>Hice</lastName>
+        <firstName>Jody</firstName>
+        <party>R</party>
+        <state>GA</state>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <updateDate>2017-07-27T07:16:30Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>C001103</bioguideId>
+        <byRequestType />
+        <district>1</district>
+        <party>R</party>
+        <lastName>Carter</lastName>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <firstName>Earl</firstName>
+        <middleName>L. "Buddy"</middleName>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>C001103</bioguideId>
+          <gpoId />
+          <lisID>2236</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Federal Acquisition Savings Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To require executive agencies to consider equipment rental in any cost-effectiveness analysis for equipment acquisition, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Federal Acquisition Savings Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Federal Acquisition Savings Act of 2017</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-06-27</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CARTER of Georgia:H.R. 3071.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 which grants to theCongress power to make all laws which sall be necessary andproper for carrying into execution the foregoing powers, andall other powers vested by this Constitution in thegovernment of the United States, or in any department ofofficer thereof.[Page H5232]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>115</congress>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-06-27</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <billNumber>3071</billNumber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

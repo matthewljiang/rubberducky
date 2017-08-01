@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>256</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Protect Our Military Families' 2nd Amendment Rights Act</latestTitle>
+        <latestAction>
+          <text>Sponsor introductory remarks on measure. (CR H396)</text>
+          <actionDate>2017-01-12</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <bioguideId>R000605</bioguideId>
+        <state>SD</state>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <identifiers>
+          <bioguideId>R000605</bioguideId>
+          <lisID>2288</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <byRequestType />
+        <middleName />
+        <lastName>Rounds</lastName>
+        <firstName>Mike</firstName>
+      </item>
+    </sponsors>
+    <updateDate>2017-06-19T21:00:11Z</updateDate>
+    <recordedVotes />
+    <notes />
+    <introducedDate>2017-02-15</introducedDate>
+    <calendarNumbers />
+    <laws />
+    <version>1.0.0</version>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-05-01T20:33:59Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2017-02-15T05:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Protect Our Military Families' 2nd Amendment Rights Act</strong></p> <p>This bill amends the federal criminal code to allow a licensed gun dealer, importer, or manufacturer to sell or ship a firearm to the spouse of a member of the U.S. Armed Forces on active duty. (Current law already allows a licensed dealer, importer, or manufacturer to sell a firearm to a member of the U.S. Armed Forces on active duty.) </p> <p>The bill also specifies that, for purposes of federal firearms laws, a member of the U.S. Armed Forces on active duty, or his or her spouse, is a resident of the state in which: (1) the member or spouse maintains legal residence, (2) the permanent duty station of the member is located, and (3) the member maintains a home from which he or she commutes to the permanent duty station.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <actionDate>2017-02-15</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Protect Our Military Families’ 2nd Amendment Rights Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Protect Our Military Families' 2nd Amendment Rights Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend chapter 44 of title 18, United States Code, to provide that a member of the Armed Forces and the spouse of that member shall have the same rights regarding the receipt of firearms at the location of any duty station of the member.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Protect Our Military Families' 2nd Amendment Rights Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <billType>S</billType>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-15</actionDate>
+        <committee>
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-02-15</actionDate>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <actionDate>2017-02-15</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </latestAction>
+    <billNumber>394</billNumber>
+    <congress>115</congress>
+    <title>Protect Our Military Families' 2nd Amendment Rights Act</title>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+        </identifiers>
+        <lastName>THUNE</lastName>
+        <middleName>R.</middleName>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <bioguideId>T000250</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JOHN</firstName>
+        <state>SD</state>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>I000024</bioguideId>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+        </identifiers>
+        <lastName>INHOFE</lastName>
+        <middleName />
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <bioguideId>I000024</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JIM</firstName>
+        <state>OK</state>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8289</gpoId>
+          <bioguideId>C000880</bioguideId>
+          <lisID>250</lisID>
+        </identifiers>
+        <lastName>CRAPO</lastName>
+        <middleName>D.</middleName>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <bioguideId>C000880</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>MICHAEL</firstName>
+        <state>ID</state>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8113</gpoId>
+          <lisID>2050</lisID>
+          <bioguideId>L000575</bioguideId>
+        </identifiers>
+        <lastName>Lankford</lastName>
+        <middleName />
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <bioguideId>L000575</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>James</firstName>
+        <state>OK</state>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <lastName>Rubio</lastName>
+        <middleName />
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <bioguideId>R000595</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Marco</firstName>
+        <state>FL</state>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000359</bioguideId>
+          <lisID>452</lisID>
+          <gpoId>8335</gpoId>
+        </identifiers>
+        <lastName>GRAHAM</lastName>
+        <middleName>O.</middleName>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <bioguideId>G000359</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>LINDSEY</firstName>
+        <state>SC</state>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+          <lisID>1998</lisID>
+        </identifiers>
+        <lastName>Gardner</lastName>
+        <middleName />
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <bioguideId>G000562</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Cory</firstName>
+        <state>CO</state>
+        <sponsorshipDate>2017-02-17</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8328</gpoId>
+          <bioguideId>E000285</bioguideId>
+          <lisID>1542</lisID>
+        </identifiers>
+        <lastName>ENZI</lastName>
+        <middleName>B.</middleName>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <bioguideId>E000285</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>MICHAEL</firstName>
+        <state>WY</state>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1925</lisID>
+          <gpoId>7964</gpoId>
+          <bioguideId>C001075</bioguideId>
+        </identifiers>
+        <lastName>Cassidy</lastName>
+        <middleName />
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <bioguideId>C001075</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Bill</firstName>
+        <state>LA</state>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+        </identifiers>
+        <lastName>Ernst</lastName>
+        <middleName />
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <bioguideId>E000295</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Joni</firstName>
+        <state>IA</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>ssas00</systemCode>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-02-15T19:44:22Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Armed Services Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-02-16T08:49:56Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

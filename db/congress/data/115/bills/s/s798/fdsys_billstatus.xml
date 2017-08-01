@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>ssva00</systemCode>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-06-15T14:00:20Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2017-03-30T21:14:26Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Veterans' Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <createDate>2017-03-31T05:07:22Z</createDate>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-06-15</actionDate>
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <congress>115</congress>
+    <billNumber>798</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <updateDate>2017-06-19T21:45:21Z</updateDate>
+    <cosponsors>
+      <item>
+        <bioguideId>B000944</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>SHERROD</firstName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <state>OH</state>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>BROWN</lastName>
+        <identifiers>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>T000476</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Thomas</firstName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <state>NC</state>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <middleName>Roland</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Tillis</lastName>
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+          <lisID>2291</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Amy</firstName>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <state>MN</state>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Klobuchar</lastName>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000605</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <state>SD</state>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rounds</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000605</bioguideId>
+          <lisID>2288</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <laws />
+    <title>Yellow Ribbon Improvement Act of 2017</title>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-15</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-30</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-03-30</actionDate>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Yellow Ribbon Improvement Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Yellow Ribbon Improvement Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 38, United States Code, to expand the Yellow Ribbon G.I. Education Enhancement Program to apply to individuals pursuing programs of education while on active duty, to recipients of the Marine Gunnery Sergeant John David Fry scholarship, and to programs of education pursued on half-time basis or less, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Yellow Ribbon Improvement Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-03-30</introducedDate>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <recordedVotes />
+    <committeeReports />
+    <cboCostEstimates />
+    <amendments />
+    <sponsors>
+      <item>
+        <bioguideId>C001075</bioguideId>
+        <firstName>Bill</firstName>
+        <state>LA</state>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <middleName />
+        <party>R</party>
+        <byRequestType />
+        <lastName>Cassidy</lastName>
+        <identifiers>
+          <gpoId>7964</gpoId>
+          <bioguideId>C001075</bioguideId>
+          <lisID>1925</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

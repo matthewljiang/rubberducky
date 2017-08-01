@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <bioguideId>H001069</bioguideId>
+        <firstName>Heidi</firstName>
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <lisID>2174</lisID>
+          <bioguideId>H001069</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Heitkamp</lastName>
+        <middleName />
+        <state>ND</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sshr00</systemCode>
+          <type>Standing</type>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <activities>
+            <item>
+              <date>2017-02-01T21:27:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Human trafficking</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <laws />
+    <title>SOAR to Health and Wellness Act of 2017</title>
+    <actions>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2017-02-01</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>SOAR to Health and Wellness Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>SOAR to Health and Wellness Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to establish the Stop, Observe, Ask, and Respond to Health and Wellness Training pilot program to address human trafficking in the health care system.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>SOAR to Health and Wellness Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <introducedDate>2017-02-01</introducedDate>
+    <latestAction>
+      <actionDate>2017-02-01</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+    </latestAction>
+    <amendments />
+    <updateDate>2017-06-29T04:58:02Z</updateDate>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <bioguideId>C001035</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>SUSAN</firstName>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <party>R</party>
+        <lastName>COLLINS</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName>MARGARET</middleName>
+        <state>ME</state>
+      </item>
+      <item>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <bioguideId>K000367</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Amy</firstName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Klobuchar</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>MN</state>
+      </item>
+      <item>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <bioguideId>C001056</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <lastName>Cornyn</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>TX</state>
+      </item>
+    </cosponsors>
+    <billNumber>256</billNumber>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <createDate>2017-02-02T05:28:48Z</createDate>
+    <relatedBills>
+      <item>
+        <number>767</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-02-03</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>SOAR to Health and Wellness Act of 2017</latestTitle>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <congress>115</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

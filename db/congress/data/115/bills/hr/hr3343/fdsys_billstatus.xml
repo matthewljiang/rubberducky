@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-29T07:18:03Z</updateDate>
+    <relatedBills />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2017-07-20</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>NV</state>
+        <middleName>J.</middleName>
+        <firstName>Ruben</firstName>
+        <lastName>Kihuen</lastName>
+        <fullName>Rep. Kihuen, Ruben J. [D-NV-4]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2340</lisID>
+          <bioguideId>K000390</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <district>4</district>
+        <bioguideId>K000390</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Uniformed and Overseas Citizens Absentee Voting Act to require States upon request to provide absent uniformed services voters and overseas voters who receive absentee ballots in an election for Federal office held in the State with absentee ballots for all subsequent elections for Federal office held in the State through the next regularly scheduled general election for Federal office, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To amend the Uniformed and Overseas Citizens Absentee Voting Act to require States upon request to provide absent uniformed services voters and overseas voters who receive absentee ballots in an election for Federal office held in the State with absentee ballots for all subsequent elections for Federal office held in the State through the next regularly scheduled general election for Federal office, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-07-20</introducedDate>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <title>To amend the Uniformed and Overseas Citizens Absentee Voting Act to require States upon request to provide absent uniformed services voters and overseas voters who receive absentee ballots in an election for Federal office held in the State with absentee ballots for all subsequent elections for Federal office held in the State through the next regularly scheduled general election for Federal office, and for other purposes.</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on House Administration.</text>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-20</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-20</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-20</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <district>8</district>
+        <firstName>Jamie</firstName>
+        <bioguideId>R000606</bioguideId>
+        <lastName>Raskin</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <createDate>2017-07-21T03:11:38Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-20T13:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>3343</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>ssbk00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-16T21:14:31Z</date>
+            </item>
+          </activities>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <createDate>2017-05-17T00:26:39Z</createDate>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-05-16</actionDate>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <congress>115</congress>
+    <billNumber>1139</billNumber>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <updateDate>2017-06-19T22:15:15Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <bioguideId>M000934</bioguideId>
+        <lastName>MORAN</lastName>
+        <state>KS</state>
+        <middleName />
+        <firstName>JERRY</firstName>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000934</bioguideId>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <bioguideId>H001069</bioguideId>
+        <lastName>Heitkamp</lastName>
+        <state>ND</state>
+        <middleName />
+        <firstName>Heidi</firstName>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2174</lisID>
+          <bioguideId>H001069</bioguideId>
+        </identifiers>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <laws />
+    <title>Main Street Regulatory Fairness Act</title>
+    <actions>
+      <item>
+        <actionDate>2017-05-16</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-16</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Main Street Regulatory Fairness Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Main Street Regulatory Fairness Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to amend the Financial Stability Act of 2010 to modify the requirements of stress tests.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Main Street Regulatory Fairness Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <introducedDate>2017-05-16</introducedDate>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <recordedVotes />
+    <committeeReports />
+    <cboCostEstimates />
+    <amendments />
+    <sponsors>
+      <item>
+        <bioguideId>T000464</bioguideId>
+        <firstName>Jon</firstName>
+        <state>MT</state>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <middleName />
+        <party>D</party>
+        <byRequestType />
+        <lastName>Tester</lastName>
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

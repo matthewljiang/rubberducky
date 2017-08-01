@@ -1,0 +1,59 @@
+<bill session="115" type="h" number="2989" updated="2017-07-28T07:16:49Z">
+  <state datetime="2017-07-19">REPORTED</state>
+  <status>
+    <unknown datetime="2017-07-19"/>
+  </status>
+  <introduced datetime="2017-06-21"/>
+  <titles>
+    <title type="short" as="introduced">Frederick Douglass Bicentennial Commission Act</title>
+    <title type="short" as="introduced">Frederick Douglass Bicentennial Commission Act</title>
+    <title type="official" as="introduced">To establish the Frederick Douglass Bicentennial Commission.</title>
+    <title type="display">Frederick Douglass Bicentennial Commission Act</title>
+  </titles>
+  <sponsor bioguide_id="N000147"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001293" joined="2017-07-26"/>
+    <cosponsor bioguide_id="C001105" joined="2017-07-27"/>
+    <cosponsor bioguide_id="C001106" joined="2017-07-11"/>
+    <cosponsor bioguide_id="D000604" joined="2017-07-27"/>
+    <cosponsor bioguide_id="F000466" joined="2017-07-26"/>
+    <cosponsor bioguide_id="G000565" joined="2017-07-12"/>
+    <cosponsor bioguide_id="H001052" joined="2017-06-21"/>
+    <cosponsor bioguide_id="K000391" joined="2017-07-19"/>
+    <cosponsor bioguide_id="L000562" joined="2017-07-19"/>
+    <cosponsor bioguide_id="M000087" joined="2017-07-19"/>
+    <cosponsor bioguide_id="M001160" joined="2017-07-27"/>
+    <cosponsor bioguide_id="R000606" joined="2017-07-19"/>
+    <cosponsor bioguide_id="R000576" joined="2017-06-29"/>
+    <cosponsor bioguide_id="R000515" joined="2017-07-27"/>
+    <cosponsor bioguide_id="R000604" joined="2017-07-19"/>
+    <cosponsor bioguide_id="S001199" joined="2017-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-21">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E864-865"/>
+    </action>
+    <action datetime="2017-06-21" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2017-07-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-07-19" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

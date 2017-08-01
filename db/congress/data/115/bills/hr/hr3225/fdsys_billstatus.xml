@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DeFAZIO:H.R. 3225.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 (relating to the power tomake all laws necessary and proper for carrying out thepowers vested in Congress)By Miss GONZALEZ-COLON of Puerto Rico:H.R. 3226.Congress has the power to enact this legislation pursuantto the following:Article I Section 1 of the U.S. Constitution``All legislative power herein grated shall be vested in aCongress of the United States, which shall consist of aSenate and House of Representatives''[Page H5832]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-24T15:00:12Z</updateDate>
+    <relatedBills />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the House Committee on Natural Resources.</text>
+      <actionDate>2017-07-13</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>OR</state>
+        <middleName>A.</middleName>
+        <firstName>PETER</firstName>
+        <lastName>DEFAZIO</lastName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <identifiers>
+          <lisID>279</lisID>
+          <gpoId>8117</gpoId>
+          <bioguideId>D000191</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <district>4</district>
+        <bioguideId>D000191</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Oregon Tribal Economic Development Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To allow the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians, the Confederated Tribes of the Grand Ronde Community of Oregon, the Confederated Tribes of Siletz Indians of Oregon, the Confederated Tribes of Warm Springs, and the Cow Creek Band of Umpqua Tribe of Indians to lease or transfer certain lands.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Oregon Tribal Economic Development Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-07-13</introducedDate>
+    <policyArea />
+    <title>Oregon Tribal Economic Development Act</title>
+    <actions>
+      <item>
+        <actionDate>2017-07-13</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Natural Resources.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-13</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-07-13</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Walden, Greg [R-OR-2]</fullName>
+        <party>R</party>
+        <lastName>WALDEN</lastName>
+        <firstName>GREG</firstName>
+        <bioguideId>W000791</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8115</gpoId>
+          <bioguideId>W000791</bioguideId>
+          <lisID>1596</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <middleName />
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <createDate>2017-07-14T03:11:34Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-13T14:00:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>3225</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

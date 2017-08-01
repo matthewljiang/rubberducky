@@ -1,0 +1,35 @@
+<bill session="115" type="h" number="3424" updated="2017-07-27T07:31:51Z">
+  <state datetime="2017-07-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-26"/>
+  </status>
+  <introduced datetime="2017-07-26"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit the award of Federal Government contracts to inverted domestic corporations, and for other purposes.</title>
+    <title type="display">To prohibit the award of Federal Government contracts to inverted domestic corporations, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="D000216"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000399" joined="2017-07-26"/>
+    <cosponsor bioguide_id="L000263" joined="2017-07-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-26" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-26">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

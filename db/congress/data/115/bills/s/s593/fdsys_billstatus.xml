@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Target Practice and Marksmanship Training Support Act</title>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Target Practice and Marksmanship Training Support Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Target Practice and Marksmanship Training Support Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend the Pittman-Robertson Wildlife Restoration Act to facilitate the establishment of additional or expanded public target ranges in certain States.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Target Practice and Marksmanship Training Support Act</title>
+      </item>
+    </titles>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Target Practice and Marksmanship Training Support Act </b></p> <p> This bill amends the Pittman-Robertson Wildlife Restoration Act to facilitate the construction and expansion of public target ranges by: (1) authorizing a state to pay up to 90% of the costs of acquiring land for, expanding, or constructing a public target range; (2) authorizing a state to elect to allocate 10% of a specified amount apportioned to it from the federal aid to wildlife restoration fund for those costs; (3) limiting the federal share of those costs under such Act to 90%; and (4) requiring amounts provided for those costs under such Act to remain available for expenditure and obligation for five fiscal years.</p> <p>The United States shall be shielded from any civil action or claim for money damages for injury to or loss of property, personal injury, or death caused by an activity occurring at a public target range that is funded by the federal government pursuant to such Act or located on federal land, except to the extent provided under the Federal Tort Claims Act with respect to the exercise or performance of a discretionary function. </p> <p>The bill urges the Forest Service and the Bureau of Land Management to cooperate with state and local authorities and other entities to carry out waste removal and other activities on any federal land used as a public target range to encourage its continued use for target practice or marksmanship training.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-06-23T20:06:14Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-03-09T05:00:00Z</updateDate>
+          <actionDate>2017-03-09</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <cboCostEstimates />
+    <billNumber>593</billNumber>
+    <updateDate>2017-07-20T18:46:08Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>CAPITO</lastName>
+        <middleName>MOORE</middleName>
+        <state>WV</state>
+        <firstName>SHELLEY</firstName>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <bioguideId>C001047</bioguideId>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Boozman</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+          <lisID>1687</lisID>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <bioguideId>B001236</bioguideId>
+        <state>AR</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bennet</lastName>
+        <middleName>F.</middleName>
+        <identifiers>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <bioguideId>B001267</bioguideId>
+        <state>CO</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Michael</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Heitkamp</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001069</bioguideId>
+          <lisID>2174</lisID>
+        </identifiers>
+        <bioguideId>H001069</bioguideId>
+        <state>ND</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Heidi</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Manchin</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8256</gpoId>
+          <bioguideId>M001183</bioguideId>
+          <lisID>1983</lisID>
+        </identifiers>
+        <bioguideId>M001183</bioguideId>
+        <state>WV</state>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Joe</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>FLAKE</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>1633</lisID>
+          <gpoId>7803</gpoId>
+          <bioguideId>F000444</bioguideId>
+        </identifiers>
+        <bioguideId>F000444</bioguideId>
+        <state>AZ</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>JEFF</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Risch</lastName>
+        <middleName>E.</middleName>
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+          <lisID>1896</lisID>
+          <gpoId>8274</gpoId>
+        </identifiers>
+        <bioguideId>R000584</bioguideId>
+        <state>ID</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>James</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>CRAPO</lastName>
+        <middleName>D.</middleName>
+        <identifiers>
+          <lisID>250</lisID>
+          <gpoId>8289</gpoId>
+          <bioguideId>C000880</bioguideId>
+        </identifiers>
+        <bioguideId>C000880</bioguideId>
+        <state>ID</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>MICHAEL</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Tester</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <bioguideId>T000464</bioguideId>
+        <state>MT</state>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jon</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Heinrich</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8056</gpoId>
+          <bioguideId>H001046</bioguideId>
+          <lisID>1937</lisID>
+        </identifiers>
+        <bioguideId>H001046</bioguideId>
+        <state>NM</state>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Martin</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>HATCH</lastName>
+        <middleName>GRANT</middleName>
+        <identifiers>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+        <bioguideId>H000338</bioguideId>
+        <state>UT</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ORRIN</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>King</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <bioguideId>K000383</bioguideId>
+        <state>ME</state>
+        <party>I</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Angus</firstName>
+      </item>
+    </cosponsors>
+    <laws />
+    <notes />
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <actionDate>2017-03-09</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Environment and Public Works Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-09T18:44:50Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <systemCode>ssev00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Outdoor recreation</name>
+          </item>
+          <item>
+            <name>Solid waste and recycling</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-03-09</actionDate>
+        <committee>
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+        <actionDate>2017-03-09</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-03-10T05:16:41Z</createDate>
+    <congress>115</congress>
+    <amendments />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+          <actionDate>2017-03-02</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <latestTitle>Target Practice and Marksmanship Training Support Act</latestTitle>
+        <number>788</number>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Committee on Environment and Public Works. Hearings held.</text>
+          <actionDate>2017-07-19</actionDate>
+        </latestAction>
+        <type>S</type>
+        <latestTitle>HELP for Wildlife Act</latestTitle>
+        <number>1514</number>
+      </item>
+    </relatedBills>
+    <introducedDate>2017-03-09</introducedDate>
+    <recordedVotes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

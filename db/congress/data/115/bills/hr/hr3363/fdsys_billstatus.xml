@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <committeeReports />
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText />
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <party>D</party>
+        <lastName>Foster</lastName>
+        <firstName>Bill</firstName>
+        <bioguideId>F000454</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7355</gpoId>
+          <lisID>1888</lisID>
+          <bioguideId>F000454</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <middleName />
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <party>R</party>
+        <lastName>ROYCE</lastName>
+        <firstName>ED</firstName>
+        <bioguideId>R000487</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7845</gpoId>
+          <bioguideId>R000487</bioguideId>
+          <lisID>998</lisID>
+        </identifiers>
+        <district>39</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <middleName />
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <party>R</party>
+        <lastName>Stivers</lastName>
+        <firstName>Steve</firstName>
+        <bioguideId>S001187</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8105</gpoId>
+          <bioguideId>S001187</bioguideId>
+          <lisID>2047</lisID>
+        </identifiers>
+        <district>15</district>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <middleName />
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Blum, Rod [R-IA-1]</fullName>
+        <party>R</party>
+        <lastName>Blum</lastName>
+        <firstName>Rod</firstName>
+        <bioguideId>B001294</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001294</bioguideId>
+          <lisID>2241</lisID>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>IA</state>
+        <middleName />
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <party>R</party>
+        <lastName>Roe</lastName>
+        <firstName>David</firstName>
+        <bioguideId>R000582</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8148</gpoId>
+          <bioguideId>R000582</bioguideId>
+          <lisID>1954</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <actionDate>2017-07-24</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <originChamber>House</originChamber>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-24</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-24</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-24</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <district>8</district>
+        <firstName>David</firstName>
+        <fullName>Rep. Kustoff, David [R-TN-8]</fullName>
+        <state>TN</state>
+        <middleName />
+        <bioguideId>K000392</bioguideId>
+        <identifiers>
+          <bioguideId>K000392</bioguideId>
+          <lisID>2348</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <byRequestType />
+        <lastName>Kustoff</lastName>
+      </item>
+    </sponsors>
+    <billNumber>3363</billNumber>
+    <createDate>2017-07-25T03:11:35Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-24T16:02:15Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>To reform uniformity and reciprocity among States that license insurance claims adjusters and to facilitate prompt and efficient adjusting of insurance claims, and for other purposes.</title>
+    <introducedDate>2017-07-24</introducedDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <title>To reform uniformity and reciprocity among States that license insurance claims adjusters and to facilitate prompt and efficient adjusting of insurance claims, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To reform uniformity and reciprocity among States that license insurance claims adjusters and to facilitate prompt and efficient adjusting of insurance claims, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <updateDate>2017-07-25T07:18:33Z</updateDate>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

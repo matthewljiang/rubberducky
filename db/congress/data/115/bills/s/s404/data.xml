@@ -1,0 +1,41 @@
+<bill session="115" type="s" number="404" updated="2017-05-18T10:10:00Z">
+  <state datetime="2017-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2017-02-15"/>
+  </status>
+  <introduced datetime="2017-02-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Food, Drug, and Cosmetic Act to improve the process for inspections of device establishments for granting export certifications.</title>
+    <title type="display">A bill to amend the Federal Food, Drug, and Cosmetic Act to improve the process for inspections of device establishments for granting export certifications.</title>
+  </titles>
+  <sponsor bioguide_id="I000055"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001267" joined="2017-02-15"/>
+    <cosponsor bioguide_id="D000607" joined="2017-04-27"/>
+    <cosponsor bioguide_id="Y000064" joined="2017-04-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-02-15">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-02-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="1736"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Manufacturing"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

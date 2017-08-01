@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <district>7</district>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <firstName>DANNY</firstName>
+        <middleName>K.</middleName>
+        <party>D</party>
+        <state>IL</state>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <identifiers>
+          <bioguideId>D000096</bioguideId>
+          <lisID>1477</lisID>
+          <gpoId>7927</gpoId>
+        </identifiers>
+        <bioguideId>D000096</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>DAVIS</lastName>
+      </item>
+      <item>
+        <district>7</district>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <firstName>Sean</firstName>
+        <middleName>P.</middleName>
+        <party>R</party>
+        <state>WI</state>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+        <identifiers>
+          <bioguideId>D000614</bioguideId>
+          <lisID>2072</lisID>
+          <gpoId>8220</gpoId>
+        </identifiers>
+        <bioguideId>D000614</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Duffy</lastName>
+      </item>
+      <item>
+        <district>32</district>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>GRACE</firstName>
+        <middleName>F.</middleName>
+        <party>D</party>
+        <state>CA</state>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <identifiers>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <bioguideId>N000179</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>NAPOLITANO</lastName>
+      </item>
+    </cosponsors>
+    <billNumber>443</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-07-13</introducedDate>
+    <updateDate>2017-07-29T07:15:54Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-14</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2017-07-13</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-13</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-13</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>G000579</bioguideId>
+        <middleName />
+        <lastName>Gallagher</lastName>
+        <identifiers>
+          <bioguideId>G000579</bioguideId>
+          <lisID>2355</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <state>WI</state>
+        <district>8</district>
+        <firstName>Mike</firstName>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <title>Recognizing the importance and effectiveness of trauma-informed care.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Recognizing the importance and effectiveness of trauma-informed care.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2017-07-14T03:11:31Z</createDate>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-13T14:02:10Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-14T16:10:11Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2017-07-14</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <billType>HRES</billType>
+    <amendments />
+    <policyArea />
+    <relatedBills />
+    <title>Recognizing the importance and effectiveness of trauma-informed care.</title>
+    <constitutionalAuthorityStatementText />
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

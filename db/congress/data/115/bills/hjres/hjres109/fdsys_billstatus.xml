@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <number>1</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+          <actionDate>2017-01-11</actionDate>
+        </latestAction>
+        <latestTitle>Proposing a balanced budget amendment to the Constitution of the United States.</latestTitle>
+        <type>HJRES</type>
+      </item>
+      <item>
+        <number>2</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+          <actionDate>2017-01-11</actionDate>
+        </latestAction>
+        <latestTitle>Proposing a balanced budget amendment to the Constitution of the United States.</latestTitle>
+        <type>HJRES</type>
+      </item>
+      <item>
+        <number>14</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+          <actionDate>2017-01-11</actionDate>
+        </latestAction>
+        <latestTitle>Proposing a balanced budget amendment to the Constitution of the United States.</latestTitle>
+        <type>HJRES</type>
+      </item>
+      <item>
+        <number>18</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+          <actionDate>2017-01-11</actionDate>
+        </latestAction>
+        <latestTitle>Proposing a balanced budget amendment to the Constitution requiring that each agency and department's funding is justified.</latestTitle>
+        <type>HJRES</type>
+      </item>
+    </relatedBills>
+    <cosponsors />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Constitutional Amendment</b> </p> <p>This joint resolution proposes a constitutional amendment prohibiting total outlays for a fiscal year from exceeding total receipts for that fiscal year, unless three-fifths of each chamber of Congress authorizes the excess with a rollcall vote. The authorization must include an adequate increase in the debt limit for the specific excess of outlays. The prohibition excludes outlays for repayment of debt principal and receipts derived from borrowing. </p> <p>The President must submit a balanced budget to Congress annually.</p> <p> Total outlays for the Social Security trust funds over 75 years must not exceed total receipts for 75 years, unless three-fifths of each chamber of Congress authorizes the specific excess by a rollcall vote. </p> <p>Congress may waive the requirements by a rollcall vote for any year in which a declaration of war is in effect. The waiver must: (1) identify and be limited to the outlays necessary for the war, and (2) include an adequate increase in the debt limit for the specific excess of outlays. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2017-07-19T04:00:00Z</updateDate>
+          <actionDate>2017-07-19</actionDate>
+          <lastSummaryUpdateDate>2017-07-28T18:39:42Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-19T14:01:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the House Committee on the Judiciary.</text>
+      <actionDate>2017-07-19</actionDate>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>Disability assistance</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <updateDate>2017-07-28T18:45:14Z</updateDate>
+    <cboCostEstimates />
+    <introducedDate>2017-07-19</introducedDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H5982-5983</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5982-5983</url>
+          </link>
+        </links>
+        <text>Sponsor introductory remarks on measure. (CR H5982-5983)</text>
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <lastName>DEFAZIO</lastName>
+        <bioguideId>D000191</bioguideId>
+        <state>OR</state>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <district>4</district>
+        <byRequestType />
+        <firstName>PETER</firstName>
+        <identifiers>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+          <lisID>279</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Proposing an amendment to the Constitution of the United States to provide for balanced budgets for the Government.</title>
+    <notes />
+    <version>1.0.0</version>
+    <billType>HJRES</billType>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <laws />
+    <billNumber>109</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DeFAZIO:H.J. Res. 109.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 (relating to the power tomake all laws necessary and proper for carrying out thepowers vested in Congress)[Page H6043]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2017-07-20T03:11:30Z</createDate>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Proposing an amendment to the Constitution of the United States to provide for balanced budgets for the Government.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Proposing an amendment to the Constitution of the United States to provide for balanced budgets for the Government.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

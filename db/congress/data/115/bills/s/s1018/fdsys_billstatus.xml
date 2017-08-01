@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Venezuela Humanitarian Assistance and Defense of Democratic Governance Act of 2017</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-03T19:49:07Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2017-05-03</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-05-03</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>2658</number>
+        <latestTitle>Venezuela Humanitarian Assistance and Defense of Democratic Governance Act of 2017</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to House Judiciary</text>
+          <actionDate>2017-05-25</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <createDate>2017-05-04T00:26:48Z</createDate>
+    <amendments />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>R000595</bioguideId>
+        <state>FL</state>
+        <middleName />
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Marco</firstName>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <lastName>Rubio</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>D000563</bioguideId>
+        <state>IL</state>
+        <middleName>J.</middleName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>RICHARD</firstName>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <lastName>DURBIN</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+          <lisID>1692</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>C001056</bioguideId>
+        <state>TX</state>
+        <middleName />
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <lastName>Cornyn</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>M000639</bioguideId>
+        <state>NJ</state>
+        <middleName />
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ROBERT</firstName>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <lastName>MENENDEZ</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>754</lisID>
+          <gpoId>8253</gpoId>
+          <bioguideId>M000303</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>M000303</bioguideId>
+        <state>AZ</state>
+        <middleName>SIDNEY</middleName>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <lastName>MCCAIN</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>N000032</bioguideId>
+        <state>FL</state>
+        <middleName>WILLIAM</middleName>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>CLARENCE</firstName>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <lastName>NELSON</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000384</bioguideId>
+          <lisID>2176</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>K000384</bioguideId>
+        <state>VA</state>
+        <middleName />
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Timothy</firstName>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <lastName>Kaine</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>V000128</bioguideId>
+        <state>MD</state>
+        <middleName />
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Chris</firstName>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <lastName>Van Hollen</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>G000562</bioguideId>
+        <state>CO</state>
+        <middleName />
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Cory</firstName>
+        <sponsorshipDate>2017-05-10</sponsorshipDate>
+        <lastName>Gardner</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1383</lisID>
+          <gpoId>8244</gpoId>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>L000174</bioguideId>
+        <state>VT</state>
+        <middleName>JOSEPH</middleName>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>PATRICK</firstName>
+        <sponsorshipDate>2017-05-15</sponsorshipDate>
+        <lastName>LEAHY</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>C001088</bioguideId>
+        <state>DE</state>
+        <middleName>A.</middleName>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Christopher</firstName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <lastName>Coons</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000476</bioguideId>
+          <lisID>2291</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>T000476</bioguideId>
+        <state>NC</state>
+        <middleName>Roland</middleName>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Thomas</firstName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>Tillis</lastName>
+      </item>
+    </cosponsors>
+    <updateDate>2017-07-27T19:00:16Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>C000141</bioguideId>
+        <byRequestType />
+        <party>D</party>
+        <lastName>CARDIN</lastName>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <firstName>BENJAMIN</firstName>
+        <middleName>L.</middleName>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>Venezuela Humanitarian Assistance and Defense of Democratic Governance Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Venezuela Humanitarian Assistance and Defense of Democratic Governance Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>A bill to provide humanitarian assistance for the Venezuelan people, to defend democratic governance and combat widespread public corruption in Venezuela, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Venezuela Humanitarian Assistance and Defense of Democratic Governance Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-27T18:45:54Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Venezuela Humanitarian Assistance and Defense of Democratic Governance Act of 2017</b></p> <p>This bill directs the Department of State to work through nongovernmental organizations to provide public health commodities, basic food commodities, and related technical assistance to Venezuela. </p> <p>The State Department shall submit a multi-year strategy to Congress that: (1) describes how the United States will secure international support for the provision of humanitarian assistance to Venezuela, (2) identifies governments that will provide financial and technical assistance, and (3) identifies financial and technical assistance to be provided by multilateral institutions.</p> <p> The State Department shall work: (1) with the Organization of American States to ensure international observation that contributes to free and transparent electoral processes in Venezuela; and (2) to defend internationally recognized human rights for the people of Venezuela, support the efforts of independent media outlets to share information beyond the limited channels made available by the Venezuelan government, facilitate open access to the Internet, and to combat government corruption.</p> <p>The bill declares it to be U.S. policy to increase engagement with the governments in the Caribbean region and with the private sector and civil society in the United States and in the Caribbean.</p> <p>The State Department shall report to Congress regarding the involvement in corruption of senior Venezuelan officials, including members of the National Electoral Council, the judicial system, and government security forces.</p> <p>The bill amends the Venezuela Defense of Human Rights and Civil Society Act of 2014 to: (1) direct the President to impose sanctions on any current or former official of the Venezuela government who is determined to have perpetrated significant acts of public corruption or actions or policies that undermine democratic processes or institutions, and (2) extend the requirement to impose sanctions under such Act until December 31, 2022. </p>  </p> </p>]]></text>
+          <actionDate>2017-05-03</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-05-03T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <introducedDate>2017-05-03</introducedDate>
+    <committeeReports />
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-05-03</actionDate>
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <billNumber>1018</billNumber>
+    <billType>S</billType>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

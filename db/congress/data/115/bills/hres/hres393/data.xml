@@ -1,0 +1,43 @@
+<bill session="115" type="hr" number="393" updated="2017-07-19T07:15:20Z">
+  <state datetime="2017-06-20">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-20"/>
+  </status>
+  <introduced datetime="2017-06-20"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for addressing the Arab-Israeli conflict in a concurrent track with the Israeli-Palestinian peace process and commending Arab and Muslim-majority states that have improved bilateral relations with Israel.</title>
+    <title type="display">Expressing support for addressing the Arab-Israeli conflict in a concurrent track with the Israeli-Palestinian peace process and commending Arab and Muslim-majority states that have improved bilateral relations with Israel.</title>
+  </titles>
+  <sponsor bioguide_id="H000324"/>
+  <cosponsors>
+    <cosponsor bioguide_id="E000179" joined="2017-06-20"/>
+    <cosponsor bioguide_id="S001183" joined="2017-06-20"/>
+    <cosponsor bioguide_id="S000344" joined="2017-07-18"/>
+    <cosponsor bioguide_id="W000800" joined="2017-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-20">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-20">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E855"/>
+    </action>
+    <action datetime="2017-06-20" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2017-06-27">
+      <text>Referred to the Subcommittee on Middle East and North Africa.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Middle East and North Africa" code="HSFA13" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

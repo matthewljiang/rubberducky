@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Individual Health Insurance Marketplace Improvement Act</title>
+    <sponsors>
+      <item>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <identifiers>
+          <lisID>179</lisID>
+          <gpoId>8283</gpoId>
+          <bioguideId>C000174</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <lastName>CARPER</lastName>
+        <firstName>THOMAS</firstName>
+        <bioguideId>C000174</bioguideId>
+        <state>DE</state>
+        <middleName>R.</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills>
+      <item>
+        <number>1511</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestTitle>Keeping Health Insurance Affordable Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-06-29</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <title>Individual Health Insurance Marketplace Improvement Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>A bill to establish an Individual Market Reinsurance fund to provide funding for State individual market stabilization reinsurance programs.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Individual Health Insurance Marketplace Improvement Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <title>Individual Health Insurance Marketplace Improvement Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <notes />
+    <updateDate>2017-07-28T10:55:49Z</updateDate>
+    <cboCostEstimates />
+    <latestAction>
+      <links />
+      <actionDate>2017-06-14</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-14T19:03:38Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <introducedDate>2017-06-14</introducedDate>
+    <calendarNumbers />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <createDate>2017-06-15T00:26:36Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>1354</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-06-14</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-06-14</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <laws />
+    <billType>S</billType>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kaine</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <firstName>Timothy</firstName>
+        <bioguideId>K000384</bioguideId>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <identifiers>
+          <lisID>2176</lisID>
+          <gpoId />
+          <bioguideId>K000384</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>VA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Shaheen</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <bioguideId>S001181</bioguideId>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>NH</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>NELSON</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <firstName>CLARENCE</firstName>
+        <bioguideId>N000032</bioguideId>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <identifiers>
+          <bioguideId>N000032</bioguideId>
+          <gpoId>8236</gpoId>
+          <lisID>859</lisID>
+        </identifiers>
+        <middleName>WILLIAM</middleName>
+        <state>FL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hassan</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <firstName>Margaret</firstName>
+        <bioguideId>H001076</bioguideId>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+          <lisID>2302</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>Wood</middleName>
+        <state>NH</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>CARDIN</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <firstName>BENJAMIN</firstName>
+        <bioguideId>C000141</bioguideId>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <identifiers>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <state>MD</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <bioguideId>K000367</bioguideId>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <middleName />
+        <state>MN</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Coons</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <firstName>Christopher</firstName>
+        <bioguideId>C001088</bioguideId>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <identifiers>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <state>DE</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Heitkamp</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <firstName>Heidi</firstName>
+        <bioguideId>H001069</bioguideId>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <identifiers>
+          <lisID>2174</lisID>
+          <gpoId />
+          <bioguideId>H001069</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>ND</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>King</lastName>
+        <party>I</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <firstName>Angus</firstName>
+        <bioguideId>K000383</bioguideId>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2185</lisID>
+          <gpoId />
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>ME</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>STABENOW</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <firstName>DEBORAH</firstName>
+        <bioguideId>S000770</bioguideId>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <identifiers>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <middleName>ANN</middleName>
+        <state>MI</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Tester</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <firstName>Jon</firstName>
+        <bioguideId>T000464</bioguideId>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>MT</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Heinrich</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <firstName>Martin</firstName>
+        <bioguideId>H001046</bioguideId>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001046</bioguideId>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <middleName />
+        <state>NM</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hirono</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <firstName>Mazie</firstName>
+        <bioguideId>H001042</bioguideId>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+        </identifiers>
+        <middleName>K.</middleName>
+        <state>HI</state>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

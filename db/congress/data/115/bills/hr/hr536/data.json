@@ -1,0 +1,150 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-01-13", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-13", 
+      "action_code": "H11100-A", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on House Administration, and in addition to the Committees on the Budget, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-01-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Administration", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-01-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Budget", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-01-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to House Oversight and Government Reform", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr536-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Budget", 
+      "committee_id": "HSBU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-01-13", 
+  "number": "536", 
+  "official_title": "To provide that the salaries of Members of a House of Congress will be held in escrow if that House has not agreed to a concurrent resolution on the budget for fiscal year 2018 by April 15, 2017, and to withhold the salary of the Director of OMB upon failure to submit the President's budget to Congress as required by section 1105 of title 31, United States Code.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr429-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Protection From Obamacare Mandates and Congressional Equity Act", 
+  "sponsor": {
+    "bioguide_id": "B001302", 
+    "district": "5", 
+    "name": "Biggs, Andy", 
+    "state": "AZ", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-01-13", 
+  "subjects": [
+    "Budget deficits and national debt", 
+    "Budget process", 
+    "Congressional oversight", 
+    "Economics and public finance", 
+    "Federal officials", 
+    "Government employee pay, benefits, personnel management", 
+    "Government studies and investigations", 
+    "Members of Congress", 
+    "Office of Management and Budget (OMB)"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protection From Obamacare Mandates and Congressional Equity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protection From Obamacare Mandates and Congressional Equity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide that the salaries of Members of a House of Congress will be held in escrow if that House has not agreed to a concurrent resolution on the budget for fiscal year 2018 by April 15, 2017, and to withhold the salary of the Director of OMB upon failure to submit the President's budget to Congress as required by section 1105 of title 31, United States Code.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Protection From Obamacare Mandates and Congressional Equity Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-06-19T20:30:12Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr536.xml"
+}

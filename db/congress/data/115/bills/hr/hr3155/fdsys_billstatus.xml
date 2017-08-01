@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>WALDEN</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>W000791</bioguideId>
+          <lisID>1596</lisID>
+          <gpoId>8115</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>GREG</firstName>
+        <state>OR</state>
+        <district>2</district>
+        <fullName>Rep. Walden, Greg [R-OR-2]</fullName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000791</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>DEFAZIO</lastName>
+        <middleName>A.</middleName>
+        <identifiers>
+          <gpoId>8117</gpoId>
+          <bioguideId>D000191</bioguideId>
+          <lisID>279</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>PETER</firstName>
+        <state>OR</state>
+        <district>4</district>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000191</bioguideId>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <title>To amend the Secure Rural Schools and Community Self-Determination Act of 2000 to modify the authorized uses of certain county funds and to extend the deadline for participating counties to initiate projects and obligate funds.</title>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Secure Rural Schools and Community Self-Determination Act of 2000 to modify the authorized uses of certain county funds and to extend the deadline for participating counties to initiate projects and obligate funds.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To amend the Secure Rural Schools and Community Self-Determination Act of 2000 to modify the authorized uses of certain county funds and to extend the deadline for participating counties to initiate projects and obligate funds.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>3155</billNumber>
+    <recordedVotes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <relatedBills />
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SCHRADER:H.R. 3155.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under:U.S. Const. art. 1, Sec. 8, cl. 1;[Page H5378]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>S001180</bioguideId>
+        <firstName>Kurt</firstName>
+        <district>5</district>
+        <fullName>Rep. Schrader, Kurt [D-OR-5]</fullName>
+        <identifiers>
+          <gpoId>8118</gpoId>
+          <bioguideId>S001180</bioguideId>
+          <lisID>1950</lisID>
+        </identifiers>
+        <lastName>Schrader</lastName>
+        <middleName />
+        <party>D</party>
+        <byRequestType />
+        <state>OR</state>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <introducedDate>2017-06-29</introducedDate>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+      <links />
+      <actionDate>2017-07-24</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-29T14:08:50Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Conservation and Forestry Subcommittee</name>
+              <systemCode>hsag15</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-24T16:05:50Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-29T14:09:00Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-07-25T07:13:09Z</updateDate>
+    <createDate>2017-06-30T03:11:38Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-24</actionDate>
+        <committee>
+          <name>Conservation and Forestry Subcommittee</name>
+          <systemCode>hsag15</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

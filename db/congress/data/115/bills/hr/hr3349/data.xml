@@ -1,0 +1,32 @@
+<bill session="115" type="h" number="3349" updated="2017-07-21T07:31:36Z">
+  <state datetime="2017-07-20">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-20"/>
+  </status>
+  <introduced datetime="2017-07-20"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide a tax incentive for the installation and maintenance of mechanical insulation property.</title>
+    <title type="display">To amend the Internal Revenue Code of 1986 to provide a tax incentive for the installation and maintenance of mechanical insulation property.</title>
+  </titles>
+  <sponsor bioguide_id="S001156"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001181" joined="2017-07-20"/>
+    <cosponsor bioguide_id="R000585" joined="2017-07-20"/>
+    <cosponsor bioguide_id="R000577" joined="2017-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-20">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-20" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

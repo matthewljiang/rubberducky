@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>To authorize the Secretary of Health and Human Services to award grants to support the access of marginalized youth to sexual health services, and for other purposes.</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-28T13:10:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea />
+    <recordedVotes />
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <notes />
+    <createDate>2017-07-29T03:11:38Z</createDate>
+    <amendments />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>S000510</bioguideId>
+          <lisID>1528</lisID>
+          <gpoId>8213</gpoId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <district>9</district>
+        <firstName>ADAM</firstName>
+        <bioguideId>S000510</bioguideId>
+        <lastName>SMITH</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2311</lisID>
+          <gpoId />
+          <bioguideId>B001300</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName>Diaz</middleName>
+        <district>44</district>
+        <firstName>Nanette</firstName>
+        <bioguideId>B001300</bioguideId>
+        <lastName>Barragan</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Barragan, Nanette Diaz [D-CA-44]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <district>32</district>
+        <firstName>GRACE</firstName>
+        <bioguideId>N000179</bioguideId>
+        <lastName>NAPOLITANO</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7999</gpoId>
+          <bioguideId>C000714</bioguideId>
+          <lisID>229</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <district>13</district>
+        <firstName>JOHN</firstName>
+        <bioguideId>C000714</bioguideId>
+        <lastName>CONYERS</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2229</lisID>
+          <bioguideId>A000371</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <district>31</district>
+        <firstName>Pete</firstName>
+        <bioguideId>A000371</bioguideId>
+        <lastName>Aguilar</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Aguilar, Pete [D-CA-31]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000385</bioguideId>
+          <lisID>2190</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <district>2</district>
+        <firstName>Robin</firstName>
+        <bioguideId>K000385</bioguideId>
+        <lastName>Kelly</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <district>27</district>
+        <firstName>Judy</firstName>
+        <bioguideId>C001080</bioguideId>
+        <lastName>Chu</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+          <lisID>2004</lisID>
+          <gpoId>7889</gpoId>
+        </identifiers>
+        <party>D</party>
+        <middleName>S.</middleName>
+        <district>24</district>
+        <firstName>Frederica</firstName>
+        <bioguideId>W000808</bioguideId>
+        <lastName>Wilson</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001157</bioguideId>
+          <lisID>1722</lisID>
+          <gpoId>7910</gpoId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <district>13</district>
+        <firstName>David</firstName>
+        <bioguideId>S001157</bioguideId>
+        <lastName>Scott</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>GA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8373</gpoId>
+          <lisID>2097</lisID>
+          <bioguideId>P000604</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <district>10</district>
+        <firstName>Donald</firstName>
+        <bioguideId>P000604</bioguideId>
+        <lastName>Payne</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <updateDate>2017-07-29T07:33:04Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>A000370</bioguideId>
+        <byRequestType />
+        <district>12</district>
+        <party>D</party>
+        <lastName>Adams</lastName>
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+        <firstName>Alma</firstName>
+        <middleName>S.</middleName>
+        <state>NC</state>
+        <identifiers>
+          <lisID>2201</lisID>
+          <gpoId />
+          <bioguideId>A000370</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To authorize the Secretary of Health and Human Services to award grants to support the access of marginalized youth to sexual health services, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To authorize the Secretary of Health and Human Services to award grants to support the access of marginalized youth to sexual health services, and for other purposes.</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-07-28</introducedDate>
+    <constitutionalAuthorityStatementText />
+    <congress>115</congress>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-07-28</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <billNumber>3559</billNumber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,29 @@
+<bill session="115" type="sr" number="226" updated="2017-07-21T12:57:18Z">
+  <state datetime="2017-07-20">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-20"/>
+  </status>
+  <introduced datetime="2017-07-20"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating the week of July 17 through July 21, 2017, as "National Ectodermal Dysplasias Week" and supporting the goals and ideals of National Ectodermal Dysplasias Week to raise awareness and understanding of ectodermal dysplasias.</title>
+    <title type="display">A resolution designating the week of July 17 through July 21, 2017, as "National Ectodermal Dysplasias Week" and supporting the goals and ideals of National Ectodermal Dysplasias Week to raise awareness and understanding of ectodermal dysplasias.</title>
+  </titles>
+  <sponsor bioguide_id="B001230"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-07-20">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-20" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S4118-4119" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

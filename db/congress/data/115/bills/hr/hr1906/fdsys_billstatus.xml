@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>REDEEM Act</title>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>REDEEM Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Record Expungement Designed to Enhance Employment Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>REDEEM Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Record Expungement Designed to Enhance Employment Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To provide for the sealing or expungement of records relating to Federal nonviolent criminal offenses, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>REDEEM Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CUMMINGS:H.R. 1906.Congress has the power to enact this legislation pursuantto the following:Pursuant to Article I, Section 8, Clause 3 of the UnitedStates Constitution, the Congress shall have the power to``regulate Commerce with foreign Nations, and among theseveral states, and with the Indian Tribes''[Page H2754]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <cboCostEstimates />
+    <billNumber>1906</billNumber>
+    <updateDate>2017-07-20T20:00:13Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>CUMMINGS</lastName>
+        <middleName>E.</middleName>
+        <state>MD</state>
+        <firstName>ELIJAH</firstName>
+        <identifiers>
+          <gpoId>7982</gpoId>
+          <bioguideId>C000984</bioguideId>
+          <lisID>256</lisID>
+        </identifiers>
+        <bioguideId>C000984</bioguideId>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <party>D</party>
+        <district>7</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>CONYERS</lastName>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <party>D</party>
+        <state>MI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JOHN</firstName>
+        <bioguideId>C000714</bioguideId>
+        <district>13</district>
+        <identifiers>
+          <lisID>229</lisID>
+          <gpoId>7999</gpoId>
+          <bioguideId>C000714</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>JACKSON LEE</lastName>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <party>D</party>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>SHEILA</firstName>
+        <bioguideId>J000032</bioguideId>
+        <district>18</district>
+        <identifiers>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName>LACY</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>CLAY</lastName>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <party>D</party>
+        <state>MO</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>WM.</firstName>
+        <bioguideId>C001049</bioguideId>
+        <district>1</district>
+        <identifiers>
+          <lisID>1654</lisID>
+          <bioguideId>C001049</bioguideId>
+          <gpoId>8009</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEE</lastName>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <party>D</party>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>BARBARA</firstName>
+        <bioguideId>L000551</bioguideId>
+        <district>13</district>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bass</lastName>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <party>D</party>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Karen</firstName>
+        <bioguideId>B001270</bioguideId>
+        <district>37</district>
+        <identifiers>
+          <lisID>1996</lisID>
+          <gpoId>7838</gpoId>
+          <bioguideId>B001270</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cardenas</lastName>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <party>D</party>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tony</firstName>
+        <bioguideId>C001097</bioguideId>
+        <district>29</district>
+        <identifiers>
+          <lisID>2107</lisID>
+          <gpoId />
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName>HOLMES</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>NORTON</lastName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <party>D</party>
+        <state>DC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ELEANOR</firstName>
+        <bioguideId>N000147</bioguideId>
+        <district>0</district>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <laws />
+    <notes />
+    <originChamber>House</originChamber>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <actionDate>2017-04-26</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:00:37Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-26T19:46:42Z</date>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>hsag00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:00:42Z</date>
+            </item>
+          </activities>
+          <name>Agriculture Committee</name>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsag03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-24T18:11:27Z</date>
+                </item>
+              </activities>
+              <name>Nutrition Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:00:47Z</date>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>3</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-26</actionDate>
+        <committee>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-24</actionDate>
+        <committee>
+          <name>Nutrition Subcommittee</name>
+          <systemCode>hsag03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Nutrition.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Ways and Means</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2017-04-05</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Agriculture</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2017-04-05</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Judiciary</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2017-04-05</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Agriculture, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <committee />
+        <links />
+        <actionDate>2017-04-05</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+        <actionDate>2017-04-05</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+        <actionDate>2017-04-05</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-04-06T03:11:54Z</createDate>
+    <congress>115</congress>
+    <amendments />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2017-04-05</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>REDEEM Act</latestTitle>
+        <number>827</number>
+        <type>S</type>
+      </item>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2017-02-07</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>MERCY Act</latestTitle>
+        <number>329</number>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <introducedDate>2017-04-05</introducedDate>
+    <recordedVotes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

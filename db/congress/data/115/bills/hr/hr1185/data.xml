@@ -1,0 +1,54 @@
+<bill session="115" type="h" number="1185" updated="2017-07-28T07:16:04Z">
+  <state datetime="2017-02-16">REFERRED</state>
+  <status>
+    <introduced datetime="2017-02-16"/>
+  </status>
+  <introduced datetime="2017-02-16"/>
+  <titles>
+    <title type="short" as="introduced">Retain Act</title>
+    <title type="short" as="introduced">Retain Act</title>
+    <title type="official" as="introduced">To amend titles 10 and 41, United States Code, to provide a contracting preference for contractors that retain American jobs and purchase goods and services in the United States, and for other purposes.</title>
+    <title type="display">Retain Act</title>
+  </titles>
+  <sponsor bioguide_id="R000577"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001090" joined="2017-05-16"/>
+    <cosponsor bioguide_id="K000009" joined="2017-03-09"/>
+    <cosponsor bioguide_id="M000312" joined="2017-05-17"/>
+    <cosponsor bioguide_id="P000096" joined="2017-07-27"/>
+    <cosponsor bioguide_id="P000607" joined="2017-03-09"/>
+    <cosponsor bioguide_id="S000480" joined="2017-03-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-02-16">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-02-16" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-02-16">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2017-02-16">
+      <text>Referred to House Armed Services</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Buy American requirements"/>
+    <term name="Congressional oversight"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Industrial facilities"/>
+    <term name="Manufacturing"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

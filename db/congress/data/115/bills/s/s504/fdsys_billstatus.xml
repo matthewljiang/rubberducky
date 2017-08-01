@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-06-15T20:51:03Z</pubDate>
+        <url>https://www.cbo.gov/publication/52823</url>
+        <title>S. 504, APEC Business Travel Cards Reauthorization Act of 2017</title>
+      </item>
+    </cboCostEstimates>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <firstName>Steve</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <lastName>Daines</lastName>
+        <state>MT</state>
+        <identifiers>
+          <lisID>2138</lisID>
+          <gpoId />
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>D000618</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Amy</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <lastName>Klobuchar</lastName>
+        <state>MN</state>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>K000367</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Cory</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <sponsorshipDate>2017-05-08</sponsorshipDate>
+        <lastName>Gardner</lastName>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>G000562</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Competitiveness, trade promotion, trade deficits</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2017-03-02</introducedDate>
+    <actions>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-02</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionDate>2017-03-02</actionDate>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <orderedReported>1</orderedReported>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <committeeReports />
+    <notes />
+    <amendments />
+    <title>APEC Business Travel Cards Reauthorization Act of 2017</title>
+    <latestAction>
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <actionDate>2017-05-17</actionDate>
+      <links />
+    </latestAction>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>2805</number>
+        <latestTitle>To permanently authorize the Asia-Pacific Economic Cooperation Business Travel Card Program.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+          <actionDate>2017-06-20</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <congress>115</congress>
+    <createDate>2017-03-03T05:11:28Z</createDate>
+    <billNumber>504</billNumber>
+    <updateDate>2017-07-18T04:32:10Z</updateDate>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>APEC Business Travel Cards Reauthorization Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>APEC Business Travel Cards Reauthorization Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to permanently authorize the Asia-Pacific Economic Cooperation Business Travel Card Program.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>APEC Business Travel Cards Reauthorization Act of 2017</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-13T21:15:06Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-02</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-03-02T05:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><strong>APEC Business Travel Cards Reauthorization Act of 2017</strong></p> <p>This bill amends the Asia-Pacific Economic Cooperation Business Travel Cards Act of 2011 to permanently authorize the Asia-Pacific Economic Cooperation business travel card program. (The program, which provides persons who are engaged in Asia-Pacific Economic Cooperation business with expedited airport processing, is scheduled to end on September 30, 2018.) </p>]]></text>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <bioguideId>H001042</bioguideId>
+        <lastName>Hirono</lastName>
+        <state>HI</state>
+        <firstName>Mazie</firstName>
+        <byRequestType />
+        <identifiers>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-05-17T14:00:46Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-03-02T18:23:31Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

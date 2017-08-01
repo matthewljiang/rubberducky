@@ -1,0 +1,68 @@
+<bill session="115" type="h" number="1737" updated="2017-06-19T21:30:10Z">
+  <state datetime="2017-03-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-27"/>
+  </status>
+  <introduced datetime="2017-03-27"/>
+  <titles>
+    <title type="short" as="introduced">Farmers Undertake Environmental Land Stewardship Act</title>
+    <title type="short" as="introduced">Farmers Undertake Environmental Land Stewardship Act</title>
+    <title type="short" as="introduced">FUELS Act</title>
+    <title type="official" as="introduced">To amend the Water Resources Reform and Development Act of 2014 with respect to the application of the Spill Prevention, Control, and Countermeasure rule to certain farms, and for other purposes.</title>
+    <title type="display">FUELS Act</title>
+  </titles>
+  <sponsor bioguide_id="C001087"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000374" joined="2017-03-27"/>
+    <cosponsor bioguide_id="B001295" joined="2017-03-27"/>
+    <cosponsor bioguide_id="B001289" joined="2017-03-27"/>
+    <cosponsor bioguide_id="C001096" joined="2017-03-27"/>
+    <cosponsor bioguide_id="G000563" joined="2017-03-27"/>
+    <cosponsor bioguide_id="G000565" joined="2017-03-27"/>
+    <cosponsor bioguide_id="H001045" joined="2017-03-27"/>
+    <cosponsor bioguide_id="H001036" joined="2017-03-28"/>
+    <cosponsor bioguide_id="H001067" joined="2017-03-27"/>
+    <cosponsor bioguide_id="H001073" joined="2017-03-27"/>
+    <cosponsor bioguide_id="J000290" joined="2017-03-27"/>
+    <cosponsor bioguide_id="J000292" joined="2017-03-27"/>
+    <cosponsor bioguide_id="J000255" joined="2017-03-27"/>
+    <cosponsor bioguide_id="K000388" joined="2017-03-27"/>
+    <cosponsor bioguide_id="K000392" joined="2017-04-25"/>
+    <cosponsor bioguide_id="L000578" joined="2017-03-27"/>
+    <cosponsor bioguide_id="L000576" joined="2017-03-27"/>
+    <cosponsor bioguide_id="L000491" joined="2017-03-27"/>
+    <cosponsor bioguide_id="M001198" joined="2017-03-27"/>
+    <cosponsor bioguide_id="M001201" joined="2017-03-27"/>
+    <cosponsor bioguide_id="P000601" joined="2017-03-27"/>
+    <cosponsor bioguide_id="P000592" joined="2017-04-03"/>
+    <cosponsor bioguide_id="R000575" joined="2017-03-27"/>
+    <cosponsor bioguide_id="R000603" joined="2017-03-27"/>
+    <cosponsor bioguide_id="S000583" joined="2017-03-28"/>
+    <cosponsor bioguide_id="S001192" joined="2017-03-27"/>
+    <cosponsor bioguide_id="W000809" joined="2017-03-27"/>
+    <cosponsor bioguide_id="Y000065" joined="2017-03-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-03-27" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-03-28">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1207"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

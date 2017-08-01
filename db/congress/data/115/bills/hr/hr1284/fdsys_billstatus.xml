@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. JENKINS of Kansas:H.R. 1284.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8:The Congress shall have Power To lay and collect Taxes,Duties, Imposts and Excises, to pay the Debts and provide forthe common Defense and general Welfare of the United States;but all Duties, Imposts and Excises shall be uniformthroughout the United States.Article I, Section 9:No Money shall be drawn from the Treasury, but inConsequence of Appropriations made by Law.[Page H1464]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2017-03-17</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-10</actionDate>
+        <committee>
+          <systemCode>hswm02</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Energy and Commerce</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-03-01</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Ways and Means</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-03-01</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-01</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-01</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-01</actionDate>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Medicare Patient Access to Hospice Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Medicare Patient Access to Hospice Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XVIII of the Social Security Act to provide for the recognition of attending physician assistants as attending physicians to serve hospice patients, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Medicare Patient Access to Hospice Act of 2017</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1921</lisID>
+          <bioguideId>J000290</bioguideId>
+          <gpoId>7950</gpoId>
+        </identifiers>
+        <district>2</district>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <byRequestType />
+        <state>KS</state>
+        <bioguideId>J000290</bioguideId>
+        <lastName>Jenkins</lastName>
+        <firstName>Lynn</firstName>
+        <party>R</party>
+        <middleName />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <laws />
+    <createDate>2017-03-02T05:13:47Z</createDate>
+    <introducedDate>2017-03-01</introducedDate>
+    <billNumber>1284</billNumber>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Long-term, rehabilitative, and terminal care</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-01T15:03:10Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-17T17:39:24Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-01T15:03:05Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hswm02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-10T14:26:09Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Medicare Patient Access to Hospice Act of 2017</b></p> <p>This bill amends title XVIII (Medicare) of the Social Security Act to allow physician assistants to provide hospice care under Medicare. </p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-06-29T17:53:11Z</lastSummaryUpdateDate>
+          <updateDate>2017-03-01T05:00:00Z</updateDate>
+          <actionDate>2017-03-01</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <title>Medicare Patient Access to Hospice Act of 2017</title>
+    <updateDate>2017-07-19T07:15:49Z</updateDate>
+    <latestAction>
+      <actionDate>2017-03-17</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <relatedBills />
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <state>CA</state>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <bioguideId>T000460</bioguideId>
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+        <lastName>THOMPSON</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>T000460</bioguideId>
+          <gpoId>7806</gpoId>
+          <lisID>1593</lisID>
+        </identifiers>
+        <district>5</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>MIKE</firstName>
+        <middleName />
+      </item>
+      <item>
+        <state>KS</state>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <bioguideId>M001198</bioguideId>
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <lastName>Marshall</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2328</lisID>
+          <bioguideId>M001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Roger</firstName>
+        <middleName>W.</middleName>
+      </item>
+      <item>
+        <state>OR</state>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <bioguideId>B000574</bioguideId>
+        <sponsorshipDate>2017-03-06</sponsorshipDate>
+        <lastName>BLUMENAUER</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>EARL</firstName>
+        <middleName />
+      </item>
+      <item>
+        <state>OR</state>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <bioguideId>D000191</bioguideId>
+        <sponsorshipDate>2017-03-06</sponsorshipDate>
+        <lastName>DEFAZIO</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+        </identifiers>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>PETER</firstName>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <state>AZ</state>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <bioguideId>G000551</bioguideId>
+        <sponsorshipDate>2017-03-06</sponsorshipDate>
+        <lastName>Grijalva</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Raul</firstName>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <state>CT</state>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <bioguideId>D000216</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <lastName>DELAURO</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>281</lisID>
+          <bioguideId>D000216</bioguideId>
+          <gpoId>7868</gpoId>
+        </identifiers>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>ROSA</firstName>
+        <middleName />
+      </item>
+      <item>
+        <state>ME</state>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <bioguideId>P000597</bioguideId>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <lastName>Pingree</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1927</lisID>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Chellie</firstName>
+        <middleName />
+      </item>
+      <item>
+        <state>CA</state>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <bioguideId>T000472</bioguideId>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <lastName>Takano</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2110</lisID>
+          <bioguideId>T000472</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>41</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <middleName />
+      </item>
+      <item>
+        <state>IA</state>
+        <fullName>Rep. Young, David [R-IA-3]</fullName>
+        <bioguideId>Y000066</bioguideId>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <lastName>Young</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2242</lisID>
+          <bioguideId>Y000066</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <middleName />
+      </item>
+      <item>
+        <state>WI</state>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <bioguideId>P000607</bioguideId>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <lastName>Pocan</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <middleName />
+      </item>
+      <item>
+        <state>IL</state>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <bioguideId>S001145</bioguideId>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <lastName>SCHAKOWSKY</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>JANICE</firstName>
+        <middleName>D.</middleName>
+      </item>
+      <item>
+        <state>FL</state>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <bioguideId>G000578</bioguideId>
+        <sponsorshipDate>2017-07-18</sponsorshipDate>
+        <lastName>Gaetz</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2314</lisID>
+          <bioguideId>G000578</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Matt</firstName>
+        <middleName />
+      </item>
+    </cosponsors>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

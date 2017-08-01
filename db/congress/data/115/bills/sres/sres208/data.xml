@@ -1,0 +1,35 @@
+<bill session="115" type="sr" number="208" updated="2017-07-20T17:26:13Z">
+  <state datetime="2017-06-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-28"/>
+  </status>
+  <introduced datetime="2017-06-28"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the Senate that flowers grown in the United States support the farmers, small businesses, jobs, and economy of the United States, that flower farming is an honorable vocation, and designating July as "American Grown Flower Month".</title>
+    <title type="display">A resolution expressing the sense of the Senate that flowers grown in the United States support the farmers, small businesses, jobs, and economy of the United States, that flower farming is an honorable vocation, and designating July as "American Grown Flower Month".</title>
+  </titles>
+  <sponsor bioguide_id="F000062"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001153" joined="2017-06-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-28">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-06-28" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S3834-3835" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="115" relation="unknown" number="413"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

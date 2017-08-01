@@ -1,0 +1,77 @@
+<bill session="115" type="h" number="787" updated="2017-06-19T21:00:33Z">
+  <state datetime="2017-02-01">REFERRED</state>
+  <status>
+    <introduced datetime="2017-02-01"/>
+  </status>
+  <introduced datetime="2017-02-01"/>
+  <titles>
+    <title type="short" as="introduced">Streamlined and Improved Methods at Polling Locations and Early (SIMPLE) Voting Act of 2017</title>
+    <title type="short" as="introduced">Streamlined and Improved Methods at Polling Locations and Early (SIMPLE) Voting Act of 2017</title>
+    <title type="official" as="introduced">To amend the Help America Vote Act of 2002 to promote early voting in elections for Federal office and to prevent unreasonable waiting times for voters at polling places used in such elections, and for other purposes.</title>
+    <title type="display">Streamlined and Improved Methods at Polling Locations and Early (SIMPLE) Voting Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C001068"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001281" joined="2017-02-06"/>
+    <cosponsor bioguide_id="B000574" joined="2017-02-13"/>
+    <cosponsor bioguide_id="C001072" joined="2017-02-06"/>
+    <cosponsor bioguide_id="C001080" joined="2017-02-13"/>
+    <cosponsor bioguide_id="C001067" joined="2017-02-02"/>
+    <cosponsor bioguide_id="C000984" joined="2017-02-01"/>
+    <cosponsor bioguide_id="D000610" joined="2017-02-01"/>
+    <cosponsor bioguide_id="E000288" joined="2017-02-01"/>
+    <cosponsor bioguide_id="E000215" joined="2017-02-03"/>
+    <cosponsor bioguide_id="G000559" joined="2017-02-01"/>
+    <cosponsor bioguide_id="G000551" joined="2017-02-01"/>
+    <cosponsor bioguide_id="J000294" joined="2017-02-06"/>
+    <cosponsor bioguide_id="J000126" joined="2017-02-01"/>
+    <cosponsor bioguide_id="K000009" joined="2017-02-01"/>
+    <cosponsor bioguide_id="M000312" joined="2017-02-01"/>
+    <cosponsor bioguide_id="M001137" joined="2017-02-01"/>
+    <cosponsor bioguide_id="M001160" joined="2017-02-01"/>
+    <cosponsor bioguide_id="N000147" joined="2017-02-01"/>
+    <cosponsor bioguide_id="P000613" joined="2017-05-02"/>
+    <cosponsor bioguide_id="P000607" joined="2017-02-01"/>
+    <cosponsor bioguide_id="P000598" joined="2017-02-07"/>
+    <cosponsor bioguide_id="R000606" joined="2017-02-06"/>
+    <cosponsor bioguide_id="R000577" joined="2017-02-01"/>
+    <cosponsor bioguide_id="S001145" joined="2017-02-06"/>
+    <cosponsor bioguide_id="S001170" joined="2017-03-01"/>
+    <cosponsor bioguide_id="S001200" joined="2017-02-14"/>
+    <cosponsor bioguide_id="S001193" joined="2017-02-06"/>
+    <cosponsor bioguide_id="T000472" joined="2017-02-01"/>
+    <cosponsor bioguide_id="V000131" joined="2017-02-01"/>
+    <cosponsor bioguide_id="W000797" joined="2017-02-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-02-01">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-02-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E118-119"/>
+    </action>
+    <action datetime="2017-02-01" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional elections"/>
+    <term name="Congressional oversight"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Federal Election Commission (FEC)"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Public transit"/>
+    <term name="State and local government operations"/>
+    <term name="Voting rights"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

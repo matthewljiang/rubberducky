@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <gpoId>7999</gpoId>
+          <bioguideId>C000714</bioguideId>
+          <lisID>229</lisID>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <middleName />
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CONYERS</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <bioguideId>C000714</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <middleName />
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <state>TN</state>
+        <bioguideId>C001068</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <gpoId>8373</gpoId>
+          <lisID>2097</lisID>
+          <bioguideId>P000604</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Donald</firstName>
+        <middleName>M.</middleName>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Payne</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <bioguideId>P000604</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <gpoId>7901</gpoId>
+          <bioguideId>J000288</bioguideId>
+          <lisID>1843</lisID>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Henry</firstName>
+        <middleName>C. "Hank"</middleName>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Johnson</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <bioguideId>J000288</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2231</lisID>
+          <bioguideId>T000474</bioguideId>
+        </identifiers>
+        <district>35</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Norma</firstName>
+        <middleName>J.</middleName>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Torres</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>T000474</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <lisID>1653</lisID>
+          <gpoId>8004</gpoId>
+          <bioguideId>M001143</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>BETTY</firstName>
+        <middleName />
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>MCCOLLUM</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <bioguideId>M001143</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000582</bioguideId>
+          <lisID>2230</lisID>
+        </identifiers>
+        <district>33</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ted</firstName>
+        <middleName />
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lieu</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>L000582</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jamie</firstName>
+        <middleName />
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Raskin</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <bioguideId>R000606</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+          <bioguideId>W000800</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Peter</firstName>
+        <middleName />
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Welch</lastName>
+        <party>D</party>
+        <state>VT</state>
+        <bioguideId>W000800</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <district>19</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>ZOE</firstName>
+        <middleName />
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LOFGREN</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>L000397</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+          <gpoId>8139</gpoId>
+          <lisID>2055</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <middleName>N.</middleName>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cicilline</lastName>
+        <party>D</party>
+        <state>RI</state>
+        <bioguideId>C001084</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+          <lisID>1861</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Carol</firstName>
+        <middleName />
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Shea-Porter</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <bioguideId>S001170</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000602</bioguideId>
+          <lisID>2262</lisID>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kathleen</firstName>
+        <middleName>M.</middleName>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Rice</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <bioguideId>R000602</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+          <lisID>2298</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Dwight</firstName>
+        <middleName />
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Evans</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <bioguideId>E000296</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>EARL</firstName>
+        <middleName />
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>BLUMENAUER</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <bioguideId>B000574</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <district>32</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>GRACE</firstName>
+        <middleName>F.</middleName>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>NAPOLITANO</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>N000179</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001296</bioguideId>
+          <lisID>2267</lisID>
+          <gpoId />
+        </identifiers>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Brendan</firstName>
+        <middleName>F.</middleName>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Boyle</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <bioguideId>B001296</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <lisID>1777</lisID>
+          <gpoId>7892</gpoId>
+          <bioguideId>W000797</bioguideId>
+        </identifiers>
+        <district>23</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Debbie</firstName>
+        <middleName />
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Wasserman Schultz</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <bioguideId>W000797</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <bioguideId>J000298</bioguideId>
+          <lisID>2354</lisID>
+          <gpoId />
+        </identifiers>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Pramila</firstName>
+        <middleName />
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Jayapal</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <bioguideId>J000298</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+        <middleName>P.</middleName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>MCGOVERN</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <bioguideId>M000312</bioguideId>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-28T13:03:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Oversight and Government Reform Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-28T13:03:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2017-07-28</actionDate>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <updateDate>2017-07-29T07:33:05Z</updateDate>
+    <cboCostEstimates />
+    <introducedDate>2017-07-28</introducedDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+      </item>
+      <item>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <lastName>Beyer</lastName>
+        <bioguideId>B001292</bioguideId>
+        <state>VA</state>
+        <middleName>S.</middleName>
+        <party>D</party>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <district>8</district>
+        <byRequestType />
+        <firstName>Donald</firstName>
+        <identifiers>
+          <bioguideId>B001292</bioguideId>
+          <lisID>2272</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>To amend the Intelligence Reform and Terrorism Prevention Act of 2004 to authorize the Director of the Federal Bureau of Investigation to revoke the security clearance of political appointees in the Executive Office of the President for national security purposes.</title>
+    <notes />
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea />
+    <laws />
+    <billNumber>3564</billNumber>
+    <constitutionalAuthorityStatementText />
+    <createDate>2017-07-29T03:11:38Z</createDate>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To amend the Intelligence Reform and Terrorism Prevention Act of 2004 to authorize the Director of the Federal Bureau of Investigation to revoke the security clearance of political appointees in the Executive Office of the President for national security purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend the Intelligence Reform and Terrorism Prevention Act of 2004 to authorize the Director of the Federal Bureau of Investigation to revoke the security clearance of political appointees in the Executive Office of the President for national security purposes.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

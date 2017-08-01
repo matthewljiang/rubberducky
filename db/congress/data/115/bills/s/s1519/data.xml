@@ -1,0 +1,127 @@
+<bill session="115" type="s" number="1519" updated="2017-07-27T20:12:13Z">
+  <state datetime="2017-07-10">REPORTED</state>
+  <status>
+    <unknown datetime="2017-07-10"/>
+  </status>
+  <introduced datetime="2017-07-10"/>
+  <titles>
+    <title type="short" as="introduced">National Defense Authorization Act for Fiscal Year 2018</title>
+    <title type="short" as="introduced" partial="1">Military Construction Authorization Act for Fiscal Year 2018</title>
+    <title type="official" as="introduced">An original bill to authorize appropriations for fiscal year 2018 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    <title type="display">National Defense Authorization Act for Fiscal Year 2018</title>
+  </titles>
+  <sponsor bioguide_id="M000303"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-07-10">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-10">
+      <text>Committee on Armed Services. Original measure reported to Senate by Senator McCain. With written report No. 115-125. Additional views filed.</text>
+    </action>
+    <calendar datetime="2017-07-10" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="165">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 165.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2810"/>
+    <bill type="s" session="115" relation="unknown" number="1378"/>
+    <bill type="s" session="115" relation="unknown" number="1433"/>
+    <bill type="s" session="115" relation="unknown" number="1440"/>
+    <bill type="s" session="115" relation="unknown" number="1478"/>
+    <bill type="s" session="115" relation="unknown" number="1408"/>
+    <bill type="s" session="115" relation="unknown" number="1387"/>
+    <bill type="s" session="115" relation="unknown" number="1471"/>
+    <bill type="h" session="115" relation="unknown" number="2052"/>
+    <bill type="s" session="115" relation="unknown" number="1296"/>
+    <bill type="s" session="115" relation="unknown" number="1443"/>
+    <bill type="s" session="115" relation="unknown" number="1468"/>
+    <bill type="s" session="115" relation="unknown" number="1470"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Afghanistan"/>
+    <term name="Alliances"/>
+    <term name="Armed Forces Retirement Home"/>
+    <term name="Asia"/>
+    <term name="Burma"/>
+    <term name="California"/>
+    <term name="Caribbean area"/>
+    <term name="Chemical and biological weapons"/>
+    <term name="China"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime victims"/>
+    <term name="Cuba"/>
+    <term name="Defense Nuclear Facilities Safety Board"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Energy"/>
+    <term name="Department of Transportation"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Detention of persons"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Europe"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Guam"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Illinois"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Iran"/>
+    <term name="Iraq"/>
+    <term name="Israel"/>
+    <term name="Judges"/>
+    <term name="Latin America"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Massachusetts"/>
+    <term name="Medical research"/>
+    <term name="Middle East"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Military command and structure"/>
+    <term name="Military education and training"/>
+    <term name="Military facilities and property"/>
+    <term name="Military law"/>
+    <term name="Military medicine"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="National Guard and reserves"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Nuclear weapons"/>
+    <term name="Pacific Ocean"/>
+    <term name="Pakistan"/>
+    <term name="Palau"/>
+    <term name="Russia"/>
+    <term name="Sex offenses"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+    <term name="Syria"/>
+    <term name="Terrorism"/>
+    <term name="Texas"/>
+    <term name="Ukraine"/>
+    <term name="Veterans' medical care"/>
+    <term name="Visas and passports"/>
+    <term name="Water quality"/>
+    <term name="Water use and supply"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments>
+    <amendment number="s263"/>
+    <amendment number="s262"/>
+    <amendment number="s261"/>
+    <amendment number="s260"/>
+    <amendment number="s259"/>
+    <amendment number="s258"/>
+    <amendment number="s257"/>
+    <amendment number="s256"/>
+  </amendments>
+  <committee-reports>
+    <report>S. Rept. 115-125</report>
+  </committee-reports>
+</bill>

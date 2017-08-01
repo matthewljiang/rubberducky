@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <billType>S</billType>
+    <amendments />
+    <billNumber>1492</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <notes />
+    <recordedVotes />
+    <updateDate>2017-07-18T04:32:17Z</updateDate>
+    <createDate>2017-06-30T00:41:35Z</createDate>
+    <congress>115</congress>
+    <policyArea />
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <bioguideId>M001153</bioguideId>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <middleName />
+        <byRequestType />
+        <state>AK</state>
+        <party>R</party>
+        <firstName>Lisa</firstName>
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <lastName>Murkowski</lastName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <introducedDate>2017-06-29</introducedDate>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-06-29</actionDate>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Alaska Native Claims Settlement Improvement Act of 2017</latestTitle>
+        <type>S</type>
+        <number>1481</number>
+      </item>
+    </relatedBills>
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <state>AK</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Dan</firstName>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <bioguideId>S001198</bioguideId>
+        <lastName>Sullivan</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <middleName />
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>ANCSA Thirteenth Regional Corporation Reincorporation Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to establish a Regional Corporation for Natives who are non-residents of Alaska, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>ANCSA Thirteenth Regional Corporation Reincorporation Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>ANCSA Thirteenth Regional Corporation Reincorporation Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-29T18:59:55Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2017-06-29</actionDate>
+    </latestAction>
+    <title>ANCSA Thirteenth Regional Corporation Reincorporation Act of 2017</title>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-06-29</actionDate>
+      </item>
+    </actions>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

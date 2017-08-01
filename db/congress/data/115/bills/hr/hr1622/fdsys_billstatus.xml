@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <bioguideId>R000599</bioguideId>
+        <state>CA</state>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <identifiers>
+          <bioguideId>R000599</bioguideId>
+          <lisID>2109</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <district>36</district>
+        <byRequestType />
+        <middleName />
+        <lastName>Ruiz</lastName>
+        <firstName>Raul</firstName>
+      </item>
+    </sponsors>
+    <updateDate>2017-06-19T21:30:18Z</updateDate>
+    <recordedVotes />
+    <notes />
+    <introducedDate>2017-03-17</introducedDate>
+    <calendarNumbers />
+    <laws />
+    <version>1.0.0</version>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-03-25T15:37:32Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-17</actionDate>
+          <versionCode>00</versionCode>
+          <updateDate>2017-03-17T04:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Wounded Veterans Recreation Act</strong></p> <p>This bill amends the Federal Lands Recreation Enhancement Act to require the National Parks and Federal Recreational Lands Pass, which is made available for the lifetime of the passholder without charge to any U.S. citizen or person domiciled in the United States who has been medically determined to be permanently disabled, to be made available to any veteran with a service-connected disability.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Wounded Veterans Recreation Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Wounded Veterans Recreation Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide for a lifetime National Recreational Pass for any veteran with a service-connected disability, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Wounded Veterans Recreation Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <amendments />
+    <actions>
+      <item>
+        <actionDate>2017-04-11</actionDate>
+        <committee>
+          <systemCode>hsag15</systemCode>
+          <name>Conservation and Forestry Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-27</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Agriculture</text>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-17</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Natural Resources</text>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-17</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-03-17</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-03-17</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-03-17</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <actionDate>2017-04-11</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </latestAction>
+    <billNumber>1622</billNumber>
+    <congress>115</congress>
+    <title>Wounded Veterans Recreation Act</title>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Disability assistance</name>
+          </item>
+          <item>
+            <name>Outdoor recreation</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <firstName>JAMES</firstName>
+        <state>MA</state>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <bioguideId>M000312</bioguideId>
+        <lastName>MCGOVERN</lastName>
+      </item>
+      <item>
+        <firstName>JOHN</firstName>
+        <state>MI</state>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>13</district>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C000714</bioguideId>
+          <lisID>229</lisID>
+          <gpoId>7999</gpoId>
+        </identifiers>
+        <bioguideId>C000714</bioguideId>
+        <lastName>CONYERS</lastName>
+      </item>
+      <item>
+        <firstName>Timothy</firstName>
+        <state>MN</state>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <identifiers>
+          <gpoId>8001</gpoId>
+          <bioguideId>W000799</bioguideId>
+          <lisID>1856</lisID>
+        </identifiers>
+        <bioguideId>W000799</bioguideId>
+        <lastName>Walz</lastName>
+      </item>
+      <item>
+        <firstName>JAMES</firstName>
+        <state>RI</state>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <identifiers>
+          <bioguideId>L000559</bioguideId>
+          <lisID>1668</lisID>
+          <gpoId>8140</gpoId>
+        </identifiers>
+        <bioguideId>L000559</bioguideId>
+        <lastName>LANGEVIN</lastName>
+      </item>
+      <item>
+        <firstName>Steve</firstName>
+        <state>TN</state>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <bioguideId>C001068</bioguideId>
+        <lastName>Cohen</lastName>
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <state>CA</state>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>41</district>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000472</bioguideId>
+          <lisID>2110</lisID>
+        </identifiers>
+        <bioguideId>T000472</bioguideId>
+        <lastName>Takano</lastName>
+      </item>
+      <item>
+        <firstName>TIM</firstName>
+        <state>OH</state>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>13</district>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <bioguideId>R000577</bioguideId>
+        <lastName>RYAN</lastName>
+      </item>
+      <item>
+        <firstName>DAVID</firstName>
+        <state>NC</state>
+        <fullName>Rep. Price, David E. [D-NC-4]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <identifiers>
+          <lisID>930</lisID>
+          <gpoId>8027</gpoId>
+          <bioguideId>P000523</bioguideId>
+        </identifiers>
+        <bioguideId>P000523</bioguideId>
+        <lastName>PRICE</lastName>
+      </item>
+      <item>
+        <firstName>Chris</firstName>
+        <state>UT</state>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001192</bioguideId>
+          <lisID>2168</lisID>
+        </identifiers>
+        <bioguideId>S001192</bioguideId>
+        <lastName>Stewart</lastName>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Conservation and Forestry Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-04-11T18:54:39Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsag15</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-03-17T13:03:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Agriculture Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsag00</systemCode>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Federal Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-03-27T20:24:05Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsii10</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-03-17T13:03:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H2184-H2185]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RUIZ:H.R. 1622.[[Page H2185]]Congress has the power to enact this legislation pursuantto the following:clause 18 of section 8 of article I of the Constitution</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2017-03-18T04:55:14Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,28 @@
+<bill session="115" type="h" number="3384" updated="2017-07-26T07:16:55Z">
+  <state datetime="2017-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-25"/>
+  </status>
+  <introduced datetime="2017-07-25"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Richard B. Russell National School Lunch Act by repealing the paid lunch equity requirements.</title>
+    <title type="display">To amend the Richard B. Russell National School Lunch Act by repealing the paid lunch equity requirements.</title>
+  </titles>
+  <sponsor bioguide_id="H001053"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-07-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-25" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

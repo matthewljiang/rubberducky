@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-07-22T15:56:10Z</updateDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. TIBERI:H.R. 576.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the United StatesConstitution, to ``provide for the common Defence and generalWelfare of the United States.''[Page H548]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <lastName>TIBERI</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <district>12</district>
+        <firstName>PATRICK</firstName>
+        <middleName>J.</middleName>
+        <identifiers>
+          <lisID>1664</lisID>
+          <gpoId>8102</gpoId>
+          <bioguideId>T000462</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <bioguideId>T000462</bioguideId>
+      </item>
+    </sponsors>
+    <billNumber>576</billNumber>
+    <notes />
+    <introducedDate>2017-01-13</introducedDate>
+    <billType>HR</billType>
+    <congress>115</congress>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000620</bioguideId>
+        <lastName>Delaney</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>John</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000620</bioguideId>
+          <lisID>2133</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <state>MD</state>
+        <district>6</district>
+        <fullName>Rep. Delaney, John K. [D-MD-6]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001193</bioguideId>
+        <lastName>MacArthur</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Thomas</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2258</lisID>
+          <bioguideId>M001193</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <state>NJ</state>
+        <district>3</district>
+        <fullName>Rep. MacArthur, Thomas [R-NJ-3]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000557</bioguideId>
+        <lastName>LARSON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <gpoId>7866</gpoId>
+          <lisID>1583</lisID>
+          <bioguideId>L000557</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <state>CT</state>
+        <district>1</district>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000598</bioguideId>
+        <lastName>Polis</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jared</firstName>
+        <identifiers>
+          <lisID>1910</lisID>
+          <gpoId>7860</gpoId>
+          <bioguideId>P000598</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <state>CO</state>
+        <district>2</district>
+        <fullName>Rep. Polis, Jared [D-CO-2]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000574</bioguideId>
+        <lastName>BLUMENAUER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>EARL</firstName>
+        <identifiers>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <state>OR</state>
+        <district>3</district>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName>W.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001284</bioguideId>
+        <lastName>Brooks</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Susan</firstName>
+        <identifiers>
+          <lisID>2129</lisID>
+          <bioguideId>B001284</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <state>IN</state>
+        <district>5</district>
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000813</bioguideId>
+        <lastName>Walorski</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jackie</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2128</lisID>
+          <bioguideId>W000813</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <state>IN</state>
+        <district>2</district>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000594</bioguideId>
+        <lastName>Paulsen</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Erik</firstName>
+        <identifiers>
+          <gpoId>8003</gpoId>
+          <bioguideId>P000594</bioguideId>
+          <lisID>1930</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <state>MN</state>
+        <district>3</district>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001189</bioguideId>
+        <lastName>Messer</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Luke</firstName>
+        <identifiers>
+          <lisID>2130</lisID>
+          <gpoId />
+          <bioguideId>M001189</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <state>IN</state>
+        <district>6</district>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000296</bioguideId>
+        <lastName>Evans</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Dwight</firstName>
+        <identifiers>
+          <lisID>2298</lisID>
+          <bioguideId>E000296</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <state>PA</state>
+        <district>2</district>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+      </item>
+    </cosponsors>
+    <actions>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <systemCode>hswm03</systemCode>
+          <name>Human Resources Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Human Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-13</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <text>Referred to House Oversight and Government Reform</text>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-13</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <text>Referred to House Ways and Means</text>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-13</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-13</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-13</actionDate>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <laws />
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>What Works to Move Welfare Recipients into Jobs Act</latestTitle>
+        <latestAction>
+          <text>Referred to House Oversight and Government Reform</text>
+          <actionDate>2017-04-25</actionDate>
+        </latestAction>
+        <number>2126</number>
+        <congress>115</congress>
+      </item>
+      <item>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Using Evidence to Move Welfare Recipients into Work Act</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2017-04-27</actionDate>
+        </latestAction>
+        <number>961</number>
+        <congress>115</congress>
+      </item>
+      <item>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Social Impact Partnerships to Pay for Results Act</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2017-04-27</actionDate>
+        </latestAction>
+        <number>963</number>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Academic performance and assessments</name>
+          </item>
+          <item>
+            <name>Adoption and foster care</name>
+          </item>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>American Samoa</name>
+          </item>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>Census and government statistics</name>
+          </item>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Digestive and metabolic diseases</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Domestic violence and child abuse</name>
+          </item>
+          <item>
+            <name>Education of the disadvantaged</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Guam</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Homelessness and emergency shelter</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Marriage and family status</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Puerto Rico</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Sex and reproductive health</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Teenage pregnancy</name>
+          </item>
+          <item>
+            <name>U.S. territories and protectorates</name>
+          </item>
+          <item>
+            <name>Unemployment</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Virgin Islands</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+          <item>
+            <name>Youth employment and child labor</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <text>Referred to the Subcommittee on Human Resources.</text>
+      <links />
+      <actionDate>2017-02-01</actionDate>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hswm03</systemCode>
+              <name>Human Resources Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-01T21:48:13Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-13T14:05:45Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-13T14:05:50Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Oversight and Government Reform Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <createDate>2017-01-14T04:47:33Z</createDate>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <title>Social Impact Partnerships to Pay for Results Act</title>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Social Impact Partnerships to Pay for Results Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Social Impact Partnerships to Pay for Results Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To encourage and support partnerships between the public and private sectors to improve our Nation's social programs, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Social Impact Partnerships to Pay for Results Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

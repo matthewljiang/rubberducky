@@ -1,0 +1,39 @@
+<bill session="115" type="h" number="3559" updated="2017-07-29T07:33:04Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="official" as="introduced">To authorize the Secretary of Health and Human Services to award grants to support the access of marginalized youth to sexual health services, and for other purposes.</title>
+    <title type="display">To authorize the Secretary of Health and Human Services to award grants to support the access of marginalized youth to sexual health services, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="A000370"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000371" joined="2017-07-28"/>
+    <cosponsor bioguide_id="B001300" joined="2017-07-28"/>
+    <cosponsor bioguide_id="C001080" joined="2017-07-28"/>
+    <cosponsor bioguide_id="C000714" joined="2017-07-28"/>
+    <cosponsor bioguide_id="K000385" joined="2017-07-28"/>
+    <cosponsor bioguide_id="N000179" joined="2017-07-28"/>
+    <cosponsor bioguide_id="P000604" joined="2017-07-28"/>
+    <cosponsor bioguide_id="S001157" joined="2017-07-28"/>
+    <cosponsor bioguide_id="S000510" joined="2017-07-28"/>
+    <cosponsor bioguide_id="W000808" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

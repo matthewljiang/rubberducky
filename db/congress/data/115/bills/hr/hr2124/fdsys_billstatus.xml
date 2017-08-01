@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-04-26T03:12:03Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-26</actionDate>
+        <committee>
+          <name>Aviation Subcommittee</name>
+          <systemCode>hspw05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionDate>2017-04-25</actionDate>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-04-25</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-04-25</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. SCHAKOWSKY:H.R. 2124.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2847]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <title>BOARD Fairly Act</title>
+    <laws />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName>D.</middleName>
+        <district>9</district>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>S001145</bioguideId>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+        </identifiers>
+        <bioguideId>S001145</bioguideId>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <firstName>JANICE</firstName>
+        <party>D</party>
+        <lastName>SCHAKOWSKY</lastName>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <actionDate>2017-04-26</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <type>Standing</type>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hspw05</systemCode>
+              <name>Aviation Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-26T16:57:21Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-25T16:03:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <congress>115</congress>
+    <billNumber>2124</billNumber>
+    <calendarNumbers />
+    <amendments />
+    <introducedDate>2017-04-25</introducedDate>
+    <updateDate>2017-06-23T12:00:09Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+    <relatedBills />
+    <notes />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <state>IL</state>
+        <firstName>Raja</firstName>
+        <identifiers>
+          <bioguideId>K000391</bioguideId>
+          <lisID>2325</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Krishnamoorthi</lastName>
+        <bioguideId>K000391</bioguideId>
+        <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+      </item>
+      <item>
+        <state>CA</state>
+        <firstName>Judy</firstName>
+        <identifiers>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Chu</lastName>
+        <bioguideId>C001080</bioguideId>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>27</district>
+      </item>
+      <item>
+        <state>IL</state>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+          <lisID>1967</lisID>
+          <gpoId>7925</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Quigley</lastName>
+        <bioguideId>Q000023</bioguideId>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+      </item>
+      <item>
+        <state>WI</state>
+        <firstName>Gwen</firstName>
+        <identifiers>
+          <bioguideId>M001160</bioguideId>
+          <lisID>1811</lisID>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Moore</lastName>
+        <bioguideId>M001160</bioguideId>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Bumping on Overbooked Airplanes Requires Dealing Fairly Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>BOARD Fairly Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Bumping on Overbooked Airplanes Requires Dealing Fairly Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To require the Secretary of Transportation to modify a regulation regarding denied boarding on an aircraft, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>BOARD Fairly Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

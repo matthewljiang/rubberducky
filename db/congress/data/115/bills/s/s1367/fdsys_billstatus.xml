@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-06-16T00:41:36Z</createDate>
+    <notes />
+    <amendments />
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <recordedVotes />
+    <title>A bill to require the Secretary of Energy to conduct a study and issue a report that quantifies the energy savings benefits of operational efficiency programs and services for commercial, institutional, industrial, and governmental entities.</title>
+    <introducedDate>2017-06-15</introducedDate>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <date>2017-06-15T18:11:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>sseg00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>1367</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Energy efficiency and conservation</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Industrial facilities</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-15</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-15</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <laws />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2017-06-29</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 162.</text>
+        </latestAction>
+        <latestTitle>Energy and Natural Resources Act of 2017</latestTitle>
+        <number>1460</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require the Secretary of Energy to conduct a study and issue a report that quantifies the energy savings benefits of operational efficiency programs and services for commercial, institutional, industrial, and governmental entities.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A bill to require the Secretary of Energy to conduct a study and issue a report that quantifies the energy savings benefits of operational efficiency programs and services for commercial, institutional, industrial, and governmental entities.</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <updateDate>2017-07-11T18:15:11Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>W000817</bioguideId>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+          <lisID>2182</lisID>
+        </identifiers>
+        <lastName>Warren</lastName>
+        <firstName>Elizabeth</firstName>
+        <state>MA</state>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2017-06-15</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <bioguideId>C000880</bioguideId>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+          <lisID>250</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CRAPO</lastName>
+        <firstName>MICHAEL</firstName>
+        <state>ID</state>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <middleName>D.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

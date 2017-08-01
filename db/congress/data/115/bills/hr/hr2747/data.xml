@@ -1,0 +1,53 @@
+<bill session="115" type="h" number="2747" updated="2017-07-24T18:15:38Z">
+  <state datetime="2017-05-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-25"/>
+  </status>
+  <introduced datetime="2017-05-25"/>
+  <titles>
+    <title type="short" as="introduced">Economic Growth and Development Act</title>
+    <title type="short" as="introduced">Economic Growth and Development Act</title>
+    <title type="official" as="introduced">To catalyze market-based economic growth in developing countries, create opportunities for the private sector of the United States to effectively engage in foreign assistance programs, improve planning and coordination among relevant United States departments and agencies, and for other purposes.</title>
+    <title type="display">Economic Growth and Development Act</title>
+  </titles>
+  <sponsor bioguide_id="Y000065"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001281" joined="2017-07-24"/>
+    <cosponsor bioguide_id="C001094" joined="2017-06-12"/>
+    <cosponsor bioguide_id="D000604" joined="2017-07-19"/>
+    <cosponsor bioguide_id="D000625" joined="2017-05-26"/>
+    <cosponsor bioguide_id="E000288" joined="2017-05-25"/>
+    <cosponsor bioguide_id="F000466" joined="2017-06-07"/>
+    <cosponsor bioguide_id="G000580" joined="2017-06-07"/>
+    <cosponsor bioguide_id="K000378" joined="2017-05-25"/>
+    <cosponsor bioguide_id="M001199" joined="2017-06-15"/>
+    <cosponsor bioguide_id="M001157" joined="2017-06-12"/>
+    <cosponsor bioguide_id="M000312" joined="2017-06-07"/>
+    <cosponsor bioguide_id="M001187" joined="2017-06-20"/>
+    <cosponsor bioguide_id="P000588" joined="2017-06-12"/>
+    <cosponsor bioguide_id="P000598" joined="2017-05-25"/>
+    <cosponsor bioguide_id="R000607" joined="2017-06-28"/>
+    <cosponsor bioguide_id="R000583" joined="2017-05-25"/>
+    <cosponsor bioguide_id="R000515" joined="2017-05-25"/>
+    <cosponsor bioguide_id="S000510" joined="2017-05-25"/>
+    <cosponsor bioguide_id="S001200" joined="2017-06-15"/>
+    <cosponsor bioguide_id="W000813" joined="2017-06-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-25" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

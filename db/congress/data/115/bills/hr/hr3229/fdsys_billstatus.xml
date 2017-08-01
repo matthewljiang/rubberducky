@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-07-13T14:03:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea />
+    <congress>115</congress>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <middleName>E.</middleName>
+        <fullName>Rep. Issa, Darrell E. [R-CA-49]</fullName>
+        <lastName>ISSA</lastName>
+        <district>49</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>DARRELL</firstName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <identifiers>
+          <gpoId>7854</gpoId>
+          <lisID>1640</lisID>
+          <bioguideId>I000056</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>I000056</bioguideId>
+        <state>CA</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <lastName>CONYERS</lastName>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <identifiers>
+          <lisID>229</lisID>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>C000714</bioguideId>
+        <state>MI</state>
+      </item>
+    </cosponsors>
+    <billNumber>3229</billNumber>
+    <relatedBills />
+    <billType>HR</billType>
+    <notes />
+    <createDate>2017-07-14T03:11:34Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-13</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-13</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-13</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <laws />
+    <amendments />
+    <introducedDate>2017-07-13</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>J000294</bioguideId>
+        <middleName>S.</middleName>
+        <firstName>Hakeem</firstName>
+        <party>D</party>
+        <byRequestType />
+        <fullName>Rep. Jeffries, Hakeem S. [D-NY-8]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000294</bioguideId>
+          <lisID>2149</lisID>
+        </identifiers>
+        <lastName>Jeffries</lastName>
+        <state>NY</state>
+        <district>8</district>
+      </item>
+    </sponsors>
+    <updateDate>2017-07-14T07:31:44Z</updateDate>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText />
+    <title>To protect the safety of judges by extending the authority of the Judicial Conference to redact sensitive information contained in their financial disclosure reports, and for other purposes.</title>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <latestAction>
+      <links />
+      <actionDate>2017-07-13</actionDate>
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To protect the safety of judges by extending the authority of the Judicial Conference to redact sensitive information contained in their financial disclosure reports, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>To protect the safety of judges by extending the authority of the Judicial Conference to redact sensitive information contained in their financial disclosure reports, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

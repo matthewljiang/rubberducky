@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>To amend the Hizballah International Financing Prevention Act of 2015 to impose additional sanctions with respect to Hizballah, and for other purposes.</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-20T13:05:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsba00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-20T13:05:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-20T13:05:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>3</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea />
+    <recordedVotes />
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <notes />
+    <createDate>2017-07-21T03:11:37Z</createDate>
+    <amendments />
+    <cosponsors>
+      <item>
+        <bioguideId>E000179</bioguideId>
+        <party>D</party>
+        <district>16</district>
+        <middleName>L.</middleName>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>E000179</bioguideId>
+          <lisID>344</lisID>
+          <gpoId>8078</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <firstName>ELIOT</firstName>
+        <lastName>ENGEL</lastName>
+      </item>
+      <item>
+        <bioguideId>F000466</bioguideId>
+        <party>R</party>
+        <district>8</district>
+        <middleName>K.</middleName>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <firstName>Brian</firstName>
+        <lastName>Fitzpatrick</lastName>
+      </item>
+      <item>
+        <bioguideId>R000580</bioguideId>
+        <party>R</party>
+        <district>6</district>
+        <middleName>J.</middleName>
+        <fullName>Rep. Roskam, Peter J. [R-IL-6]</fullName>
+        <state>IL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1848</lisID>
+          <gpoId>7926</gpoId>
+          <bioguideId>R000580</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <firstName>Peter</firstName>
+        <lastName>Roskam</lastName>
+      </item>
+      <item>
+        <bioguideId>O000171</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <state>AZ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2306</lisID>
+          <bioguideId>O000171</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <firstName>Tom</firstName>
+        <lastName>O'Halleran</lastName>
+      </item>
+      <item>
+        <bioguideId>H001050</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. Hanabusa, Colleen [D-HI-1]</fullName>
+        <state>HI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7912</gpoId>
+          <bioguideId>H001050</bioguideId>
+          <lisID>2010</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <firstName>Colleen</firstName>
+        <lastName>Hanabusa</lastName>
+      </item>
+      <item>
+        <bioguideId>M001151</bioguideId>
+        <party>R</party>
+        <district>18</district>
+        <middleName />
+        <fullName>Rep. Murphy, Tim [R-PA-18]</fullName>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1744</lisID>
+          <gpoId>8723</gpoId>
+          <bioguideId>M001151</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <firstName>Tim</firstName>
+        <lastName>Murphy</lastName>
+      </item>
+      <item>
+        <bioguideId>B001296</bioguideId>
+        <party>D</party>
+        <district>13</district>
+        <middleName>F.</middleName>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2267</lisID>
+          <gpoId />
+          <bioguideId>B001296</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>Brendan</firstName>
+        <lastName>Boyle</lastName>
+      </item>
+      <item>
+        <bioguideId>D000610</bioguideId>
+        <party>D</party>
+        <district>22</district>
+        <middleName>E.</middleName>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7891</gpoId>
+          <bioguideId>D000610</bioguideId>
+          <lisID>1976</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>Theodore</firstName>
+        <lastName>Deutch</lastName>
+      </item>
+      <item>
+        <bioguideId>B001274</bioguideId>
+        <party>R</party>
+        <district>5</district>
+        <middleName />
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <state>AL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001274</bioguideId>
+          <lisID>1987</lisID>
+          <gpoId>7790</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>Mo</firstName>
+        <lastName>Brooks</lastName>
+      </item>
+      <item>
+        <bioguideId>N000179</bioguideId>
+        <party>D</party>
+        <district>32</district>
+        <middleName>F.</middleName>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>GRACE</firstName>
+        <lastName>NAPOLITANO</lastName>
+      </item>
+      <item>
+        <bioguideId>H001067</bioguideId>
+        <party>R</party>
+        <district>8</district>
+        <middleName />
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <state>NC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2140</lisID>
+          <gpoId />
+          <bioguideId>H001067</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>Richard</firstName>
+        <lastName>Hudson</lastName>
+      </item>
+      <item>
+        <bioguideId>F000462</bioguideId>
+        <party>D</party>
+        <district>21</district>
+        <middleName />
+        <fullName>Rep. Frankel, Lois [D-FL-21]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000462</bioguideId>
+          <lisID>2119</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>Lois</firstName>
+        <lastName>Frankel</lastName>
+      </item>
+    </cosponsors>
+    <updateDate>2017-07-29T07:18:01Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>R000487</bioguideId>
+        <byRequestType />
+        <district>39</district>
+        <party>R</party>
+        <lastName>ROYCE</lastName>
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <firstName>ED</firstName>
+        <middleName />
+        <state>CA</state>
+        <identifiers>
+          <gpoId>7845</gpoId>
+          <bioguideId>R000487</bioguideId>
+          <lisID>998</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>To amend the Hizballah International Financing Prevention Act of 2015 to impose additional sanctions with respect to Hizballah, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend the Hizballah International Financing Prevention Act of 2015 to impose additional sanctions with respect to Hizballah, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-07-20</introducedDate>
+    <constitutionalAuthorityStatementText />
+    <congress>115</congress>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-07-20</actionDate>
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <billNumber>3329</billNumber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

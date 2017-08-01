@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>sscm00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-06-05T20:10:02Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-01-24T15:00:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-10T20:45:11Z</date>
+            </item>
+          </activities>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2017-06-05</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 113.</text>
+      <links />
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>686</number>
+        <latestAction>
+          <actionDate>2017-01-24</actionDate>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+        </latestAction>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestTitle>DIGIT Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <congress>115</congress>
+    <actions>
+      <item>
+        <actionDate>2017-06-05</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 113.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-06-05</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-90</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/90</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-90.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-90.</text>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2017-06-05</actionDate>
+        <links>
+          <link>
+            <name>report No. 115-90</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/90</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-01-24</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-01-10</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-01-10</actionDate>
+          <text><![CDATA[<p><b>Developing Innovation and Growing the Internet of Things Act or the DIGIT Act</b></p> <p>This bill requires the Department of Commerce to convene a working group of federal stakeholders to provide recommendations and a report to Congress regarding the growing number of connected and interconnected devices known as the Internet of Things (IoT). The bill establishes a steering committee to be composed of stakeholders outside the federal government to advise the working group.</p> <p>The Federal Communications Commission must: (1) seek public comment on the IoT's spectrum needs, regulatory barriers, and growth with licensed and unlicensed spectrum; and (2) submit a summary of those comments to Congress.</p>]]></text>
+          <lastSummaryUpdateDate>2017-02-23T16:14:05Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-01-10T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDate>2017-06-05</actionDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>Developing Innovation and Growing the Internet of Things Act or the DIGIT Act</b></p> <p>(Sec. 2) This bill expresses the sense of Congress that policies governing the Internet of Things (IoT) should maximize the potential and development of the growing number of connected and interconnected devices to benefit businesses, governments, and consumers.</p> <p>(Sec. 4) The Department of Commerce must convene a working group of federal stakeholders to provide recommendations and a report to Congress regarding the IoT. The bill establishes a steering committee to be composed of stakeholders outside the federal government to advise the working group.</p> <p>The working group must: (1) identify federal laws and regulations, grant practices, budgetary or jurisdictional challenges, and other sector-specific policies that inhibit IoT development; (2) consider policies or programs that encourage and improve coordination among federal agencies with IoT jurisdiction; (3) implement recommendations from the steering committee; (4) examine how federal agencies can benefit from, use, prepare for, and secure the IoT; and (5) consult with nongovernmental stakeholders. </p> <p>The steering committee must advise the working group about laws, budgets, spectrum needs, individual privacy, security, small business challenges, and any international proceedings or negotiations affecting the IoT. </p> <p>Within 18 months after enactment of this bill, the working group must report its findings and recommendations, its reasons for inaction on steering committee recommendations, and an accounting of any progress by federal agencies to implement recommendations. </p> <p>(Sec. 5) The Federal Communications Commission must: (1) seek public comment on the IoT's spectrum needs, regulatory barriers, and growth with licensed and unlicensed spectrum; and (2) submit a summary of those comments to Congress.</p>]]></text>
+          <lastSummaryUpdateDate>2017-06-14T15:44:24Z</lastSummaryUpdateDate>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <versionCode>80</versionCode>
+          <name>Reported to Senate without amendment</name>
+          <updateDate>2017-06-05T14:43:36Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Digital media</name>
+          </item>
+          <item>
+            <name>Federal Communications Commission (FCC)</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-01-11T05:09:45Z</createDate>
+    <title>DIGIT Act</title>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-02-21T14:50:00Z</pubDate>
+        <title>S. 88, Developing Innovation and Growing the Internet of Things Act</title>
+        <url>https://www.cbo.gov/publication/52431</url>
+      </item>
+    </cboCostEstimates>
+    <amendments />
+    <titles>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>Developing Innovation and Growing the Internet of Things Act</title>
+        <chamberCode>S</chamberCode>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Developing Innovation and Growing the Internet of Things Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>DIGIT Act</title>
+        <chamberCode>S</chamberCode>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <titleType>Short Titles as Reported to Senate</titleType>
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>Developing Innovation and Growing the Internet of Things Act</title>
+        <chamberCode>S</chamberCode>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <titleType>Short Titles as Reported to Senate</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>DIGIT Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Developing Innovation and Growing the Internet of Things Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>A bill to ensure appropriate spectrum planning and interagency coordination to support the Internet of Things.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>DIGIT Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <introducedDate>2017-01-10</introducedDate>
+    <billNumber>88</billNumber>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Cory</firstName>
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <state>NJ</state>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Booker</lastName>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000562</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Cory</firstName>
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <state>CO</state>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gardner</lastName>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S001194</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Brian</firstName>
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <state>HI</state>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Schatz</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+          <lisID>2173</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0113</number>
+      </item>
+    </calendarNumbers>
+    <notes />
+    <laws />
+    <sponsors>
+      <item>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <bioguideId>F000463</bioguideId>
+        <lastName>Fischer</lastName>
+        <middleName />
+        <byRequestType />
+        <firstName>Deb</firstName>
+        <state>NE</state>
+        <identifiers>
+          <bioguideId>F000463</bioguideId>
+          <lisID>2179</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-90</citation>
+      </committeeReport>
+    </committeeReports>
+    <updateDate>2017-06-19T22:30:14Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

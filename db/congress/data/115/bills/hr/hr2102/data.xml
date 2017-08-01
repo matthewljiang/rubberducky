@@ -1,0 +1,34 @@
+<bill session="115" type="h" number="2102" updated="2017-06-19T22:00:28Z">
+  <state datetime="2017-04-17">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-17"/>
+  </status>
+  <introduced datetime="2017-04-17"/>
+  <titles>
+    <title type="short" as="introduced">More Job Opportunities and Business Startups for Rural Areas Act</title>
+    <title type="short" as="introduced">More Job Opportunities and Business Startups for Rural Areas Act</title>
+    <title type="short" as="introduced">More JOBS for Rural Areas Act</title>
+    <title type="short" as="introduced">More JOBS for Rural Areas Act</title>
+    <title type="official" as="introduced">To amend the Investment Company Act of 1940 to require a report on improving access to capital in rural areas for small businesses and qualifying venture capital funds.</title>
+    <title type="display">More JOBS for Rural Areas Act</title>
+  </titles>
+  <sponsor bioguide_id="K000390"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-04-17">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-17" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

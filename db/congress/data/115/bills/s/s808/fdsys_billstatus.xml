@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-04-04</introducedDate>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Klobuchar</lastName>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <party>D</party>
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Amy</firstName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>K000367</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>PORTMAN</lastName>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <party>R</party>
+        <state>OH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ROB</firstName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <identifiers>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>P000449</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Boozman</lastName>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <party>R</party>
+        <state>AR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <identifiers>
+          <gpoId>8247</gpoId>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>B001236</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>GRASSLEY</lastName>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <party>R</party>
+        <state>IA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>CHARLES</firstName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <middleName>ERNEST</middleName>
+        <bioguideId>G000386</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cotton</lastName>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <party>R</party>
+        <state>AR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <identifiers>
+          <lisID>2098</lisID>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>C001095</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>WICKER</lastName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <party>R</party>
+        <state>MS</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ROGER</firstName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <bioguideId>W000437</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rounds</lastName>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <party>R</party>
+        <state>SD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <identifiers>
+          <lisID>2288</lisID>
+          <bioguideId>R000605</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <bioguideId>R000605</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Murkowski</lastName>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <party>R</party>
+        <state>AK</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Lisa</firstName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <identifiers>
+          <gpoId>8234</gpoId>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>M001153</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>CAPITO</lastName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <party>R</party>
+        <state>WV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>SHELLEY</firstName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+        </identifiers>
+        <middleName>MOORE</middleName>
+        <bioguideId>C001047</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Manchin</lastName>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <party>D</party>
+        <state>WV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Joe</firstName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <identifiers>
+          <gpoId>8256</gpoId>
+          <lisID>1983</lisID>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>M001183</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Ernst</lastName>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <party>R</party>
+        <state>IA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Joni</firstName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <identifiers>
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <bioguideId>E000295</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hoeven</lastName>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <party>R</party>
+        <state>ND</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <identifiers>
+          <gpoId>8331</gpoId>
+          <lisID>2079</lisID>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>H001061</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>ROBERTS</lastName>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <party>R</party>
+        <state>KS</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>PAT</firstName>
+        <sponsorshipDate>2017-05-10</sponsorshipDate>
+        <identifiers>
+          <lisID>968</lisID>
+          <bioguideId>R000307</bioguideId>
+          <gpoId>8275</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>R000307</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kennedy</lastName>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <party>R</party>
+        <state>LA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000393</bioguideId>
+          <lisID>2303</lisID>
+        </identifiers>
+        <middleName>Neely</middleName>
+        <bioguideId>K000393</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lankford</lastName>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <party>R</party>
+        <state>OK</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>James</firstName>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <identifiers>
+          <bioguideId>L000575</bioguideId>
+          <lisID>2050</lisID>
+          <gpoId>8113</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>L000575</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Whitehouse</lastName>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <party>D</party>
+        <state>RI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Sheldon</firstName>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>W000802</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>King</lastName>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <party>I</party>
+        <state>ME</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Angus</firstName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>K000383</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>McCaskill</lastName>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <party>D</party>
+        <state>MO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Claire</firstName>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <lisID>1820</lisID>
+          <gpoId>8252</gpoId>
+          <bioguideId>M001170</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>M001170</bioguideId>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <activities>
+            <item>
+              <date>2017-04-04T15:17:53Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>sshr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Sports Medicine Licensure Clarity Act of 2017</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Sports Medicine Licensure Clarity Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Sports Medicine Licensure Clarity Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to provide protections for certain sports medicine professionals who provide certain medical services in a secondary State.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Sports Medicine Licensure Clarity Act of 2017</title>
+      </item>
+    </titles>
+    <congress>115</congress>
+    <calendarNumbers />
+    <committeeReports />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+          <actionDate>2017-01-10</actionDate>
+        </latestAction>
+        <number>302</number>
+        <latestTitle>Sports Medicine Licensure Clarity Act of 2017</latestTitle>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>808</billNumber>
+    <amendments />
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <bioguideId>T000250</bioguideId>
+        <lastName>THUNE</lastName>
+        <middleName>R.</middleName>
+        <identifiers>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <state>SD</state>
+        <firstName>JOHN</firstName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-04-04</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-05-02T20:29:53Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><b>Sports Medicine Licensure Clarity Act of 2017</b></p> <p>This bill extends the liability insurance coverage of a state-licensed medical professional to another state when the professional provides medical services to an athlete, athletic team, or team staff member pursuant to a written agreement. Prior to providing such services, the medical professional must disclose to the insurer the nature and extent of the services. This extension of coverage does not apply at a health care facility or while a medical professional licensed in the state is transporting the injured individual to a health care facility.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <actionDate>2017-04-04</actionDate>
+          <updateDate>2017-04-04T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2017-07-20T16:56:14Z</updateDate>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2017-04-04</actionDate>
+      <links />
+    </latestAction>
+    <createDate>2017-04-05T07:27:15Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

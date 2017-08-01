@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors />
+    <cboCostEstimates />
+    <title>To amend the Richard B. Russell National School Lunch Act by repealing the paid lunch equity requirements.</title>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Richard B. Russell National School Lunch Act by repealing the paid lunch equity requirements.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To amend the Richard B. Russell National School Lunch Act by repealing the paid lunch equity requirements.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>3384</billNumber>
+    <recordedVotes />
+    <policyArea />
+    <relatedBills />
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>H001053</bioguideId>
+        <firstName>Vicky</firstName>
+        <district>4</district>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <identifiers>
+          <lisID>2032</lisID>
+          <gpoId>8012</gpoId>
+          <bioguideId>H001053</bioguideId>
+        </identifiers>
+        <lastName>Hartzler</lastName>
+        <middleName />
+        <party>R</party>
+        <byRequestType />
+        <state>MO</state>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <introducedDate>2017-07-25</introducedDate>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+      <links />
+      <actionDate>2017-07-25</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-25T14:02:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-07-26T07:16:55Z</updateDate>
+    <createDate>2017-07-26T03:11:34Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

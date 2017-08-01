@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+        </identifiers>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000266</bioguideId>
+        <lastName>CHABOT</lastName>
+        <firstName>STEVE</firstName>
+        <party>R</party>
+        <state>OH</state>
+        <middleName />
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+        </identifiers>
+        <district>30</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000344</bioguideId>
+        <lastName>SHERMAN</lastName>
+        <firstName>BRAD</firstName>
+        <party>D</party>
+        <state>CA</state>
+        <middleName />
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>Y000065</bioguideId>
+          <lisID>2115</lisID>
+        </identifiers>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>Y000065</bioguideId>
+        <lastName>Yoho</lastName>
+        <firstName>Ted</firstName>
+        <party>R</party>
+        <state>FL</state>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <identifiers>
+          <lisID>1071</lisID>
+          <gpoId>8046</gpoId>
+          <bioguideId>S000522</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000522</bioguideId>
+        <lastName>SMITH</lastName>
+        <firstName>CHRISTOPHER</firstName>
+        <party>R</party>
+        <state>NJ</state>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+        </identifiers>
+        <district>11</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001078</bioguideId>
+        <lastName>Connolly</lastName>
+        <firstName>Gerald</firstName>
+        <party>D</party>
+        <state>VA</state>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billNumber>422</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-06-29</introducedDate>
+    <updateDate>2017-07-26T07:15:23Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-06</actionDate>
+        <committee>
+          <name>Asia and the Pacific Subcommittee</name>
+          <systemCode>hsfa05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>E000179</bioguideId>
+        <middleName>L.</middleName>
+        <lastName>ENGEL</lastName>
+        <identifiers>
+          <lisID>344</lisID>
+          <gpoId>8078</gpoId>
+          <bioguideId>E000179</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <state>NY</state>
+        <district>16</district>
+        <firstName>ELIOT</firstName>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Urging adherence to the "one country, two systems" policy as prescribed in the Joint Declaration between the Government of the United Kingdom of Great Britain and the Government of the People's Republic of China on the Question of the Hong Kong.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Urging adherence to the "one country, two systems" policy as prescribed in the Joint Declaration between the Government of the United Kingdom of Great Britain and the Government of the People's Republic of China on the Question of the Hong Kong.</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>China</name>
+          </item>
+          <item>
+            <name>Hong Kong</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+          <item>
+            <name>Rule of law and government transparency</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-06-30T03:11:33Z</createDate>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsfa05</systemCode>
+              <name>Asia and the Pacific Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-07-06T13:46:09Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <date>2017-06-29T14:07:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2017-07-06</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <billType>HRES</billType>
+    <amendments />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <relatedBills />
+    <title>Urging adherence to the "one country, two systems" policy as prescribed in the Joint Declaration between the Government of the United Kingdom of Great Britain and the Government of the People's Republic of China on the Question of the Hong Kong.</title>
+    <constitutionalAuthorityStatementText />
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

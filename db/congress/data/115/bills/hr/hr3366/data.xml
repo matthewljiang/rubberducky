@@ -1,0 +1,30 @@
+<bill session="115" type="h" number="3366" updated="2017-07-25T07:18:33Z">
+  <state datetime="2017-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-24"/>
+  </status>
+  <introduced datetime="2017-07-24"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow, in certain cases, an increase in the limitation on the exclusion for gains from a sale or exchange of a principal residence.</title>
+    <title type="display">To amend the Internal Revenue Code of 1986 to allow, in certain cases, an increase in the limitation on the exclusion for gains from a sale or exchange of a principal residence.</title>
+  </titles>
+  <sponsor bioguide_id="G000583"/>
+  <cosponsors>
+    <cosponsor bioguide_id="K000386" joined="2017-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-24">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-24" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

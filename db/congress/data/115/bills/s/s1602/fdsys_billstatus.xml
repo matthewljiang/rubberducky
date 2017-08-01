@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1602</billNumber>
+    <title>A bill to authorize the Secretary of the Interior to conduct a study to assess the suitability and feasibility of designating certain land as the Finger Lakes National Heritage Area, and for other purposes.</title>
+    <policyArea />
+    <cboCostEstimates />
+    <relatedBills />
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <lastName>Gillibrand</lastName>
+        <state>NY</state>
+        <firstName>Kirsten</firstName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <laws />
+    <billType>S</billType>
+    <introducedDate>2017-07-20</introducedDate>
+    <recordedVotes />
+    <committeeReports />
+    <calendarNumbers />
+    <congress>115</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2017-07-20</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors />
+    <titles>
+      <item>
+        <title>A bill to authorize the Secretary of the Interior to conduct a study to assess the suitability and feasibility of designating certain land as the Finger Lakes National Heritage Area, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill to authorize the Secretary of the Interior to conduct a study to assess the suitability and feasibility of designating certain land as the Finger Lakes National Heritage Area, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <createDate>2017-07-21T00:56:46Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sseg00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <date>2017-07-20T18:14:39Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-07-21T05:17:45Z</updateDate>
+    <actions>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-07-20</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

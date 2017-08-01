@@ -1,0 +1,141 @@
+<bill session="115" type="h" number="3180" updated="2017-07-31T15:42:15Z">
+  <state datetime="2017-07-28T12:46:13-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-07-28T12:46:13-04:00"/>
+  </status>
+  <introduced datetime="2017-07-11"/>
+  <titles>
+    <title type="short" as="introduced">Intelligence Authorization Act for Fiscal Year 2018</title>
+    <title type="short" as="introduced">Intelligence Authorization Act for Fiscal Year 2018</title>
+    <title type="short" as="reported to house">Intelligence Authorization Act for Fiscal Year 2018</title>
+    <title type="short" as="reported to house">Intelligence Authorization Act for Fiscal Year 2018</title>
+    <title type="short" as="passed house">Intelligence Authorization Act for Fiscal Year 2018</title>
+    <title type="official" as="introduced">To authorize appropriations for fiscal year 2018 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.</title>
+    <title type="display">Intelligence Authorization Act for Fiscal Year 2018</title>
+  </titles>
+  <sponsor bioguide_id="N000181"/>
+  <cosponsors>
+    <cosponsor bioguide_id="S001150" joined="2017-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-11">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-11" state="REFERRED">
+      <text>Referred to the House Committee on Intelligence (Permanent Select).</text>
+    </action>
+    <action datetime="2017-07-24">
+      <text>Reported (Amended) by the Committee on Intelligence. H. Rept. 115-251.</text>
+    </action>
+    <calendar datetime="2017-07-24" state="REPORTED" calendar="Union" number="183">
+      <text>Placed on the Union Calendar, Calendar No. 183.</text>
+    </calendar>
+    <action datetime="2017-07-24T17:28:21-04:00">
+      <text>Mr. Nunes moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2017-07-24T17:28:36-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6187-6195" label="consideration"/>
+      <reference ref="CR H6187-6193" label="text of measure as reported"/>
+    </action>
+    <action datetime="2017-07-24T17:28:37-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3180.</text>
+    </action>
+    <action datetime="2017-07-24T17:43:28-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2017-07-24T18:32:32-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6196" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="407" datetime="2017-07-24T18:55:30-04:00" where="h" result="fail" suspension="1" state="PROV_KILL:SUSPENSIONFAILED">
+      <text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 241 - 163 (Roll no. 407).</text>
+    </vote>
+    <action datetime="2017-07-27T18:41:30-04:00">
+      <text>Rules Committee Resolution H. Res. 481 Reported to House. Rule provides for consideration of H.R. 3180 with 1 hour of general debate. The resolution provides for a closed rule. The resolution provides for an amendment in the nature of a substitute recommended by the Permanent Select Committee on Intelligence now printed in the bill shall be considered as adopted, and the bill as amended, shall be considered as read.</text>
+    </action>
+    <action datetime="2017-07-28T10:28:31-04:00">
+      <text>Rule H. Res. 481 passed House.</text>
+    </action>
+    <action datetime="2017-07-28T11:52:30-04:00">
+      <text>Considered under the provisions of rule H. Res. 481.</text>
+      <reference ref="CR H6547-6557" label="consideration"/>
+    </action>
+    <action datetime="2017-07-28T11:52:35-04:00">
+      <text>Rule provides for consideration of H.R. 3180 with 1 hour of general debate. The resolution provides for a closed rule. The resolution provides for an amendment in the nature of a substitute recommended by the Permanent Select Committee on Intelligence now printed in the bill shall be considered as adopted, and the bill as amended, shall be considered as read.</text>
+    </action>
+    <action datetime="2017-07-28T11:53:55-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 3180.</text>
+    </action>
+    <action datetime="2017-07-28T12:21:15-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <vote how="roll" type="vote" roll="437" datetime="2017-07-28T12:46:13-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 380 - 35 (Roll no. 437).</text>
+      <reference ref="CR H6547-6552" label="text"/>
+    </vote>
+    <action datetime="2017-07-28T12:46:15-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HLIG" name="House Intelligence (Permanent)" activity="Reporting, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="115" relation="procedurally-related" number="481"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Asia"/>
+    <term name="Caribbean area"/>
+    <term name="Central Intelligence Agency (CIA)"/>
+    <term name="China"/>
+    <term name="Coast guard"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional elections"/>
+    <term name="Congressional oversight"/>
+    <term name="Cuba"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Energy"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Department of Justice"/>
+    <term name="Department of State"/>
+    <term name="Department of the Treasury"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Director of National Intelligence"/>
+    <term name="Drug Enforcement Administration (DEA)"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Europe"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Bureau of Investigation (FBI)"/>
+    <term name="Federal officials"/>
+    <term name="Foreign and international banking"/>
+    <term name="Foreign language and bilingual programs"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Higher education"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Iran"/>
+    <term name="Latin America"/>
+    <term name="Middle East"/>
+    <term name="North Korea"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Public-private cooperation"/>
+    <term name="Research and development"/>
+    <term name="Russia"/>
+    <term name="Sanctions"/>
+    <term name="Terrorism"/>
+    <term name="U.S. and foreign investments"/>
+  </subjects>
+  <amendments>
+    <amendment number="h271"/>
+  </amendments>
+  <committee-reports>
+    <report>H. Rept. 115-251</report>
+  </committee-reports>
+</bill>

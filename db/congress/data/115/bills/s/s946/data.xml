@@ -1,0 +1,47 @@
+<bill session="115" type="s" number="946" updated="2017-07-20T16:56:19Z">
+  <state datetime="2017-04-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-26"/>
+  </status>
+  <introduced datetime="2017-04-26"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Treatment Court Improvement Act of 2017</title>
+    <title type="short" as="introduced">Veterans Treatment Court Improvement Act of 2017</title>
+    <title type="official" as="introduced">A bill to require the Secretary of Veterans Affairs to hire additional Veterans Justice Outreach Specialists to provide treatment court services to justice-involved veterans, and for other purposes.</title>
+    <title type="display">Veterans Treatment Court Improvement Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="F000444"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001056" joined="2017-04-26"/>
+    <cosponsor bioguide_id="H000338" joined="2017-04-26"/>
+    <cosponsor bioguide_id="L000577" joined="2017-04-26"/>
+    <cosponsor bioguide_id="M001183" joined="2017-04-26"/>
+    <cosponsor bioguide_id="M000303" joined="2017-04-26"/>
+    <cosponsor bioguide_id="M001153" joined="2017-04-26"/>
+    <cosponsor bioguide_id="T000464" joined="2017-04-26"/>
+    <cosponsor bioguide_id="T000476" joined="2017-04-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-26">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-04-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <reference ref="CR S2555-2556" label="Sponsor introductory remarks on measure"/>
+    </action>
+    <action datetime="2017-07-11">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Hearings, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="2147"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

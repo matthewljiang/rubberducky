@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Supporting the goals and ideals of National Clinicians HIV/AIDS Testing and Awareness Day, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Supporting the goals and ideals of National Clinicians HIV/AIDS Testing and Awareness Day, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <introducedDate>2017-07-20</introducedDate>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <lastName>WATERS</lastName>
+        <firstName>MAXINE</firstName>
+        <bioguideId>W000187</bioguideId>
+        <fullName>Rep. Waters, Maxine [D-CA-43]</fullName>
+        <party>D</party>
+        <state>CA</state>
+        <district>43</district>
+        <identifiers>
+          <gpoId>7840</gpoId>
+          <lisID>1205</lisID>
+          <bioguideId>W000187</bioguideId>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <amendments />
+    <constitutionalAuthorityStatementText />
+    <policyArea />
+    <billType>HRES</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-07-20T13:03:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <links />
+      <actionDate>2017-07-20</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </latestAction>
+    <actions>
+      <item>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000551</bioguideId>
+        <lastName>LEE</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>BARBARA</firstName>
+        <identifiers>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>CA</state>
+        <district>13</district>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>HOLMES</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000147</bioguideId>
+        <lastName>NORTON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ELEANOR</firstName>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>DC</state>
+        <district>0</district>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000179</bioguideId>
+        <lastName>NAPOLITANO</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>GRACE</firstName>
+        <identifiers>
+          <lisID>1602</lisID>
+          <bioguideId>N000179</bioguideId>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>CA</state>
+        <district>32</district>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>Z.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001245</bioguideId>
+        <lastName>Bordallo</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Madeleine</firstName>
+        <identifiers>
+          <lisID>1723</lisID>
+          <gpoId>7911</gpoId>
+          <bioguideId>B001245</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>GU</state>
+        <district>0</district>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001080</bioguideId>
+        <lastName>Chu</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Judy</firstName>
+        <identifiers>
+          <lisID>1970</lisID>
+          <bioguideId>C001080</bioguideId>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>CA</state>
+        <district>27</district>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000032</bioguideId>
+        <lastName>JACKSON LEE</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>SHEILA</firstName>
+        <identifiers>
+          <lisID>588</lisID>
+          <bioguideId>J000032</bioguideId>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>TX</state>
+        <district>18</district>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>S.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000808</bioguideId>
+        <lastName>Wilson</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Frederica</firstName>
+        <identifiers>
+          <gpoId>7889</gpoId>
+          <lisID>2004</lisID>
+          <bioguideId>W000808</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>FL</state>
+        <district>24</district>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H000324</bioguideId>
+        <lastName>HASTINGS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ALCEE</firstName>
+        <identifiers>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>FL</state>
+        <district>20</district>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000604</bioguideId>
+        <lastName>Payne</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Donald</firstName>
+        <identifiers>
+          <lisID>2097</lisID>
+          <bioguideId>P000604</bioguideId>
+          <gpoId>8373</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>NJ</state>
+        <district>10</district>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000296</bioguideId>
+        <lastName>Evans</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Dwight</firstName>
+        <identifiers>
+          <lisID>2298</lisID>
+          <gpoId />
+          <bioguideId>E000296</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>PA</state>
+        <district>2</district>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001067</bioguideId>
+        <lastName>Clarke</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Yvette</firstName>
+        <identifiers>
+          <gpoId>8072</gpoId>
+          <bioguideId>C001067</bioguideId>
+          <lisID>1864</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>NY</state>
+        <district>9</district>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000385</bioguideId>
+        <lastName>Kelly</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Robin</firstName>
+        <identifiers>
+          <bioguideId>K000385</bioguideId>
+          <lisID>2190</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>IL</state>
+        <district>2</district>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001285</bioguideId>
+        <lastName>Brownley</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Julia</firstName>
+        <identifiers>
+          <lisID>2106</lisID>
+          <bioguideId>B001285</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>CA</state>
+        <district>26</district>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>S.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000370</bioguideId>
+        <lastName>Adams</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Alma</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2201</lisID>
+          <bioguideId>A000370</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>NC</state>
+        <district>12</district>
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000312</bioguideId>
+        <lastName>MCGOVERN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JAMES</firstName>
+        <identifiers>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>MA</state>
+        <district>2</district>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+      </item>
+    </cosponsors>
+    <createDate>2017-07-21T03:11:33Z</createDate>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <notes />
+    <billNumber>463</billNumber>
+    <cboCostEstimates />
+    <recordedVotes />
+    <title>Supporting the goals and ideals of National Clinicians HIV/AIDS Testing and Awareness Day, and for other purposes.</title>
+    <updateDate>2017-07-21T07:31:31Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

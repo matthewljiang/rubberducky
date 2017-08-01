@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>First Responder Fair RETIRE Act</title>
+    <sponsors>
+      <item>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <identifiers>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Connolly</lastName>
+        <district>11</district>
+        <firstName>Gerald</firstName>
+        <bioguideId>C001078</bioguideId>
+        <state>VA</state>
+        <middleName>E.</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>First Responder Fair RETIRE Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>First Responder Fair Return for Employees on Their Initial Retirement Earned Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To permit disabled law enforcement officers, customs and border protection officers, firefighters, air traffic controllers, nuclear materials couriers, members of the Capitol Police, members of the Supreme Court Police, employees of the Central Intelligence Agency performing intelligence activities abroad or having specialized security requirements, and diplomatic security special agents of the Department of State to receive retirement benefits in the same manner as if they had not been disabled.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>First Responder Fair RETIRE Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>First Responder Fair RETIRE Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>First Responder Fair Return for Employees on Their Initial Retirement Earned Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <updateDate>2017-07-28T14:00:13Z</updateDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CONNOLLY:H.R. 3303.Congress has the power to enact this legislation pursuantto the following:Article I Section 8 Clause 18 of the United StatesConstitution[Page H6042]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <latestAction>
+      <links />
+      <actionDate>2017-07-19</actionDate>
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Intelligence (Permanent Select), and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-19T14:02:45Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>Intelligence (Permanent) Committee</name>
+          <systemCode>hlig00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-19T14:02:40Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Select</type>
+        </item>
+        <item>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-19T14:02:35Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <introducedDate>2017-07-19</introducedDate>
+    <calendarNumbers />
+    <policyArea />
+    <createDate>2017-07-20T03:11:32Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billNumber>3303</billNumber>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Intelligence (Permanent Select), and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hlig00</systemCode>
+          <name>Intelligence (Permanent) Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Intelligence (Permanent Select), and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Intelligence (Permanent Select), and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>3</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <laws />
+    <billType>HR</billType>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>KING</lastName>
+        <middleName>T.</middleName>
+        <identifiers>
+          <bioguideId>K000210</bioguideId>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>PETER</firstName>
+        <state>NY</state>
+        <district>2</district>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000210</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>LANGEVIN</lastName>
+        <middleName>R.</middleName>
+        <identifiers>
+          <bioguideId>L000559</bioguideId>
+          <lisID>1668</lisID>
+          <gpoId>8140</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>JAMES</firstName>
+        <state>RI</state>
+        <district>2</district>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000559</bioguideId>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. VELAZQUEZ:H.R. 1640.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3The Congress shall have Power *** To regulate Commerce withforeign Nations, and among the several States, and with theIndian Tribes.[Page H2241]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <cosponsors />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-03-29</actionDate>
+          <text>Referred to the House Committee on Small Business.</text>
+        </latestAction>
+        <latestTitle>Clarity for America's Small Contractors Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <number>1773</number>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <createDate>2017-03-21T04:52:03Z</createDate>
+    <introducedDate>2017-03-20</introducedDate>
+    <billNumber>1640</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hssm00</systemCode>
+          <name>Small Business Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-20T16:02:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <amendments />
+    <latestAction>
+      <actionDate>2017-03-20</actionDate>
+      <text>Referred to the House Committee on Small Business.</text>
+      <links />
+    </latestAction>
+    <updateDate>2017-06-12T21:15:09Z</updateDate>
+    <calendarNumbers />
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hssm00</systemCode>
+          <name>Small Business Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Small Business.</text>
+        <actionDate>2017-03-20</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-03-20</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-03-20</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <title>To amend the Small Business Act to ensure uniformity in procurement terminology, and for other purposes.</title>
+    <titles>
+      <item>
+        <title>To amend the Small Business Act to ensure uniformity in procurement terminology, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To amend the Small Business Act to ensure uniformity in procurement terminology, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+          <bioguideId>V000081</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>NYDIA</firstName>
+        <lastName>VELAZQUEZ</lastName>
+        <middleName>M.</middleName>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <bioguideId>V000081</bioguideId>
+        <district>7</district>
+      </item>
+    </sponsors>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

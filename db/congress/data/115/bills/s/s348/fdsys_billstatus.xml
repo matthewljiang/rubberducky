@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-06-19T21:00:15Z</updateDate>
+    <recordedVotes />
+    <laws />
+    <sponsors>
+      <item>
+        <middleName />
+        <lastName>Franken</lastName>
+        <party>D</party>
+        <firstName>Al</firstName>
+        <state>MN</state>
+        <bioguideId>F000457</bioguideId>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>F000457</bioguideId>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-09T21:03:43Z</date>
+            </item>
+          </activities>
+          <systemCode>ssfi00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Prescription Drug and Health Improvement Act of 2017</title>
+    <notes />
+    <introducedDate>2017-02-09</introducedDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Cancer</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Drug therapy</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <congress>115</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <middleName>F.</middleName>
+        <lastName>REED</lastName>
+        <party>D</party>
+        <firstName>JOHN</firstName>
+        <state>RI</state>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <identifiers>
+          <gpoId>8272</gpoId>
+          <bioguideId>R000122</bioguideId>
+          <lisID>949</lisID>
+        </identifiers>
+        <bioguideId>R000122</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>BROWN</lastName>
+        <party>D</party>
+        <firstName>SHERROD</firstName>
+        <state>OH</state>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <bioguideId>B000944</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <firstName>Kirsten</firstName>
+        <state>NY</state>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <bioguideId>G000555</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <billNumber>348</billNumber>
+    <billType>S</billType>
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <latestAction>
+      <actionDate>2017-02-09</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <actions>
+      <item>
+        <actionDate>2017-02-09</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-02-09</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-02-10T07:41:49Z</createDate>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Prescription Drug and Health Improvement Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Prescription Drug and Health Improvement Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to amend title XVIII of the Social Security Act to require the Secretary of Health and Human Services to negotiate lower covered part D drug prices on behalf of Medicare beneficiaries.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Prescription Drug and Health Improvement Act of 2017</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

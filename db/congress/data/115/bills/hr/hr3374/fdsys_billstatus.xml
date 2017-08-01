@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <cosponsors />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-24T16:01:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hspw12</systemCode>
+              <activities>
+                <item>
+                  <date>2017-07-25T19:26:31Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Highways and Transit Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-24T16:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <actionDate>2017-07-25</actionDate>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <updateDate>2017-07-26T07:13:05Z</updateDate>
+    <cboCostEstimates />
+    <introducedDate>2017-07-24</introducedDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <committee>
+          <name>Highways and Transit Subcommittee</name>
+          <systemCode>hspw12</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2017-07-24</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionDate>2017-07-24</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-24</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-24</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <lastName>Rice</lastName>
+        <bioguideId>R000602</bioguideId>
+        <state>NY</state>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <district>4</district>
+        <byRequestType />
+        <firstName>Kathleen</firstName>
+        <identifiers>
+          <bioguideId>R000602</bioguideId>
+          <gpoId />
+          <lisID>2262</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>To improve the safety of individuals by taking measures to end drunk driving.</title>
+    <notes />
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <laws />
+    <billNumber>3374</billNumber>
+    <constitutionalAuthorityStatementText />
+    <createDate>2017-07-25T03:11:35Z</createDate>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To improve the safety of individuals by taking measures to end drunk driving.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To improve the safety of individuals by taking measures to end drunk driving.</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

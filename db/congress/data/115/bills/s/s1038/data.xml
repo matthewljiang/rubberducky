@@ -1,0 +1,33 @@
+<bill session="115" type="s" number="1038" updated="2017-07-20T16:56:26Z">
+  <state datetime="2017-05-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-04"/>
+  </status>
+  <introduced datetime="2017-05-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Administrator of the Small Business Administration to submit to Congress a report on the utilization of small businesses with respect to certain Federal contracts.</title>
+    <title type="display">A bill to require the Administrator of the Small Business Administration to submit to Congress a report on the utilization of small businesses with respect to certain Federal contracts.</title>
+  </titles>
+  <sponsor bioguide_id="E000295"/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000555" joined="2017-05-04"/>
+    <cosponsor bioguide_id="H001042" joined="2017-06-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-04">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

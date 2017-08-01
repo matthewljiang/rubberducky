@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <title>AFG and SAFER Program Reauthorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>AFG and SAFER Program Reauthorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to reauthorize the Assistance to Firefighters Grants program, the Fire Prevention and Safety Grants program, and the Staffing for Adequate Fire and Emergency Response grant program, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>AFG and SAFER Program Reauthorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <title>AFG and SAFER Program Reauthorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>AFG and SAFER Program Reauthorization Act of 2017</title>
+      </item>
+    </titles>
+    <notes />
+    <recordedVotes />
+    <amendments />
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-128</citation>
+      </committeeReport>
+    </committeeReports>
+    <billType>S</billType>
+    <updateDate>2017-07-28T10:32:24Z</updateDate>
+    <introducedDate>2017-04-05</introducedDate>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <title>AFG and SAFER Program Reauthorization Act of 2017</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-25T19:44:15Z</lastSummaryUpdateDate>
+          <updateDate>2017-04-05T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><strong>AFG and SAFER Program Reauthorization Act of 2017</strong></p> <p>This bill amends the the Federal Fire Prevention and Control Act of 1974 to: (1) repeal the expiration dates of, and to reauthorize through FY2023, the Assistance to Firefighters Grants (AFG) Program, the Fire Prevention and Safety Grants Program, and the Staffing for Adequate Fire and Emergency Response Grant (SAFER) Program; and (2) authorize the use of AFG Program grants, instead of SAFER Program grants, to provide specialized training to first responders on how to recognize and properly intervene with individuals with mental illness.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-04-05</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-07-25T19:42:15Z</lastSummaryUpdateDate>
+          <updateDate>2017-07-11T15:53:56Z</updateDate>
+          <name>Reported to Senate with amendment(s)</name>
+          <text><![CDATA[<p><strong>AFG and SAFER Program Reauthorization Act of 2017</strong></p> <p>(Sec. 2) This bill amends the the Federal Fire Prevention and Control Act of 1974 to: (1) repeal the expiration dates of, and to reauthorize through FY2023, the Assistance to Firefighters Grants (AFG) Program, the Fire Prevention and Safety Grants (FPSG) Program, and the Staffing for Adequate Fire and Emergency Response Grant (SAFER) Program; and (2) authorize the use of AFG Program grants, instead of SAFER Program grants, to provide specialized training to first responders on how to recognize and properly intervene with individuals with mental illness.</p> <p>(Sec. 3) The SAFER Program is revised to permit the use of grants to change the status of part-time or paid-on-call firefighters to full-time firefighters.</p> <p>(Sec. 4) The United States Fire Administration (USFA) may develop and make widely available an electronic, online training course for members of the fire and emergency response community on matters related to the administration of AFG, FPSG, and SAFER grants.</p> <p>The Federal Emergency Management Agency (FEMA) shall ensure that any such training is: (1) tailored to the financial and time constraints of members of the fire and emergency response community; and (2) accessible to all individuals in the career, combination, paid-on-call, and volunteer fire and emergency response community.</p> <p>(Sec. 5) The USFA shall develop and implement a grant monitoring and oversight framework to mitigate and minimize risks of fraud, waste, abuse, and mismanagement relating to such grants programs.</p>]]></text>
+          <actionDesc>Reported to Senate with amendment(s)</actionDesc>
+          <actionDate>2017-07-11</actionDate>
+          <versionCode>01</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <reportedToSenate>2</reportedToSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <orderedReported>1</orderedReported>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-11</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 168.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-07-11</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-128</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/128</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-128.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <actionDate>2017-07-11</actionDate>
+        <actionCode>14000</actionCode>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-128.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>report No. 115-128</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/128</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-04-05</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-07-11T20:02:47Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-05-17T14:00:36Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-04-05T16:58:07Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0168</number>
+      </item>
+    </calendarNumbers>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-07-11</actionDate>
+      <links />
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 168.</text>
+    </latestAction>
+    <createDate>2017-04-06T02:11:54Z</createDate>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <firstName>Jon</firstName>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <bioguideId>T000464</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Tester</lastName>
+        <state>MT</state>
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>SUSAN</firstName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <bioguideId>C001035</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>MARGARET</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>COLLINS</lastName>
+        <state>ME</state>
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>THOMAS</firstName>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <bioguideId>C000174</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>CARPER</lastName>
+        <state>DE</state>
+        <identifiers>
+          <lisID>179</lisID>
+          <gpoId>8283</gpoId>
+          <bioguideId>C000174</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Richard</firstName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <bioguideId>B001277</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Blumenthal</lastName>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Christopher</firstName>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <bioguideId>C001088</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Coons</lastName>
+        <state>DE</state>
+        <identifiers>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Kirsten</firstName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+        <bioguideId>G000555</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gillibrand</lastName>
+        <state>NY</state>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Claire</firstName>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+        <bioguideId>M001170</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>McCaskill</lastName>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>M001170</bioguideId>
+          <gpoId>8252</gpoId>
+          <lisID>1820</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Gary</firstName>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <bioguideId>P000595</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>C.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Peters</lastName>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Chris</firstName>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <bioguideId>V000128</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Van Hollen</lastName>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>ROBERT</firstName>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <bioguideId>M000639</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>MENENDEZ</lastName>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+          <lisID>791</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>RON</firstName>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <bioguideId>W000779</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>WYDEN</lastName>
+        <state>OR</state>
+        <identifiers>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>DEBORAH</firstName>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <bioguideId>S000770</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>ANN</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>STABENOW</lastName>
+        <state>MI</state>
+        <identifiers>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Joe</firstName>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <bioguideId>D000607</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Donnelly</lastName>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>D000607</bioguideId>
+          <lisID>1850</lisID>
+          <gpoId>7941</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>TAMMY</firstName>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <bioguideId>B001230</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>BALDWIN</lastName>
+        <state>WI</state>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Jeff</firstName>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <bioguideId>M001176</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Merkley</lastName>
+        <state>OR</state>
+        <identifiers>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>PATRICK</firstName>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <bioguideId>L000174</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>JOSEPH</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEAHY</lastName>
+        <state>VT</state>
+        <identifiers>
+          <gpoId>8244</gpoId>
+          <lisID>1383</lisID>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <billNumber>829</billNumber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <firstName>JOHN</firstName>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <identifiers>
+          <bioguideId>M000303</bioguideId>
+          <lisID>754</lisID>
+          <gpoId>8253</gpoId>
+        </identifiers>
+        <bioguideId>M000303</bioguideId>
+        <byRequestType />
+        <middleName>SIDNEY</middleName>
+        <lastName>MCCAIN</lastName>
+        <state>AZ</state>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates>
+      <item>
+        <title>S. 829, AFG and SAFER Program Reauthorization Act of 2017</title>
+        <url>https://www.cbo.gov/publication/52824</url>
+        <pubDate>2017-06-15T20:51:09Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

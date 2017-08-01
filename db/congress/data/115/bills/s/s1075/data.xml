@@ -1,0 +1,37 @@
+<bill session="115" type="s" number="1075" updated="2017-06-19T22:15:17Z">
+  <state datetime="2017-05-09">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-09"/>
+  </status>
+  <introduced datetime="2017-05-09"/>
+  <titles>
+    <title type="short" as="introduced">Appalachian Ethane Storage Hub Study Act</title>
+    <title type="short" as="introduced">Appalachian Ethane Storage Hub Study Act</title>
+    <title type="official" as="introduced">A bill to direct the Secretary of Energy and the Secretary of Commerce to conduct a study of the feasibility of establishing an ethane storage and distribution hub in the United States.</title>
+    <title type="display">Appalachian Ethane Storage Hub Study Act</title>
+  </titles>
+  <sponsor bioguide_id="C001047"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001183" joined="2017-05-09"/>
+    <cosponsor bioguide_id="P000449" joined="2017-05-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-09">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="2568"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

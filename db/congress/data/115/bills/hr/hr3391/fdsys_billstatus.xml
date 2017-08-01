@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>To amend the Controlled Substances Act to make marijuana accessible for use by qualified marijuana researchers for medical purposes, and for other purposes.</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-25T14:01:30Z</date>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-25T14:01:25Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea />
+    <recordedVotes />
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <notes />
+    <createDate>2017-07-26T03:11:34Z</createDate>
+    <amendments />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B000574</bioguideId>
+        <lastName>BLUMENAUER</lastName>
+        <firstName>EARL</firstName>
+        <party>D</party>
+        <state>OR</state>
+        <middleName />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+        <identifiers>
+          <bioguideId>G000568</bioguideId>
+          <lisID>2070</lisID>
+          <gpoId>8200</gpoId>
+        </identifiers>
+        <district>9</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000568</bioguideId>
+        <lastName>Griffith</lastName>
+        <firstName>H.</firstName>
+        <party>R</party>
+        <state>VA</state>
+        <middleName>Morgan</middleName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <district>19</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000397</bioguideId>
+        <lastName>LOFGREN</lastName>
+        <firstName>ZOE</firstName>
+        <party>D</party>
+        <state>CA</state>
+        <middleName />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <updateDate>2017-07-26T07:16:55Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>H001052</bioguideId>
+        <byRequestType />
+        <district>1</district>
+        <party>R</party>
+        <lastName>Harris</lastName>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <firstName>Andy</firstName>
+        <middleName />
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>H001052</bioguideId>
+          <gpoId>7976</gpoId>
+          <lisID>2026</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the Controlled Substances Act to make marijuana accessible for use by qualified marijuana researchers for medical purposes, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>To amend the Controlled Substances Act to make marijuana accessible for use by qualified marijuana researchers for medical purposes, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-07-25</introducedDate>
+    <constitutionalAuthorityStatementText />
+    <congress>115</congress>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-07-25</actionDate>
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <billNumber>3391</billNumber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

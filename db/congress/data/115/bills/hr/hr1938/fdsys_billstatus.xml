@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <title>President-Elect Release of Tax Return Act of 2017</title>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <district>5</district>
+        <fullName>Rep. Garrett, Thomas A., Jr. [R-VA-5]</fullName>
+        <middleName>A.</middleName>
+        <bioguideId>G000580</bioguideId>
+        <party>R</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>G000580</bioguideId>
+          <lisID>2353</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <lastName>Garrett</lastName>
+        <firstName>Thomas</firstName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>President-Elect Release of Tax Return Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>President-Elect Release of Tax Return Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To require the President-elect to submit copies to the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate of the Federal income tax returns filed for the 4 most recent taxable years, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>President-Elect Release of Tax Return Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <laws />
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GARRETT:H.R. 1938.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution[Page H2755]</pre>]]></constitutionalAuthorityStatementText>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:03:40Z</date>
+            </item>
+          </activities>
+          <name>Oversight and Government Reform Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsgo00</systemCode>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:03:35Z</date>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>SC</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S000051</bioguideId>
+          <lisID>1012</lisID>
+        </identifiers>
+        <district>1</district>
+        <bioguideId>S000051</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Sanford, Mark [R-SC-1]</fullName>
+        <lastName>Sanford</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <calendarNumbers />
+    <billNumber>1938</billNumber>
+    <latestAction>
+      <text>Referred to House Oversight and Government Reform</text>
+      <links />
+      <actionDate>2017-04-05</actionDate>
+    </latestAction>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>President-Elect Release of Tax Return Act of 2017 </b></p> <p>This bill requires the President-elect to submit a copy of each federal income tax return filed with the Internal Revenue Service (IRS) for the four most recent taxable years to the chairs and ranking minority members of: (1) the House Administration Committee, and (2) the Senate Rules Committee. The returns must be submitted no later than the date of the meeting of the Senate and House of Representatives to count the electoral votes for President and Vice President.</p> <p>The bill amends the Internal Revenue Code to permit the IRS to disclose the required tax returns to the chairs and ranking minority members of the two congressional committees if the President-elect does not submit the returns by the deadline. </p> <p>The President-elect may redact from the returns any: (1) Social Security number, (2) taxpayer identification number, (3) account identification number, and (4) name of any dependent of the taxpayer. The IRS must make the redactions if it discloses the returns. </p> <p>The chairs and ranking members of the two committees may disclose any information contained in a tax return submitted pursuant to this bill. </p>]]></text>
+          <lastSummaryUpdateDate>2017-05-23T17:13:02Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-04-05</actionDate>
+          <updateDate>2017-04-05T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <createDate>2017-04-06T03:11:55Z</createDate>
+    <introducedDate>2017-04-05</introducedDate>
+    <actions>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-04-05</actionDate>
+        <text>Referred to House Oversight and Government Reform</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-04-05</actionDate>
+        <text>Referred to House Ways and Means</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-04-05</actionDate>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-04-05</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-04-05</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <updateDate>2017-07-21T07:16:05Z</updateDate>
+    <congress>115</congress>
+    <recordedVotes />
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

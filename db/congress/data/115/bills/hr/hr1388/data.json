@@ -1,0 +1,137 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-03-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-07", 
+      "action_code": "H11100-A", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on House Administration, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-03-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Administration", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-03-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Rules", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1388-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-03-07", 
+  "number": "1388", 
+  "official_title": "To enact House Resolution 895, One Hundred Tenth Congress, (establishing the Office of Congressional Ethics) into permanent law.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "CLEAN Act", 
+  "sponsor": {
+    "bioguide_id": "O000171", 
+    "district": "1", 
+    "name": "O'Halleran, Tom", 
+    "state": "AZ", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-03-07", 
+  "subjects": [
+    "Congress", 
+    "Congressional agencies", 
+    "Congressional committees", 
+    "Congressional operations and organization", 
+    "Government ethics and transparency, public corruption", 
+    "House of Representatives", 
+    "Legislative rules and procedure", 
+    "Members of Congress"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "CLEAN Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "CLEAN Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Clean Legislating and Ethical Accountability Now Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Clean Legislating and Ethical Accountability Now Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To enact House Resolution 895, One Hundred Tenth Congress, (establishing the Office of Congressional Ethics) into permanent law.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "CLEAN Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-06-19T21:15:13Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr1388.xml"
+}

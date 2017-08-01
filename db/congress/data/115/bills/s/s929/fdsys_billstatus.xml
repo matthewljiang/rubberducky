@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-04-26T00:41:49Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2017-04-26</actionDate>
+        <committee>
+          <systemCode>sssb00</systemCode>
+          <name>Small Business and Entrepreneurship Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-25</actionDate>
+        <committee>
+          <systemCode>sssb00</systemCode>
+          <name>Small Business and Entrepreneurship Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-04-25</actionDate>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <title>Invest in Rural Small Business Act of 2017</title>
+    <laws />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName />
+        <state>NH</state>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <bioguideId>S001181</bioguideId>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <party>D</party>
+        <lastName>Shaheen</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <latestAction>
+      <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
+      <actionDate>2017-04-26</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>sssb00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2017-04-26T14:00:38Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-25T15:29:49Z</date>
+            </item>
+          </activities>
+          <name>Small Business and Entrepreneurship Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <congress>115</congress>
+    <billNumber>929</billNumber>
+    <recordedVotes />
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-06-22T14:23:24Z</updateDate>
+    <introducedDate>2017-04-25</introducedDate>
+    <notes />
+    <relatedBills />
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>BROWN</lastName>
+        <firstName>SHERROD</firstName>
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Invest in Rural Small Business Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Invest in Rural Small Business Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>A bill to improve the HUBZone program.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Invest in Rural Small Business Act of 2017</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,33 @@
+<bill session="115" type="sr" number="206" updated="2017-07-07T04:28:27Z">
+  <state datetime="2017-06-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-28"/>
+  </status>
+  <introduced datetime="2017-06-28"/>
+  <titles>
+    <title type="official" as="introduced">A resolution urging the Secretary of the Interior to recognize the cultural significance of Rib Mountain by adding it to the National Register of Historic Places.</title>
+    <title type="display">A resolution urging the Secretary of the Interior to recognize the cultural significance of Rib Mountain by adding it to the National Register of Historic Places.</title>
+  </titles>
+  <sponsor bioguide_id="J000293"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-06-28">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-06-28" state="REFERRED">
+      <text>Referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S3834" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="115" relation="identical" number="418"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>3002</number>
+        <latestTitle>Small Business Cyber Training Act of 2017</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the House Committee on Small Business.</text>
+          <actionDate>2017-06-22</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <congress>115</congress>
+        <number>3170</number>
+        <latestTitle>Small Business Development Center Cyber Training Act of 2017</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the House Committee on Small Business.</text>
+          <actionDate>2017-07-10</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <firstName>Gary</firstName>
+        <state>MI</state>
+        <lastName>Peters</lastName>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <bioguideId>P000595</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>C.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <identifiers>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <state>LA</state>
+        <lastName>Kennedy</lastName>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <bioguideId>K000393</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>Neely</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000393</bioguideId>
+          <lisID>2303</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Tammy</firstName>
+        <state>IL</state>
+        <lastName>Duckworth</lastName>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <bioguideId>D000622</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+          <lisID>2123</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Jeanne</firstName>
+        <state>NH</state>
+        <lastName>Shaheen</lastName>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <bioguideId>S001181</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-26</actionDate>
+        <committee>
+          <name>Small Business and Entrepreneurship Committee</name>
+          <systemCode>sssb00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-06-26</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <amendments />
+    <titles>
+      <item>
+        <title>Small Business Cyber Training Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Small Business Cyber Training Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>A bill to amend section 21 of the Small Business Act to require cyber certification for small business development center counselors, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Small Business Cyber Training Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <laws />
+    <notes />
+    <introducedDate>2017-06-26</introducedDate>
+    <committeeReports />
+    <updateDate>2017-07-20T16:56:28Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-06-26T21:15:43Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Small Business and Entrepreneurship Committee</name>
+          <type>Standing</type>
+          <systemCode>sssb00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <billNumber>1428</billNumber>
+    <title>Small Business Cyber Training Act of 2017</title>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <byRequestType />
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <state>ID</state>
+        <middleName>E.</middleName>
+        <firstName>James</firstName>
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+          <lisID>1896</lisID>
+          <gpoId>8274</gpoId>
+        </identifiers>
+        <lastName>Risch</lastName>
+        <bioguideId>R000584</bioguideId>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+      <links />
+      <actionDate>2017-06-26</actionDate>
+    </latestAction>
+    <createDate>2017-06-27T00:26:35Z</createDate>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

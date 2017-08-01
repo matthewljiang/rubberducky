@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-258</citation>
+      </committeeReport>
+    </committeeReports>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KNIGHT:H.R. 3210.Congress has the power to enact this legislation pursuantto the following:Congress has the authority to enact this legislationpursuant to Article I, Section 8, Clause 18.[Page H5759]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <district>11</district>
+        <lastName>Connolly</lastName>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <state>VA</state>
+        <bioguideId>C001078</bioguideId>
+        <middleName>E.</middleName>
+        <firstName>Gerald</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2017-07-27</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <originChamber>House</originChamber>
+    <actions>
+      <item>
+        <actionDate>2017-07-27</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <type>Floor</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+        <actionTime>14:21:28</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H6327</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6327</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H37300</actionCode>
+        <actionTime>14:21:25</actionTime>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6327)</text>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <type>Floor</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+        <actionTime>14:21:25</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 3210</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3210</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H8D000</actionCode>
+        <actionTime>14:06:33</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3210.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H6327-6328</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6327-6328</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <actionTime>14:06:32</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H6327-6328)</text>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <type>Floor</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30300</actionCode>
+        <actionTime>14:06:17</actionTime>
+        <text>Mr. Mitchell moved to suspend the rules and pass the bill, as amended.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <actionCode>H12410</actionCode>
+        <links />
+        <committee />
+        <type>Calendars</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Placed on the Union Calendar, Calendar No. 188.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <actionCode>H12200</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-258</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/258</url>
+          </link>
+        </links>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-258.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <actionCode>5000</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-258</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/258</url>
+          </link>
+        </links>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-258.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <generalDebate>1</generalDebate>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <actionStageOverride>1</actionStageOverride>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>14</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <district>25</district>
+        <firstName>Stephen</firstName>
+        <fullName>Rep. Knight, Stephen [R-CA-25]</fullName>
+        <state>CA</state>
+        <middleName />
+        <bioguideId>K000387</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2228</lisID>
+          <bioguideId>K000387</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <byRequestType />
+        <lastName>Knight</lastName>
+      </item>
+    </sponsors>
+    <billNumber>3210</billNumber>
+    <createDate>2017-07-13T03:11:36Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-25T20:16:31Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Securely Expediting Clearances Through Reporting Transparency Act of 2017 or the SECRET Act of 2017</b></p> <p>This bill requires the Office of Personnel Management's National Background Investigations Bureau to report on the backlog of security clearance investigations. </p>]]></text>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-07-12T04:00:00Z</updateDate>
+          <actionDate>2017-07-12</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-27T15:01:04Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-25T21:34:15Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-07-19T17:05:06Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-07-12T14:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <title>SECRET Act of 2017</title>
+    <introducedDate>2017-07-12</introducedDate>
+    <version>1.0.0</version>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 3210, SECRET Act of 2017</title>
+        <pubDate>2017-07-26T20:37:36Z</pubDate>
+        <url>https://www.cbo.gov/publication/52971</url>
+      </item>
+    </cboCostEstimates>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <title>SECRET Act of 2017</title>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <title>Securely Expediting Clearances Through Reporting Transparency Act of 2017</title>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <title>SECRET Act of 2017</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Securely Expediting Clearances Through Reporting Transparency Act of 2017</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To require the Director of the National Background Investigations Bureau to submit a report on the backlog of personnel security clearance investigations, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>SECRET Act of 2017</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>SECRET Act of 2017</title>
+        <chamberName>House</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Securely Expediting Clearances Through Reporting Transparency Act of 2017</title>
+        <chamberName>House</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+      </item>
+      <item>
+        <title>SECRET Act of 2017</title>
+        <chamberName>House</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Securely Expediting Clearances Through Reporting Transparency Act of 2017</title>
+        <chamberName>House</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+      </item>
+      <item>
+        <title>SECRET Act of 2017</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Securely Expediting Clearances Through Reporting Transparency Act of 2017</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <updateDate>2017-07-28T10:38:07Z</updateDate>
+    <calendarNumbers>
+      <item>
+        <calendar>U00188</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

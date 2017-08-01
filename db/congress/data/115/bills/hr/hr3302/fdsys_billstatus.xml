@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000808</bioguideId>
+        <identifiers>
+          <lisID>2004</lisID>
+          <gpoId>7889</gpoId>
+          <bioguideId>W000808</bioguideId>
+        </identifiers>
+        <district>24</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Wilson</lastName>
+        <party>D</party>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <firstName>Frederica</firstName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <middleName>S.</middleName>
+        <state>FL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001068</bioguideId>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <firstName>Steve</firstName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <middleName />
+        <state>TN</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H000324</bioguideId>
+        <identifiers>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <district>20</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>HASTINGS</lastName>
+        <party>D</party>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <firstName>ALCEE</firstName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <middleName>L.</middleName>
+        <state>FL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000597</bioguideId>
+        <identifiers>
+          <gpoId>7984</gpoId>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Pingree</lastName>
+        <party>D</party>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <firstName>Chellie</firstName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <middleName />
+        <state>ME</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001097</bioguideId>
+        <identifiers>
+          <lisID>2107</lisID>
+          <gpoId />
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <district>29</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cardenas</lastName>
+        <party>D</party>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <firstName>Tony</firstName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <middleName />
+        <state>CA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001170</bioguideId>
+        <identifiers>
+          <bioguideId>S001170</bioguideId>
+          <gpoId>7528</gpoId>
+          <lisID>1861</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Shea-Porter</lastName>
+        <party>D</party>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <firstName>Carol</firstName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <middleName />
+        <state>NH</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000009</bioguideId>
+        <identifiers>
+          <lisID>616</lisID>
+          <gpoId>8099</gpoId>
+          <bioguideId>K000009</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>KAPTUR</lastName>
+        <party>D</party>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <firstName>MARCY</firstName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <middleName />
+        <state>OH</state>
+      </item>
+    </cosponsors>
+    <billNumber>3302</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-07-19</introducedDate>
+    <updateDate>2017-07-28T14:00:12Z</updateDate>
+    <actions>
+      <item>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Education and the Workforce, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-19</actionDate>
+      </item>
+      <item>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Education and the Workforce, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-19</actionDate>
+      </item>
+      <item>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Education and the Workforce, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-19</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-19</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-19</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>3</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>D000610</bioguideId>
+        <middleName>E.</middleName>
+        <lastName>Deutch</lastName>
+        <identifiers>
+          <lisID>1976</lisID>
+          <gpoId>7891</gpoId>
+          <bioguideId>D000610</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <state>FL</state>
+        <district>22</district>
+        <firstName>Theodore</firstName>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Protecting and Preserving Social Security Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To amend title II of the Social Security Act and the Internal Revenue Code of 1986 to make improvements in the old-age, survivors, and disability insurance program, and to provide for Social Security benefit protection.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Protecting and Preserving Social Security Act</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2017-07-20T03:11:32Z</createDate>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-19T14:04:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Education and the Workforce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsed00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-19T14:04:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-19T14:04:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2017-07-19</actionDate>
+      <links />
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Education and the Workforce, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <amendments />
+    <policyArea />
+    <relatedBills />
+    <title>Protecting and Preserving Social Security Act</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DEUTCH:H.R. 3302.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 as interpreted by StewardMachine Company v. Davis and by Helvering v. Davis (``generalwelfare'' and general taxation).[Page H6042]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

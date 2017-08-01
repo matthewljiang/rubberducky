@@ -1,0 +1,34 @@
+<bill session="115" type="h" number="3545" updated="2017-07-29T07:33:02Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Public Health Service Act to protect the confidentiality of substance use disorder patient records.</title>
+    <title type="display">To amend the Public Health Service Act to protect the confidentiality of substance use disorder patient records.</title>
+  </titles>
+  <sponsor bioguide_id="M001151"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000574" joined="2017-07-28"/>
+    <cosponsor bioguide_id="C001103" joined="2017-07-28"/>
+    <cosponsor bioguide_id="M001181" joined="2017-07-28"/>
+    <cosponsor bioguide_id="M001190" joined="2017-07-28"/>
+    <cosponsor bioguide_id="R000586" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

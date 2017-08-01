@@ -1,0 +1,36 @@
+<bill session="115" type="h" number="2807" updated="2017-06-28T07:16:33Z">
+  <state datetime="2017-06-07">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-07"/>
+  </status>
+  <introduced datetime="2017-06-07"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 10, United States Code, to require congressional notification concerning sensitive military cyber operations and cyber weapons, and for other purposes.</title>
+    <title type="display">To amend title 10, United States Code, to require congressional notification concerning sensitive military cyber operations and cyber weapons, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="T000238"/>
+  <cosponsors>
+    <cosponsor bioguide_id="L000559" joined="2017-06-07"/>
+    <cosponsor bioguide_id="R000608" joined="2017-06-27"/>
+    <cosponsor bioguide_id="R000577" joined="2017-06-27"/>
+    <cosponsor bioguide_id="S000510" joined="2017-06-07"/>
+    <cosponsor bioguide_id="S001196" joined="2017-06-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-07">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-07" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

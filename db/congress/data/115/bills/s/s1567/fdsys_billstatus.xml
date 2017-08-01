@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <bioguideId>R000605</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <lastName>Rounds</lastName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <firstName>Mike</firstName>
+        <middleName />
+        <state>SD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2288</lisID>
+          <gpoId />
+          <bioguideId>R000605</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <title>VA Prescription Data Accountability Act of 2017</title>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>VA Prescription Data Accountability Act of 2017</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend title 38, United States Code, to clarify the authority of the Secretary of Veterans Affairs to disclose certain patient information to state controlled substance monitoring programs, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>VA Prescription Data Accountability Act of 2017</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>VA Prescription Data Accountability Act of 2017</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><strong>VA Prescription Data Accountability Act 2017</strong></p> <p>This bill directs the Department of Veterans Affairs (VA) to disclose information about an individual who is dispensed medication prescribed by a VA employee or by a non-VA provider authorized to prescribe such medication by the VA (currently,&nbsp;about&nbsp;a veteran or the dependent of a veteran) to a state controlled substance monitoring program to the extent necessary to prevent misuse and diversion of prescription medicines.</p>]]></text>
+          <actionDate>2017-07-13</actionDate>
+          <updateDate>2017-07-13T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-07-29T14:10:47Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1567</billNumber>
+    <recordedVotes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <number>1545</number>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+          <actionDate>2017-05-24</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <latestTitle>VA Prescription Data Accountability Act 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>D000607</bioguideId>
+        <firstName>Joe</firstName>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <identifiers>
+          <bioguideId>D000607</bioguideId>
+          <gpoId>7941</gpoId>
+          <lisID>1850</lisID>
+        </identifiers>
+        <lastName>Donnelly</lastName>
+        <middleName />
+        <party>D</party>
+        <byRequestType />
+        <state>IN</state>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <introducedDate>2017-07-13</introducedDate>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <links />
+      <actionDate>2017-07-13</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-13T22:00:07Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-07-29T14:15:13Z</updateDate>
+    <createDate>2017-07-14T00:41:33Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-13</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-13</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

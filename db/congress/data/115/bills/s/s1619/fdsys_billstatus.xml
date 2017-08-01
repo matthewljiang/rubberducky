@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Duckworth</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <firstName>Tammy</firstName>
+        <bioguideId>D000622</bioguideId>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <identifiers>
+          <lisID>2123</lisID>
+          <gpoId />
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>IL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <bioguideId>B001277</bioguideId>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <middleName />
+        <state>CT</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Whitehouse</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <firstName>Sheldon</firstName>
+        <bioguideId>W000802</bioguideId>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <identifiers>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>RI</state>
+      </item>
+    </cosponsors>
+    <billNumber>1619</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-07-24</introducedDate>
+    <updateDate>2017-07-28T11:41:32Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-24</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S4137-4138</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4137-4138</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs. (text of measure as introduced: CR S4137-4138)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-24</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>D000563</bioguideId>
+        <middleName>J.</middleName>
+        <lastName>DURBIN</lastName>
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <party>D</party>
+        <state>IL</state>
+        <firstName>RICHARD</firstName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <title>A bill to amend the Servicemembers Civil Relief Act to extend the interest rate limitation on debt entered into during military service to debt incurred during military service to consolidate or refinance student loans incurred before military service.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>A bill to amend the Servicemembers Civil Relief Act to extend the interest rate limitation on debt entered into during military service to debt incurred during military service to consolidate or refinance student loans incurred before military service.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <title>A bill to amend the Servicemembers Civil Relief Act to extend the interest rate limitation on debt entered into during military service to debt incurred during military service to consolidate or refinance student loans incurred before military service.</title>
+    <createDate>2017-07-25T01:41:35Z</createDate>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-24T21:29:31Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2017-07-24</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Veterans' Affairs. (text of measure as introduced: CR S4137-4138)</text>
+    </latestAction>
+    <originChamber>Senate</originChamber>
+    <congress>115</congress>
+    <billType>S</billType>
+    <amendments />
+    <policyArea />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

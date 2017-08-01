@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>849</number>
+        <latestTitle>SMASH Act</latestTitle>
+        <latestAction>
+          <actionDate>2017-05-01</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 45.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <bioguideId>S001200</bioguideId>
+        <state>FL</state>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+          <lisID>2319</lisID>
+        </identifiers>
+        <party>D</party>
+        <district>9</district>
+        <byRequestType />
+        <middleName />
+        <lastName>Soto</lastName>
+        <firstName>Darren</firstName>
+      </item>
+    </sponsors>
+    <updateDate>2017-06-19T21:15:17Z</updateDate>
+    <recordedVotes />
+    <notes />
+    <introducedDate>2017-03-02</introducedDate>
+    <calendarNumbers />
+    <laws />
+    <version>1.0.0</version>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>SMASH Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Strengthening Mosquito Abatement for Safety and Health Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>SMASH Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Strengthening Mosquito Abatement for Safety and Health Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To support programs for mosquito-borne and other vector-borne disease surveillance and control.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>SMASH Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <amendments />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-03-17</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2017-03-02</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1490</url>
+            <name>H1490</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-03-02</actionDate>
+        <text>Sponsor introductory remarks on measure. (CR H1490)</text>
+        <actionCode>B00100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-03-02</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-03-02</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <latestAction>
+      <actionDate>2017-03-17</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <billNumber>1310</billNumber>
+    <congress>115</congress>
+    <title>SMASH Act</title>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Emergency planning and evacuation</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Insects</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Pest management</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <state>FL</state>
+        <district>26</district>
+        <bioguideId>C001107</bioguideId>
+        <lastName>Curbelo</lastName>
+        <firstName>Carlos</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001107</bioguideId>
+          <lisID>2235</lisID>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <state>FL</state>
+        <district>14</district>
+        <bioguideId>C001066</bioguideId>
+        <lastName>Castor</lastName>
+        <firstName>Kathy</firstName>
+        <identifiers>
+          <bioguideId>C001066</bioguideId>
+          <lisID>1839</lisID>
+          <gpoId>7883</gpoId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <state>FL</state>
+        <district>1</district>
+        <bioguideId>G000578</bioguideId>
+        <lastName>Gaetz</lastName>
+        <firstName>Matt</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2314</lisID>
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <state>FL</state>
+        <district>13</district>
+        <bioguideId>C001111</bioguideId>
+        <lastName>Crist</lastName>
+        <firstName>Charlie</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001111</bioguideId>
+          <lisID>2321</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Demings, Val Butler [D-FL-10]</fullName>
+        <middleName>Butler</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <state>FL</state>
+        <district>10</district>
+        <bioguideId>D000627</bioguideId>
+        <lastName>Demings</lastName>
+        <firstName>Val</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2320</lisID>
+          <bioguideId>D000627</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <state>FL</state>
+        <district>22</district>
+        <bioguideId>D000610</bioguideId>
+        <lastName>Deutch</lastName>
+        <firstName>Theodore</firstName>
+        <identifiers>
+          <bioguideId>D000610</bioguideId>
+          <lisID>1976</lisID>
+          <gpoId>7891</gpoId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Frankel, Lois [D-FL-21]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <state>FL</state>
+        <district>21</district>
+        <bioguideId>F000462</bioguideId>
+        <lastName>Frankel</lastName>
+        <firstName>Lois</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000462</bioguideId>
+          <lisID>2119</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <state>FL</state>
+        <district>20</district>
+        <bioguideId>H000324</bioguideId>
+        <lastName>HASTINGS</lastName>
+        <firstName>ALCEE</firstName>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <state>FL</state>
+        <district>5</district>
+        <bioguideId>L000586</bioguideId>
+        <lastName>Lawson</lastName>
+        <firstName>Al</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000586</bioguideId>
+          <lisID>2317</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <middleName>N.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <state>FL</state>
+        <district>7</district>
+        <bioguideId>M001202</bioguideId>
+        <lastName>Murphy</lastName>
+        <firstName>Stephanie</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001202</bioguideId>
+          <lisID>2318</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <state>CO</state>
+        <district>7</district>
+        <bioguideId>P000593</bioguideId>
+        <lastName>Perlmutter</lastName>
+        <firstName>Ed</firstName>
+        <identifiers>
+          <bioguideId>P000593</bioguideId>
+          <lisID>1835</lisID>
+          <gpoId>7865</gpoId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <state>FL</state>
+        <district>23</district>
+        <bioguideId>W000797</bioguideId>
+        <lastName>Wasserman Schultz</lastName>
+        <firstName>Debbie</firstName>
+        <identifiers>
+          <bioguideId>W000797</bioguideId>
+          <lisID>1777</lisID>
+          <gpoId>7892</gpoId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <middleName>S.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <state>FL</state>
+        <district>24</district>
+        <bioguideId>W000808</bioguideId>
+        <lastName>Wilson</lastName>
+        <firstName>Frederica</firstName>
+        <identifiers>
+          <gpoId>7889</gpoId>
+          <bioguideId>W000808</bioguideId>
+          <lisID>2004</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <middleName>V.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-06</sponsorshipDate>
+        <state>IL</state>
+        <district>4</district>
+        <bioguideId>G000535</bioguideId>
+        <lastName>GUTIERREZ</lastName>
+        <firstName>LUIS</firstName>
+        <identifiers>
+          <gpoId>7924</gpoId>
+          <bioguideId>G000535</bioguideId>
+          <lisID>478</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-06</sponsorshipDate>
+        <state>HI</state>
+        <district>2</district>
+        <bioguideId>G000571</bioguideId>
+        <lastName>Gabbard</lastName>
+        <firstName>Tulsi</firstName>
+        <identifiers>
+          <bioguideId>G000571</bioguideId>
+          <lisID>2122</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <state>CA</state>
+        <district>32</district>
+        <bioguideId>N000179</bioguideId>
+        <lastName>NAPOLITANO</lastName>
+        <firstName>GRACE</firstName>
+        <identifiers>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <state>CA</state>
+        <district>3</district>
+        <bioguideId>G000559</bioguideId>
+        <lastName>Garamendi</lastName>
+        <firstName>John</firstName>
+        <identifiers>
+          <gpoId>7815</gpoId>
+          <lisID>1973</lisID>
+          <bioguideId>G000559</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <state>GA</state>
+        <district>5</district>
+        <bioguideId>L000287</bioguideId>
+        <lastName>LEWIS</lastName>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <bioguideId>L000287</bioguideId>
+          <lisID>688</lisID>
+          <gpoId>7902</gpoId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <state>TX</state>
+        <district>34</district>
+        <bioguideId>V000132</bioguideId>
+        <lastName>Vela</lastName>
+        <firstName>Filemon</firstName>
+        <identifiers>
+          <bioguideId>V000132</bioguideId>
+          <lisID>2167</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Cleaver, Emanuel [D-MO-5]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <state>MO</state>
+        <district>5</district>
+        <bioguideId>C001061</bioguideId>
+        <lastName>Cleaver</lastName>
+        <firstName>Emanuel</firstName>
+        <identifiers>
+          <gpoId>8013</gpoId>
+          <bioguideId>C001061</bioguideId>
+          <lisID>1790</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <state>CA</state>
+        <district>15</district>
+        <bioguideId>S001193</bioguideId>
+        <lastName>Swalwell</lastName>
+        <firstName>Eric</firstName>
+        <identifiers>
+          <bioguideId>S001193</bioguideId>
+          <lisID>2104</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <state>NH</state>
+        <district>1</district>
+        <bioguideId>S001170</bioguideId>
+        <lastName>Shea-Porter</lastName>
+        <firstName>Carol</firstName>
+        <identifiers>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+          <lisID>1861</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <state>NJ</state>
+        <district>12</district>
+        <bioguideId>W000822</bioguideId>
+        <lastName>Watson Coleman</lastName>
+        <firstName>Bonnie</firstName>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+          <lisID>2259</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Plaskett, Stacey E. [D-VI-At Large]</fullName>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <state>VI</state>
+        <district>0</district>
+        <bioguideId>P000610</bioguideId>
+        <lastName>Plaskett</lastName>
+        <firstName>Stacey</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000610</bioguideId>
+          <lisID>2274</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <state>FL</state>
+        <district>18</district>
+        <bioguideId>M001199</bioguideId>
+        <lastName>Mast</lastName>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <bioguideId>M001199</bioguideId>
+          <lisID>2322</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-02</sponsorshipDate>
+        <state>CA</state>
+        <district>27</district>
+        <bioguideId>C001080</bioguideId>
+        <lastName>Chu</lastName>
+        <firstName>Judy</firstName>
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Ros-Lehtinen, Ileana [R-FL-27]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <state>FL</state>
+        <district>27</district>
+        <bioguideId>R000435</bioguideId>
+        <lastName>ROS-LEHTINEN</lastName>
+        <firstName>ILEANA</firstName>
+        <identifiers>
+          <bioguideId>R000435</bioguideId>
+          <lisID>985</lisID>
+          <gpoId>7890</gpoId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <date>2017-03-17T17:40:44Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-03-02T14:08:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SOTO:H.R. 1310.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, of the United States Constitution.[Page H1530]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2017-03-03T05:11:24Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

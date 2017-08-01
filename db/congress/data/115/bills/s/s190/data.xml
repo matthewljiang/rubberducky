@@ -1,0 +1,57 @@
+<bill session="115" type="s" number="190" updated="2017-06-19T22:30:27Z">
+  <state datetime="2017-03-30">REPORTED</state>
+  <status>
+    <unknown datetime="2017-03-30"/>
+  </status>
+  <introduced datetime="2017-01-23"/>
+  <titles>
+    <title type="short" as="introduced">Power And Security Systems (PASS) Act</title>
+    <title type="short" as="introduced">Power And Security Systems (PASS) Act</title>
+    <title type="short" as="reported to senate">Power And Security Systems (PASS) Act</title>
+    <title type="short" as="reported to senate">Power And Security Systems (PASS) Act</title>
+    <title type="official" as="introduced">A bill to provide for consideration of the extension under the Energy Policy and Conservation Act of nonapplication of No-Load Mode energy efficiency standards to certain security or life safety alarms or surveillance systems, and for other purposes.</title>
+    <title type="display">Power And Security Systems (PASS) Act</title>
+  </titles>
+  <sponsor bioguide_id="G000562"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C000127" joined="2017-01-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-01-23">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-01-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar datetime="2017-03-30" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2017-05-24">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-76.</text>
+    </action>
+    <calendar datetime="2017-05-24" calendar="Senate Legislative" under="General Orders" number="95">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 95.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="511"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Consumer affairs"/>
+    <term name="Crimes against property"/>
+    <term name="Department of Energy"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Fires"/>
+    <term name="Floods and storm protection"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>S. Rept. 115-76</report>
+  </committee-reports>
+</bill>

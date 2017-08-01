@@ -1,0 +1,39 @@
+<bill session="115" type="s" number="1157" updated="2017-06-19T22:30:22Z">
+  <state datetime="2017-05-17">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-17"/>
+  </status>
+  <introduced datetime="2017-05-17"/>
+  <titles>
+    <title type="short" as="introduced">PATCH Act of 2017</title>
+    <title type="short" as="introduced">PATCH Act of 2017</title>
+    <title type="short" as="introduced">Protecting Our Ability to Counter Hacking Act of 2017</title>
+    <title type="short" as="introduced">Protecting Our Ability to Counter Hacking Act of 2017</title>
+    <title type="official" as="introduced">A bill to establish the Vulnerability Equities Review Board, and for other purposes.</title>
+    <title type="display">PATCH Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="S001194"/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000562" joined="2017-05-17"/>
+    <cosponsor bioguide_id="J000293" joined="2017-05-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-17">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2481"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

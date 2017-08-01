@@ -1,0 +1,354 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HLIG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Intelligence (Permanent Select).", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-07-24", 
+      "action_code": "H12200", 
+      "committees": [
+        "HLIG"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Intelligence. H. Rept. 115-251.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-24", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "183", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the Union Calendar, Calendar No. 183.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2017-07-24T17:28:21-04:00", 
+      "action_code": "H30300", 
+      "references": [], 
+      "text": "Mr. Nunes moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-24T17:28:36-04:00", 
+      "action_code": "H30000", 
+      "references": [
+        {
+          "reference": "CR H6187-6195", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6187-6193", 
+          "type": "text of measure as reported"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-24T17:28:37-04:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3180.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-24T17:43:28-04:00", 
+      "action_code": "H37220", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-24T18:32:32-04:00", 
+      "action_code": "H30000", 
+      "references": [
+        {
+          "reference": "CR H6196", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-24T18:55:30-04:00", 
+      "action_code": "H37300", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": "407", 
+      "status": "PROV_KILL:SUSPENSIONFAILED", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 241 - 163 (Roll no. 407).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2017-07-27T18:41:30-04:00", 
+      "action_code": "H1L210", 
+      "bill_ids": [
+        "hres481-115"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 481 Reported to House. Rule provides for consideration of H.R. 3180 with 1 hour of general debate. The resolution provides for a closed rule. The resolution provides for an amendment in the nature of a substitute recommended by the Permanent Select Committee on Intelligence now printed in the bill shall be considered as adopted, and the bill as amended, shall be considered as read.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-28T10:28:31-04:00", 
+      "action_code": "H1L220", 
+      "bill_ids": [
+        "hres481-115"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 481 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-28T11:52:30-04:00", 
+      "action_code": "H30000", 
+      "bill_ids": [
+        "hres481-115"
+      ], 
+      "references": [
+        {
+          "reference": "CR H6547-6557", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 481.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-28T11:52:35-04:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "Rule provides for consideration of H.R. 3180 with 1 hour of general debate. The resolution provides for a closed rule. The resolution provides for an amendment in the nature of a substitute recommended by the Permanent Select Committee on Intelligence now printed in the bill shall be considered as adopted, and the bill as amended, shall be considered as read.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-28T11:53:55-04:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 3180.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-28T12:21:15-04:00", 
+      "action_code": "H35000", 
+      "references": [], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-28T12:46:13-04:00", 
+      "action_code": "H37100", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6547-6552", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "437", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by the Yeas and Nays: 380 - 35 (Roll no. 437).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2017-07-28T12:46:15-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "hamdt271-115", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "271"
+    }
+  ], 
+  "bill_id": "hr3180-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 115-251"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "referral"
+      ], 
+      "committee": "House Intelligence (Permanent)", 
+      "committee_id": "HLIG"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S001150", 
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-11", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-07-24", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2017-07-28T12:46:13-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-11", 
+  "number": "3180", 
+  "official_title": "To authorize appropriations for fiscal year 2018 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres481-115", 
+      "identified_by": "House", 
+      "reason": "procedurally-related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Intelligence Authorization Act for Fiscal Year 2018", 
+  "sponsor": {
+    "bioguide_id": "N000181", 
+    "district": "22", 
+    "name": "Nunes, Devin", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2017-07-28T12:46:13-04:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Asia", 
+    "Caribbean area", 
+    "Central Intelligence Agency (CIA)", 
+    "China", 
+    "Coast guard", 
+    "Computer security and identity theft", 
+    "Computers and information technology", 
+    "Congressional elections", 
+    "Congressional oversight", 
+    "Cuba", 
+    "Defense spending", 
+    "Department of Defense", 
+    "Department of Energy", 
+    "Department of Homeland Security", 
+    "Department of Justice", 
+    "Department of State", 
+    "Department of the Treasury", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Director of National Intelligence", 
+    "Drug Enforcement Administration (DEA)", 
+    "Elections, voting, political campaign regulation", 
+    "Employment discrimination and employee rights", 
+    "Europe", 
+    "Executive agency funding and structure", 
+    "Federal Bureau of Investigation (FBI)", 
+    "Federal officials", 
+    "Foreign and international banking", 
+    "Foreign language and bilingual programs", 
+    "Government buildings, facilities, and property", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Higher education", 
+    "Intelligence activities, surveillance, classified information", 
+    "Iran", 
+    "Latin America", 
+    "Middle East", 
+    "North Korea", 
+    "Public contracts and procurement", 
+    "Public-private cooperation", 
+    "Research and development", 
+    "Russia", 
+    "Sanctions", 
+    "Terrorism", 
+    "U.S. and foreign investments"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Intelligence Authorization Act for Fiscal Year 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Intelligence Authorization Act for Fiscal Year 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Intelligence Authorization Act for Fiscal Year 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Intelligence Authorization Act for Fiscal Year 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Intelligence Authorization Act for Fiscal Year 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize appropriations for fiscal year 2018 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Intelligence Authorization Act for Fiscal Year 2018", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-31T15:42:15Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3180.xml"
+}

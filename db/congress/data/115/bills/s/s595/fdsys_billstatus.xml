@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Boots on the Border Act of 2017</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>ssga00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-24T20:59:12Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-05-17T14:00:34Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-03-09T19:18:27Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2017-07-24</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 179.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-07-24</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-133</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/133</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-133.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-24</actionDate>
+        <actionCode>14000</actionCode>
+        <links>
+          <link>
+            <name>report No. 115-133</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/133</url>
+          </link>
+        </links>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 115-133.</text>
+      </item>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-09</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-03-09</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <reportedToSenate>2</reportedToSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <orderedReported>1</orderedReported>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <number>2213</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+          <actionDate>2017-06-08</actionDate>
+        </latestAction>
+        <latestTitle>Anti-Border Corruption Reauthorization Act of 2017</latestTitle>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <createDate>2017-03-10T05:16:41Z</createDate>
+    <amendments />
+    <cosponsors>
+      <item>
+        <middleName>SIDNEY</middleName>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>MCCAIN</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>754</lisID>
+          <gpoId>8253</gpoId>
+          <bioguideId>M000303</bioguideId>
+        </identifiers>
+        <bioguideId>M000303</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Johnson</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>J000293</bioguideId>
+          <lisID>2086</lisID>
+          <gpoId>8355</gpoId>
+        </identifiers>
+        <bioguideId>J000293</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ron</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>McCaskill</lastName>
+        <party>D</party>
+        <state>MO</state>
+        <identifiers>
+          <lisID>1820</lisID>
+          <gpoId>8252</gpoId>
+          <bioguideId>M001170</bioguideId>
+        </identifiers>
+        <bioguideId>M001170</bioguideId>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Claire</firstName>
+      </item>
+    </cosponsors>
+    <updateDate>2017-07-29T07:33:18Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>F000444</bioguideId>
+        <byRequestType />
+        <party>R</party>
+        <lastName>FLAKE</lastName>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <firstName>JEFF</firstName>
+        <middleName />
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>F000444</bioguideId>
+          <gpoId>7803</gpoId>
+          <lisID>1633</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Anti-Border Corruption Reauthorization Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Boots on the Border Act of 2017</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Boots on the Border Act of 2017</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to provide U.S. Customs and Border Protection with additional flexibility to expedite the hiring process for applicants for law enforcement positions, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Boots on the Border Act of 2017</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates>
+      <item>
+        <title>S. 595, Anti-Border Corruption Reauthorization Act of 2017</title>
+        <pubDate>2017-06-13T18:55:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/52809</url>
+      </item>
+    </cboCostEstimates>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Employee hiring</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+          <item>
+            <name>Personnel records</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>115</congress>
+    <introducedDate>2017-03-09</introducedDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-133</citation>
+      </committeeReport>
+    </committeeReports>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0179</number>
+      </item>
+    </calendarNumbers>
+    <latestAction>
+      <actionDate>2017-07-24</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 179.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <billNumber>595</billNumber>
+    <billType>S</billType>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,46 @@
+<bill session="115" type="s" number="250" updated="2017-05-04T00:18:09Z">
+  <state datetime="2017-02-01">REFERRED</state>
+  <status>
+    <introduced datetime="2017-02-01"/>
+  </status>
+  <introduced datetime="2017-02-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit any hiring freeze from affecting any Department of Defense position at, or in support of, a public shipyard.</title>
+    <title type="display">A bill to prohibit any hiring freeze from affecting any Department of Defense position at, or in support of, a public shipyard.</title>
+  </titles>
+  <sponsor bioguide_id="S001194"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C000127" joined="2017-02-01"/>
+    <cosponsor bioguide_id="H001076" joined="2017-02-01"/>
+    <cosponsor bioguide_id="H001042" joined="2017-02-01"/>
+    <cosponsor bioguide_id="S001181" joined="2017-02-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-02-01">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-02-01" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="742"/>
+    <bill type="h" session="115" relation="unknown" number="1878"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Employee hiring"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Military facilities and property"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="Presidents and presidential powers, Vice Presidents"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

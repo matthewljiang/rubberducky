@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssva00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2017-07-11T18:30:52Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-26T15:42:19Z</date>
+            </item>
+          </activities>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <createDate>2017-04-27T00:41:42Z</createDate>
+    <title>Veterans Treatment Court Improvement Act of 2017</title>
+    <billNumber>946</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Veterans' Affairs.</text>
+          <actionDate>2017-04-26</actionDate>
+        </latestAction>
+        <number>2147</number>
+        <latestTitle>Veterans Treatment Court Improvement Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <notes />
+    <amendments />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-11</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-26</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2555-2556</url>
+            <name>S2555-2556</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs. (Sponsor introductory remarks on measure: CR S2555-2556)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-04-26</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+      </item>
+    </actions>
+    <latestAction>
+      <actionDate>2017-07-11</actionDate>
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <firstName>JEFF</firstName>
+        <state>AZ</state>
+        <middleName />
+        <bioguideId>F000444</bioguideId>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <lastName>FLAKE</lastName>
+        <identifiers>
+          <lisID>1633</lisID>
+          <bioguideId>F000444</bioguideId>
+          <gpoId>7803</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Veterans Treatment Court Improvement Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Veterans Treatment Court Improvement Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to require the Secretary of Veterans Affairs to hire additional Veterans Justice Outreach Specialists to provide treatment court services to justice-involved veterans, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Veterans Treatment Court Improvement Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <introducedDate>2017-04-26</introducedDate>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <bioguideId>M000303</bioguideId>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <state>AZ</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>M000303</bioguideId>
+          <lisID>754</lisID>
+          <gpoId>8253</gpoId>
+        </identifiers>
+        <middleName>SIDNEY</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCCAIN</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ORRIN</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <bioguideId>H000338</bioguideId>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <state>UT</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>1351</lisID>
+          <bioguideId>H000338</bioguideId>
+          <gpoId>8314</gpoId>
+        </identifiers>
+        <middleName>GRANT</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>HATCH</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <bioguideId>C001056</bioguideId>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <state>TX</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C001056</bioguideId>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Cornyn</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <bioguideId>L000577</bioguideId>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <state>UT</state>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8303</gpoId>
+          <lisID>2080</lisID>
+          <bioguideId>L000577</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Lee</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Thomas</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <bioguideId>T000476</bioguideId>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <state>NC</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>2291</lisID>
+          <gpoId />
+          <bioguideId>T000476</bioguideId>
+        </identifiers>
+        <middleName>Roland</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Tillis</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Lisa</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <bioguideId>M001153</bioguideId>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <state>AK</state>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8234</gpoId>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Murkowski</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jon</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <bioguideId>T000464</bioguideId>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <state>MT</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Tester</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Joe</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <bioguideId>M001183</bioguideId>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <state>WV</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8256</gpoId>
+          <lisID>1983</lisID>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Manchin</lastName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <cboCostEstimates />
+    <updateDate>2017-07-20T16:56:19Z</updateDate>
+    <laws />
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

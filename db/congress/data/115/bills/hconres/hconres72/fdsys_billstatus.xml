@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <district>12</district>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <firstName>CAROLYN</firstName>
+        <middleName>B.</middleName>
+        <party>D</party>
+        <state>NY</state>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <identifiers>
+          <gpoId>8075</gpoId>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <bioguideId>M000087</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>MALONEY</lastName>
+      </item>
+      <item>
+        <district>8</district>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <firstName>Trent</firstName>
+        <middleName />
+        <party>R</party>
+        <state>AZ</state>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <identifiers>
+          <gpoId>7799</gpoId>
+          <bioguideId>F000448</bioguideId>
+          <lisID>1707</lisID>
+        </identifiers>
+        <bioguideId>F000448</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Franks</lastName>
+      </item>
+      <item>
+        <district>3</district>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <firstName>Thomas</firstName>
+        <middleName>R.</middleName>
+        <party>D</party>
+        <state>NY</state>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <identifiers>
+          <lisID>2341</lisID>
+          <gpoId />
+          <bioguideId>S001201</bioguideId>
+        </identifiers>
+        <bioguideId>S001201</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Suozzi</lastName>
+      </item>
+      <item>
+        <district>8</district>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <firstName>Jamie</firstName>
+        <middleName />
+        <party>D</party>
+        <state>MD</state>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <identifiers>
+          <lisID>2332</lisID>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+        </identifiers>
+        <bioguideId>R000606</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Raskin</lastName>
+      </item>
+      <item>
+        <district>18</district>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <firstName>ANNA</firstName>
+        <middleName>G.</middleName>
+        <party>D</party>
+        <state>CA</state>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <identifiers>
+          <gpoId>7819</gpoId>
+          <bioguideId>E000215</bioguideId>
+          <lisID>355</lisID>
+        </identifiers>
+        <bioguideId>E000215</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>ESHOO</lastName>
+      </item>
+      <item>
+        <district>14</district>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <firstName>Jackie</firstName>
+        <middleName />
+        <party>D</party>
+        <state>CA</state>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <identifiers>
+          <bioguideId>S001175</bioguideId>
+          <lisID>1890</lisID>
+          <gpoId>7817</gpoId>
+        </identifiers>
+        <bioguideId>S001175</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Speier</lastName>
+      </item>
+      <item>
+        <district>31</district>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <firstName>John</firstName>
+        <middleName>R.</middleName>
+        <party>R</party>
+        <state>TX</state>
+        <fullName>Rep. Carter, John R. [R-TX-31]</fullName>
+        <identifiers>
+          <bioguideId>C001051</bioguideId>
+          <lisID>1752</lisID>
+          <gpoId>8187</gpoId>
+        </identifiers>
+        <bioguideId>C001051</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Carter</lastName>
+      </item>
+      <item>
+        <district>4</district>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <firstName>Tom</firstName>
+        <middleName />
+        <party>R</party>
+        <state>OK</state>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <identifiers>
+          <gpoId>8112</gpoId>
+          <bioguideId>C001053</bioguideId>
+          <lisID>1742</lisID>
+        </identifiers>
+        <bioguideId>C001053</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cole</lastName>
+      </item>
+    </cosponsors>
+    <billNumber>72</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-07-24</introducedDate>
+    <updateDate>2017-07-28T11:15:21Z</updateDate>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-24</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-24</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-24</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M001181</bioguideId>
+        <middleName />
+        <lastName>Meehan</lastName>
+        <identifiers>
+          <bioguideId>M001181</bioguideId>
+          <gpoId>8125</gpoId>
+          <lisID>2052</lisID>
+        </identifiers>
+        <party>R</party>
+        <state>PA</state>
+        <district>7</district>
+        <firstName>Patrick</firstName>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the sense of Congress that child safety is the first priority of custody and visitation adjudications, and that State courts should improve adjudications of custody where family violence is alleged.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Expressing the sense of Congress that child safety is the first priority of custody and visitation adjudications, and that State courts should improve adjudications of custody where family violence is alleged.</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Domestic violence and child abuse</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+          <item>
+            <name>Legal fees and court costs</name>
+          </item>
+          <item>
+            <name>Separation, divorce, custody, support</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Families</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-07-25T03:11:30Z</createDate>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-24T16:02:20Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2017-07-24</actionDate>
+      <links />
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <billType>HCONRES</billType>
+    <amendments />
+    <policyArea>
+      <name>Families</name>
+    </policyArea>
+    <relatedBills />
+    <title>Expressing the sense of Congress that child safety is the first priority of custody and visitation adjudications, and that State courts should improve adjudications of custody where family violence is alleged.</title>
+    <constitutionalAuthorityStatementText />
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

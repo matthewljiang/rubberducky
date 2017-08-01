@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <cboCostEstimates />
+    <laws />
+    <calendarNumbers />
+    <congress>115</congress>
+    <createDate>2017-07-18T00:26:34Z</createDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>LGBT Data Inclusion Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to improve Federal population surveys by requiring the collection of voluntary, self-disclosed information on sexual orientation and gender identity in certain surveys, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>LGBT Data Inclusion Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>LGBT Data Inclusion Act</title>
+      </item>
+    </titles>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-17</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-17</actionDate>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestTitle>LGBT Data Inclusion Act</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Oversight and Government Reform.</text>
+          <actionDate>2017-07-17</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <congress>115</congress>
+        <number>3273</number>
+      </item>
+      <item>
+        <latestTitle>LGBT Data Inclusion Act</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+          <actionDate>2017-07-17</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <congress>115</congress>
+        <number>1570</number>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>ssga00</systemCode>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2017-07-17T20:42:07Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <updateDate>2017-07-31T14:00:15Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2017-07-17</actionDate>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </latestAction>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <bioguideId>M000133</bioguideId>
+        <middleName>J.</middleName>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>EDWARD</firstName>
+        <lastName>MARKEY</lastName>
+        <state>MA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <bioguideId>M001111</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1409</lisID>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>PATTY</firstName>
+        <lastName>MURRAY</lastName>
+        <state>WA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <bioguideId>H001042</bioguideId>
+        <middleName>K.</middleName>
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Mazie</firstName>
+        <lastName>Hirono</lastName>
+        <state>HI</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <bioguideId>C001113</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001113</bioguideId>
+          <lisID>2299</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Catherine</firstName>
+        <lastName>Cortez Masto</lastName>
+        <state>NV</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <bioguideId>G000555</bioguideId>
+        <middleName>E.</middleName>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+          <lisID>1866</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <state>NY</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <bioguideId>W000802</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Sheldon</firstName>
+        <lastName>Whitehouse</lastName>
+        <state>RI</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <bioguideId>B001277</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <state>CT</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <bioguideId>M001176</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Jeff</firstName>
+        <lastName>Merkley</lastName>
+        <state>OR</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <bioguideId>S000148</bioguideId>
+        <middleName>E.</middleName>
+        <identifiers>
+          <bioguideId>S000148</bioguideId>
+          <gpoId>8279</gpoId>
+          <lisID>1036</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>CHARLES</firstName>
+        <lastName>SCHUMER</lastName>
+        <state>NY</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <bioguideId>D000563</bioguideId>
+        <middleName>J.</middleName>
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>RICHARD</firstName>
+        <lastName>DURBIN</lastName>
+        <state>IL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <bioguideId>C000174</bioguideId>
+        <middleName>R.</middleName>
+        <identifiers>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+          <lisID>179</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>THOMAS</firstName>
+        <lastName>CARPER</lastName>
+        <state>DE</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <bioguideId>K000367</bioguideId>
+        <middleName />
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Amy</firstName>
+        <lastName>Klobuchar</lastName>
+        <state>MN</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <bioguideId>F000457</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>F000457</bioguideId>
+          <gpoId>8339</gpoId>
+          <lisID>1969</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Al</firstName>
+        <lastName>Franken</lastName>
+        <state>MN</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <bioguideId>W000779</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>RON</firstName>
+        <lastName>WYDEN</lastName>
+        <state>OR</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <bioguideId>F000062</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>DIANNE</firstName>
+        <lastName>FEINSTEIN</lastName>
+        <state>CA</state>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <lastName>BALDWIN</lastName>
+        <byRequestType />
+        <state>WI</state>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <bioguideId>B001230</bioguideId>
+        <firstName>TAMMY</firstName>
+      </item>
+    </sponsors>
+    <introducedDate>2017-07-17</introducedDate>
+    <billNumber>1570</billNumber>
+    <title>LGBT Data Inclusion Act</title>
+    <version>1.0.0</version>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

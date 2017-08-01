@@ -1,0 +1,36 @@
+<bill session="115" type="h" number="2848" updated="2017-06-19T22:37:07Z">
+  <state datetime="2017-06-08">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-08"/>
+  </status>
+  <introduced datetime="2017-06-08"/>
+  <titles>
+    <title type="short" as="introduced">Relief and Investment for Student Entrepreneurs Act</title>
+    <title type="short" as="introduced">Relief and Investment for Student Entrepreneurs Act</title>
+    <title type="short" as="introduced">RISE Act</title>
+    <title type="short" as="introduced">RISE Act</title>
+    <title type="official" as="introduced">To amend the Higher Education Act of 1965 to allow qualified entrepreneurs to temporarily defer Federal student loan payments after starting a new business.</title>
+    <title type="display">RISE Act</title>
+  </titles>
+  <sponsor bioguide_id="G000574"/>
+  <cosponsors>
+    <cosponsor bioguide_id="S001193" joined="2017-06-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-08">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-08" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="115" type="hr" number="434" updated="2017-07-13T13:25:17Z">
+  <state datetime="2017-07-11">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-11"/>
+  </status>
+  <introduced datetime="2017-07-11"/>
+  <titles>
+    <title type="official" as="introduced">Condemning violence against religious minorities in the People's Republic of China and any actions that limit the free expression and practice of faith by these minorities.</title>
+    <title type="display">Condemning violence against religious minorities in the People's Republic of China and any actions that limit the free expression and practice of faith by these minorities.</title>
+  </titles>
+  <sponsor bioguide_id="H001071"/>
+  <cosponsors>
+    <cosponsor bioguide_id="F000448" joined="2017-07-11"/>
+    <cosponsor bioguide_id="G000576" joined="2017-07-11"/>
+    <cosponsor bioguide_id="H001059" joined="2017-07-11"/>
+    <cosponsor bioguide_id="K000362" joined="2017-07-11"/>
+    <cosponsor bioguide_id="L000564" joined="2017-07-11"/>
+    <cosponsor bioguide_id="R000580" joined="2017-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-11">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-11" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="China"/>
+    <term name="Human rights"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

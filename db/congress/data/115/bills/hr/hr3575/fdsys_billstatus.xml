@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <bioguideId>C001068</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <district>9</district>
+        <party>D</party>
+        <firstName>Steve</firstName>
+        <lastName>Cohen</lastName>
+        <state>TN</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsba00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-28T13:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Financial Services Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-07-29T03:11:38Z</createDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide standards for physical condition and management of housing receiving assistance payments under section 8 of the United States Housing Act of 1937.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To provide standards for physical condition and management of housing receiving assistance payments under section 8 of the United States Housing Act of 1937.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <billNumber>3575</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <introducedDate>2017-07-28</introducedDate>
+    <laws />
+    <congress>115</congress>
+    <committeeReports />
+    <notes />
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <latestAction>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+      <actionDate>2017-07-28</actionDate>
+    </latestAction>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <state>FL</state>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7884</gpoId>
+          <lisID>2003</lisID>
+          <bioguideId>R000593</bioguideId>
+        </identifiers>
+        <firstName>Dennis</firstName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <middleName>A.</middleName>
+        <lastName>Ross</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>15</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000593</bioguideId>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <title>To provide standards for physical condition and management of housing receiving assistance payments under section 8 of the United States Housing Act of 1937.</title>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <links />
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR E1087)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/extensions-of-remarks-section/page/E1087</url>
+            <name>E1087</name>
+          </link>
+        </links>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>B00100</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <updateDate>2017-07-31T13:42:15Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <policyArea />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

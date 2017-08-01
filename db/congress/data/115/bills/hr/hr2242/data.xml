@@ -1,0 +1,59 @@
+<bill session="115" type="h" number="2242" updated="2017-06-19T22:00:13Z">
+  <state datetime="2017-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-28"/>
+  </status>
+  <introduced datetime="2017-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Keep It in the Ground Act of 2017</title>
+    <title type="short" as="introduced">Keep It in the Ground Act of 2017</title>
+    <title type="official" as="introduced">To prohibit drilling in the outer Continental Shelf, to prohibit coal leases on Federal land, and for other purposes.</title>
+    <title type="display">Keep It in the Ground Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="H001068"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001090" joined="2017-04-28"/>
+    <cosponsor bioguide_id="L000551" joined="2017-04-28"/>
+    <cosponsor bioguide_id="M001143" joined="2017-04-28"/>
+    <cosponsor bioguide_id="M000312" joined="2017-04-28"/>
+    <cosponsor bioguide_id="N000002" joined="2017-04-28"/>
+    <cosponsor bioguide_id="N000147" joined="2017-04-28"/>
+    <cosponsor bioguide_id="Q000023" joined="2017-04-28"/>
+    <cosponsor bioguide_id="R000606" joined="2017-04-28"/>
+    <cosponsor bioguide_id="S001145" joined="2017-04-28"/>
+    <cosponsor bioguide_id="T000460" joined="2017-05-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-28" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-05-11">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Energy and Mineral Resources" code="HSII06" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="750"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Arctic Ocean"/>
+    <term name="Atlantic Ocean"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Coal"/>
+    <term name="Gulf of Mexico"/>
+    <term name="Land use and conservation"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Oil and gas"/>
+    <term name="Pacific Ocean"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

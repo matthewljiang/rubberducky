@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <relatedBills />
+    <cboCostEstimates>
+      <item>
+        <title>S. 763, Surface and Maritime Transportation Security Act</title>
+        <pubDate>2017-05-17T20:13:43Z</pubDate>
+        <url>https://www.cbo.gov/publication/52731</url>
+      </item>
+    </cboCostEstimates>
+    <cosponsors>
+      <item>
+        <firstName>CLARENCE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>FL</state>
+        <middleName>WILLIAM</middleName>
+        <bioguideId>N000032</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <lastName>NELSON</lastName>
+        <identifiers>
+          <gpoId>8236</gpoId>
+          <lisID>859</lisID>
+          <bioguideId>N000032</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Deb</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NE</state>
+        <middleName />
+        <bioguideId>F000463</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <lastName>Fischer</lastName>
+        <identifiers>
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Cory</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NJ</state>
+        <middleName>A.</middleName>
+        <bioguideId>B001288</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <lastName>Booker</lastName>
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>ROGER</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MS</state>
+        <middleName>F.</middleName>
+        <bioguideId>W000437</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <lastName>WICKER</lastName>
+        <identifiers>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Roy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MO</state>
+        <middleName />
+        <bioguideId>B000575</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <lastName>Blunt</lastName>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>MARIA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WA</state>
+        <middleName />
+        <bioguideId>C000127</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <lastName>CANTWELL</lastName>
+        <identifiers>
+          <lisID>172</lisID>
+          <bioguideId>C000127</bioguideId>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Richard</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CT</state>
+        <middleName />
+        <bioguideId>B001277</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <lastName>Blumenthal</lastName>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-03-29</actionDate>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <orderedReported>1</orderedReported>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Surface and Maritime Transportation Security Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Surface and Maritime Transportation Security Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to improve surface and maritime transportation security.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Surface and Maritime Transportation Security Act</title>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <laws />
+    <notes />
+    <introducedDate>2017-03-29</introducedDate>
+    <committeeReports />
+    <updateDate>2017-07-21T05:07:17Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2017-04-05T14:00:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-29T18:48:15Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <billNumber>763</billNumber>
+    <title>Surface and Maritime Transportation Security Act</title>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <byRequestType />
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <state>SD</state>
+        <middleName>R.</middleName>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <lisID>1534</lisID>
+          <bioguideId>T000250</bioguideId>
+          <gpoId>8257</gpoId>
+        </identifiers>
+        <lastName>THUNE</lastName>
+        <bioguideId>T000250</bioguideId>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-07-18T22:27:00Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><b>Surface and Maritime Transportation Security Act</b></p> <p>This bill requires the Transportation Security Administration (TSA) to: (1) assess, and implement a risk-based security strategy to address, the vulnerabilities of and risks to surface transportation and maritime transportation systems; (2) develop a management oversight strategy that identifies the parties responsible for implementing the security strategy; and (3) submit a report that describes a risk-based budget and resource allocation plan for surface transportation sectors that reflects the security strategy.</p> <p>The TSA shall establish the Surface Transportation Security Advisory Committee to make recommendations pertaining to surface transportation security.</p> <p>In addition, the bill:</p> <ul> <li>directs the Department of Homeland Security (DHS) to expand the TSA's explosives detection canine team program,</li> <li>requires the Government Accountability Office to study specified matters related to surface transportation,</li> <li>expands the permissible uses of railroad security improvement grants,</li> <li>requires the TSA to issue a decision on the use of a passenger vetting system by the National Railroad Passenger Corporation (Amtrak),</li> <li>requires the TSA to establish a program to promote surface transportation security through the training of surface transportation operators and frontline employees,</li> <li>expands the transportation security card program to allow individuals subject to credentialing or a background check to apply for a transportation security card, and</li> <li>requires DHS to evaluate cargo-container scanning technologies.</li> </ul>]]></text>
+          <updateDate>2017-03-29T04:00:00Z</updateDate>
+          <actionDate>2017-03-29</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <links />
+      <actionDate>2017-04-05</actionDate>
+    </latestAction>
+    <createDate>2017-03-30T04:33:14Z</createDate>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

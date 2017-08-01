@@ -1,0 +1,36 @@
+<bill session="115" type="h" number="3409" updated="2017-07-27T07:31:49Z">
+  <state datetime="2017-07-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-26"/>
+  </status>
+  <introduced datetime="2017-07-26"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Federal Trade Commission Act to prohibit pyramid promotional schemes and to ensure that compensation is not based upon recruitment of participants into a plan or operation, but on sales to individuals who use and consume the products or services sold, and for other purposes.</title>
+    <title type="display">To amend the Federal Trade Commission Act to prohibit pyramid promotional schemes and to ensure that compensation is not based upon recruitment of participants into a plan or operation, but on sales to individuals who use and consume the products or services sold, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="B001243"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001281" joined="2017-07-26"/>
+    <cosponsor bioguide_id="B001293" joined="2017-07-26"/>
+    <cosponsor bioguide_id="B001250" joined="2017-07-26"/>
+    <cosponsor bioguide_id="J000126" joined="2017-07-26"/>
+    <cosponsor bioguide_id="L000567" joined="2017-07-26"/>
+    <cosponsor bioguide_id="T000193" joined="2017-07-26"/>
+    <cosponsor bioguide_id="V000131" joined="2017-07-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-26" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

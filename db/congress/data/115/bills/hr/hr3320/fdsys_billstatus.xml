@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-25T07:18:10Z</updateDate>
+    <relatedBills />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <actionDate>2017-07-19</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>FL</state>
+        <middleName>S.</middleName>
+        <firstName>Ted</firstName>
+        <lastName>Yoho</lastName>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <identifiers>
+          <lisID>2115</lisID>
+          <gpoId />
+          <bioguideId>Y000065</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <district>3</district>
+        <bioguideId>Y000065</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>To direct the Secretary of State to develop a strategy to regain observer status for Taiwan in the World Health Organization, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To direct the Secretary of State to develop a strategy to regain observer status for Taiwan in the World Health Organization, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <introducedDate>2017-07-19</introducedDate>
+    <policyArea />
+    <title>To direct the Secretary of State to develop a strategy to regain observer status for Taiwan in the World Health Organization, and for other purposes.</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionDate>2017-07-19</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-19</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-19</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000487</bioguideId>
+        <identifiers>
+          <gpoId>7845</gpoId>
+          <bioguideId>R000487</bioguideId>
+          <lisID>998</lisID>
+        </identifiers>
+        <district>39</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>ROYCE</lastName>
+        <party>R</party>
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <firstName>ED</firstName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <middleName />
+        <state>CA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>E000179</bioguideId>
+        <identifiers>
+          <lisID>344</lisID>
+          <gpoId>8078</gpoId>
+          <bioguideId>E000179</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>ENGEL</lastName>
+        <party>D</party>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <firstName>ELIOT</firstName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <middleName>L.</middleName>
+        <state>NY</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000344</bioguideId>
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+        </identifiers>
+        <district>30</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>SHERMAN</lastName>
+        <party>D</party>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <firstName>BRAD</firstName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <middleName />
+        <state>CA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000266</bioguideId>
+        <identifiers>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>CHABOT</lastName>
+        <party>R</party>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <firstName>STEVE</firstName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <middleName />
+        <state>OH</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001078</bioguideId>
+        <identifiers>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Connolly</lastName>
+        <party>D</party>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <firstName>Gerald</firstName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <middleName>E.</middleName>
+        <state>VA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000466</bioguideId>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Fitzpatrick</lastName>
+        <party>R</party>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <firstName>Brian</firstName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <middleName>K.</middleName>
+        <state>PA</state>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <createDate>2017-07-20T03:11:33Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-19T14:03:50Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>3320</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

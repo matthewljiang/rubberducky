@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <committeeReports />
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <firstName>Gary</firstName>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <state>MI</state>
+        <middleName>C.</middleName>
+        <bioguideId>P000595</bioguideId>
+        <identifiers>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <byRequestType />
+        <lastName>Peters</lastName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000360</bioguideId>
+        <middleName />
+        <state>TN</state>
+        <firstName>Lamar</firstName>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <lastName>Alexander</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>A000360</bioguideId>
+          <lisID>1695</lisID>
+          <gpoId>8304</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000770</bioguideId>
+        <middleName>ANN</middleName>
+        <state>MI</state>
+        <firstName>DEBORAH</firstName>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <lastName>STABENOW</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000449</bioguideId>
+        <middleName />
+        <state>OH</state>
+        <firstName>ROB</firstName>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <lastName>PORTMAN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+          <lisID>924</lisID>
+        </identifiers>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <number>1460</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestTitle>Energy and Natural Resources Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-06-29</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 162.</text>
+        </latestAction>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2017-05-24</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <actions>
+      <item>
+        <actionDate>2017-05-24</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-24</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <billNumber>1225</billNumber>
+    <createDate>2017-05-25T00:26:39Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-27T17:51:32Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Vehicle Innovation Act of 2017</b></p> <p>This bill authorizes appropriations to the Department of Energy (DOE) for research, development, engineering, demonstration, and commercial application of vehicles and related technologies for FY2018-FY2022.</p> <p>The bill requires DOE to: </p> <ul> <li>conduct a program of research, development, engineering, demonstration, and commercial application activities (R&amp;D activities) on materials, technologies, and processes with the potential to substantially reduce or eliminate petroleum use and the emissions of U.S. passenger and commercial vehicles; </li> <li> ensure that it continues to support R&amp;D activities and maintains competency in mid- to long-term transformational vehicle technologies with potential to achieve reductions in emissions; </li> <li>carry out a research, development, and demonstration program on the secondary uses of electric vehicle batteries and develop guidelines for projects that demonstrate the secondary uses and innovative recycling of such batteries; </li><li>carry out a program of R&amp;D activities on advanced vehicle manufacturing technologies and practices;</li> <li>carry out a program of cooperative research, development, demonstration, and commercial application activities on advanced technologies for medium- to heavy-duty commercial, vocational, recreational, and transit vehicles; </li> <li>conduct a competitive grant program to demonstrate the integration of multiple advanced technologies on Class 8 (heavy duty) truck and trailer platforms;</li> <li>develop standard testing procedures and technologies for evaluating the performance of advanced heavy vehicle technologies under a range of representative duty cycles and operating conditions and evaluate heavy vehicle performance using work performance-based metrics other than those based on miles per gallon and appropriate metrics based on the work performed by nonroad systems; and</li> <li>undertake a pilot program of research, development, demonstration, and commercial applications of technologies to improve total machine or system efficiency for nonroad mobile equipment and seek opportunities to transfer relevant research findings and technologies between the nonroad and on-highway equipment and vehicle sectors.</li> </ul> <p>DOE may construct heavy duty truck and bus testing facilities.</p>]]></text>
+          <actionDate>2017-05-24</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-05-24T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-24T20:35:16Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Vehicle Innovation Act of 2017</title>
+    <introducedDate>2017-05-24</introducedDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <title>Vehicle Innovation Act of 2017</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Vehicle Innovation Act of 2017</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>A bill to support research, development, and other activities to develop innovative vehicle technologies, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Vehicle Innovation Act of 2017</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <updateDate>2017-07-27T18:00:16Z</updateDate>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

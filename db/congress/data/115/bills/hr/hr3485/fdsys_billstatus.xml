@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <notes />
+    <recordedVotes />
+    <cboCostEstimates />
+    <actions>
+      <item>
+        <text>Referred to the House Committee on House Administration.</text>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-27</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-27</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-27</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2017-07-28T07:32:34Z</updateDate>
+    <createDate>2017-07-28T03:11:38Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <relatedBills />
+    <policyArea />
+    <constitutionalAuthorityStatementText />
+    <cosponsors />
+    <titles>
+      <item>
+        <title>To amend the Federal Election Campaign Act of 1971 to eliminate the thresholds for reporting the identification of persons making contributions to political committees with respect to elections for Federal office.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To amend the Federal Election Campaign Act of 1971 to eliminate the thresholds for reporting the identification of persons making contributions to political committees with respect to elections for Federal office.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <laws />
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2017-07-27</actionDate>
+      <links />
+    </latestAction>
+    <billType>HR</billType>
+    <introducedDate>2017-07-27</introducedDate>
+    <title>To amend the Federal Election Campaign Act of 1971 to eliminate the thresholds for reporting the identification of persons making contributions to political committees with respect to elections for Federal office.</title>
+    <sponsors>
+      <item>
+        <lastName>KIND</lastName>
+        <party>D</party>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <bioguideId>K000188</bioguideId>
+        <firstName>RON</firstName>
+        <identifiers>
+          <gpoId>8216</gpoId>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>WI</state>
+        <district>3</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billNumber>3485</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-27T14:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-29T04:36:47Z</updateDate>
+    <relatedBills />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+      <actionDate>2017-07-26</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>OR</state>
+        <middleName />
+        <firstName>RON</firstName>
+        <lastName>WYDEN</lastName>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <byRequestType />
+        <identifiers>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <bioguideId>W000779</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Oregon Wildlands Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to designate certain land administered by the Bureau of Land Management and the Forest Service in the State of Oregon as wilderness and national recreation areas and to make additional wild and scenic river designations in the State of Oregon, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Oregon Wildlands Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Oregon Wildlands Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-07-13</introducedDate>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <title>Oregon Wildlands Act</title>
+    <actions>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <name>Public Lands, Forests, and Mining Subcommittee</name>
+          <systemCode>sseg03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-13</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-13</actionDate>
+        <links />
+        <actionCode>10000</actionCode>
+        <committee />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Merkley</lastName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeff</firstName>
+        <bioguideId>M001176</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>OR</state>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <createDate>2017-07-14T00:41:33Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-13T17:49:44Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Public Lands, Forests, and Mining Subcommittee</name>
+              <systemCode>sseg03</systemCode>
+              <activities>
+                <item>
+                  <date>2017-07-26T13:45:40Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>1548</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

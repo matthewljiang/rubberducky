@@ -1,0 +1,46 @@
+<bill session="115" type="s" number="1291" updated="2017-07-20T16:56:29Z">
+  <state datetime="2017-06-06">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-06"/>
+  </status>
+  <introduced datetime="2017-06-06"/>
+  <titles>
+    <title type="short" as="introduced">Advancing Medical Resident Training in Community Hospitals Act of 2017</title>
+    <title type="short" as="introduced">Advancing Medical Resident Training in Community Hospitals Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to establish rules for payment for graduate medical education (GME) costs for hospitals that establish a new medical residency training program after hosting resident rotators for short durations.</title>
+    <title type="display">Advancing Medical Resident Training in Community Hospitals Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="N000032"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001230" joined="2017-06-06"/>
+    <cosponsor bioguide_id="B000944" joined="2017-06-06"/>
+    <cosponsor bioguide_id="H001041" joined="2017-06-06"/>
+    <cosponsor bioguide_id="J000293" joined="2017-06-06"/>
+    <cosponsor bioguide_id="P000449" joined="2017-06-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-06">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-06-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="284"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Education programs funding"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Hospital care"/>
+    <term name="Medical education"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

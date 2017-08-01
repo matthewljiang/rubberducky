@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <title>To reauthorize the State Criminal Alien Assistance Program, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To reauthorize the State Criminal Alien Assistance Program, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <recordedVotes />
+    <amendments />
+    <committeeReports />
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. McSALLY:H.R. 3212.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 4: To establish an uniformRule of NaturalizationArticle 1, Section 8, Clause 18: To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H5759]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2017-07-27T07:16:31Z</updateDate>
+    <introducedDate>2017-07-12</introducedDate>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <title>To reauthorize the State Criminal Alien Assistance Program, and for other purposes.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-12</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-12</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-12</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-12T14:00:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-07-12</actionDate>
+      <links />
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </latestAction>
+    <createDate>2017-07-13T03:11:36Z</createDate>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Comstock</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2273</lisID>
+          <gpoId />
+          <bioguideId>C001105</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Barbara</firstName>
+        <state>VA</state>
+        <district>10</district>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001105</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cook</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001094</bioguideId>
+          <lisID>2103</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>Paul</firstName>
+        <state>CA</state>
+        <district>8</district>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001094</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gosar</lastName>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Paul</firstName>
+        <state>AZ</state>
+        <district>4</district>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000565</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Franks</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>F000448</bioguideId>
+          <lisID>1707</lisID>
+          <gpoId>7799</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Trent</firstName>
+        <state>AZ</state>
+        <district>8</district>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000448</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>King</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+          <bioguideId>K000362</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Steve</firstName>
+        <state>IA</state>
+        <district>4</district>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000362</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Knight</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000387</bioguideId>
+          <lisID>2228</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>Stephen</firstName>
+        <state>CA</state>
+        <district>25</district>
+        <fullName>Rep. Knight, Stephen [R-CA-25]</fullName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000387</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>ROHRABACHER</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>7851</gpoId>
+          <lisID>979</lisID>
+          <bioguideId>R000409</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>DANA</firstName>
+        <state>CA</state>
+        <district>48</district>
+        <fullName>Rep. Rohrabacher, Dana [R-CA-48]</fullName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000409</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Arrington</lastName>
+        <middleName>C.</middleName>
+        <identifiers>
+          <gpoId />
+          <lisID>2350</lisID>
+          <bioguideId>A000375</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Jodey</firstName>
+        <state>TX</state>
+        <district>19</district>
+        <fullName>Rep. Arrington, Jodey C. [R-TX-19]</fullName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>A000375</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>McClintock</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>1908</lisID>
+          <gpoId>7809</gpoId>
+          <bioguideId>M001177</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Tom</firstName>
+        <state>CA</state>
+        <district>4</district>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001177</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Schweikert</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>S001183</bioguideId>
+          <lisID>1994</lisID>
+          <gpoId>7802</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>David</firstName>
+        <state>AZ</state>
+        <district>6</district>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001183</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cramer</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <firstName>Kevin</firstName>
+        <state>ND</state>
+        <district>0</district>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001096</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Olson</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>O000168</bioguideId>
+          <lisID>1955</lisID>
+          <gpoId>8178</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Pete</firstName>
+        <state>TX</state>
+        <district>22</district>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>O000168</bioguideId>
+      </item>
+    </cosponsors>
+    <billNumber>3212</billNumber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <firstName>Martha</firstName>
+        <fullName>Rep. McSally, Martha [R-AZ-2]</fullName>
+        <identifiers>
+          <lisID>2225</lisID>
+          <gpoId />
+          <bioguideId>M001197</bioguideId>
+        </identifiers>
+        <bioguideId>M001197</bioguideId>
+        <district>2</district>
+        <middleName />
+        <lastName>McSally</lastName>
+        <state>AZ</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <laws />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S2050-2051)</text>
+          <actionDate>2017-03-28</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>S</type>
+        <number>745</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A bill to reauthorize the State Criminal Alien Assistance Program, and for other purposes.</latestTitle>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

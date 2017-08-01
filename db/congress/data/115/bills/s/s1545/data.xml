@@ -1,0 +1,42 @@
+<bill session="115" type="s" number="1545" updated="2017-07-29T04:33:13Z">
+  <state datetime="2017-07-12">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-12"/>
+  </status>
+  <introduced datetime="2017-07-12"/>
+  <titles>
+    <title type="short" as="introduced">SAME Act of 2017</title>
+    <title type="short" as="introduced">SAME Act of 2017</title>
+    <title type="short" as="introduced">States Achieve Medicaid Expansion Act of 2017</title>
+    <title type="short" as="introduced">States Achieve Medicaid Expansion Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to provide the same level of Federal matching assistance for every State that chooses to expand Medicaid coverage to newly eligible individuals, regardless of when such expansion takes place.</title>
+    <title type="display">SAME Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="W000805"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001230" joined="2017-07-12"/>
+    <cosponsor bioguide_id="C000174" joined="2017-07-12"/>
+    <cosponsor bioguide_id="C001088" joined="2017-07-12"/>
+    <cosponsor bioguide_id="K000384" joined="2017-07-12"/>
+    <cosponsor bioguide_id="K000383" joined="2017-07-12"/>
+    <cosponsor bioguide_id="N000032" joined="2017-07-12"/>
+    <cosponsor bioguide_id="P000595" joined="2017-07-12"/>
+    <cosponsor bioguide_id="S000770" joined="2017-07-12"/>
+    <cosponsor bioguide_id="T000464" joined="2017-07-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-12">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

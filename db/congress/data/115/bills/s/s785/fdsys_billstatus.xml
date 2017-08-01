@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>sseg03</systemCode>
+              <name>Public Lands, Forests, and Mining Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-07-26T13:45:54Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-03-30T16:57:11Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <laws />
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>M001153</bioguideId>
+        <state>AK</state>
+        <middleName />
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Lisa</firstName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <lastName>Murkowski</lastName>
+      </item>
+    </cosponsors>
+    <createDate>2017-03-31T05:07:21Z</createDate>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+      <actionDate>2017-07-26</actionDate>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <recordedVotes />
+    <introducedDate>2017-03-30</introducedDate>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-06-06T13:11:04Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Alaska Native Veterans Land Allotment Equity Act</strong></p> <p> This bill amends the Alaska Native Claims Settlement Act to revise provisions regarding land allotments for Alaska Native Vietnam veterans. Eligibility is expanded to include all Alaska Native veterans who served between August 5, 1964, and May 7, 1975.</p> <p>Allotments may be selected from vacant federal lands or lands that have been selected or conveyed to the state of Alaska or an Alaska Native corporation, if the state or corporation relinquishes or conveys the land to the United States for allotment. Land may not be selected from: (1) the right-of-way of the TransAlaska Pipeline; (2) the inner or outer corridor of that right-of-way; or (3) a unit of the National Park System, a National Preserve, or a National Monument. </p> <p> An heir of a deceased eligible veteran, regardless of the cause of death, may apply for and receive an allotment.</p> <p> Alaska Native Vietnam veterans who selected an allotment of land before enactment of this bill and who were not conveyed the allotment before the enactment of this bill may reselect land. </p>]]></text>
+          <actionDate>2017-03-30</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-03-30T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <latestTitle>Alaska Native Veterans Land Allotment Equity Act</latestTitle>
+        <number>1867</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-04-11</actionDate>
+          <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Alaska Native Claims Settlement Improvement Act of 2017</latestTitle>
+        <number>1481</number>
+        <type>S</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-06-29</actionDate>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <title>Alaska Native Veterans Land Allotment Equity Act</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <lastName>Sullivan</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001198</bioguideId>
+          <lisID>2290</lisID>
+        </identifiers>
+        <bioguideId>S001198</bioguideId>
+        <firstName>Dan</firstName>
+      </item>
+    </sponsors>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <name>Public Lands, Forests, and Mining Subcommittee</name>
+          <systemCode>sseg03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-30</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <actionDate>2017-03-30</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Alaska Native Veterans Land Allotment Equity Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Alaska Native Veterans Land Allotment Equity Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend the Alaska Native Claims Settlement Act to provide for equitable allotment of land to Alaska Native veterans.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Alaska Native Veterans Land Allotment Equity Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <billNumber>785</billNumber>
+    <updateDate>2017-07-27T04:49:39Z</updateDate>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

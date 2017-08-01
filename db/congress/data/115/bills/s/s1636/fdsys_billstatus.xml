@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Stop Corporate Inversions Act of 2017</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-07-26T20:59:24Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S4301-4302</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4301-4302</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S4301-4302)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-26</actionDate>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <policyArea />
+    <recordedVotes />
+    <relatedBills />
+    <originChamber>Senate</originChamber>
+    <notes />
+    <createDate>2017-07-27T00:41:33Z</createDate>
+    <amendments />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>R000122</bioguideId>
+          <gpoId>8272</gpoId>
+          <lisID>949</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>R000122</bioguideId>
+        <state>RI</state>
+        <middleName>F.</middleName>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <lastName>REED</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+        <middleName />
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>SHERROD</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <lastName>BROWN</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+          <bioguideId>F000457</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>F000457</bioguideId>
+        <state>MN</state>
+        <middleName />
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Al</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <lastName>Franken</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>F000062</bioguideId>
+        <state>CA</state>
+        <middleName />
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>DIANNE</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <lastName>FEINSTEIN</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>W000802</bioguideId>
+        <state>RI</state>
+        <middleName />
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Sheldon</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <lastName>Whitehouse</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>M001176</bioguideId>
+        <state>OR</state>
+        <middleName />
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jeff</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <lastName>Merkley</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>V000128</bioguideId>
+        <state>MD</state>
+        <middleName />
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Chris</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <lastName>Van Hollen</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000622</bioguideId>
+          <lisID>2123</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>D000622</bioguideId>
+        <state>IL</state>
+        <middleName />
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tammy</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <lastName>Duckworth</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>H001042</bioguideId>
+        <state>HI</state>
+        <middleName>K.</middleName>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mazie</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <lastName>Hirono</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>W000817</bioguideId>
+        <state>MA</state>
+        <middleName>A.</middleName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Elizabeth</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <lastName>Warren</lastName>
+      </item>
+    </cosponsors>
+    <updateDate>2017-07-27T18:30:16Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>D000563</bioguideId>
+        <byRequestType />
+        <party>D</party>
+        <lastName>DURBIN</lastName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <firstName>RICHARD</firstName>
+        <middleName>J.</middleName>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Stop Corporate Inversions Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to modify the rules relating to inverted corporations.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Stop Corporate Inversions Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>115</congress>
+    <introducedDate>2017-07-26</introducedDate>
+    <committeeReports />
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-07-26</actionDate>
+      <text>Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S4301-4302)</text>
+      <links />
+    </latestAction>
+    <laws />
+    <billNumber>1636</billNumber>
+    <billType>S</billType>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

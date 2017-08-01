@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <createDate>2017-05-26T03:11:43Z</createDate>
+    <latestAction>
+      <text>Referred to House Foreign Affairs</text>
+      <actionDate>2017-05-25</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsfa00</systemCode>
+          <type>Standing</type>
+          <name>Foreign Affairs Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-25T13:03:50Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsas00</systemCode>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-25T13:03:45Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hlig00</systemCode>
+          <type>Select</type>
+          <name>Intelligence (Permanent) Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-25T13:03:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <notes />
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>3</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-25</actionDate>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <text>Referred to House Foreign Affairs</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-25</actionDate>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <text>Referred to House Armed Services</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-25</actionDate>
+        <committee>
+          <systemCode>hlig00</systemCode>
+          <name>Intelligence (Permanent) Committee</name>
+        </committee>
+        <text>Referred to House Intelligence (Permanent)</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-25</actionDate>
+        <committee />
+        <text>Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committees on Armed Services, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-25</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-25</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <title>OOPs Act</title>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <congress>115</congress>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Oppose Oversharing by Presidents Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>OOPs Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Oppose Oversharing by Presidents Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>To direct the National Security Council, in consultation with the Director of National Intelligence and the Attorney General, to ensure that a mitigation process and protocols are in place in the case of a disclosure of classified information by the President, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>OOPs Act</title>
+      </item>
+    </titles>
+    <updateDate>2017-06-19T22:30:09Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Executive Office of the President</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <billNumber>2729</billNumber>
+    <laws />
+    <introducedDate>2017-05-25</introducedDate>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>R000576</bioguideId>
+          <lisID>1728</lisID>
+          <gpoId>7977</gpoId>
+        </identifiers>
+        <middleName>Dutch</middleName>
+        <byRequestType />
+        <party>D</party>
+        <firstName>C. A.</firstName>
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+        <district>2</district>
+        <lastName>Ruppersberger</lastName>
+        <bioguideId>R000576</bioguideId>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RUPPERSBERGER:H.R. 2729.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the Constitution of the UnitedStates[Page H4610]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <state>CA</state>
+        <firstName>GRACE</firstName>
+        <identifiers>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>NAPOLITANO</lastName>
+        <bioguideId>N000179</bioguideId>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>32</district>
+      </item>
+      <item>
+        <state>NY</state>
+        <firstName>Yvette</firstName>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Clarke</lastName>
+        <bioguideId>C001067</bioguideId>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+      </item>
+      <item>
+        <state>WA</state>
+        <firstName>Pramila</firstName>
+        <identifiers>
+          <bioguideId>J000298</bioguideId>
+          <lisID>2354</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Jayapal</lastName>
+        <bioguideId>J000298</bioguideId>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

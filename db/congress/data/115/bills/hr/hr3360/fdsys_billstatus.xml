@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>To promote and expand the application of telehealth under Medicare and other Federal health care programs, and for other purposes.</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-24T16:01:10Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-24T16:01:05Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-24</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-24</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-24</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-24</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea />
+    <recordedVotes />
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <notes />
+    <createDate>2017-07-25T03:11:35Z</createDate>
+    <amendments />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>5</district>
+        <lastName>THOMPSON</lastName>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <state>CA</state>
+        <bioguideId>T000460</bioguideId>
+        <middleName />
+        <firstName>MIKE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000460</bioguideId>
+          <gpoId>7806</gpoId>
+          <lisID>1593</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>6</district>
+        <lastName>Black</lastName>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <state>TN</state>
+        <bioguideId>B001273</bioguideId>
+        <middleName />
+        <firstName>Diane</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8153</gpoId>
+          <bioguideId>B001273</bioguideId>
+          <lisID>2063</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>0</district>
+        <lastName>Welch</lastName>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <state>VT</state>
+        <bioguideId>W000800</bioguideId>
+        <middleName />
+        <firstName>Peter</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000800</bioguideId>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <updateDate>2017-07-25T07:18:32Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>H001045</bioguideId>
+        <byRequestType />
+        <district>3</district>
+        <party>R</party>
+        <lastName>Harper</lastName>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <firstName>Gregg</firstName>
+        <middleName />
+        <state>MS</state>
+        <identifiers>
+          <lisID>1933</lisID>
+          <gpoId>8021</gpoId>
+          <bioguideId>H001045</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To promote and expand the application of telehealth under Medicare and other Federal health care programs, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>To promote and expand the application of telehealth under Medicare and other Federal health care programs, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-07-24</introducedDate>
+    <constitutionalAuthorityStatementText />
+    <congress>115</congress>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-07-24</actionDate>
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <billNumber>3360</billNumber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

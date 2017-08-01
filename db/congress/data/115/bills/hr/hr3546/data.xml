@@ -1,0 +1,47 @@
+<bill session="115" type="h" number="3546" updated="2017-07-29T07:33:02Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit universal service support of commercial mobile service and commercial mobile data service through the Lifeline program.</title>
+    <title type="display">To prohibit universal service support of commercial mobile service and commercial mobile data service through the Lifeline program.</title>
+  </titles>
+  <sponsor bioguide_id="S001189"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000372" joined="2017-07-28"/>
+    <cosponsor bioguide_id="B001291" joined="2017-07-28"/>
+    <cosponsor bioguide_id="B001290" joined="2017-07-28"/>
+    <cosponsor bioguide_id="B001289" joined="2017-07-28"/>
+    <cosponsor bioguide_id="C000266" joined="2017-07-28"/>
+    <cosponsor bioguide_id="C001094" joined="2017-07-28"/>
+    <cosponsor bioguide_id="C001087" joined="2017-07-28"/>
+    <cosponsor bioguide_id="D000628" joined="2017-07-28"/>
+    <cosponsor bioguide_id="F000465" joined="2017-07-28"/>
+    <cosponsor bioguide_id="F000461" joined="2017-07-28"/>
+    <cosponsor bioguide_id="H001071" joined="2017-07-28"/>
+    <cosponsor bioguide_id="J000290" joined="2017-07-28"/>
+    <cosponsor bioguide_id="L000578" joined="2017-07-28"/>
+    <cosponsor bioguide_id="M001177" joined="2017-07-28"/>
+    <cosponsor bioguide_id="N000190" joined="2017-07-28"/>
+    <cosponsor bioguide_id="P000599" joined="2017-07-28"/>
+    <cosponsor bioguide_id="R000597" joined="2017-07-28"/>
+    <cosponsor bioguide_id="W000815" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

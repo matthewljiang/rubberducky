@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1856</lisID>
+          <gpoId>8001</gpoId>
+          <bioguideId>W000799</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <district>1</district>
+        <firstName>Timothy</firstName>
+        <bioguideId>W000799</bioguideId>
+        <lastName>Walz</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <state>MN</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2170</lisID>
+          <gpoId />
+          <bioguideId>H001064</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <district>10</district>
+        <firstName>Denny</firstName>
+        <bioguideId>H001064</bioguideId>
+        <lastName>Heck</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+          <bioguideId>V000081</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <district>7</district>
+        <firstName>NYDIA</firstName>
+        <bioguideId>V000081</bioguideId>
+        <lastName>VELAZQUEZ</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <district>30</district>
+        <firstName>BRAD</firstName>
+        <bioguideId>S000344</bioguideId>
+        <lastName>SHERMAN</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001137</bioguideId>
+          <gpoId>8067</gpoId>
+          <lisID>1506</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName>W.</middleName>
+        <district>5</district>
+        <firstName>GREGORY</firstName>
+        <bioguideId>M001137</bioguideId>
+        <lastName>MEEKS</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000553</bioguideId>
+          <lisID>1803</lisID>
+          <gpoId>8165</gpoId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <district>9</district>
+        <firstName>Al</firstName>
+        <bioguideId>G000553</bioguideId>
+        <lastName>Green</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000380</bioguideId>
+          <lisID>2134</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName>T.</middleName>
+        <district>5</district>
+        <firstName>Daniel</firstName>
+        <bioguideId>K000380</bioguideId>
+        <lastName>Kildee</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001281</bioguideId>
+          <lisID>2153</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <district>3</district>
+        <firstName>Joyce</firstName>
+        <bioguideId>B001281</bioguideId>
+        <lastName>Beatty</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2349</lisID>
+          <gpoId />
+          <bioguideId>G000581</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <district>15</district>
+        <firstName>Vicente</firstName>
+        <bioguideId>G000581</bioguideId>
+        <lastName>Gonzalez</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7974</gpoId>
+          <lisID>1686</lisID>
+          <bioguideId>L000562</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <district>8</district>
+        <firstName>Stephen</firstName>
+        <bioguideId>L000562</bioguideId>
+        <lastName>Lynch</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <title>To allow the Bureau of Consumer Financial Protection to provide greater protection to servicemembers.</title>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <title>To allow the Bureau of Consumer Financial Protection to provide greater protection to servicemembers.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To allow the Bureau of Consumer Financial Protection to provide greater protection to servicemembers.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>3357</billNumber>
+    <recordedVotes />
+    <policyArea />
+    <relatedBills />
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>W000187</bioguideId>
+        <firstName>MAXINE</firstName>
+        <district>43</district>
+        <fullName>Rep. Waters, Maxine [D-CA-43]</fullName>
+        <identifiers>
+          <gpoId>7840</gpoId>
+          <lisID>1205</lisID>
+          <bioguideId>W000187</bioguideId>
+        </identifiers>
+        <lastName>WATERS</lastName>
+        <middleName />
+        <party>D</party>
+        <byRequestType />
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <introducedDate>2017-07-24</introducedDate>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+      <actionDate>2017-07-24</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-24T16:00:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-07-25T07:18:32Z</updateDate>
+    <createDate>2017-07-25T03:11:34Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <links />
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <actionDate>2017-07-24</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-24</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-24</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

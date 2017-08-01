@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To establish in the Administration for Children and Families of the Department of Health and Human Services the Federal Interagency Working Group on Reducing Child Poverty to develop a national strategy to eliminate child poverty in the United States, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>To establish in the Administration for Children and Families of the Department of Health and Human Services the Federal Interagency Working Group on Reducing Child Poverty to develop a national strategy to eliminate child poverty in the United States, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <recordedVotes />
+    <amendments />
+    <committeeReports />
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText />
+    <updateDate>2017-07-26T07:16:54Z</updateDate>
+    <introducedDate>2017-07-25</introducedDate>
+    <policyArea />
+    <title>To establish in the Administration for Children and Families of the Department of Health and Human Services the Federal Interagency Working Group on Reducing Child Poverty to develop a national strategy to eliminate child poverty in the United States, and for other purposes.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <links />
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionDate>2017-07-25</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-25</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-25</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Oversight and Government Reform Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-25T14:00:43Z</date>
+            </item>
+          </activities>
+          <systemCode>hsgo00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-07-25</actionDate>
+      <links />
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </latestAction>
+    <createDate>2017-07-26T03:11:34Z</createDate>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <identifiers>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>BARBARA</firstName>
+        <middleName />
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LEE</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>L000551</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <identifiers>
+          <gpoId>7839</gpoId>
+          <bioguideId>R000486</bioguideId>
+          <lisID>997</lisID>
+        </identifiers>
+        <district>40</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>LUCILLE</firstName>
+        <middleName />
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>R000486</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <identifiers>
+          <gpoId>8202</gpoId>
+          <lisID>1959</lisID>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gerald</firstName>
+        <middleName>E.</middleName>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Connolly</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <bioguideId>C001078</bioguideId>
+      </item>
+    </cosponsors>
+    <billNumber>3381</billNumber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <firstName>DANNY</firstName>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <identifiers>
+          <lisID>1477</lisID>
+          <gpoId>7927</gpoId>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+        <bioguideId>D000096</bioguideId>
+        <district>7</district>
+        <middleName>K.</middleName>
+        <lastName>DAVIS</lastName>
+        <state>IL</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <laws />
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,39 @@
+<bill session="115" type="s" number="1266" updated="2017-07-13T13:18:05Z">
+  <state datetime="2017-05-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-25"/>
+  </status>
+  <introduced datetime="2017-05-25"/>
+  <titles>
+    <title type="short" as="introduced">Enhancing Veteran Care Act</title>
+    <title type="short" as="introduced">Enhancing Veteran Care Act</title>
+    <title type="official" as="introduced">A bill to authorize the Secretary of Veterans Affairs to enter into contracts with nonprofit organizations to investigate medical centers of the Department of Veterans Affairs.</title>
+    <title type="display">Enhancing Veteran Care Act</title>
+  </titles>
+  <sponsor bioguide_id="I000024"/>
+  <cosponsors>
+    <cosponsor bioguide_id="L000575" joined="2017-05-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-25">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-07-11">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Hearings, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="42"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>HELP for Wildlife Act</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2017-07-26T14:00:34Z</date>
+            </item>
+            <item>
+              <name>Hearings by</name>
+              <date>2017-07-19T14:00:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-29T20:34:14Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <orderedReported>1</orderedReported>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Ordered to be reported with amendments favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2017-07-12</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>S</type>
+        <number>1537</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Migratory Birds of the Americas Conservation Act</latestTitle>
+      </item>
+      <item>
+        <latestAction>
+          <text>Committee Hearings Held.</text>
+          <actionDate>2017-07-19</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>424</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Gray Wolf State Management Act of 2017</latestTitle>
+      </item>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+          <actionDate>2017-03-02</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>788</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Target Practice and Marksmanship Training Support Act</latestTitle>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2017-03-01</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>S</type>
+        <number>478</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Hunter and Farmer Protection Act of 2017</latestTitle>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2017-03-09</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>S</type>
+        <number>593</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Target Practice and Marksmanship Training Support Act</latestTitle>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2017-05-24</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>S</type>
+        <number>1214</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Hunting, Fishing, and Recreational Shooting Protection Act</latestTitle>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2017-06-26</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>S</type>
+        <number>1436</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>National Fish Habitat Conservation Act</latestTitle>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2017-06-29</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>S</type>
+        <number>1513</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>National Fish and Wildlife Foundation Establishment Act</latestTitle>
+      </item>
+    </relatedBills>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <createDate>2017-06-30T00:41:35Z</createDate>
+    <amendments />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>CARDIN</lastName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>BENJAMIN</firstName>
+        <bioguideId>C000141</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <state>MD</state>
+      </item>
+      <item>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <identifiers>
+          <gpoId>8247</gpoId>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <lastName>Boozman</lastName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <bioguideId>B001236</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>AR</state>
+      </item>
+      <item>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Klobuchar</lastName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Amy</firstName>
+        <bioguideId>K000367</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>MN</state>
+      </item>
+      <item>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <lastName>CAPITO</lastName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>SHELLEY</firstName>
+        <bioguideId>C001047</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>MOORE</middleName>
+        <state>WV</state>
+      </item>
+      <item>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>BALDWIN</lastName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>TAMMY</firstName>
+        <bioguideId>B001230</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>WI</state>
+      </item>
+      <item>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <identifiers>
+          <bioguideId>E000285</bioguideId>
+          <lisID>1542</lisID>
+          <gpoId>8328</gpoId>
+        </identifiers>
+        <party>R</party>
+        <lastName>ENZI</lastName>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>MICHAEL</firstName>
+        <bioguideId>E000285</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <state>WY</state>
+      </item>
+      <item>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+          <lisID>2185</lisID>
+        </identifiers>
+        <party>I</party>
+        <lastName>King</lastName>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Angus</firstName>
+        <bioguideId>K000383</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>ME</state>
+      </item>
+      <item>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <identifiers>
+          <bioguideId>J000293</bioguideId>
+          <lisID>2086</lisID>
+          <gpoId>8355</gpoId>
+        </identifiers>
+        <party>R</party>
+        <lastName>Johnson</lastName>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ron</firstName>
+        <bioguideId>J000293</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>WI</state>
+      </item>
+      <item>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <identifiers>
+          <bioguideId>I000024</bioguideId>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+        </identifiers>
+        <party>R</party>
+        <lastName>INHOFE</lastName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>JIM</firstName>
+        <bioguideId>I000024</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>OK</state>
+      </item>
+    </cosponsors>
+    <updateDate>2017-07-27T04:49:41Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>B001261</bioguideId>
+        <byRequestType />
+        <party>R</party>
+        <lastName>Barrasso</lastName>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <firstName>John</firstName>
+        <middleName />
+        <state>WY</state>
+        <identifiers>
+          <lisID>1881</lisID>
+          <gpoId>8300</gpoId>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>HELP for Wildlife Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Hunting Heritage and Environmental Legacy Preservation for Wildlife Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend certain Acts to reauthorize those Acts and to increase protections for wildlife, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>HELP for Wildlife Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>HELP for Wildlife Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Hunting Heritage and Environmental Legacy Preservation for Wildlife Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>115</congress>
+    <introducedDate>2017-06-29</introducedDate>
+    <committeeReports />
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-07-26</actionDate>
+      <text>Committee on Environment and Public Works. Ordered to be reported with amendments favorably.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <billNumber>1514</billNumber>
+    <billType>S</billType>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

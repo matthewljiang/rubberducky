@@ -1,0 +1,30 @@
+<bill session="115" type="h" number="3156" updated="2017-07-17T15:45:10Z">
+  <state datetime="2017-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-29"/>
+  </status>
+  <introduced datetime="2017-06-29"/>
+  <titles>
+    <title type="official" as="introduced">To establish the Water Science Centers within the United States Geological Survey.</title>
+    <title type="display">To establish the Water Science Centers within the United States Geological Survey.</title>
+  </titles>
+  <sponsor bioguide_id="S001200"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-06-29">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-29" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

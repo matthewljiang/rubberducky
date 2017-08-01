@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Sports and Recreation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-29T04:37:28Z</updateDate>
+    <relatedBills />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S4119)</text>
+      <actionDate>2017-07-20</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>WV</state>
+        <middleName>MOORE</middleName>
+        <firstName>SHELLEY</firstName>
+        <lastName>CAPITO</lastName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <bioguideId>C001047</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>A resolution recognizing "National Youth Sports Week" and the efforts by parents, volunteers, and national organizations in their efforts to promote healthy living and youth development.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>A resolution recognizing "National Youth Sports Week" and the efforts by parents, volunteers, and national organizations in their efforts to promote healthy living and youth development.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-07-20</introducedDate>
+    <policyArea>
+      <name>Sports and Recreation</name>
+    </policyArea>
+    <title>A resolution recognizing "National Youth Sports Week" and the efforts by parents, volunteers, and national organizations in their efforts to promote healthy living and youth development.</title>
+    <actions>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S4119</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4119</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S4119)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-20</actionDate>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <billType>SRES</billType>
+    <cosponsors>
+      <item>
+        <middleName />
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Duckworth</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+          <gpoId />
+          <lisID>2123</lisID>
+        </identifiers>
+        <bioguideId>D000622</bioguideId>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tammy</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>UDALL</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <identifiers>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+        </identifiers>
+        <bioguideId>U000039</bioguideId>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>TOM</firstName>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>DURBIN</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+          <lisID>326</lisID>
+        </identifiers>
+        <bioguideId>D000563</bioguideId>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>RICHARD</firstName>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>MORAN</lastName>
+        <party>R</party>
+        <state>KS</state>
+        <identifiers>
+          <bioguideId>M000934</bioguideId>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+        </identifiers>
+        <bioguideId>M000934</bioguideId>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>JERRY</firstName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <createDate>2017-07-21T00:56:42Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-20T19:07:27Z</date>
+            </item>
+          </activities>
+          <systemCode>sscm00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>227</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

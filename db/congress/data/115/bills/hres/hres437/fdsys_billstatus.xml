@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <identifiers>
+          <lisID>1843</lisID>
+          <gpoId>7901</gpoId>
+          <bioguideId>J000288</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>J000288</bioguideId>
+        <lastName>Johnson</lastName>
+        <firstName>Henry</firstName>
+        <party>D</party>
+        <state>GA</state>
+        <middleName>C. "Hank"</middleName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <title>Of inquiry requesting the President to provide certain documents in the President's possession.</title>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>H00073</calendar>
+      </item>
+    </calendarNumbers>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Of inquiry requesting the President to provide certain documents in the President's possession.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Of inquiry requesting the President to provide certain documents in the President's possession.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>437</billNumber>
+    <recordedVotes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <relatedBills />
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Congressional-executive branch relations</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>General Services Administration</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Lease and rental services</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <billType>HRES</billType>
+    <originChamber>House</originChamber>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>D000191</bioguideId>
+        <firstName>PETER</firstName>
+        <district>4</district>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <identifiers>
+          <gpoId>8117</gpoId>
+          <bioguideId>D000191</bioguideId>
+          <lisID>279</lisID>
+        </identifiers>
+        <lastName>DEFAZIO</lastName>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <byRequestType />
+        <state>OR</state>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <introducedDate>2017-07-12</introducedDate>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <latestAction>
+      <text>Placed on the House Calendar, Calendar No. 73.</text>
+      <links />
+      <actionDate>2017-07-28</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-28T17:12:09Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-07-27T15:46:27Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-07-12T14:00:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-07-27T15:43:09Z</date>
+                  <name>Discharged from</name>
+                </item>
+                <item>
+                  <date>2017-07-13T13:10:26Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+              <systemCode>hspw13</systemCode>
+            </item>
+          </subcommittees>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-07-29T07:14:19Z</updateDate>
+    <createDate>2017-07-13T03:11:32Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <reportedToHouse>1</reportedToHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>3</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <actionCode>H12420</actionCode>
+        <committee />
+        <type>Calendars</type>
+        <text>Placed on the House Calendar, Calendar No. 73.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <actionCode>H12200</actionCode>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <type>Committee</type>
+        <text>Reported adversely by the Committee on Transportation and Infrastructure. H. Rept. 115-269.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/269</url>
+            <name>H. Rept. 115-269</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <actionCode>5000</actionCode>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <type>Committee</type>
+        <text>Reported adversely by the Committee on Transportation and Infrastructure. H. Rept. 115-269.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/269</url>
+            <name>H. Rept. 115-269</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-07-27</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported Unfavorably by the Yeas and Nays: 31 - 24.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-27</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-27</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-13</actionDate>
+        <committee>
+          <systemCode>hspw13</systemCode>
+          <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

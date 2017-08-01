@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-03-02T05:13:50Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-03-01</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-03-01</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <title>Removing Barriers to Colorectal Cancer Screening Act of 2017</title>
+    <laws />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName />
+        <state>OH</state>
+        <identifiers>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+        </identifiers>
+        <bioguideId>B000944</bioguideId>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <firstName>SHERROD</firstName>
+        <party>D</party>
+        <lastName>BROWN</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2017-03-01</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-01T16:59:28Z</date>
+            </item>
+          </activities>
+          <systemCode>ssfi00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <congress>115</congress>
+    <billNumber>479</billNumber>
+    <recordedVotes />
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Cancer</name>
+          </item>
+          <item>
+            <name>Digestive and metabolic diseases</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-06-19T21:15:19Z</updateDate>
+    <introducedDate>2017-03-01</introducedDate>
+    <notes />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1017</number>
+        <latestTitle>Removing Barriers to Colorectal Cancer Screening Act of 2017</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-02-24</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <middleName>F.</middleName>
+        <lastName>WICKER</lastName>
+        <party>R</party>
+        <firstName>ROGER</firstName>
+        <state>MS</state>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <identifiers>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+        </identifiers>
+        <bioguideId>W000437</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>L.</middleName>
+        <lastName>CARDIN</lastName>
+        <party>D</party>
+        <firstName>BENJAMIN</firstName>
+        <state>MD</state>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <identifiers>
+          <gpoId>8287</gpoId>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+        </identifiers>
+        <bioguideId>C000141</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>MARGARET</middleName>
+        <lastName>COLLINS</lastName>
+        <party>R</party>
+        <firstName>SUSAN</firstName>
+        <state>ME</state>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <bioguideId>C001035</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>F.</middleName>
+        <lastName>REED</lastName>
+        <party>D</party>
+        <firstName>JOHN</firstName>
+        <state>RI</state>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <identifiers>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+        <bioguideId>R000122</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <firstName>Amy</firstName>
+        <state>MN</state>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <bioguideId>K000367</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Shaheen</lastName>
+        <party>D</party>
+        <firstName>Jeanne</firstName>
+        <state>NH</state>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <identifiers>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <bioguideId>S001181</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <firstName>Elizabeth</firstName>
+        <state>MA</state>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>W000817</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <firstName>Kirsten</firstName>
+        <state>NY</state>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <identifiers>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+          <lisID>1866</lisID>
+        </identifiers>
+        <bioguideId>G000555</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Cochran</lastName>
+        <party>R</party>
+        <firstName>Thad</firstName>
+        <state>MS</state>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <identifiers>
+          <gpoId>8292</gpoId>
+          <bioguideId>C000567</bioguideId>
+          <lisID>213</lisID>
+        </identifiers>
+        <bioguideId>C000567</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <lastName>Booker</lastName>
+        <party>D</party>
+        <firstName>Cory</firstName>
+        <state>NJ</state>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001288</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>MENENDEZ</lastName>
+        <party>D</party>
+        <firstName>ROBERT</firstName>
+        <state>NJ</state>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <identifiers>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <bioguideId>M000639</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <lastName>Coons</lastName>
+        <party>D</party>
+        <firstName>Christopher</firstName>
+        <state>DE</state>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <bioguideId>C001088</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Cotton</lastName>
+        <party>R</party>
+        <firstName>Tom</firstName>
+        <state>AR</state>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <identifiers>
+          <lisID>2098</lisID>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <bioguideId>C001095</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>JOSEPH</middleName>
+        <lastName>LEAHY</lastName>
+        <party>D</party>
+        <firstName>PATRICK</firstName>
+        <state>VT</state>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <identifiers>
+          <gpoId>8244</gpoId>
+          <bioguideId>L000174</bioguideId>
+          <lisID>1383</lisID>
+        </identifiers>
+        <bioguideId>L000174</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>BALDWIN</lastName>
+        <party>D</party>
+        <firstName>TAMMY</firstName>
+        <state>WI</state>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+        </identifiers>
+        <bioguideId>B001230</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Whitehouse</lastName>
+        <party>D</party>
+        <firstName>Sheldon</firstName>
+        <state>RI</state>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <bioguideId>W000802</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>ANN</middleName>
+        <lastName>STABENOW</lastName>
+        <party>D</party>
+        <firstName>DEBORAH</firstName>
+        <state>MI</state>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <identifiers>
+          <bioguideId>S000770</bioguideId>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+        </identifiers>
+        <bioguideId>S000770</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Blunt</lastName>
+        <party>R</party>
+        <firstName>Roy</firstName>
+        <state>MO</state>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <bioguideId>B000575</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>C.</middleName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <firstName>Gary</firstName>
+        <state>MI</state>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+        </identifiers>
+        <bioguideId>P000595</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>ERNEST</middleName>
+        <lastName>GRASSLEY</lastName>
+        <party>R</party>
+        <firstName>CHARLES</firstName>
+        <state>IA</state>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <identifiers>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+          <bioguideId>G000386</bioguideId>
+        </identifiers>
+        <bioguideId>G000386</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Merkley</lastName>
+        <party>D</party>
+        <firstName>Jeff</firstName>
+        <state>OR</state>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <bioguideId>M001176</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Heitkamp</lastName>
+        <party>D</party>
+        <firstName>Heidi</firstName>
+        <state>ND</state>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001069</bioguideId>
+          <lisID>2174</lisID>
+        </identifiers>
+        <bioguideId>H001069</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Franken</lastName>
+        <party>D</party>
+        <firstName>Al</firstName>
+        <state>MN</state>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <identifiers>
+          <bioguideId>F000457</bioguideId>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <bioguideId>F000457</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Heller</lastName>
+        <party>R</party>
+        <firstName>Dean</firstName>
+        <state>NV</state>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <identifiers>
+          <gpoId>8060</gpoId>
+          <lisID>1863</lisID>
+          <bioguideId>H001041</bioguideId>
+        </identifiers>
+        <bioguideId>H001041</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <lastName>MARKEY</lastName>
+        <party>D</party>
+        <firstName>EDWARD</firstName>
+        <state>MA</state>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+        </identifiers>
+        <bioguideId>M000133</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <firstName>Richard</firstName>
+        <state>CT</state>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <bioguideId>B001277</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Removing Barriers to Colorectal Cancer Screening Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Removing Barriers to Colorectal Cancer Screening Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to amend title XVIII of the Social Security Act to waive coinsurance under Medicare for colorectal cancer screening tests, regardless of whether therapeutic intervention is required during the screening.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Removing Barriers to Colorectal Cancer Screening Act of 2017</title>
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

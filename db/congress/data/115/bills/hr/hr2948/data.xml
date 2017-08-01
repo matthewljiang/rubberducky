@@ -1,0 +1,51 @@
+<bill session="115" type="h" number="2948" updated="2017-07-29T07:17:35Z">
+  <state datetime="2017-06-20">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-20"/>
+  </status>
+  <introduced datetime="2017-06-20"/>
+  <titles>
+    <title type="official" as="introduced">To amend the S.A.F.E. Mortgage Licensing Act of 2008 to provide a temporary license for loan originators transitioning between employers, and for other purposes.</title>
+    <title type="display">To amend the S.A.F.E. Mortgage Licensing Act of 2008 to provide a temporary license for loan originators transitioning between employers, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="S001187"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001282" joined="2017-07-14"/>
+    <cosponsor bioguide_id="B001281" joined="2017-06-20"/>
+    <cosponsor bioguide_id="B001285" joined="2017-06-29"/>
+    <cosponsor bioguide_id="C001105" joined="2017-06-29"/>
+    <cosponsor bioguide_id="D000620" joined="2017-06-29"/>
+    <cosponsor bioguide_id="E000294" joined="2017-06-29"/>
+    <cosponsor bioguide_id="L000580" joined="2017-07-28"/>
+    <cosponsor bioguide_id="M000087" joined="2017-06-29"/>
+    <cosponsor bioguide_id="M001137" joined="2017-07-28"/>
+    <cosponsor bioguide_id="M001189" joined="2017-07-14"/>
+    <cosponsor bioguide_id="M001160" joined="2017-07-28"/>
+    <cosponsor bioguide_id="N000179" joined="2017-07-14"/>
+    <cosponsor bioguide_id="P000611" joined="2017-06-20"/>
+    <cosponsor bioguide_id="S001157" joined="2017-07-14"/>
+    <cosponsor bioguide_id="S001185" joined="2017-06-29"/>
+    <cosponsor bioguide_id="S000344" joined="2017-07-14"/>
+    <cosponsor bioguide_id="S001191" joined="2017-06-20"/>
+    <cosponsor bioguide_id="W000816" joined="2017-06-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-20">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-20" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="10"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

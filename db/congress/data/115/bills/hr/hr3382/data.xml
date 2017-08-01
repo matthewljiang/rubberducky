@@ -1,0 +1,30 @@
+<bill session="115" type="h" number="3382" updated="2017-07-26T07:16:54Z">
+  <state datetime="2017-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-25"/>
+  </status>
+  <introduced datetime="2017-07-25"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Public Health Service Act to better address substance use and substance use disorders among young people.</title>
+    <title type="display">To amend the Public Health Service Act to better address substance use and substance use disorders among young people.</title>
+  </titles>
+  <sponsor bioguide_id="C001101"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001275" joined="2017-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-25" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

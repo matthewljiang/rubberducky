@@ -1,0 +1,44 @@
+<bill session="115" type="sr" number="221" updated="2017-07-26T04:36:32Z">
+  <state datetime="2017-07-19">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-19"/>
+  </status>
+  <introduced datetime="2017-07-19"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating September 25, 2017, as "National Lobster Day".</title>
+    <title type="display">A resolution designating September 25, 2017, as "National Lobster Day".</title>
+  </titles>
+  <sponsor bioguide_id="K000383"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001277" joined="2017-07-19"/>
+    <cosponsor bioguide_id="C001035" joined="2017-07-19"/>
+    <cosponsor bioguide_id="H001076" joined="2017-07-19"/>
+    <cosponsor bioguide_id="M000133" joined="2017-07-19"/>
+    <cosponsor bioguide_id="M001169" joined="2017-07-19"/>
+    <cosponsor bioguide_id="R000122" joined="2017-07-19"/>
+    <cosponsor bioguide_id="S001181" joined="2017-07-19"/>
+    <cosponsor bioguide_id="W000802" joined="2017-07-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-19">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-19" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S4083" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Food industry and services"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Seafood"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <latestTitle>Modernizing Recreational Fisheries Management Act of 2017</latestTitle>
+        <number>2023</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-04-20</actionDate>
+          <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <firstName>CLARENCE</firstName>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <bioguideId>N000032</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>WILLIAM</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>NELSON</lastName>
+        <state>FL</state>
+        <identifiers>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+          <bioguideId>N000032</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Roy</firstName>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <bioguideId>B000575</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Blunt</lastName>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Brian</firstName>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <bioguideId>S001194</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Schatz</lastName>
+        <state>HI</state>
+        <identifiers>
+          <lisID>2173</lisID>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Joe</firstName>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <bioguideId>M001183</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Manchin</lastName>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+          <lisID>1983</lisID>
+          <gpoId>8256</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>John</firstName>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <bioguideId>K000393</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>Neely</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kennedy</lastName>
+        <state>LA</state>
+        <identifiers>
+          <bioguideId>K000393</bioguideId>
+          <lisID>2303</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>JIM</firstName>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <bioguideId>I000024</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>INHOFE</lastName>
+        <state>OK</state>
+        <identifiers>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Thad</firstName>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <bioguideId>C000567</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Cochran</lastName>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>C000567</bioguideId>
+          <lisID>213</lisID>
+          <gpoId>8292</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Bill</firstName>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <bioguideId>C001075</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Cassidy</lastName>
+        <state>LA</state>
+        <identifiers>
+          <bioguideId>C001075</bioguideId>
+          <gpoId>7964</gpoId>
+          <lisID>1925</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-10T21:14:22Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <actionDate>2017-07-10</actionDate>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <updateDate>2017-07-26T04:36:46Z</updateDate>
+    <cboCostEstimates />
+    <introducedDate>2017-07-10</introducedDate>
+    <actions>
+      <item>
+        <actionDate>2017-07-10</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-07-10</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <lastName>WICKER</lastName>
+        <bioguideId>W000437</bioguideId>
+        <state>MS</state>
+        <middleName>F.</middleName>
+        <party>R</party>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <byRequestType />
+        <firstName>ROGER</firstName>
+        <identifiers>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Modernizing Recreational Fisheries Management Act of 2017</title>
+    <notes />
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <laws />
+    <billNumber>1520</billNumber>
+    <createDate>2017-07-11T00:26:35Z</createDate>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Modernizing Recreational Fisheries Management Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to expand recreational fishing opportunities through enhanced marine fishery conservation and management, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Modernizing Recreational Fisheries Management Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

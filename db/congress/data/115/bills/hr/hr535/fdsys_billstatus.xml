@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <bioguideId>R000487</bioguideId>
+        <party>R</party>
+        <district>39</district>
+        <middleName />
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>998</lisID>
+          <gpoId>7845</gpoId>
+          <bioguideId>R000487</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <firstName>ED</firstName>
+        <lastName>ROYCE</lastName>
+      </item>
+      <item>
+        <bioguideId>S000344</bioguideId>
+        <party>D</party>
+        <district>30</district>
+        <middleName />
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+          <bioguideId>S000344</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <firstName>BRAD</firstName>
+        <lastName>SHERMAN</lastName>
+      </item>
+      <item>
+        <bioguideId>E000215</bioguideId>
+        <party>D</party>
+        <district>18</district>
+        <middleName>G.</middleName>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7819</gpoId>
+          <lisID>355</lisID>
+          <bioguideId>E000215</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <firstName>ANNA</firstName>
+        <lastName>ESHOO</lastName>
+      </item>
+      <item>
+        <bioguideId>W000812</bioguideId>
+        <party>R</party>
+        <district>2</district>
+        <middleName />
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <state>MO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000812</bioguideId>
+          <lisID>2137</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <firstName>Ann</firstName>
+        <lastName>Wagner</lastName>
+      </item>
+      <item>
+        <bioguideId>Y000065</bioguideId>
+        <party>R</party>
+        <district>3</district>
+        <middleName>S.</middleName>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>Y000065</bioguideId>
+          <lisID>2115</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <firstName>Ted</firstName>
+        <lastName>Yoho</lastName>
+      </item>
+      <item>
+        <bioguideId>R000435</bioguideId>
+        <party>R</party>
+        <district>27</district>
+        <middleName />
+        <fullName>Rep. Ros-Lehtinen, Ileana [R-FL-27]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7890</gpoId>
+          <bioguideId>R000435</bioguideId>
+          <lisID>985</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <firstName>ILEANA</firstName>
+        <lastName>ROS-LEHTINEN</lastName>
+      </item>
+      <item>
+        <bioguideId>B001302</bioguideId>
+        <party>R</party>
+        <district>5</district>
+        <middleName />
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <state>AZ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2307</lisID>
+          <gpoId />
+          <bioguideId>B001302</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <firstName>Andy</firstName>
+        <lastName>Biggs</lastName>
+      </item>
+      <item>
+        <bioguideId>P000592</bioguideId>
+        <party>R</party>
+        <district>2</district>
+        <middleName />
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000592</bioguideId>
+          <lisID>1802</lisID>
+          <gpoId>8158</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <firstName>Ted</firstName>
+        <lastName>Poe</lastName>
+      </item>
+      <item>
+        <bioguideId>D000600</bioguideId>
+        <party>R</party>
+        <district>25</district>
+        <middleName />
+        <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1717</lisID>
+          <gpoId>7893</gpoId>
+          <bioguideId>D000600</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <firstName>Mario</firstName>
+        <lastName>Diaz-Balart</lastName>
+      </item>
+      <item>
+        <bioguideId>L000578</bioguideId>
+        <party>R</party>
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2100</lisID>
+          <bioguideId>L000578</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <firstName>Doug</firstName>
+        <lastName>LaMalfa</lastName>
+      </item>
+      <item>
+        <bioguideId>C001078</bioguideId>
+        <party>D</party>
+        <district>11</district>
+        <middleName>E.</middleName>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <state>VA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8202</gpoId>
+          <lisID>1959</lisID>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-16</sponsorshipDate>
+        <firstName>Gerald</firstName>
+        <lastName>Connolly</lastName>
+      </item>
+      <item>
+        <bioguideId>H001045</bioguideId>
+        <party>R</party>
+        <district>3</district>
+        <middleName />
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <state>MS</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8021</gpoId>
+          <lisID>1933</lisID>
+          <bioguideId>H001045</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-16</sponsorshipDate>
+        <firstName>Gregg</firstName>
+        <lastName>Harper</lastName>
+      </item>
+      <item>
+        <bioguideId>S001165</bioguideId>
+        <party>D</party>
+        <district>8</district>
+        <middleName />
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <state>NJ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1818</lisID>
+          <gpoId>8055</gpoId>
+          <bioguideId>S001165</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-16</sponsorshipDate>
+        <firstName>Albio</firstName>
+        <lastName>Sires</lastName>
+      </item>
+      <item>
+        <bioguideId>B001227</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <middleName>A.</middleName>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1469</lisID>
+          <gpoId>8119</gpoId>
+          <bioguideId>B001227</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <firstName>ROBERT</firstName>
+        <lastName>BRADY</lastName>
+      </item>
+      <item>
+        <bioguideId>T000468</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <state>NV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7493</gpoId>
+          <lisID>1940</lisID>
+          <bioguideId>T000468</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <firstName>Dina</firstName>
+        <lastName>Titus</lastName>
+      </item>
+      <item>
+        <bioguideId>S000250</bioguideId>
+        <party>R</party>
+        <district>32</district>
+        <middleName />
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+          <lisID>1525</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <firstName>PETE</firstName>
+        <lastName>SESSIONS</lastName>
+      </item>
+      <item>
+        <bioguideId>F000466</bioguideId>
+        <party>R</party>
+        <district>8</district>
+        <middleName>K.</middleName>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <firstName>Brian</firstName>
+        <lastName>Fitzpatrick</lastName>
+      </item>
+      <item>
+        <bioguideId>R000603</bioguideId>
+        <party>R</party>
+        <district>7</district>
+        <middleName />
+        <fullName>Rep. Rouzer, David [R-NC-7]</fullName>
+        <state>NC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000603</bioguideId>
+          <lisID>2256</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <firstName>David</firstName>
+        <lastName>Rouzer</lastName>
+      </item>
+      <item>
+        <bioguideId>B001293</bioguideId>
+        <party>R</party>
+        <district>8</district>
+        <middleName />
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <state>MI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001293</bioguideId>
+          <lisID>2249</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <firstName>Mike</firstName>
+        <lastName>Bishop</lastName>
+      </item>
+      <item>
+        <bioguideId>F000459</bioguideId>
+        <party>R</party>
+        <district>3</district>
+        <middleName>J. "Chuck"</middleName>
+        <fullName>Rep. Fleischmann, Charles J. "Chuck" [R-TN-3]</fullName>
+        <state>TN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8150</gpoId>
+          <lisID>2061</lisID>
+          <bioguideId>F000459</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <firstName>Charles</firstName>
+        <lastName>Fleischmann</lastName>
+      </item>
+      <item>
+        <bioguideId>W000820</bioguideId>
+        <party>R</party>
+        <district>45</district>
+        <middleName />
+        <fullName>Rep. Walters, Mimi [R-CA-45]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2232</lisID>
+          <bioguideId>W000820</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <firstName>Mimi</firstName>
+        <lastName>Walters</lastName>
+      </item>
+      <item>
+        <bioguideId>F000460</bioguideId>
+        <party>R</party>
+        <district>27</district>
+        <middleName />
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8183</gpoId>
+          <bioguideId>F000460</bioguideId>
+          <lisID>2067</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <firstName>Blake</firstName>
+        <lastName>Farenthold</lastName>
+      </item>
+      <item>
+        <bioguideId>B001257</bioguideId>
+        <party>R</party>
+        <district>12</district>
+        <middleName>M.</middleName>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+          <gpoId>7881</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <firstName>Gus</firstName>
+        <lastName>Bilirakis</lastName>
+      </item>
+      <item>
+        <bioguideId>M001193</bioguideId>
+        <party>R</party>
+        <district>3</district>
+        <middleName />
+        <fullName>Rep. MacArthur, Thomas [R-NJ-3]</fullName>
+        <state>NJ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2258</lisID>
+          <bioguideId>M001193</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <firstName>Thomas</firstName>
+        <lastName>MacArthur</lastName>
+      </item>
+      <item>
+        <bioguideId>B001296</bioguideId>
+        <party>D</party>
+        <district>13</district>
+        <middleName>F.</middleName>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2267</lisID>
+          <bioguideId>B001296</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <firstName>Brendan</firstName>
+        <lastName>Boyle</lastName>
+      </item>
+      <item>
+        <bioguideId>T000478</bioguideId>
+        <party>R</party>
+        <district>22</district>
+        <middleName />
+        <fullName>Rep. Tenney, Claudia [R-NY-22]</fullName>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2344</lisID>
+          <gpoId />
+          <bioguideId>T000478</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>Claudia</firstName>
+        <lastName>Tenney</lastName>
+      </item>
+      <item>
+        <bioguideId>S000364</bioguideId>
+        <party>R</party>
+        <district>15</district>
+        <middleName>M.</middleName>
+        <fullName>Rep. Shimkus, John [R-IL-15]</fullName>
+        <state>IL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1527</lisID>
+          <gpoId>7939</gpoId>
+          <bioguideId>S000364</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>JOHN</firstName>
+        <lastName>SHIMKUS</lastName>
+      </item>
+    </cosponsors>
+    <billNumber>535</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-04-06T19:57:48Z</lastSummaryUpdateDate>
+          <updateDate>2017-01-13T05:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Taiwan Travel Act</strong></p> <p> This bill expresses the sense of Congress that the U.S. government should encourage visits between U.S and Taiwanese officials at all levels. </p> <p> The bill states that it should be U.S. policy to: (1) allow officials at all levels of the U.S. government to travel to Taiwan to meet their Taiwanese counterparts; (2) permit high-level Taiwanese officials to enter the United States under respectful conditions and to meet with U.S. officials, including officials from the Department of State and the Department of Defense; and (3) encourage the Taipei Economic and Cultural Representative Office, and any other instrumentality established by Taiwan, to conduct business in the United States.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2017-01-13</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-01-13</introducedDate>
+    <updateDate>2017-07-28T07:15:51Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <designationOfSpeakerProTempore>1</designationOfSpeakerProTempore>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-15</actionDate>
+        <committee>
+          <systemCode>hsfa05</systemCode>
+          <name>Asia and the Pacific Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-15</actionDate>
+        <committee>
+          <systemCode>hsfa05</systemCode>
+          <name>Asia and the Pacific Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-16</actionDate>
+        <committee>
+          <systemCode>hsfa05</systemCode>
+          <name>Asia and the Pacific Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-13</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-13</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-13</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C000266</bioguideId>
+        <middleName />
+        <lastName>CHABOT</lastName>
+        <identifiers>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <state>OH</state>
+        <district>1</district>
+        <firstName>STEVE</firstName>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <title>Taiwan Travel Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>Taiwan Travel Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>To encourage visits between the United States and Taiwan at all levels, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Taiwan Travel Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Taiwan</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-01-14T04:47:32Z</createDate>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-13T14:04:05Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Asia and the Pacific Subcommittee</name>
+              <systemCode>hsfa05</systemCode>
+              <activities>
+                <item>
+                  <name>Reported by</name>
+                  <date>2017-06-15T20:20:03Z</date>
+                </item>
+                <item>
+                  <name>Markup by</name>
+                  <date>2017-06-15T20:18:35Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-16T22:02:31Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2017-06-15</actionDate>
+      <links />
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <amendments />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <number>1051</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Foreign Relations.</text>
+          <actionDate>2017-05-04</actionDate>
+        </latestAction>
+        <latestTitle>Taiwan Travel Act</latestTitle>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <title>Taiwan Travel Act</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CHABOT:H.R. 535.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3 of the United StatesConstitution[Page H547]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

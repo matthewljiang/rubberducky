@@ -1,0 +1,45 @@
+<bill session="115" type="h" number="3597" updated="2017-07-29T07:33:11Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Coastal Zone Management Act of 1972 to authorize grants to Indian Tribes to further achievement of Tribal coastal zone objectives, and for other purposes.</title>
+    <title type="display">To amend the Coastal Zone Management Act of 1972 to authorize grants to Indian Tribes to further achievement of Tribal coastal zone objectives, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="K000381"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001053" joined="2017-07-28"/>
+    <cosponsor bioguide_id="C001094" joined="2017-07-28"/>
+    <cosponsor bioguide_id="D000617" joined="2017-07-28"/>
+    <cosponsor bioguide_id="D000624" joined="2017-07-28"/>
+    <cosponsor bioguide_id="G000574" joined="2017-07-28"/>
+    <cosponsor bioguide_id="G000551" joined="2017-07-28"/>
+    <cosponsor bioguide_id="H001064" joined="2017-07-28"/>
+    <cosponsor bioguide_id="H001068" joined="2017-07-28"/>
+    <cosponsor bioguide_id="L000570" joined="2017-07-28"/>
+    <cosponsor bioguide_id="M001160" joined="2017-07-28"/>
+    <cosponsor bioguide_id="P000597" joined="2017-07-28"/>
+    <cosponsor bioguide_id="P000607" joined="2017-07-28"/>
+    <cosponsor bioguide_id="P000598" joined="2017-07-28"/>
+    <cosponsor bioguide_id="S000480" joined="2017-07-28"/>
+    <cosponsor bioguide_id="T000474" joined="2017-07-28"/>
+    <cosponsor bioguide_id="Y000033" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

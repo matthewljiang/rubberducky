@@ -1,0 +1,66 @@
+<bill session="115" type="h" number="1757" updated="2017-07-24T18:15:27Z">
+  <state datetime="2017-03-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-28"/>
+  </status>
+  <introduced datetime="2017-03-28"/>
+  <titles>
+    <title type="short" as="introduced">Trauma-Informed Care for Children and Families Act of 2017</title>
+    <title type="short" as="introduced">Trauma-Informed Care for Children and Families Act of 2017</title>
+    <title type="official" as="introduced">To address the psychological, developmental, social, and emotional needs of children, youth, and families who have experienced trauma, and for other purposes.</title>
+    <title type="display">Trauma-Informed Care for Children and Families Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="D000096"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000574" joined="2017-06-26"/>
+    <cosponsor bioguide_id="B001286" joined="2017-03-28"/>
+    <cosponsor bioguide_id="C001038" joined="2017-07-24"/>
+    <cosponsor bioguide_id="K000385" joined="2017-03-28"/>
+    <cosponsor bioguide_id="K000382" joined="2017-04-28"/>
+    <cosponsor bioguide_id="R000606" joined="2017-07-24"/>
+    <cosponsor bioguide_id="R000577" joined="2017-04-04"/>
+    <cosponsor bioguide_id="W000808" joined="2017-07-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-03-28" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committees on Energy and Commerce, Ways and Means, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-03-28">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2017-03-28">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2017-03-28">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2017-03-28">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2017-03-31">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2017-04-12">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="774"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

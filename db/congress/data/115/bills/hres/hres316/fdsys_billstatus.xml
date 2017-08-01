@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Celebrating the success of the Marshall Plan in fostering peace and prosperity in the seven decades since its conception and affirming the continued relevance of the Marshall Plan for the United States and its global allies and the values for which it stood.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <constitutionalAuthorityStatementText />
+    <titles>
+      <item>
+        <title>Celebrating the success of the Marshall Plan in fostering peace and prosperity in the seven decades since its conception and affirming the continued relevance of the Marshall Plan for the United States and its global allies and the values for which it stood.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Celebrating the success of the Marshall Plan in fostering peace and prosperity in the seven decades since its conception and affirming the continued relevance of the Marshall Plan for the United States and its global allies and the values for which it stood.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2017-05-18</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+    </latestAction>
+    <billNumber>316</billNumber>
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1506</lisID>
+          <gpoId>8067</gpoId>
+          <bioguideId>M001137</bioguideId>
+        </identifiers>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <firstName>GREGORY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>NY</state>
+        <district>5</district>
+        <bioguideId>M001137</bioguideId>
+        <lastName>MEEKS</lastName>
+        <middleName>W.</middleName>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1802</lisID>
+          <gpoId>8158</gpoId>
+          <bioguideId>P000592</bioguideId>
+        </identifiers>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <firstName>Ted</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>TX</state>
+        <district>2</district>
+        <bioguideId>P000592</bioguideId>
+        <lastName>Poe</lastName>
+        <middleName />
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1994</lisID>
+          <gpoId>7802</gpoId>
+          <bioguideId>S001183</bioguideId>
+        </identifiers>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>AZ</state>
+        <district>6</district>
+        <bioguideId>S001183</bioguideId>
+        <lastName>Schweikert</lastName>
+        <middleName />
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <firstName>Paul</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>AZ</state>
+        <district>4</district>
+        <bioguideId>G000565</bioguideId>
+        <lastName>Gosar</lastName>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <introducedDate>2017-05-04</introducedDate>
+    <recordedVotes />
+    <amendments />
+    <version>1.0.0</version>
+    <createDate>2017-05-05T03:11:44Z</createDate>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <district>48</district>
+        <byRequestType />
+        <lastName>ROHRABACHER</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <middleName />
+        <bioguideId>R000409</bioguideId>
+        <identifiers>
+          <bioguideId>R000409</bioguideId>
+          <lisID>979</lisID>
+          <gpoId>7851</gpoId>
+        </identifiers>
+        <firstName>DANA</firstName>
+        <fullName>Rep. Rohrabacher, Dana [R-CA-48]</fullName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsfa00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsfa14</systemCode>
+              <activities>
+                <item>
+                  <date>2017-05-18T15:36:33Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Europe, Eurasia, and Emerging Threats Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-05-04T13:04:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Foreign Affairs Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <name>Europe, Eurasia, and Emerging Threats Subcommittee</name>
+          <systemCode>hsfa14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionDate>2017-05-04</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-05-04</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-05-04</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>HRES</billType>
+    <updateDate>2017-06-14T07:15:18Z</updateDate>
+    <calendarNumbers />
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

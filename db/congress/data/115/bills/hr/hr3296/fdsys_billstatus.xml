@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Frank Adelmann Manufactured Housing Community Sustainability Act</title>
+    <sponsors>
+      <item>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <identifiers>
+          <bioguideId>E000288</bioguideId>
+          <lisID>1857</lisID>
+          <gpoId>8005</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Ellison</lastName>
+        <district>5</district>
+        <firstName>Keith</firstName>
+        <bioguideId>E000288</bioguideId>
+        <state>MN</state>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <titles>
+      <item>
+        <title>Frank Adelmann Manufactured Housing Community Sustainability Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To amend the Internal Revenue Code of 1986 to allow a business credit for gain from the sale of real property for use as a manufactured home community, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Frank Adelmann Manufactured Housing Community Sustainability Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Frank Adelmann Manufactured Housing Community Sustainability Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <notes />
+    <updateDate>2017-07-27T13:00:13Z</updateDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ELLISON:H.R. 3296.Congress has the power to enact this legislation pursuantto the following:Article I, Section 7, Clause 1 and Section 8, Clause 1.[Page H6042]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <latestAction>
+      <links />
+      <actionDate>2017-07-19</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-19T14:00:26Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <introducedDate>2017-07-19</introducedDate>
+    <calendarNumbers />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <createDate>2017-07-20T03:11:32Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>3296</billNumber>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <laws />
+    <billType>HR</billType>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <party>D</party>
+        <lastName>Evans</lastName>
+        <firstName>Dwight</firstName>
+        <bioguideId>E000296</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2298</lisID>
+          <gpoId />
+          <bioguideId>E000296</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <middleName />
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

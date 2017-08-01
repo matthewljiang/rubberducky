@@ -1,0 +1,55 @@
+<bill session="115" type="h" number="2706" updated="2017-07-12T07:17:09Z">
+  <state datetime="2017-05-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-25"/>
+  </status>
+  <introduced datetime="2017-05-25"/>
+  <titles>
+    <title type="short" as="introduced">Financial Institution Customer Protection Act of 2017</title>
+    <title type="short" as="introduced">Financial Institution Customer Protection Act of 2017</title>
+    <title type="official" as="introduced">To provide requirements for the appropriate Federal banking agencies when requesting or ordering a depository institution to terminate a specific customer account, to provide for additional requirements related to subpoenas issued under the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, and for other purposes.</title>
+    <title type="display">Financial Institution Customer Protection Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="L000569"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001305" joined="2017-05-25"/>
+    <cosponsor bioguide_id="D000619" joined="2017-06-06"/>
+    <cosponsor bioguide_id="E000294" joined="2017-06-06"/>
+    <cosponsor bioguide_id="F000464" joined="2017-07-11"/>
+    <cosponsor bioguide_id="G000546" joined="2017-06-27"/>
+    <cosponsor bioguide_id="H001074" joined="2017-05-25"/>
+    <cosponsor bioguide_id="H001059" joined="2017-05-25"/>
+    <cosponsor bioguide_id="L000566" joined="2017-06-27"/>
+    <cosponsor bioguide_id="L000583" joined="2017-06-06"/>
+    <cosponsor bioguide_id="L000491" joined="2017-05-25"/>
+    <cosponsor bioguide_id="M001193" joined="2017-05-25"/>
+    <cosponsor bioguide_id="P000606" joined="2017-05-25"/>
+    <cosponsor bioguide_id="R000593" joined="2017-06-06"/>
+    <cosponsor bioguide_id="R000598" joined="2017-05-25"/>
+    <cosponsor bioguide_id="S000250" joined="2017-05-25"/>
+    <cosponsor bioguide_id="S001187" joined="2017-05-25"/>
+    <cosponsor bioguide_id="T000478" joined="2017-05-25"/>
+    <cosponsor bioguide_id="T000470" joined="2017-05-25"/>
+    <cosponsor bioguide_id="W000816" joined="2017-05-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-25" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="10"/>
+    <bill type="h" session="115" relation="unknown" number="2133"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

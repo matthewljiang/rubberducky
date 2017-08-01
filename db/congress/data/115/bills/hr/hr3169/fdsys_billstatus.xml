@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <district>1</district>
+        <lastName>Bergman</lastName>
+        <fullName>Rep. Bergman, Jack [R-MI-1]</fullName>
+        <state>MI</state>
+        <bioguideId>B001301</bioguideId>
+        <middleName />
+        <firstName>Jack</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001301</bioguideId>
+          <lisID>2333</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <district>2</district>
+        <lastName>Kuster</lastName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <state>NH</state>
+        <bioguideId>K000382</bioguideId>
+        <middleName>M.</middleName>
+        <firstName>Ann</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2145</lisID>
+          <gpoId />
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Appropriations Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-10T14:00:53Z</date>
+            </item>
+          </activities>
+          <systemCode>hsap00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-10T14:00:48Z</date>
+            </item>
+          </activities>
+          <systemCode>hsvr00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2017-07-10</actionDate>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <updateDate>2017-07-28T08:56:13Z</updateDate>
+    <cboCostEstimates />
+    <introducedDate>2017-07-10</introducedDate>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-10</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Appropriations Committee</name>
+          <systemCode>hsap00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-10</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-10</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-10</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <lastName>Poliquin</lastName>
+        <bioguideId>P000611</bioguideId>
+        <state>ME</state>
+        <middleName />
+        <party>R</party>
+        <fullName>Rep. Poliquin, Bruce [R-ME-2]</fullName>
+        <district>2</district>
+        <byRequestType />
+        <firstName>Bruce</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000611</bioguideId>
+          <lisID>2247</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>VA Acquisition Workforce Improvement and Streamlining Act</title>
+    <notes />
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <laws />
+    <billNumber>3169</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. POLIQUIN:H.R. 3169.Congress has the power to enact this legislation pursuantto the following:Article I, section 8 of the Constitution of the UnitedStates.[Page H5391]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2017-07-11T03:11:32Z</createDate>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <title>VA Acquisition Workforce Improvement and Streamlining Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To improve the hiring, training, and efficiency of acquisition personnel and organizations of the Department of Veterans Affairs, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>VA Acquisition Workforce Improvement and Streamlining Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>VA Acquisition Workforce Improvement and Streamlining Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

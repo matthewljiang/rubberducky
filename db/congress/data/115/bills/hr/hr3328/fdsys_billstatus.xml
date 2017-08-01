@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>To require a study regarding security measures and equipment at Cuba's airports, require the standardization of Federal Air Marshal Service agreements, require efforts to raise international aviation security standards, and for other purposes.</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-07-25T19:29:07Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hspw05</systemCode>
+              <name>Aviation Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Transportation and Infrastructure Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hspw00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-20T13:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-20T13:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Homeland Security Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hshm00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-20T13:00:51Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>3</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <committee>
+          <systemCode>hspw05</systemCode>
+          <name>Aviation Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committees on Foreign Affairs, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committees on Foreign Affairs, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committees on Foreign Affairs, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <recordedVotes />
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <notes />
+    <createDate>2017-07-21T03:11:37Z</createDate>
+    <amendments />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001157</bioguideId>
+        <district>10</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1804</lisID>
+          <gpoId>8166</gpoId>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <party>R</party>
+        <firstName>Michael</firstName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <lastName>McCaul</lastName>
+        <middleName>T.</middleName>
+        <state>TX</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001165</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8055</gpoId>
+          <lisID>1818</lisID>
+          <bioguideId>S001165</bioguideId>
+        </identifiers>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <party>D</party>
+        <firstName>Albio</firstName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <lastName>Sires</lastName>
+        <middleName />
+        <state>NJ</state>
+      </item>
+    </cosponsors>
+    <updateDate>2017-07-26T07:13:07Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>K000386</bioguideId>
+        <byRequestType />
+        <district>24</district>
+        <party>R</party>
+        <lastName>Katko</lastName>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <firstName>John</firstName>
+        <middleName />
+        <state>NY</state>
+        <identifiers>
+          <lisID>2264</lisID>
+          <gpoId />
+          <bioguideId>K000386</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>To require a study regarding security measures and equipment at Cuba's airports, require the standardization of Federal Air Marshal Service agreements, require efforts to raise international aviation security standards, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>To require a study regarding security measures and equipment at Cuba's airports, require the standardization of Federal Air Marshal Service agreements, require efforts to raise international aviation security standards, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-07-20</introducedDate>
+    <constitutionalAuthorityStatementText />
+    <congress>115</congress>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-07-25</actionDate>
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <billNumber>3328</billNumber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

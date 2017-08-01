@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>A resolution expressing solidarity with Falun Gong practitioners who have lost lives, freedoms, and rights for adhering to their beliefs and practices and condemning the practice of non-consenting organ harvesting, and for other purposes.</title>
+    <notes />
+    <committeeReports />
+    <relatedBills />
+    <introducedDate>2017-07-13</introducedDate>
+    <billNumber>220</billNumber>
+    <congress>115</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <updateDate>2017-07-14T13:42:10Z</updateDate>
+    <billType>SRES</billType>
+    <cboCostEstimates />
+    <policyArea />
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4001-4002)</text>
+      <actionDate>2017-07-13</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2017-07-14T00:41:31Z</createDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <lastName>MENENDEZ</lastName>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <firstName>ROBERT</firstName>
+        <middleName />
+        <bioguideId>M000639</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A resolution expressing solidarity with Falun Gong practitioners who have lost lives, freedoms, and rights for adhering to their beliefs and practices and condemning the practice of non-consenting organ harvesting, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A resolution expressing solidarity with Falun Gong practitioners who have lost lives, freedoms, and rights for adhering to their beliefs and practices and condemning the practice of non-consenting organ harvesting, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Foreign Relations Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-13T19:46:38Z</date>
+            </item>
+          </activities>
+          <systemCode>ssfr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>M000934</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+          <bioguideId>M000934</bioguideId>
+        </identifiers>
+        <state>KS</state>
+        <firstName>JERRY</firstName>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <lastName>MORAN</lastName>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>C001075</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7964</gpoId>
+          <lisID>1925</lisID>
+          <bioguideId>C001075</bioguideId>
+        </identifiers>
+        <state>LA</state>
+        <firstName>Bill</firstName>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <lastName>Cassidy</lastName>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>B001236</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+          <lisID>1687</lisID>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <state>AR</state>
+        <firstName>John</firstName>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <lastName>Boozman</lastName>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+        </identifiers>
+        <state>MA</state>
+        <firstName>EDWARD</firstName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <lastName>MARKEY</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>B000944</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <state>OH</state>
+        <firstName>SHERROD</firstName>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <lastName>BROWN</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>L000174</bioguideId>
+        <middleName>JOSEPH</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8244</gpoId>
+          <bioguideId>L000174</bioguideId>
+          <lisID>1383</lisID>
+        </identifiers>
+        <state>VT</state>
+        <firstName>PATRICK</firstName>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <lastName>LEAHY</lastName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <state>FL</state>
+        <firstName>Marco</firstName>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <lastName>Rubio</lastName>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>T000476</bioguideId>
+        <middleName>Roland</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+        </identifiers>
+        <state>NC</state>
+        <firstName>Thomas</firstName>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <lastName>Tillis</lastName>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>C001088</bioguideId>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <state>DE</state>
+        <firstName>Christopher</firstName>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <lastName>Coons</lastName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <actions>
+      <item>
+        <actionDate>2017-07-13</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4001-4002</url>
+            <name>S4001-4002</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4001-4002)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <actionDate>2017-07-13</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

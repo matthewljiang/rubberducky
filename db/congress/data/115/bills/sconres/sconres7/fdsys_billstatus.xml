@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-03-02</introducedDate>
+    <cosponsors>
+      <item>
+        <lastName>STABENOW</lastName>
+        <middleName>ANN</middleName>
+        <state>MI</state>
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+        </identifiers>
+        <bioguideId>S000770</bioguideId>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <party>D</party>
+        <firstName>DEBORAH</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>CRAPO</lastName>
+        <middleName>D.</middleName>
+        <state>ID</state>
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8289</gpoId>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+        </identifiers>
+        <bioguideId>C000880</bioguideId>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <party>R</party>
+        <firstName>MICHAEL</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>CARDIN</lastName>
+        <middleName>L.</middleName>
+        <state>MD</state>
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <bioguideId>C000141</bioguideId>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <party>D</party>
+        <firstName>BENJAMIN</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Klobuchar</lastName>
+        <middleName />
+        <state>MN</state>
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <party>D</party>
+        <firstName>Amy</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Johnson</lastName>
+        <middleName />
+        <state>WI</state>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2086</lisID>
+          <gpoId>8355</gpoId>
+          <bioguideId>J000293</bioguideId>
+        </identifiers>
+        <bioguideId>J000293</bioguideId>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <party>R</party>
+        <firstName>Ron</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Heitkamp</lastName>
+        <middleName />
+        <state>ND</state>
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2174</lisID>
+          <gpoId />
+          <bioguideId>H001069</bioguideId>
+        </identifiers>
+        <bioguideId>H001069</bioguideId>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <party>D</party>
+        <firstName>Heidi</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Blunt</lastName>
+        <middleName />
+        <state>MO</state>
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <bioguideId>B000575</bioguideId>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <party>R</party>
+        <firstName>Roy</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>THUNE</lastName>
+        <middleName>R.</middleName>
+        <state>SD</state>
+        <sponsorshipDate>2017-03-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8257</gpoId>
+          <lisID>1534</lisID>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <bioguideId>T000250</bioguideId>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <party>R</party>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Hoeven</lastName>
+        <middleName />
+        <state>ND</state>
+        <sponsorshipDate>2017-03-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2079</lisID>
+          <gpoId>8331</gpoId>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <bioguideId>H001061</bioguideId>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <party>R</party>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>BROWN</lastName>
+        <middleName />
+        <state>OH</state>
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+        </identifiers>
+        <bioguideId>B000944</bioguideId>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <party>D</party>
+        <firstName>SHERROD</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Rounds</lastName>
+        <middleName />
+        <state>SD</state>
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2288</lisID>
+          <bioguideId>R000605</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>R000605</bioguideId>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>PORTMAN</lastName>
+        <middleName />
+        <state>OH</state>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <bioguideId>P000449</bioguideId>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <party>R</party>
+        <firstName>ROB</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Risch</lastName>
+        <middleName>E.</middleName>
+        <state>ID</state>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8274</gpoId>
+          <lisID>1896</lisID>
+          <bioguideId>R000584</bioguideId>
+        </identifiers>
+        <bioguideId>R000584</bioguideId>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <party>R</party>
+        <firstName>James</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <date>2017-03-02T20:27:21Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>A concurrent resolution expressing the sense of Congress that tax-exempt fraternal benefit societies have historically provided and continue to provide critical benefits to the people and communities of the United States.</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A concurrent resolution expressing the sense of Congress that tax-exempt fraternal benefit societies have historically provided and continue to provide critical benefits to the people and communities of the United States.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>A concurrent resolution expressing the sense of Congress that tax-exempt fraternal benefit societies have historically provided and continue to provide critical benefits to the people and communities of the United States.</title>
+      </item>
+    </titles>
+    <congress>115</congress>
+    <calendarNumbers />
+    <committeeReports />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Trade.</text>
+          <actionDate>2017-01-26</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Expressing the sense of the Congress that tax-exempt fraternal benefit societies have historically and continue to provide critical benefits to Americans and United States communities.</latestTitle>
+        <number>10</number>
+        <type>HCONRES</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>7</billNumber>
+    <amendments />
+    <billType>SCONRES</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Life, casualty, property insurance</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Tax-exempt organizations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <bioguideId>R000307</bioguideId>
+        <lastName>ROBERTS</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>968</lisID>
+          <gpoId>8275</gpoId>
+          <bioguideId>R000307</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <state>KS</state>
+        <firstName>PAT</firstName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2017-03-02</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S1583-1584</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1583-1584</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Finance. (text of measure as introduced: CR S1583-1584)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-03-02</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-03-06T15:26:46Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p> Expresses the sense of Congress that the tax exemption of fraternal benefit societies continues to generate significant returns to the United States and that the work of such societies should continue to be promoted. </p> <UL> </UL>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <actionDate>2017-03-02</actionDate>
+          <updateDate>2017-03-02T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2017-07-20T04:49:54Z</updateDate>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <latestAction>
+      <text>Referred to the Committee on Finance. (text of measure as introduced: CR S1583-1584)</text>
+      <actionDate>2017-03-02</actionDate>
+      <links />
+    </latestAction>
+    <createDate>2017-03-03T05:11:26Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-01-04T04:47:42Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-03</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-01-03</actionDate>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <title>No Budget, No Pay Act</title>
+    <laws />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName />
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>H001041</bioguideId>
+          <lisID>1863</lisID>
+          <gpoId>8060</gpoId>
+        </identifiers>
+        <bioguideId>H001041</bioguideId>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <firstName>Dean</firstName>
+        <party>R</party>
+        <lastName>Heller</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2017-01-03</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-03T18:12:56Z</date>
+            </item>
+          </activities>
+          <systemCode>ssga00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-01-03</actionDate>
+          <text><![CDATA[<p><b>No Budget, No Pay Act</b></p> <p>This bill prohibits the payment of any pay to any Member of Congress (excluding the Vice President): (1) if both houses of Congress have not approved a concurrent resolution on the budget for a fiscal year before October 1 of that fiscal year and have not passed all the regular appropriations bills for the next fiscal year by such date, or (2) until both houses of Congress approve such a budget resolution and pass all such appropriations bills. Prohibits any retroactive pay for such a period.</p>]]></text>
+          <lastSummaryUpdateDate>2017-02-04T14:09:53Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <congress>115</congress>
+    <billNumber>14</billNumber>
+    <recordedVotes />
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-06-19T20:15:13Z</updateDate>
+    <introducedDate>2017-01-03</introducedDate>
+    <notes />
+    <relatedBills />
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <state>WV</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Joe</firstName>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+          <lisID>1983</lisID>
+          <gpoId>8256</gpoId>
+        </identifiers>
+        <lastName>Manchin</lastName>
+        <bioguideId>M001183</bioguideId>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+      </item>
+      <item>
+        <state>WY</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>John</firstName>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8300</gpoId>
+          <lisID>1881</lisID>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <lastName>Barrasso</lastName>
+        <bioguideId>B001261</bioguideId>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+      </item>
+      <item>
+        <state>CO</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>Cory</firstName>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <lastName>Gardner</lastName>
+        <bioguideId>G000562</bioguideId>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+      </item>
+      <item>
+        <state>NC</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>RICHARD</firstName>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8286</gpoId>
+          <bioguideId>B001135</bioguideId>
+          <lisID>153</lisID>
+        </identifiers>
+        <lastName>BURR</lastName>
+        <bioguideId>B001135</bioguideId>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>WV</state>
+        <middleName>MOORE</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>SHELLEY</firstName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+        </identifiers>
+        <lastName>CAPITO</lastName>
+        <bioguideId>C001047</bioguideId>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>NH</state>
+        <middleName>Wood</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Margaret</firstName>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001076</bioguideId>
+          <lisID>2302</lisID>
+        </identifiers>
+        <lastName>Hassan</lastName>
+        <bioguideId>H001076</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+      </item>
+      <item>
+        <state>GA</state>
+        <middleName>Alfred</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>David</firstName>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000612</bioguideId>
+          <lisID>2286</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Perdue</lastName>
+        <bioguideId>P000612</bioguideId>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>No Budget, No Pay Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>No Budget, No Pay Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>A bill to provide that Members of Congress may not receive pay after October 1 of any fiscal year in which Congress has not approved a concurrent resolution on the budget and passed the regular appropriations bills.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>No Budget, No Pay Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

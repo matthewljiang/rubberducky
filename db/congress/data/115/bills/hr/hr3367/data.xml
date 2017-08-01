@@ -1,0 +1,32 @@
+<bill session="115" type="h" number="3367" updated="2017-07-25T07:18:33Z">
+  <state datetime="2017-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-24"/>
+  </status>
+  <introduced datetime="2017-07-24"/>
+  <titles>
+    <title type="official" as="introduced">To terminate the prohibitions on the exportation and importation of natural gas, and for other purposes.</title>
+    <title type="display">To terminate the prohibitions on the exportation and importation of natural gas, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="H001077"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-07-24">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-24" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-24">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

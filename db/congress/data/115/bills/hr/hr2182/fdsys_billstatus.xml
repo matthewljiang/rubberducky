@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <committeeReports />
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ZELDIN:H.R. 2182.Congress has the power to enact this legislation pursuantto the following:Article 1, Sections 8 & 9 of the United StatesConstitution.[Page H2898]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <bioguideId>D000216</bioguideId>
+        <party>D</party>
+        <district>3</district>
+        <middleName />
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <state>CT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000216</bioguideId>
+          <lisID>281</lisID>
+          <gpoId>7868</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <firstName>ROSA</firstName>
+        <lastName>DELAURO</lastName>
+      </item>
+      <item>
+        <bioguideId>M001188</bioguideId>
+        <party>D</party>
+        <district>6</district>
+        <middleName />
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001188</bioguideId>
+          <lisID>2148</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <firstName>Grace</firstName>
+        <lastName>Meng</lastName>
+      </item>
+      <item>
+        <bioguideId>E000179</bioguideId>
+        <party>D</party>
+        <district>16</district>
+        <middleName>L.</middleName>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8078</gpoId>
+          <bioguideId>E000179</bioguideId>
+          <lisID>344</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <firstName>ELIOT</firstName>
+        <lastName>ENGEL</lastName>
+      </item>
+      <item>
+        <bioguideId>K000210</bioguideId>
+        <party>R</party>
+        <district>2</district>
+        <middleName>T.</middleName>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000210</bioguideId>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <firstName>PETER</firstName>
+        <lastName>KING</lastName>
+      </item>
+      <item>
+        <bioguideId>S001201</bioguideId>
+        <party>D</party>
+        <district>3</district>
+        <middleName>R.</middleName>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2341</lisID>
+          <bioguideId>S001201</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <firstName>Thomas</firstName>
+        <lastName>Suozzi</lastName>
+      </item>
+      <item>
+        <bioguideId>L000559</bioguideId>
+        <party>D</party>
+        <district>2</district>
+        <middleName>R.</middleName>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <state>RI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1668</lisID>
+          <gpoId>8140</gpoId>
+          <bioguideId>L000559</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <firstName>JAMES</firstName>
+        <lastName>LANGEVIN</lastName>
+      </item>
+      <item>
+        <bioguideId>C001069</bioguideId>
+        <party>D</party>
+        <district>2</district>
+        <middleName />
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <state>CT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1836</lisID>
+          <gpoId>7867</gpoId>
+          <bioguideId>C001069</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <firstName>Joe</firstName>
+        <lastName>Courtney</lastName>
+      </item>
+      <item>
+        <bioguideId>C001038</bioguideId>
+        <party>D</party>
+        <district>14</district>
+        <middleName />
+        <fullName>Rep. Crowley, Joseph [D-NY-14]</fullName>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1604</lisID>
+          <gpoId>8068</gpoId>
+          <bioguideId>C001038</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <firstName>JOSEPH</firstName>
+        <lastName>CROWLEY</lastName>
+      </item>
+      <item>
+        <bioguideId>F000464</bioguideId>
+        <party>R</party>
+        <district>19</district>
+        <middleName>J.</middleName>
+        <fullName>Rep. Faso, John J. [R-NY-19]</fullName>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>F000464</bioguideId>
+          <lisID>2343</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <firstName>John</firstName>
+        <lastName>Faso</lastName>
+      </item>
+      <item>
+        <bioguideId>M000312</bioguideId>
+        <party>D</party>
+        <district>2</district>
+        <middleName>P.</middleName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <state>MA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+      </item>
+      <item>
+        <bioguideId>E000293</bioguideId>
+        <party>D</party>
+        <district>5</district>
+        <middleName>H.</middleName>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <state>CT</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000293</bioguideId>
+          <lisID>2114</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <firstName>Elizabeth</firstName>
+        <lastName>Esty</lastName>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <text>Received in the Senate.</text>
+      <actionDate>2017-07-26</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <originChamber>House</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInSenate>1</introducedInSenate>
+        <considerationByHouse>1</considerationByHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <placeholderTextForH>1</placeholderTextForH>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <generalDebate>1</generalDebate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H38310</actionCode>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <actionTime>14:32:53</actionTime>
+        <committee />
+        <actionDate>2017-07-25</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H37300</actionCode>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6239)</text>
+        <links>
+          <link>
+            <name>H6239</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6239</url>
+          </link>
+        </links>
+        <actionTime>14:32:51</actionTime>
+        <committee />
+        <actionDate>2017-07-25</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+        <links />
+        <actionTime>14:32:51</actionTime>
+        <committee />
+        <actionDate>2017-07-25</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2182.</text>
+        <links>
+          <link>
+            <name>H.R. 2182</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2182</url>
+          </link>
+        </links>
+        <actionTime>14:14:58</actionTime>
+        <committee />
+        <actionDate>2017-07-25</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <text>Considered under suspension of the rules. (consideration: CR H6239-6241)</text>
+        <links>
+          <link>
+            <name>H6239-6241</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6239-6241</url>
+          </link>
+        </links>
+        <actionTime>14:14:57</actionTime>
+        <committee />
+        <actionDate>2017-07-25</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H30300</actionCode>
+        <text>Mr. Donovan moved to suspend the rules and pass the bill.</text>
+        <links />
+        <actionTime>14:14:43</actionTime>
+        <committee />
+        <actionDate>2017-07-25</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-05-16</actionDate>
+        <committee>
+          <name>Cybersecurity, Infrastructure Protection, and Security Technologies Subcommittee</name>
+          <systemCode>hshm08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <links />
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <actionDate>2017-04-26</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-04-26</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-04-26</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <district>1</district>
+        <firstName>Lee</firstName>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <state>NY</state>
+        <middleName>M.</middleName>
+        <bioguideId>Z000017</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>Z000017</bioguideId>
+          <lisID>2261</lisID>
+        </identifiers>
+        <party>R</party>
+        <byRequestType />
+        <lastName>Zeldin</lastName>
+      </item>
+    </sponsors>
+    <billNumber>2182</billNumber>
+    <createDate>2017-04-27T03:11:50Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Homeland Security Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-26T14:05:35Z</date>
+            </item>
+          </activities>
+          <systemCode>hshm00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Cybersecurity, Infrastructure Protection, and Security Technologies Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-16T18:57:05Z</date>
+                </item>
+              </activities>
+              <systemCode>hshm08</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Plum Island Preservation Act</title>
+    <introducedDate>2017-04-26</introducedDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <title>Plum Island Preservation Act</title>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <title>Plum Island Preservation Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To require the Comptroller General of the United States to submit a report to Congress on the alternatives for the final disposition of Plum Island, including preservation of the island for conservation, education, and research, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Plum Island Preservation Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Plum Island Preservation Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Plum Island Preservation Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <updateDate>2017-07-27T20:30:12Z</updateDate>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

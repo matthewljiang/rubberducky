@@ -1,0 +1,66 @@
+<bill session="115" type="h" number="3441" updated="2017-07-29T07:18:11Z">
+  <state datetime="2017-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-27"/>
+  </status>
+  <introduced datetime="2017-07-27"/>
+  <titles>
+    <title type="official" as="introduced">To clarify the treatment of two or more employers as joint employers under the National Labor Relations Act and the Fair Labor Standards Act of 1938.</title>
+    <title type="display">To clarify the treatment of two or more employers as joint employers under the National Labor Relations Act and the Fair Labor Standards Act of 1938.</title>
+  </titles>
+  <sponsor bioguide_id="B001289"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000372" joined="2017-07-27"/>
+    <cosponsor bioguide_id="B001269" joined="2017-07-27"/>
+    <cosponsor bioguide_id="B001282" joined="2017-07-27"/>
+    <cosponsor bioguide_id="B001290" joined="2017-07-28"/>
+    <cosponsor bioguide_id="C000266" joined="2017-07-27"/>
+    <cosponsor bioguide_id="C001093" joined="2017-07-27"/>
+    <cosponsor bioguide_id="C001105" joined="2017-07-28"/>
+    <cosponsor bioguide_id="C001110" joined="2017-07-27"/>
+    <cosponsor bioguide_id="C001096" joined="2017-07-28"/>
+    <cosponsor bioguide_id="C001063" joined="2017-07-27"/>
+    <cosponsor bioguide_id="D000619" joined="2017-07-28"/>
+    <cosponsor bioguide_id="E000298" joined="2017-07-28"/>
+    <cosponsor bioguide_id="F000465" joined="2017-07-27"/>
+    <cosponsor bioguide_id="F000450" joined="2017-07-27"/>
+    <cosponsor bioguide_id="G000580" joined="2017-07-27"/>
+    <cosponsor bioguide_id="G000576" joined="2017-07-27"/>
+    <cosponsor bioguide_id="G000558" joined="2017-07-27"/>
+    <cosponsor bioguide_id="H001078" joined="2017-07-27"/>
+    <cosponsor bioguide_id="H001048" joined="2017-07-27"/>
+    <cosponsor bioguide_id="K000376" joined="2017-07-27"/>
+    <cosponsor bioguide_id="L000587" joined="2017-07-27"/>
+    <cosponsor bioguide_id="M001193" joined="2017-07-28"/>
+    <cosponsor bioguide_id="M001198" joined="2017-07-28"/>
+    <cosponsor bioguide_id="M001189" joined="2017-07-27"/>
+    <cosponsor bioguide_id="M001201" joined="2017-07-27"/>
+    <cosponsor bioguide_id="P000605" joined="2017-07-27"/>
+    <cosponsor bioguide_id="R000582" joined="2017-07-27"/>
+    <cosponsor bioguide_id="R000592" joined="2017-07-27"/>
+    <cosponsor bioguide_id="R000607" joined="2017-07-27"/>
+    <cosponsor bioguide_id="R000603" joined="2017-07-27"/>
+    <cosponsor bioguide_id="S001199" joined="2017-07-27"/>
+    <cosponsor bioguide_id="S001196" joined="2017-07-27"/>
+    <cosponsor bioguide_id="T000467" joined="2017-07-27"/>
+    <cosponsor bioguide_id="W000798" joined="2017-07-27"/>
+    <cosponsor bioguide_id="W000820" joined="2017-07-27"/>
+    <cosponsor bioguide_id="W000795" joined="2017-07-27"/>
+    <cosponsor bioguide_id="Y000063" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-27" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

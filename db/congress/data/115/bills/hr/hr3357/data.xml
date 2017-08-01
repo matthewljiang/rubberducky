@@ -1,0 +1,39 @@
+<bill session="115" type="h" number="3357" updated="2017-07-25T07:18:32Z">
+  <state datetime="2017-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-24"/>
+  </status>
+  <introduced datetime="2017-07-24"/>
+  <titles>
+    <title type="official" as="introduced">To allow the Bureau of Consumer Financial Protection to provide greater protection to servicemembers.</title>
+    <title type="display">To allow the Bureau of Consumer Financial Protection to provide greater protection to servicemembers.</title>
+  </titles>
+  <sponsor bioguide_id="W000187"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001281" joined="2017-07-24"/>
+    <cosponsor bioguide_id="G000581" joined="2017-07-24"/>
+    <cosponsor bioguide_id="G000553" joined="2017-07-24"/>
+    <cosponsor bioguide_id="H001064" joined="2017-07-24"/>
+    <cosponsor bioguide_id="K000380" joined="2017-07-24"/>
+    <cosponsor bioguide_id="L000562" joined="2017-07-24"/>
+    <cosponsor bioguide_id="M001137" joined="2017-07-24"/>
+    <cosponsor bioguide_id="S000344" joined="2017-07-24"/>
+    <cosponsor bioguide_id="V000081" joined="2017-07-24"/>
+    <cosponsor bioguide_id="W000799" joined="2017-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-24">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-24" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

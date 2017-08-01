@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend title 39, United States Code, to provide that the United States Postal Service may provide certain basic financial services, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>To amend title 39, United States Code, to provide that the United States Postal Service may provide certain basic financial services, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <recordedVotes />
+    <amendments />
+    <committeeReports />
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText />
+    <updateDate>2017-07-29T07:33:14Z</updateDate>
+    <introducedDate>2017-07-28</introducedDate>
+    <policyArea />
+    <title>To amend title 39, United States Code, to provide that the United States Postal Service may provide certain basic financial services, and for other purposes.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionDate>2017-07-28</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-28T13:09:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-07-28</actionDate>
+      <links />
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </latestAction>
+    <createDate>2017-07-29T03:11:39Z</createDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <district>3</district>
+        <firstName>Raul</firstName>
+        <bioguideId>G000551</bioguideId>
+        <lastName>Grijalva</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>229</lisID>
+          <gpoId>7999</gpoId>
+          <bioguideId>C000714</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <district>13</district>
+        <firstName>JOHN</firstName>
+        <bioguideId>C000714</bioguideId>
+        <lastName>CONYERS</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>616</lisID>
+          <gpoId>8099</gpoId>
+          <bioguideId>K000009</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <district>9</district>
+        <firstName>MARCY</firstName>
+        <bioguideId>K000009</bioguideId>
+        <lastName>KAPTUR</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <district>3</district>
+        <firstName>EARL</firstName>
+        <bioguideId>B000574</bioguideId>
+        <lastName>BLUMENAUER</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>OR</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7921</gpoId>
+          <bioguideId>R000515</bioguideId>
+          <lisID>1003</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <district>1</district>
+        <firstName>BOBBY</firstName>
+        <bioguideId>R000515</bioguideId>
+        <lastName>RUSH</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <billNumber>3617</billNumber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <firstName>Cedric</firstName>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <identifiers>
+          <bioguideId>R000588</bioguideId>
+          <gpoId>7960</gpoId>
+          <lisID>2023</lisID>
+        </identifiers>
+        <bioguideId>R000588</bioguideId>
+        <district>2</district>
+        <middleName>L.</middleName>
+        <lastName>Richmond</lastName>
+        <state>LA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <laws />
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Good Samaritan Health Professionals Act of 2017</title>
+    <sponsors>
+      <item>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <party>R</party>
+        <lastName>Blackburn</lastName>
+        <district>7</district>
+        <firstName>Marsha</firstName>
+        <bioguideId>B001243</bioguideId>
+        <state>TN</state>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-04-04</actionDate>
+          <lastSummaryUpdateDate>2017-07-14T20:23:38Z</lastSummaryUpdateDate>
+          <updateDate>2017-04-04T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Good Samaritan Health Professionals Act of 2017</b></p> <p>This bill amends the Public Health Service Act to shield a health care professional from liability under federal or state law for harm caused by any act or omission if: (1) the professional is serving as a volunteer in response to a disaster; and (2) the act or omission occurs during the period of the disaster, in the professional's capacity as a volunteer, and in a good faith belief that the individual being treated is in need of health care services.</p> <p>This protection from liability does not apply if: (1) the harm was caused by an act or omission constituting willful or criminal misconduct, gross negligence, reckless misconduct, or a conscious flagrant indifference to the rights or safety of the individual harmed; or (2) the professional rendered the health care services under the influence of alcohol or an intoxicating drug.</p> <p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills>
+      <item>
+        <number>1822</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-04-21</actionDate>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        </latestAction>
+        <latestTitle>Good Samaritan Health Professionals Act of 2017</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>781</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-03-30</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <latestTitle>Good Samaritan Health Professionals Act of 2017</latestTitle>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Good Samaritan Health Professionals Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Good Samaritan Health Professionals Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To amend the Public Health Service Act to limit the liability of health care professionals who volunteer to provide health care services in response to a disaster.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Good Samaritan Health Professionals Act of 2017</title>
+      </item>
+    </titles>
+    <notes />
+    <updateDate>2017-07-29T07:17:02Z</updateDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. BLACKBURN:H.R. 1876.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3[Page H2697]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <latestAction>
+      <links />
+      <actionDate>2017-04-26</actionDate>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-04-26T19:44:13Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution and Civil Justice Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2017-04-04T14:02:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-04-07T18:37:05Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2017-04-04T14:02:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <introducedDate>2017-04-04</introducedDate>
+    <calendarNumbers />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <createDate>2017-04-05T03:11:52Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>1876</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-26</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-07</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to House Judiciary</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to House Energy and Commerce</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <laws />
+    <billType>HR</billType>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>7977</gpoId>
+          <bioguideId>R000576</bioguideId>
+          <lisID>1728</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName>Dutch</middleName>
+        <district>2</district>
+        <firstName>C. A.</firstName>
+        <bioguideId>R000576</bioguideId>
+        <lastName>Ruppersberger</lastName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2102</lisID>
+          <bioguideId>B001287</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <district>7</district>
+        <firstName>Ami</firstName>
+        <bioguideId>B001287</bioguideId>
+        <lastName>Bera</lastName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bera, Ami [D-CA-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000582</bioguideId>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+        </identifiers>
+        <party>R</party>
+        <middleName>P.</middleName>
+        <district>1</district>
+        <firstName>David</firstName>
+        <bioguideId>R000582</bioguideId>
+        <lastName>Roe</lastName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <state>TN</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2018</lisID>
+          <gpoId>7947</gpoId>
+          <bioguideId>B001275</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <district>8</district>
+        <firstName>Larry</firstName>
+        <bioguideId>B001275</bioguideId>
+        <lastName>Bucshon</lastName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <state>IN</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001157</bioguideId>
+          <gpoId>7910</gpoId>
+          <lisID>1722</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <district>13</district>
+        <firstName>David</firstName>
+        <bioguideId>S001157</bioguideId>
+        <lastName>Scott</lastName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <state>GA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000815</bioguideId>
+          <lisID>2152</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <middleName>R.</middleName>
+        <district>2</district>
+        <firstName>Brad</firstName>
+        <bioguideId>W000815</bioguideId>
+        <lastName>Wenstrup</lastName>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Wenstrup, Brad R. [R-OH-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7881</gpoId>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <district>12</district>
+        <firstName>Gus</firstName>
+        <bioguideId>B001257</bioguideId>
+        <lastName>Bilirakis</lastName>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001199</bioguideId>
+          <lisID>2346</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <district>16</district>
+        <firstName>Lloyd</firstName>
+        <bioguideId>S001199</bioguideId>
+        <lastName>Smucker</lastName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Smucker, Lloyd [R-PA-16]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>F000461</bioguideId>
+          <gpoId>8173</gpoId>
+          <lisID>2065</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <district>17</district>
+        <firstName>Bill</firstName>
+        <bioguideId>F000461</bioguideId>
+        <lastName>Flores</lastName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1936</lisID>
+          <gpoId>8049</gpoId>
+          <bioguideId>L000567</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <district>7</district>
+        <firstName>Leonard</firstName>
+        <bioguideId>L000567</bioguideId>
+        <lastName>Lance</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

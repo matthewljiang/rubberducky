@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <billNumber>481</billNumber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hsru00</systemCode>
+          <type>Standing</type>
+          <name>Rules Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2017-07-27T22:41:29Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>H00071</calendar>
+      </item>
+    </calendarNumbers>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 3180) to authorize appropriations for fiscal year 2018 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules; and providing for proceedings during the period from July 31, 2017, through September 4, 2017.]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-07-27T04:00:00Z</updateDate>
+          <actionDate>2017-07-27</actionDate>
+          <lastSummaryUpdateDate>2017-07-28T08:06:27Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills>
+      <item>
+        <latestTitle>Intelligence Authorization Act for Fiscal Year 2018</latestTitle>
+        <number>3180</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>12:46:15</actionTime>
+          <actionDate>2017-07-28</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Providing for consideration of the bill (H.R. 3180) to authorize appropriations for fiscal year 2018 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules; and providing for proceedings during the period from July 31, 2017, through September 4, 2017.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Providing for consideration of the bill (H.R. 3180) to authorize appropriations for fiscal year 2018 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules; and providing for proceedings during the period from July 31, 2017, through September 4, 2017.</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <createDate>2017-07-28T03:11:32Z</createDate>
+    <committeeReports />
+    <billType>HRES</billType>
+    <updateDate>2017-07-31T15:27:15Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <generalDebate>1</generalDebate>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <introducedInHouse>1</introducedInHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <considerationByHouse>1</considerationByHouse>
+        <provisionsOfARule>1</provisionsOfARule>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <reportedToHouse>1</reportedToHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <actionTime>10:28:32</actionTime>
+        <actionCode>H38310</actionCode>
+        <actionDate>2017-07-28</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+        <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 224 - 186 (Roll no. 436). (text: CR H6528)</text>
+        <links>
+          <link>
+            <name>H6528</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6528</url>
+          </link>
+          <link>
+            <name>Roll no. 436</name>
+            <url>http://clerk.house.gov/evs/2017/roll436.xml</url>
+          </link>
+        </links>
+        <actionTime>10:28:30</actionTime>
+        <actionCode>H37100</actionCode>
+        <actionDate>2017-07-28</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 224 - 186 (Roll no. 436).</text>
+        <links>
+          <link>
+            <name>Roll no. 436</name>
+            <url>http://clerk.house.gov/evs/2017/roll436.xml</url>
+          </link>
+        </links>
+        <actionTime>10:28:30</actionTime>
+        <actionCode>8000</actionCode>
+        <actionDate>2017-07-28</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+        <text>The previous question was ordered without objection.</text>
+        <links />
+        <actionTime>10:03:18</actionTime>
+        <actionCode>H35000</actionCode>
+        <actionDate>2017-07-28</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 481.</text>
+        <links>
+          <link>
+            <name>H. Res. 481</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/481</url>
+          </link>
+        </links>
+        <actionTime>09:38:51</actionTime>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-07-28</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+        <text>Considered as privileged matter. (consideration: CR H6528-6531)</text>
+        <links>
+          <link>
+            <name>H6528-6531</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6528-6531</url>
+          </link>
+        </links>
+        <actionTime>09:35:54</actionTime>
+        <actionCode>H30000</actionCode>
+        <actionDate>2017-07-28</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Calendars</type>
+        <text>Placed on the House Calendar, Calendar No. 71.</text>
+        <committee />
+        <links />
+        <actionCode>H12420</actionCode>
+        <actionDate>2017-07-27</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+        <text>The resolution provides for a closed rule. The resolution provides for an amendment in the nature of a substitute recommended by the Permanent Select Committee on Intelligence now printed in the bill shall be considered as adopted, and the bill as amended, shall be considered as read.</text>
+        <links />
+        <actionTime>18:41:30</actionTime>
+        <actionCode>H12700</actionCode>
+        <actionDate>2017-07-27</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-263, by Ms. Cheney.</text>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-263</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/263</url>
+          </link>
+        </links>
+        <actionCode>H12100</actionCode>
+        <actionDate>2017-07-27</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-263, by Ms. Cheney.</text>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-263</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/263</url>
+          </link>
+        </links>
+        <actionCode>5000</actionCode>
+        <actionDate>2017-07-27</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-07-27</actionDate>
+      </item>
+    </actions>
+    <cosponsors />
+    <amendments />
+    <constitutionalAuthorityStatementText />
+    <recordedVotes>
+      <recordedVote>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-07-28T14:28:30Z</date>
+        <chamber>House</chamber>
+        <rollNumber>436</rollNumber>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll436.xml</url>
+      </recordedVote>
+    </recordedVotes>
+    <latestAction>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionDate>2017-07-28</actionDate>
+      <links />
+      <actionTime>10:28:32</actionTime>
+    </latestAction>
+    <sponsors>
+      <item>
+        <lastName>Cheney</lastName>
+        <district>0</district>
+        <bioguideId>C001109</bioguideId>
+        <firstName>Liz</firstName>
+        <party>R</party>
+        <byRequestType />
+        <state>WY</state>
+        <fullName>Rep. Cheney, Liz [R-WY-At Large]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001109</bioguideId>
+          <lisID>2356</lisID>
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <title>Providing for consideration of the bill (H.R. 3180) to authorize appropriations for fiscal year 2018 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules; and providing for proceedings during the period from July 31, 2017, through September 4, 2017.</title>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <introducedDate>2017-07-27</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>690</billNumber>
+    <title>HUBZone Investment Protection Act</title>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>2013</number>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-04-06</actionDate>
+          <text>Referred to the House Committee on Small Business.</text>
+        </latestAction>
+        <latestTitle>Growing and Reviving Rural Economies Through Transitioning HUBZone Redesignation Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <bioguideId>C000141</bioguideId>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <lastName>CARDIN</lastName>
+        <state>MD</state>
+        <firstName>BENJAMIN</firstName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <laws />
+    <billType>S</billType>
+    <introducedDate>2017-03-21</introducedDate>
+    <recordedVotes />
+    <committeeReports />
+    <calendarNumbers />
+    <congress>115</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-07-12T17:50:54Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><b>HUBZone Investment Protection Act</b></p> <p>This bill amends the Small Business Act with respect to Historically Underutilized Business Zones (HUBZones) located in qualified census tracts, qualified nonmetropolitan counties, or redesignated areas, which are census tracts or nonmetropolitan counties that cease to meet the ordinary criteria for the HUBZone program but are &quot;redesignated&quot; to qualify for it.</p> <p>The bill increases the length of time a census tract or nonmetropolitan county may be redesignated to qualify for HUBZone status from three years to seven years after the date on which the area ceased to meet the ordinary criteria.</p>]]></text>
+          <updateDate>2017-03-21T04:00:00Z</updateDate>
+          <actionDate>2017-03-21</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+      <actionDate>2017-03-21</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000584</bioguideId>
+        <state>ID</state>
+        <middleName>E.</middleName>
+        <firstName>James</firstName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <identifiers>
+          <gpoId>8274</gpoId>
+          <lisID>1896</lisID>
+          <bioguideId>R000584</bioguideId>
+        </identifiers>
+        <lastName>Risch</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001181</bioguideId>
+        <state>NH</state>
+        <middleName />
+        <firstName>Jeanne</firstName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <lastName>Shaheen</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001042</bioguideId>
+        <state>HI</state>
+        <middleName>K.</middleName>
+        <firstName>Mazie</firstName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <identifiers>
+          <lisID>1844</lisID>
+          <gpoId>7913</gpoId>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+        <lastName>Hirono</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000128</bioguideId>
+        <state>MD</state>
+        <middleName />
+        <firstName>Chris</firstName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <identifiers>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <lastName>Van Hollen</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>I</party>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000383</bioguideId>
+        <state>ME</state>
+        <middleName />
+        <firstName>Angus</firstName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>King</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+        <middleName />
+        <firstName>SHERROD</firstName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <lastName>BROWN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000595</bioguideId>
+        <state>MI</state>
+        <middleName>C.</middleName>
+        <firstName>Gary</firstName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <identifiers>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <lastName>Peters</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>HUBZone Investment Protection Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>HUBZone Investment Protection Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to extend the eligibility of redesignated areas as HUBZones from 3 years to 7 years.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>HUBZone Investment Protection Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <createDate>2017-03-22T05:45:20Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sssb00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-21T21:47:15Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Small Business and Entrepreneurship Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-07-21T05:26:56Z</updateDate>
+    <actions>
+      <item>
+        <actionDate>2017-03-21</actionDate>
+        <committee>
+          <systemCode>sssb00</systemCode>
+          <name>Small Business and Entrepreneurship Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-03-21</actionDate>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Census and government statistics</name>
+          </item>
+          <item>
+            <name>Economic development</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

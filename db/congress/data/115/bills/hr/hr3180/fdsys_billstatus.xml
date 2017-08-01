@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <billNumber>3180</billNumber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hlig00</systemCode>
+          <type>Select</type>
+          <name>Intelligence (Permanent) Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-07-24T21:27:57Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-11T16:01:45Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00183</calendar>
+      </item>
+    </calendarNumbers>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>Central Intelligence Agency (CIA)</name>
+          </item>
+          <item>
+            <name>China</name>
+          </item>
+          <item>
+            <name>Coast guard</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Congressional elections</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Cuba</name>
+          </item>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Department of Energy</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Department of State</name>
+          </item>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Director of National Intelligence</name>
+          </item>
+          <item>
+            <name>Drug Enforcement Administration (DEA)</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal Bureau of Investigation (FBI)</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Foreign and international banking</name>
+          </item>
+          <item>
+            <name>Foreign language and bilingual programs</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>Iran</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>North Korea</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Russia</name>
+          </item>
+          <item>
+            <name>Sanctions</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>U.S. and foreign investments</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills>
+      <item>
+        <type>HRES</type>
+        <number>481</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionTime>10:28:32</actionTime>
+          <actionDate>2017-07-28</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        </latestAction>
+        <latestTitle>Providing for consideration of the bill (H.R. 3180) to authorize appropriations for fiscal year 2018 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules; and providing for proceedings during the period from July 31, 2017, through September 4, 2017.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Procedurally-related</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>Intelligence Authorization Act for Fiscal Year 2018</title>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <title>Intelligence Authorization Act for Fiscal Year 2018</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Intelligence Authorization Act for Fiscal Year 2018</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To authorize appropriations for fiscal year 2018 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Intelligence Authorization Act for Fiscal Year 2018</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <title>Intelligence Authorization Act for Fiscal Year 2018</title>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Intelligence Authorization Act for Fiscal Year 2018</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <createDate>2017-07-12T03:11:37Z</createDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-251</citation>
+      </committeeReport>
+    </committeeReports>
+    <billType>HR</billType>
+    <updateDate>2017-07-31T15:42:15Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <failedOfPassageNotAgreedToInHouse>1</failedOfPassageNotAgreedToInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <generalDebate>3</generalDebate>
+        <billReferrals>1</billReferrals>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <placeholderTextForHL>1</placeholderTextForHL>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <placeholderTextForH>1</placeholderTextForH>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <considerationByHouse>3</considerationByHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <reportedToHouse>1</reportedToHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <introducedInHouse>1</introducedInHouse>
+        <ruleForConsiderationOfBillReportedToHouse>1</ruleForConsiderationOfBillReportedToHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>22</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H38310</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>12:46:15</actionTime>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H37100</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <links>
+          <link>
+            <name>H6547-6552</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6547-6552</url>
+          </link>
+          <link>
+            <name>Roll no. 437</name>
+            <url>http://clerk.house.gov/evs/2017/roll437.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>12:46:13</actionTime>
+        <committee />
+        <text>On passage Passed by the Yeas and Nays: 380 - 35 (Roll no. 437). (text: CR H6547-6552)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <links>
+          <link>
+            <name>Roll no. 437</name>
+            <url>http://clerk.house.gov/evs/2017/roll437.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionTime>12:46:13</actionTime>
+        <committee />
+        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 380 - 35 (Roll no. 437).</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H35000</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>12:21:15</actionTime>
+        <committee />
+        <text>The previous question was ordered pursuant to the rule.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <links>
+          <link>
+            <name>H.R. 3180</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3180</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>11:53:55</actionTime>
+        <committee />
+        <text>DEBATE - The House proceeded with one hour of debate on H.R. 3180.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <links>
+          <link>
+            <name>H.R. 3180</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3180</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>11:52:35</actionTime>
+        <committee />
+        <text>Rule provides for consideration of H.R. 3180 with 1 hour of general debate. The resolution provides for a closed rule. The resolution provides for an amendment in the nature of a substitute recommended by the Permanent Select Committee on Intelligence now printed in the bill shall be considered as adopted, and the bill as amended, shall be considered as read.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <links>
+          <link>
+            <name>H. Res. 481</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/481</url>
+          </link>
+          <link>
+            <name>H6547-6557</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6547-6557</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>11:52:30</actionTime>
+        <committee />
+        <text>Considered under the provisions of rule H. Res. 481. (consideration: CR H6547-6557)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H1L220</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <links>
+          <link>
+            <name>H. Res. 481</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/481</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>10:28:31</actionTime>
+        <committee />
+        <text>Rule H. Res. 481 passed House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H1L210</actionCode>
+        <actionDate>2017-07-27</actionDate>
+        <links>
+          <link>
+            <name>H. Res. 481</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/481</url>
+          </link>
+          <link>
+            <name>H.R. 3180</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3180</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>18:41:30</actionTime>
+        <committee />
+        <text>Rules Committee Resolution H. Res. 481 Reported to House. Rule provides for consideration of H.R. 3180 with 1 hour of general debate. The resolution provides for a closed rule. The resolution provides for an amendment in the nature of a substitute recommended by the Permanent Select Committee on Intelligence now printed in the bill shall be considered as adopted, and the bill as amended, shall be considered as read.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H37300</actionCode>
+        <actionDate>2017-07-24</actionDate>
+        <links>
+          <link>
+            <name>Roll no. 407</name>
+            <url>http://clerk.house.gov/evs/2017/roll407.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>18:55:30</actionTime>
+        <committee />
+        <text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 241 - 163 (Roll no. 407).</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>9000</actionCode>
+        <actionDate>2017-07-24</actionDate>
+        <links>
+          <link>
+            <name>Roll no. 407</name>
+            <url>http://clerk.house.gov/evs/2017/roll407.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionTime>18:55:30</actionTime>
+        <committee />
+        <text>Failed of passage/not agreed to in House: On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 241 - 163 (Roll no. 407).</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <actionDate>2017-07-24</actionDate>
+        <links>
+          <link>
+            <name>H6196</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6196</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>18:32:32</actionTime>
+        <committee />
+        <text>Considered as unfinished business. (consideration: CR H6196)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H37220</actionCode>
+        <actionDate>2017-07-24</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>17:43:28</actionTime>
+        <committee />
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-07-24</actionDate>
+        <links>
+          <link>
+            <name>H.R. 3180</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3180</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>17:28:37</actionTime>
+        <committee />
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3180.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <actionDate>2017-07-24</actionDate>
+        <links>
+          <link>
+            <name>H6187-6193</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6187-6193</url>
+          </link>
+          <link>
+            <name>H6187-6195</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6187-6195</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>17:28:36</actionTime>
+        <committee />
+        <text>Considered under suspension of the rules. (consideration: CR H6187-6195; text of measure as reported: CR H6187-6193)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H30300</actionCode>
+        <actionDate>2017-07-24</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>17:28:21</actionTime>
+        <committee />
+        <text>Mr. Nunes moved to suspend the rules and pass the bill, as amended.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H12410</actionCode>
+        <actionDate>2017-07-24</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <text>Placed on the Union Calendar, Calendar No. 183.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionCode>H12200</actionCode>
+        <actionDate>2017-07-24</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 115-251</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/251</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hlig00</systemCode>
+          <name>Intelligence (Permanent) Committee</name>
+        </committee>
+        <text>Reported (Amended) by the Committee on Intelligence. H. Rept. 115-251.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>5000</actionCode>
+        <actionDate>2017-07-24</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 115-251</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/251</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hlig00</systemCode>
+          <name>Intelligence (Permanent) Committee</name>
+        </committee>
+        <text>Reported (Amended) by the Committee on Intelligence. H. Rept. 115-251.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-07-11</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hlig00</systemCode>
+          <name>Intelligence (Permanent) Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Intelligence (Permanent Select).</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-07-11</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-07-11</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <cosponsors>
+      <item>
+        <district>28</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7834</gpoId>
+          <bioguideId>S001150</bioguideId>
+          <lisID>1635</lisID>
+        </identifiers>
+        <bioguideId>S001150</bioguideId>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <state>CA</state>
+        <lastName>SCHIFF</lastName>
+        <party>D</party>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <firstName>ADAM</firstName>
+      </item>
+    </cosponsors>
+    <amendments>
+      <amendment>
+        <description />
+        <congress>115</congress>
+        <type>HAMDT</type>
+        <notes />
+        <createDate>2017-07-29T07:16:22Z</createDate>
+        <chamber>House of Representatives</chamber>
+        <type>HAMDT</type>
+        <amendedAmendment />
+        <updateDate>2017-07-31T11:41:35Z</updateDate>
+        <number>271</number>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <description />
+        <proposedDate />
+        <titles />
+        <actions>
+          <count>2</count>
+          <actionTypeCounts>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionDate>2017-07-28</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionCode>71000</actionCode>
+              <links />
+              <actionDate>2017-07-28</actionDate>
+              <type>Floor</type>
+              <committee />
+              <text>House amendment offered</text>
+            </item>
+          </actions>
+          <actionByCounts>
+            <houseOfRepresentatives>1</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <purpose>Pursuant to the provisions of H.Res. 481 the amendment in the nature of a substitute recommended by the Permanent Select Committee on Intelligence is considered as adopted.</purpose>
+        <submittedDate>2017-07-28T04:00:00Z</submittedDate>
+        <version>1.0.0</version>
+        <sponsors>
+          <item>
+            <name>Rules Committee</name>
+          </item>
+        </sponsors>
+        <congress>115</congress>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <amendedBill>
+          <originChamberCode>H</originChamberCode>
+          <congress>115</congress>
+          <type>HR</type>
+          <title>Intelligence Authorization Act for Fiscal Year 2018</title>
+          <number>3180</number>
+          <originChamber>House</originChamber>
+        </amendedBill>
+        <links />
+        <number>271</number>
+        <latestAction />
+        <purpose>Pursuant to the provisions of H.Res. 481 the amendment in the nature of a substitute recommended by the Permanent Select Committee on Intelligence is considered as adopted.</purpose>
+      </amendment>
+    </amendments>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. NUNES:H.R. 3180.Congress has the power to enact this legislation pursuantto the following:The intelligence and intelligence-related activities of theUnited States Government, including those under Title 50, arecarried out to support the national security interests of theUnited States, to enable the armed forces of the UnitedStates, and to support the President in executing the foreignpolicy of the United States.Article I, section 8 of the Constitution of the UnitedStates provides, in pertinent part, that ``Congress shallhave power . . . to . . . provide for the common Defense andgeneral Welfare of the United States''; ``. . . to raise andsupport armies . . .''; to ``make Rules concerning Captureson Land and Water''; and ``To make all laws which shall benecessary and proper for carrying into Execution theforegoing Powers and all other Powers vested in thisConstitution in the Government of the United States, or inany Department or Officer thereof.''[Page H5433]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes>
+      <recordedVote>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-07-28T16:46:13Z</date>
+        <chamber>House</chamber>
+        <rollNumber>437</rollNumber>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll437.xml</url>
+      </recordedVote>
+      <recordedVote>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-07-24T22:55:30Z</date>
+        <chamber>House</chamber>
+        <rollNumber>407</rollNumber>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll407.xml</url>
+      </recordedVote>
+    </recordedVotes>
+    <latestAction>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionDate>2017-07-28</actionDate>
+      <links />
+      <actionTime>12:46:15</actionTime>
+    </latestAction>
+    <sponsors>
+      <item>
+        <lastName>Nunes</lastName>
+        <district>22</district>
+        <bioguideId>N000181</bioguideId>
+        <firstName>Devin</firstName>
+        <party>R</party>
+        <byRequestType />
+        <state>CA</state>
+        <fullName>Rep. Nunes, Devin [R-CA-22]</fullName>
+        <identifiers>
+          <lisID>1710</lisID>
+          <bioguideId>N000181</bioguideId>
+          <gpoId>7826</gpoId>
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-07-19T15:25:20Z</pubDate>
+        <title>H.R. 3180, Intelligence Authorization Act for Fiscal Year 2018</title>
+        <url>https://www.cbo.gov/publication/52938</url>
+      </item>
+    </cboCostEstimates>
+    <title>Intelligence Authorization Act for Fiscal Year 2018</title>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <introducedDate>2017-07-11</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

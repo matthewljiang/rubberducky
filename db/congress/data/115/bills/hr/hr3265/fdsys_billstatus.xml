@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <committeeReports />
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RUTHERFORD:H.R. 3265.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution.[Page H5920]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kuster</lastName>
+        <middleName>M.</middleName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>Ann</firstName>
+        <state>NH</state>
+        <district>2</district>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000382</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cook</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001094</bioguideId>
+          <lisID>2103</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <firstName>Paul</firstName>
+        <state>CA</state>
+        <district>8</district>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001094</bioguideId>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <text>Referred to the House Committee on the Judiciary.</text>
+      <actionDate>2017-07-17</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <originChamber>House</originChamber>
+    <actions>
+      <item>
+        <actionDate>2017-07-17</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-07-17</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-07-17</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <district>4</district>
+        <firstName>John</firstName>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <state>FL</state>
+        <middleName>H.</middleName>
+        <bioguideId>R000609</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000609</bioguideId>
+          <lisID>2316</lisID>
+        </identifiers>
+        <party>R</party>
+        <byRequestType />
+        <lastName>Rutherford</lastName>
+      </item>
+    </sponsors>
+    <billNumber>3265</billNumber>
+    <createDate>2017-07-18T03:11:32Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-29T12:50:56Z</lastSummaryUpdateDate>
+          <updateDate>2017-07-17T04:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>E-2 Visa Improvement Act of 2017</strong></p> <p>This bill amends the Immigration and Nationality Act to permit a nonimmigrant E-2 alien (treaty investor) who has been in the United States in such status for at least 10 years and has created full-time employment for at least 2 individuals to apply for immediate employment-based immigrant status.</p> <p>Up to 10,000 such visas may be made available each fiscal year.</p> <p> Sons and daughters of E-2 aliens (or aliens seeking such status) can remain on their parent's visa as a child until age 26. Employment authorization may be granted at age 18.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2017-07-17</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-17T16:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <title>E-2 Visa Improvement Act of 2017</title>
+    <introducedDate>2017-07-17</introducedDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>E-2 Visa Improvement Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the Immigration and Nationality Act to permit certain E-2 nonimmigrant investors to adjust status to lawful permanent resident status.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>E-2 Visa Improvement Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>E–2 Visa Improvement Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <updateDate>2017-07-29T13:00:13Z</updateDate>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

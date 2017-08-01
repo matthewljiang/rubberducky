@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-254</citation>
+      </committeeReport>
+    </committeeReports>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BRADY of Texas:H.R. 3178.Congress has the power to enact this legislation pursuantto the following:The constitutional authority on which this bill rests isthe power of Congress to make rules for the government andregulation of the land and naval forces, as enumerated inArticle I, Section 8, Clause 1 of the United StatesConstitution.[Page H5433]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-29T10:26:13Z</updateDate>
+    <relatedBills>
+      <item>
+        <number>3171</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-07-14</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <latestTitle>To amend title XVIII of the Social Security Act to provide that certain orthotist's and prosthetist's clinical notes under Medicare be treated as part of the patient's medical record.</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>3172</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-07-10</actionDate>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <latestTitle>Medicare IVIG Demonstration Extension Act of 2017</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>3163</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-07-06</actionDate>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <latestTitle>Medicare Part B Home Infusion Services Temporary Transitional Payment Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>3164</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-07-06</actionDate>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <latestTitle>To amend title XVIII of the Social Security Act to expand access to home dialysis therapy.</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>3166</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-07-06</actionDate>
+          <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <latestTitle>To amend title XVIII of the Social Security Act to provide under the Medicare program for independent accreditation for dialysis facilities and assurance of high quality surveys with respect to such facilities.</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2017-07-26</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>TX</state>
+        <middleName />
+        <firstName>KEVIN</firstName>
+        <lastName>BRADY</lastName>
+        <fullName>Rep. Brady, Kevin [R-TX-8]</fullName>
+        <identifiers>
+          <bioguideId>B000755</bioguideId>
+          <lisID>1468</lisID>
+          <gpoId>8164</gpoId>
+        </identifiers>
+        <byRequestType />
+        <district>8</district>
+        <bioguideId>B000755</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>Medicare Part B Improvement Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Medicare Part B Improvement Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XVIII of the Social Security Act to improve the delivery of home infusion therapy and dialysis and the application of the Stark rule under the Medicare program, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Medicare Part B Improvement Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Medicare Part B Improvement Act of 2017</title>
+      </item>
+    </titles>
+    <introducedDate>2017-07-11</introducedDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <title>Medicare Part B Improvement Act of 2017</title>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>14:14:10</actionTime>
+        <committee />
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-25</actionDate>
+      </item>
+      <item>
+        <actionTime>14:14:08</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>H6233-6235</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6233-6235</url>
+          </link>
+        </links>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6233-6235)</text>
+        <actionCode>H37300</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-25</actionDate>
+      </item>
+      <item>
+        <actionTime>14:14:08</actionTime>
+        <committee />
+        <links />
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-25</actionDate>
+      </item>
+      <item>
+        <actionTime>13:42:14</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>H.R. 3178</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3178</url>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3178.</text>
+        <actionCode>H8D000</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-25</actionDate>
+      </item>
+      <item>
+        <actionTime>13:42:12</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>H6233-6239</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6233-6239</url>
+          </link>
+        </links>
+        <text>Considered under suspension of the rules. (consideration: CR H6233-6239)</text>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-25</actionDate>
+      </item>
+      <item>
+        <actionTime>13:41:54</actionTime>
+        <committee />
+        <links />
+        <text>Mr. Brady (TX) moved to suspend the rules and pass the bill, as amended.</text>
+        <actionCode>H30300</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-25</actionDate>
+      </item>
+      <item>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-254</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/254</url>
+          </link>
+        </links>
+        <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-254, Part I.</text>
+        <actionCode>H12200</actionCode>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-25</actionDate>
+      </item>
+      <item>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-254</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/254</url>
+          </link>
+        </links>
+        <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-254, Part I.</text>
+        <actionCode>5000</actionCode>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-25</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-07-14</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-11</actionDate>
+      </item>
+      <item>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-11</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-11</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-11</actionDate>
+      </item>
+      <actionTypeCounts>
+        <generalDebate>1</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <considerationByHouse>1</considerationByHouse>
+        <billReferrals>2</billReferrals>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <placeholderTextForH>1</placeholderTextForH>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+      </actionTypeCounts>
+    </actions>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000015</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7967</gpoId>
+          <bioguideId>N000015</bioguideId>
+          <lisID>854</lisID>
+        </identifiers>
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+        <party>D</party>
+        <firstName>RICHARD</firstName>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <lastName>NEAL</lastName>
+        <middleName>E.</middleName>
+        <state>MA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000791</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8115</gpoId>
+          <lisID>1596</lisID>
+          <bioguideId>W000791</bioguideId>
+        </identifiers>
+        <fullName>Rep. Walden, Greg [R-OR-2]</fullName>
+        <party>R</party>
+        <firstName>GREG</firstName>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <lastName>WALDEN</lastName>
+        <middleName />
+        <state>OR</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000034</bioguideId>
+        <district>6</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8048</gpoId>
+          <bioguideId>P000034</bioguideId>
+          <lisID>887</lisID>
+        </identifiers>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <party>D</party>
+        <firstName>FRANK</firstName>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <lastName>PALLONE</lastName>
+        <middleName />
+        <state>NJ</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000462</bioguideId>
+        <district>12</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000462</bioguideId>
+          <lisID>1664</lisID>
+          <gpoId>8102</gpoId>
+        </identifiers>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <party>R</party>
+        <firstName>PATRICK</firstName>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <lastName>TIBERI</lastName>
+        <middleName>J.</middleName>
+        <state>OH</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000263</bioguideId>
+        <district>9</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>683</lisID>
+          <gpoId>7997</gpoId>
+          <bioguideId>L000263</bioguideId>
+        </identifiers>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+        <party>D</party>
+        <firstName>SANDER</firstName>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <lastName>LEVIN</lastName>
+        <middleName>M.</middleName>
+        <state>MI</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001248</bioguideId>
+        <district>26</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8182</gpoId>
+          <lisID>1751</lisID>
+          <bioguideId>B001248</bioguideId>
+        </identifiers>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <party>R</party>
+        <firstName>Michael</firstName>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <lastName>Burgess</lastName>
+        <middleName>C.</middleName>
+        <state>TX</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000410</bioguideId>
+        <district>29</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>462</lisID>
+          <gpoId>8185</gpoId>
+          <bioguideId>G000410</bioguideId>
+        </identifiers>
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <party>D</party>
+        <firstName>GENE</firstName>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <lastName>GREEN</lastName>
+        <middleName />
+        <state>TX</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001045</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1933</lisID>
+          <gpoId>8021</gpoId>
+          <bioguideId>H001045</bioguideId>
+        </identifiers>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <party>R</party>
+        <firstName>Gregg</firstName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <lastName>Harper</lastName>
+        <middleName />
+        <state>MS</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000522</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8046</gpoId>
+          <bioguideId>S000522</bioguideId>
+          <lisID>1071</lisID>
+        </identifiers>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <party>R</party>
+        <firstName>CHRISTOPHER</firstName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <lastName>SMITH</lastName>
+        <middleName>H.</middleName>
+        <state>NJ</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000250</bioguideId>
+        <district>32</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S000250</bioguideId>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+        </identifiers>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <party>R</party>
+        <firstName>PETE</firstName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <lastName>SESSIONS</lastName>
+        <middleName />
+        <state>TX</state>
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-07-24T22:33:29Z</pubDate>
+        <title>H.R. 3178, Medicare Part B Improvement Act of 2017</title>
+        <url>https://www.cbo.gov/publication/52969</url>
+      </item>
+    </cboCostEstimates>
+    <createDate>2017-07-12T03:11:37Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-07-26T14:28:07Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-25T14:09:29Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-07-11T16:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-11T16:01:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-07-14T16:10:37Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>3178</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

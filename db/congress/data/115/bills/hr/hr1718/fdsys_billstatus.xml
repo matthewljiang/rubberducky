@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <title>ObamaCare Repeal Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>ObamaCare Repeal Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To repeal the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>ObamaCare Repeal Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <recordedVotes />
+    <amendments />
+    <committeeReports />
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BROOKS of Alabama:H.R. 1718.Congress has the power to enact this legislation pursuantto the following:Article 1 of the United States Constitution.[Page H2444]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2017-07-25T07:17:10Z</updateDate>
+    <introducedDate>2017-03-24</introducedDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <title>ObamaCare Repeal Act</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Comprehensive health care</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>ObamaCare Repeal Act</b></p> <p>This bill repeals the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010, effective as of December 31, 2017. Provisions of law amended by those Acts are restored. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-03-24</actionDate>
+          <updateDate>2017-03-24T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-04-13T18:39:08Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>8</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-03-31</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-30</actionDate>
+        <committee>
+          <systemCode>hsii24</systemCode>
+          <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Appropriations</text>
+        <committee>
+          <systemCode>hsap00</systemCode>
+          <name>Appropriations Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-03-24</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Rules</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-03-24</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Administration</text>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-03-24</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Judiciary</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-03-24</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Natural Resources</text>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-03-24</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Education and the Workforce</text>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-03-24</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Ways and Means</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-03-24</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Energy and Commerce</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-03-24</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and the Workforce, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-24</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-24</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-24</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-24T13:00:17Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-31T13:14:17Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-24T13:00:32Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+              <systemCode>hsii24</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-30T20:25:39Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>Appropriations Committee</name>
+          <systemCode>hsap00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-24T13:00:52Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-24T13:00:47Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-24T13:00:42Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-24T13:00:37Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-24T13:00:27Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-24T13:00:22Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-03-31</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <createDate>2017-03-25T04:50:08Z</createDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>Y000065</bioguideId>
+          <lisID>2115</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <middleName>S.</middleName>
+        <district>3</district>
+        <firstName>Ted</firstName>
+        <bioguideId>Y000065</bioguideId>
+        <lastName>Yoho</lastName>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8143</gpoId>
+          <bioguideId>D000615</bioguideId>
+          <lisID>2057</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <district>3</district>
+        <firstName>Jeff</firstName>
+        <bioguideId>D000615</bioguideId>
+        <lastName>Duncan</lastName>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <state>SC</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000578</bioguideId>
+          <lisID>2314</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <district>1</district>
+        <firstName>Matt</firstName>
+        <bioguideId>G000578</bioguideId>
+        <lastName>Gaetz</lastName>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2236</lisID>
+          <gpoId />
+          <bioguideId>C001103</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName>L. "Buddy"</middleName>
+        <district>1</district>
+        <firstName>Earl</firstName>
+        <bioguideId>C001103</bioguideId>
+        <lastName>Carter</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <state>GA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000806</bioguideId>
+          <lisID>2002</lisID>
+          <gpoId>7880</gpoId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <district>11</district>
+        <firstName>Daniel</firstName>
+        <bioguideId>W000806</bioguideId>
+        <lastName>Webster</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Webster, Daniel [R-FL-11]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <billNumber>1718</billNumber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <firstName>Mo</firstName>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <identifiers>
+          <gpoId>7790</gpoId>
+          <bioguideId>B001274</bioguideId>
+          <lisID>1987</lisID>
+        </identifiers>
+        <bioguideId>B001274</bioguideId>
+        <district>5</district>
+        <middleName />
+        <lastName>Brooks</lastName>
+        <state>AL</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <laws />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>277</number>
+        <latestTitle>American Health Care Reform Act of 2017</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+          <actionDate>2017-02-10</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <congress>115</congress>
+        <number>175</number>
+        <latestTitle>ObamaCare Repeal Act</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+          <actionDate>2017-02-10</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <congress>115</congress>
+        <number>106</number>
+        <latestTitle>ObamaCare Repeal Act</latestTitle>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2017-01-12</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

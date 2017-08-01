@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To require the use of replacement cost value in determining the premium rates for flood insurance coverage under the National Flood Insurance Act, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To require the use of replacement cost value in determining the premium rates for flood insurance coverage under the National Flood Insurance Act, and for other purposes.</title>
+      </item>
+    </titles>
+    <notes />
+    <recordedVotes />
+    <amendments />
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-221</citation>
+      </committeeReport>
+    </committeeReports>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LUETKEMEYER:H.R. 2565.Congress has the power to enact this legislation pursuantto the following:Additionally, Article 1, Section 7, Clause 2 of theConstitution allows for every bill passed by the House ofRepresentatives and the Senate and signed by the President tobe codified into law; and therefore implicitly allowsCongress to repeal any bill that has been passed by bothchambers and signed into law by the President.[Page H4390]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2017-07-27T13:11:11Z</updateDate>
+    <introducedDate>2017-05-19</introducedDate>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <title>To require the use of replacement cost value in determining the premium rates for flood insurance coverage under the National Flood Insurance Act, and for other purposes.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <actionStageOverride>1</actionStageOverride>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <billReferrals>1</billReferrals>
+        <committeeReportOfABill>1</committeeReportOfABill>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-14</actionDate>
+        <actionCode>H12410</actionCode>
+        <text>Placed on the Union Calendar, Calendar No. 156.</text>
+        <type>Calendars</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <actionDate>2017-07-14</actionDate>
+        <actionCode>H12200</actionCode>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 115-221.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-221</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/221</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <actionDate>2017-07-14</actionDate>
+        <actionCode>5000</actionCode>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 115-221.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-221</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/221</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-06-21</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 34 - 25.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-21</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <actionDate>2017-05-19</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-05-19</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-05-19</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-07-14T16:27:06Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-06-21T19:34:08Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-19T13:02:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers>
+      <item>
+        <calendar>U00156</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-07-14</actionDate>
+      <links />
+      <text>Placed on the Union Calendar, Calendar No. 156.</text>
+    </latestAction>
+    <createDate>2017-05-20T03:11:40Z</createDate>
+    <cosponsors />
+    <billNumber>2565</billNumber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <firstName>Blaine</firstName>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <identifiers>
+          <lisID>1931</lisID>
+          <gpoId>8017</gpoId>
+          <bioguideId>L000569</bioguideId>
+        </identifiers>
+        <bioguideId>L000569</bioguideId>
+        <district>3</district>
+        <middleName />
+        <lastName>Luetkemeyer</lastName>
+        <state>MO</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 2565, a bill to require the use of replacement cost value in determining the premium rates for flood insurance coverage under the National Flood Insurance Act, and for other purposes</title>
+        <url>https://www.cbo.gov/publication/52925</url>
+        <pubDate>2017-07-17T12:51:35Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

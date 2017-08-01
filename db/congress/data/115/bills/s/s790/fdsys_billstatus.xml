@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>sshr00</systemCode>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-03-30T20:14:58Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2017-03-30</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+    </latestAction>
+    <relatedBills />
+    <congress>115</congress>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-03-30</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-03-30</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2017-03-31T05:07:22Z</createDate>
+    <title>Innovation for Tomorrow's Workforce Act</title>
+    <cboCostEstimates />
+    <amendments />
+    <titles>
+      <item>
+        <chamberName />
+        <title>Innovation for Tomorrow's Workforce Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Innovation for Tomorrow's Workforce Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>A bill to amend the Carl D. Perkins Career and Technical Education Act of 2006 to encourage innovation, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Innovation for Tomorrow's Workforce Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <introducedDate>2017-03-30</introducedDate>
+    <billNumber>790</billNumber>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <state>CO</state>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Michael</firstName>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <lastName>Bennet</lastName>
+        <bioguideId>B001267</bioguideId>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+    <notes />
+    <laws />
+    <sponsors>
+      <item>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <bioguideId>H000338</bioguideId>
+        <lastName>HATCH</lastName>
+        <middleName>GRANT</middleName>
+        <byRequestType />
+        <firstName>ORRIN</firstName>
+        <state>UT</state>
+        <identifiers>
+          <bioguideId>H000338</bioguideId>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <committeeReports />
+    <updateDate>2017-06-19T21:45:21Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

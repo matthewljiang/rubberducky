@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <notes />
+    <recordedVotes />
+    <cboCostEstimates />
+    <actions>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2017-07-27T07:31:51Z</updateDate>
+    <createDate>2017-07-27T03:11:34Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <relatedBills />
+    <policyArea />
+    <constitutionalAuthorityStatementText />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+        <identifiers>
+          <gpoId>7997</gpoId>
+          <bioguideId>L000263</bioguideId>
+          <lisID>683</lisID>
+        </identifiers>
+        <district>9</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000263</bioguideId>
+        <lastName>LEVIN</lastName>
+        <firstName>SANDER</firstName>
+        <party>D</party>
+        <state>MI</state>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <identifiers>
+          <lisID>303</lisID>
+          <gpoId>8181</gpoId>
+          <bioguideId>D000399</bioguideId>
+        </identifiers>
+        <district>35</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000399</bioguideId>
+        <lastName>DOGGETT</lastName>
+        <firstName>LLOYD</firstName>
+        <party>D</party>
+        <state>TX</state>
+        <middleName />
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To prohibit the award of Federal Government contracts to inverted domestic corporations, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To prohibit the award of Federal Government contracts to inverted domestic corporations, and for other purposes.</title>
+      </item>
+    </titles>
+    <laws />
+    <latestAction>
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2017-07-26</actionDate>
+      <links />
+    </latestAction>
+    <billType>HR</billType>
+    <introducedDate>2017-07-26</introducedDate>
+    <title>To prohibit the award of Federal Government contracts to inverted domestic corporations, and for other purposes.</title>
+    <sponsors>
+      <item>
+        <lastName>DELAURO</lastName>
+        <party>D</party>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <bioguideId>D000216</bioguideId>
+        <firstName>ROSA</firstName>
+        <identifiers>
+          <lisID>281</lisID>
+          <gpoId>7868</gpoId>
+          <bioguideId>D000216</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>CT</state>
+        <district>3</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billNumber>3424</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-26T14:03:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-26T14:03:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

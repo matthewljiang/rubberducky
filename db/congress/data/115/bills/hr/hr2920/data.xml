@@ -1,0 +1,66 @@
+<bill session="115" type="h" number="2920" updated="2017-07-20T07:13:02Z">
+  <state datetime="2017-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-15"/>
+  </status>
+  <introduced datetime="2017-06-15"/>
+  <titles>
+    <title type="short" as="introduced">CARERS Act of 2017</title>
+    <title type="short" as="introduced">CARERS Act of 2017</title>
+    <title type="short" as="introduced">Compassionate Access, Research Expansion, and Respect States Act of 2017</title>
+    <title type="short" as="introduced">Compassionate Access, Research Expansion, and Respect States Act of 2017</title>
+    <title type="official" as="introduced">To extend the principle of federalism to State drug policy, provide access to medical marijuana, and enable research into the medicinal properties of marijuana.</title>
+    <title type="display">CARERS Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C001068"/>
+  <cosponsors>
+    <cosponsor bioguide_id="Y000033" joined="2017-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-15">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E834"/>
+    </action>
+    <action datetime="2017-06-15" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2017-06-16">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="1820"/>
+    <bill type="s" session="115" relation="identical" number="1374"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

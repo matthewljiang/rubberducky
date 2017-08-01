@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes>
+      <recordedVote>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll324.xml</url>
+        <rollNumber>324</rollNumber>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <date>2017-06-26T23:14:21Z</date>
+      </recordedVote>
+    </recordedVotes>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <identifiers>
+          <gpoId>7880</gpoId>
+          <bioguideId>W000806</bioguideId>
+          <lisID>2002</lisID>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Daniel</firstName>
+        <middleName />
+        <fullName>Rep. Webster, Daniel [R-FL-11]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Webster</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <bioguideId>W000806</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001094</bioguideId>
+          <lisID>2103</lisID>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Paul</firstName>
+        <middleName />
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cook</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <bioguideId>C001094</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000603</bioguideId>
+          <gpoId />
+          <lisID>2256</lisID>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <middleName />
+        <fullName>Rep. Rouzer, David [R-NC-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Rouzer</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <bioguideId>R000603</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <identifiers>
+          <gpoId>8055</gpoId>
+          <lisID>1818</lisID>
+          <bioguideId>S001165</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Albio</firstName>
+        <middleName />
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Sires</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <bioguideId>S001165</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <identifiers>
+          <gpoId>7901</gpoId>
+          <lisID>1843</lisID>
+          <bioguideId>J000288</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Henry</firstName>
+        <middleName>C. "Hank"</middleName>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Johnson</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <bioguideId>J000288</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001068</bioguideId>
+          <lisID>2101</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jared</firstName>
+        <middleName />
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Huffman</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>H001068</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001285</bioguideId>
+          <lisID>2106</lisID>
+        </identifiers>
+        <district>26</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Julia</firstName>
+        <middleName />
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Brownley</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>B001285</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <district>32</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>GRACE</firstName>
+        <middleName>F.</middleName>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>NAPOLITANO</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>N000179</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <identifiers>
+          <lisID>2127</lisID>
+          <gpoId />
+          <bioguideId>B001286</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Cheri</firstName>
+        <middleName />
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Bustos</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <bioguideId>B001286</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <identifiers>
+          <lisID>1781</lisID>
+          <gpoId>7923</gpoId>
+          <bioguideId>L000563</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Daniel</firstName>
+        <middleName>William</middleName>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Lipinski</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <bioguideId>L000563</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>Y000033</bioguideId>
+          <lisID>1256</lisID>
+          <gpoId>7785</gpoId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>DON</firstName>
+        <middleName>E.</middleName>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>YOUNG</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <bioguideId>Y000033</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000387</bioguideId>
+          <lisID>2228</lisID>
+        </identifiers>
+        <district>25</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Stephen</firstName>
+        <middleName />
+        <fullName>Rep. Knight, Stephen [R-CA-25]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Knight</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <bioguideId>K000387</bioguideId>
+      </item>
+    </cosponsors>
+    <billNumber>2258</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Active Duty Voluntary Acquisition of Necessary Credentials for Employment Act or the ADVANCE Act</b></p> <p>This bill applies commercial driver's license standards for former members of the Armed Forces or reserves to current members of the Armed Forces or reserves.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2017-05-01T04:00:00Z</updateDate>
+          <actionDate>2017-05-01</actionDate>
+          <lastSummaryUpdateDate>2017-07-27T15:31:54Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-189</citation>
+      </committeeReport>
+    </committeeReports>
+    <introducedDate>2017-05-01</introducedDate>
+    <updateDate>2017-07-27T15:45:11Z</updateDate>
+    <actions>
+      <item>
+        <actionDate>2017-06-27</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-06-26</actionDate>
+        <type>Floor</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+        <actionTime>19:14:22</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <actionDate>2017-06-26</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H5146</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5146</url>
+          </link>
+          <link>
+            <name>Roll no. 324</name>
+            <url>http://clerk.house.gov/evs/2017/roll324.xml</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H37300</actionCode>
+        <actionTime>19:14:21</actionTime>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 324). (text: CR H5146)</text>
+      </item>
+      <item>
+        <actionDate>2017-06-26</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>Roll no. 324</name>
+            <url>http://clerk.house.gov/evs/2017/roll324.xml</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+        <actionTime>19:14:21</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 324).</text>
+      </item>
+      <item>
+        <actionDate>2017-06-26</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H5166-5167</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5166-5167</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <actionTime>19:08:14</actionTime>
+        <text>Considered as unfinished business. (consideration: CR H5166-5167)</text>
+      </item>
+      <item>
+        <actionDate>2017-06-26</actionDate>
+        <type>Floor</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H37220</actionCode>
+        <actionTime>17:32:21</actionTime>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+      </item>
+      <item>
+        <actionDate>2017-06-26</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 2258</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2258</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H8D000</actionCode>
+        <actionTime>17:21:47</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2258.</text>
+      </item>
+      <item>
+        <actionDate>2017-06-26</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H5146-5147</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5146-5147</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <actionTime>17:21:45</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H5146-5147)</text>
+      </item>
+      <item>
+        <actionDate>2017-06-26</actionDate>
+        <type>Floor</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30300</actionCode>
+        <actionTime>17:21:34</actionTime>
+        <text>Mr. Graves (MO) moved to suspend the rules and pass the bill, as amended.</text>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <actionCode>H12410</actionCode>
+        <links />
+        <committee />
+        <type>Calendars</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Placed on the Union Calendar, Calendar No. 128.</text>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <actionCode>H12200</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-189</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/189</url>
+          </link>
+        </links>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-189.</text>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <actionCode>5000</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-189</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/189</url>
+          </link>
+        </links>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-189.</text>
+      </item>
+      <item>
+        <actionDate>2017-05-24</actionDate>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <committee>
+          <name>Highways and Transit Subcommittee</name>
+          <systemCode>hspw12</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-01</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+      </item>
+      <item>
+        <actionDate>2017-05-01</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-05-01</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <considerationByHouse>2</considerationByHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <generalDebate>1</generalDebate>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <actionStageOverride>1</actionStageOverride>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>16</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>A000371</bioguideId>
+        <middleName />
+        <lastName>Aguilar</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000371</bioguideId>
+          <lisID>2229</lisID>
+        </identifiers>
+        <party>D</party>
+        <state>CA</state>
+        <district>31</district>
+        <firstName>Pete</firstName>
+        <fullName>Rep. Aguilar, Pete [D-CA-31]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-06-15T13:05:24Z</pubDate>
+        <url>https://www.cbo.gov/publication/52821</url>
+        <title>H.R. 2258, ADVANCE Act</title>
+      </item>
+    </cboCostEstimates>
+    <titles>
+      <item>
+        <title>ADVANCE Act</title>
+        <titleType>Other Short Titles</titleType>
+        <chamberCode />
+        <parentTitleType>Short Title</parentTitleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Active Duty Voluntary Acquisition of Necessary Credentials for Employment Act</title>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>ADVANCE Act</title>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>ADVANCE Act</title>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Active Duty Voluntary Acquisition of Necessary Credentials for Employment Act</title>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>ADVANCE Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Active Duty Voluntary Acquisition of Necessary Credentials for Employment Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To require that certain standards for commercial driver's licenses applicable to former members of the armed services or reserves also apply to current members of the armed services or reserves.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>ADVANCE Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>ADVANCE Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Active Duty Voluntary Acquisition of Necessary Credentials for Employment Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>ADVANCE Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Active Duty Voluntary Acquisition of Necessary Credentials for Employment Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>ADVANCE Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Active Duty Voluntary Acquisition of Necessary Credentials for Employment Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00128</calendar>
+      </item>
+    </calendarNumbers>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Department of Transportation</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Motor carriers</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-05-02T03:11:48Z</createDate>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>sscm00</systemCode>
+          <chamber>Senate</chamber>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-27T18:54:55Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Highways and Transit Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-02T16:44:24Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw12</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <name>Transportation and Infrastructure Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-06-23T16:00:21Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-05-24T15:35:14Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-01T16:00:39Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2017-06-27</actionDate>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <amendments />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <number>1393</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-06-29</actionDate>
+          <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+        </latestAction>
+        <latestTitle>Jobs for Our Heroes Act</latestTitle>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>1396</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-06-21</actionDate>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <latestTitle>ADVANCE Act</latestTitle>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <title>ADVANCE Act</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. AGUILAR:H.R. 2258.Congress has the power to enact this legislation pursuantto the following:Article 1, section 8, clause 18 of the United StatesConstitution.[Page H3003]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <lisID>2276</lisID>
+          <gpoId />
+          <bioguideId>G000576</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Glenn</firstName>
+        <middleName />
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Grothman</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <bioguideId>G000576</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <identifiers>
+          <lisID>1835</lisID>
+          <gpoId>7865</gpoId>
+          <bioguideId>P000593</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ed</firstName>
+        <middleName />
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Perlmutter</lastName>
+        <party>D</party>
+        <state>CO</state>
+        <bioguideId>P000593</bioguideId>
+      </item>
+    </cosponsors>
+    <billNumber>491</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-07-28</introducedDate>
+    <updateDate>2017-07-29T07:32:58Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>D000614</bioguideId>
+        <middleName>P.</middleName>
+        <lastName>Duffy</lastName>
+        <identifiers>
+          <lisID>2072</lisID>
+          <gpoId>8220</gpoId>
+          <bioguideId>D000614</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <state>WI</state>
+        <district>7</district>
+        <firstName>Sean</firstName>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A resolution affirming and recognizing the Khmer, Laotian, Hmong, and the other ethnic groups commonly referred to as Montagnards of Cambodia and Laos who supported and defended of the United States Armed Forces and freedom in Southeast Asia.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A resolution affirming and recognizing the Khmer, Laotian, Hmong, and the other ethnic groups commonly referred to as Montagnards of Cambodia and Laos who supported and defended of the United States Armed Forces and freedom in Southeast Asia.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2017-07-29T03:11:32Z</createDate>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-28T13:02:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2017-07-28</actionDate>
+      <links />
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <billType>HRES</billType>
+    <amendments />
+    <policyArea />
+    <relatedBills />
+    <title>A resolution affirming and recognizing the Khmer, Laotian, Hmong, and the other ethnic groups commonly referred to as Montagnards of Cambodia and Laos who supported and defended of the United States Armed Forces and freedom in Southeast Asia.</title>
+    <constitutionalAuthorityStatementText />
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

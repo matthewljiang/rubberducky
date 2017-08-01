@@ -1,0 +1,51 @@
+<bill session="115" type="s" number="690" updated="2017-07-21T05:26:56Z">
+  <state datetime="2017-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-21"/>
+  </status>
+  <introduced datetime="2017-03-21"/>
+  <titles>
+    <title type="short" as="introduced">HUBZone Investment Protection Act</title>
+    <title type="short" as="introduced">HUBZone Investment Protection Act</title>
+    <title type="official" as="introduced">A bill to extend the eligibility of redesignated areas as HUBZones from 3 years to 7 years.</title>
+    <title type="display">HUBZone Investment Protection Act</title>
+  </titles>
+  <sponsor bioguide_id="C000141"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000944" joined="2017-07-12"/>
+    <cosponsor bioguide_id="H001042" joined="2017-03-21"/>
+    <cosponsor bioguide_id="K000383" joined="2017-07-12"/>
+    <cosponsor bioguide_id="P000595" joined="2017-07-20"/>
+    <cosponsor bioguide_id="R000584" joined="2017-03-21"/>
+    <cosponsor bioguide_id="S001181" joined="2017-03-21"/>
+    <cosponsor bioguide_id="V000128" joined="2017-03-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-21">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-03-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2013"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Census and government statistics"/>
+    <term name="Economic development"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-03-21T04:00:00Z" status="Introduced in Senate">HUBZone Investment Protection Act
+
+This bill amends the Small Business Act with respect to Historically Underutilized Business Zones (HUBZones) located in qualified census tracts, qualified nonmetropolitan counties, or redesignated areas, which are census tracts or nonmetropolitan counties that cease to meet the ordinary criteria for the HUBZone program but are "redesignated" to qualify for it.
+
+The bill increases the length of time a census tract or nonmetropolitan county may be redesignated to qualify for HUBZone status from three years to seven years after the date on which the area ceased to meet the ordinary criteria.</summary>
+  <committee-reports/>
+</bill>

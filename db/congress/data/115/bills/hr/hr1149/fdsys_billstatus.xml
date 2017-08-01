@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Nuclear Family Priority Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Nuclear Family Priority Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Immigration and Nationality Act to make changes related to family-sponsored immigrants and to reduce the number of such immigrants, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Nuclear Family Priority Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <bioguideId>S000583</bioguideId>
+        <district>21</district>
+        <party>R</party>
+        <firstName>LAMAR</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8177</gpoId>
+          <lisID>1075</lisID>
+          <bioguideId>S000583</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <lastName>SMITH</lastName>
+        <state>TX</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <bioguideId>F000460</bioguideId>
+        <district>27</district>
+        <party>R</party>
+        <firstName>Blake</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8183</gpoId>
+          <lisID>2067</lisID>
+          <bioguideId>F000460</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <lastName>Farenthold</lastName>
+        <state>TX</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>L. "Buddy"</middleName>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <bioguideId>C001103</bioguideId>
+        <district>1</district>
+        <party>R</party>
+        <firstName>Earl</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001103</bioguideId>
+          <lisID>2236</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <lastName>Carter</lastName>
+        <state>GA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <bioguideId>J000255</bioguideId>
+        <district>3</district>
+        <party>R</party>
+        <firstName>WALTER</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <gpoId>8026</gpoId>
+          <lisID>612</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <lastName>JONES</lastName>
+        <state>NC</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <bioguideId>R000582</bioguideId>
+        <district>1</district>
+        <party>R</party>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000582</bioguideId>
+          <gpoId>8148</gpoId>
+          <lisID>1954</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <lastName>Roe</lastName>
+        <state>TN</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Brat, Dave [R-VA-7]</fullName>
+        <bioguideId>B001290</bioguideId>
+        <district>7</district>
+        <party>R</party>
+        <firstName>Dave</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001290</bioguideId>
+          <gpoId />
+          <lisID>2203</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <lastName>Brat</lastName>
+        <state>VA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Marchant, Kenny [R-TX-24]</fullName>
+        <bioguideId>M001158</bioguideId>
+        <district>24</district>
+        <party>R</party>
+        <firstName>Kenny</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001158</bioguideId>
+          <lisID>1806</lisID>
+          <gpoId>8766</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <lastName>Marchant</lastName>
+        <state>TX</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Graves, Sam [R-MO-6]</fullName>
+        <bioguideId>G000546</bioguideId>
+        <district>6</district>
+        <party>R</party>
+        <firstName>SAM</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000546</bioguideId>
+          <lisID>1656</lisID>
+          <gpoId>8014</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <lastName>GRAVES</lastName>
+        <state>MO</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Hensarling, Jeb [R-TX-5]</fullName>
+        <bioguideId>H001036</bioguideId>
+        <district>5</district>
+        <party>R</party>
+        <firstName>Jeb</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8161</gpoId>
+          <lisID>1749</lisID>
+          <bioguideId>H001036</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <lastName>Hensarling</lastName>
+        <state>TX</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Graves, Tom [R-GA-14]</fullName>
+        <bioguideId>G000560</bioguideId>
+        <district>14</district>
+        <party>R</party>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000560</bioguideId>
+          <gpoId>7906</gpoId>
+          <lisID>1979</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-03-22</sponsorshipDate>
+        <lastName>Graves</lastName>
+        <state>GA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <bioguideId>K000362</bioguideId>
+        <district>4</district>
+        <party>R</party>
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000362</bioguideId>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <lastName>King</lastName>
+        <state>IA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <bioguideId>O000168</bioguideId>
+        <district>22</district>
+        <party>R</party>
+        <firstName>Pete</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>O000168</bioguideId>
+          <gpoId>8178</gpoId>
+          <lisID>1955</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <lastName>Olson</lastName>
+        <state>TX</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <bioguideId>D000533</bioguideId>
+        <district>2</district>
+        <party>R</party>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000533</bioguideId>
+          <lisID>322</lisID>
+          <gpoId>8149</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <lastName>DUNCAN</lastName>
+        <state>TN</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>Drew</middleName>
+        <fullName>Rep. Ferguson, A. Drew, IV [R-GA-3]</fullName>
+        <bioguideId>F000465</bioguideId>
+        <district>3</district>
+        <party>R</party>
+        <firstName>A.</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>F000465</bioguideId>
+          <gpoId />
+          <lisID>2324</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <lastName>Ferguson</lastName>
+        <state>GA</state>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <actionDate>2017-03-06</actionDate>
+    </latestAction>
+    <billNumber>1149</billNumber>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <calendarNumbers />
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><strong>Nuclear Family Priority Act </strong></p> <p>This bill amends the Immigration and Nationality Act to eliminate parents from the definition of &quot;immediate relatives&quot; with respect to those aliens not subject to worldwide immigration levels or numerical limitations. </p> <p>Existing family-sponsored immigrant categories are replaced with a single preference allocation for spouses and children of permanent resident aliens.</p> <p>This bill: (1) reduces the number of, and revises the calculation for, fiscal year family-sponsored immigrant entrants; and (2) establishes a nonimmigrant visa category for an alien who is a parent of a U.S. citizen at least 21 years old.</p>]]></text>
+          <actionDate>2017-02-16</actionDate>
+          <updateDate>2017-02-16T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-04T15:45:56Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JODY B. HICE of Georgia:H.R. 1149.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 4, which states that Congresshas the power ``to establish a uniform Rule of Naturalizationand uniform Laws on the subject of Bankruptcies throughoutthe United States.''Article I, Section 8, Clause 18, which states that Congresshas the power to ``make all Laws which shall be necessary andproper for carrying into Execution the foregoing Powers, andall other Powers vested by this Constitution in theGovernment of the United States or in any Department orOfficer thereof . . .''[Page H1304]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>H001071</bioguideId>
+          <gpoId />
+          <lisID>2237</lisID>
+        </identifiers>
+        <middleName>B.</middleName>
+        <district>10</district>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <byRequestType />
+        <party>R</party>
+        <bioguideId>H001071</bioguideId>
+        <firstName>Jody</firstName>
+        <state>GA</state>
+        <lastName>Hice</lastName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Family relationships</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Border Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-03-06T21:11:35Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2017-02-16T15:11:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-02-17T04:46:13Z</createDate>
+    <laws />
+    <originChamber>House</originChamber>
+    <title>Nuclear Family Priority Act</title>
+    <relatedBills />
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-03-06</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-02-16</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-02-16</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-02-16</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2017-06-29T07:15:51Z</updateDate>
+    <introducedDate>2017-02-16</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

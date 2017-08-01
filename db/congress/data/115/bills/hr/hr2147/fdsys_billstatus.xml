@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <bioguideId>G000582</bioguideId>
+        <party>R</party>
+        <district>0</district>
+        <middleName />
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <state>PR</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2347</lisID>
+          <gpoId />
+          <bioguideId>G000582</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <firstName>Jenniffer</firstName>
+        <lastName>Gonzalez-Colon</lastName>
+      </item>
+      <item>
+        <bioguideId>P000597</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <state>ME</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+          <bioguideId>P000597</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <firstName>Chellie</firstName>
+        <lastName>Pingree</lastName>
+      </item>
+      <item>
+        <bioguideId>T000472</bioguideId>
+        <party>D</party>
+        <district>41</district>
+        <middleName />
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000472</bioguideId>
+          <lisID>2110</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <lastName>Takano</lastName>
+      </item>
+      <item>
+        <bioguideId>R000609</bioguideId>
+        <party>R</party>
+        <district>4</district>
+        <middleName>H.</middleName>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2316</lisID>
+          <bioguideId>R000609</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <firstName>John</firstName>
+        <lastName>Rutherford</lastName>
+      </item>
+      <item>
+        <bioguideId>P000608</bioguideId>
+        <party>D</party>
+        <district>52</district>
+        <middleName>H.</middleName>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2113</lisID>
+          <gpoId />
+          <bioguideId>P000608</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <firstName>Scott</firstName>
+        <lastName>Peters</lastName>
+      </item>
+      <item>
+        <bioguideId>O000170</bioguideId>
+        <party>D</party>
+        <district>16</district>
+        <middleName />
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>O000170</bioguideId>
+          <lisID>2162</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <firstName>Beto</firstName>
+        <lastName>O'Rourke</lastName>
+      </item>
+      <item>
+        <bioguideId>B001299</bioguideId>
+        <party>R</party>
+        <district>3</district>
+        <middleName />
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <state>IN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001299</bioguideId>
+          <lisID>2326</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-02</sponsorshipDate>
+        <firstName>Jim</firstName>
+        <lastName>Banks</lastName>
+      </item>
+      <item>
+        <bioguideId>C001105</bioguideId>
+        <party>R</party>
+        <district>10</district>
+        <middleName />
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <state>VA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001105</bioguideId>
+          <lisID>2273</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <firstName>Barbara</firstName>
+        <lastName>Comstock</lastName>
+      </item>
+      <item>
+        <bioguideId>K000382</bioguideId>
+        <party>D</party>
+        <district>2</district>
+        <middleName>M.</middleName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <state>NH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <firstName>Ann</firstName>
+        <lastName>Kuster</lastName>
+      </item>
+      <item>
+        <bioguideId>P000611</bioguideId>
+        <party>R</party>
+        <district>2</district>
+        <middleName />
+        <fullName>Rep. Poliquin, Bruce [R-ME-2]</fullName>
+        <state>ME</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000611</bioguideId>
+          <lisID>2247</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-16</sponsorshipDate>
+        <firstName>Bruce</firstName>
+        <lastName>Poliquin</lastName>
+      </item>
+      <item>
+        <bioguideId>W000813</bioguideId>
+        <party>R</party>
+        <district>2</district>
+        <middleName />
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <state>IN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2128</lisID>
+          <gpoId />
+          <bioguideId>W000813</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <firstName>Jackie</firstName>
+        <lastName>Walorski</lastName>
+      </item>
+      <item>
+        <bioguideId>S001170</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <state>NH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+          <lisID>1861</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <firstName>Carol</firstName>
+        <lastName>Shea-Porter</lastName>
+      </item>
+      <item>
+        <bioguideId>M001202</bioguideId>
+        <party>D</party>
+        <district>7</district>
+        <middleName>N.</middleName>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001202</bioguideId>
+          <gpoId />
+          <lisID>2318</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>Stephanie</firstName>
+        <lastName>Murphy</lastName>
+      </item>
+      <item>
+        <bioguideId>T000470</bioguideId>
+        <party>R</party>
+        <district>3</district>
+        <middleName>R.</middleName>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <state>CO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7861</gpoId>
+          <bioguideId>T000470</bioguideId>
+          <lisID>1997</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>Scott</firstName>
+        <lastName>Tipton</lastName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <title>Veterans Treatment Court Improvement Act of 2017</title>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <title>Veterans Treatment Court Improvement Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Veterans Treatment Court Improvement Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To require the Secretary of Veterans Affairs to hire additional Veterans Justice Outreach Specialists to provide treatment court services to justice-involved veterans, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Veterans Treatment Court Improvement Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>2147</billNumber>
+    <recordedVotes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Committee on Veterans' Affairs. Hearings held.</text>
+          <actionDate>2017-07-11</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>S</type>
+        <number>946</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Veterans Treatment Court Improvement Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COFFMAN:H.R. 2147.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the Constitution of the UnitedStates.[Page H2897]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>C001077</bioguideId>
+        <firstName>Mike</firstName>
+        <district>6</district>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <identifiers>
+          <bioguideId>C001077</bioguideId>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+        </identifiers>
+        <lastName>Coffman</lastName>
+        <middleName />
+        <party>R</party>
+        <byRequestType />
+        <state>CO</state>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <introducedDate>2017-04-26</introducedDate>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <links />
+      <actionDate>2017-04-26</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-26T14:00:54Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsvr03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-26T13:35:21Z</date>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+              <systemCode>hsvr09</systemCode>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2017-04-26T13:35:03Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-26T09:00:45Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-07-28T07:16:22Z</updateDate>
+    <createDate>2017-04-27T03:11:48Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>3</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <links />
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <actionDate>2017-04-26</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-04-26</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsvr03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-26</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee on Disability Assistance and Memorial Affairs Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-26</actionDate>
+        <committee>
+          <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+          <systemCode>hsvr09</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-04-26</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-04-26</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,28 @@
+<bill session="115" type="h" number="3371" updated="2017-07-25T07:18:34Z">
+  <state datetime="2017-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-24"/>
+  </status>
+  <introduced datetime="2017-07-24"/>
+  <titles>
+    <title type="official" as="introduced">To provide for the conveyance of an obsolete Over-the-Horizon Backscatter Radar System receiving station in Modoc County, California, to promote economic development of the site.</title>
+    <title type="display">To provide for the conveyance of an obsolete Over-the-Horizon Backscatter Radar System receiving station in Modoc County, California, to promote economic development of the site.</title>
+  </titles>
+  <sponsor bioguide_id="L000578"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-07-24">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-24" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

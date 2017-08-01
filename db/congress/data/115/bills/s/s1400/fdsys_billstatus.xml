@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Safeguard Tribal Objects of Patrimony Act of 2017</title>
+    <notes />
+    <committeeReports />
+    <relatedBills />
+    <introducedDate>2017-06-21</introducedDate>
+    <billNumber>1400</billNumber>
+    <congress>115</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <updateDate>2017-07-11T04:33:32Z</updateDate>
+    <billType>S</billType>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+      <actionDate>2017-06-21</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2017-06-22T08:44:35Z</createDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <lastName>Heinrich</lastName>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <state>NM</state>
+        <identifiers>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <firstName>Martin</firstName>
+        <middleName />
+        <bioguideId>H001046</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Safeguard Tribal Objects of Patrimony Act of 2017</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to amend title 18, United States Code, to enhance protections of Native American tangible cultural heritage, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Safeguard Tribal Objects of Patrimony Act of 2017</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Safeguard Tribal Objects of Patrimony Act of 2017</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-21T22:27:49Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <type>Other</type>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <party>R</party>
+        <firstName>JEFF</firstName>
+        <lastName>FLAKE</lastName>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>F000444</bioguideId>
+        <identifiers>
+          <lisID>1633</lisID>
+          <bioguideId>F000444</bioguideId>
+          <gpoId>7803</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <party>D</party>
+        <firstName>TOM</firstName>
+        <lastName>UDALL</lastName>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <state>NM</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>U000039</bioguideId>
+        <identifiers>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <party>R</party>
+        <firstName>JOHN</firstName>
+        <lastName>MCCAIN</lastName>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>SIDNEY</middleName>
+        <bioguideId>M000303</bioguideId>
+        <identifiers>
+          <lisID>754</lisID>
+          <bioguideId>M000303</bioguideId>
+          <gpoId>8253</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <party>D</party>
+        <firstName>Brian</firstName>
+        <lastName>Schatz</lastName>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <state>HI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>S001194</bioguideId>
+        <identifiers>
+          <lisID>2173</lisID>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <party>R</party>
+        <firstName>Steve</firstName>
+        <lastName>Daines</lastName>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <state>MT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>D000618</bioguideId>
+        <identifiers>
+          <lisID>2138</lisID>
+          <bioguideId>D000618</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <party>D</party>
+        <firstName>Jon</firstName>
+        <lastName>Tester</lastName>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <state>MT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>T000464</bioguideId>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <party>R</party>
+        <firstName>Lisa</firstName>
+        <lastName>Murkowski</lastName>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <state>AK</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>M001153</bioguideId>
+        <identifiers>
+          <gpoId>8234</gpoId>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <actions>
+      <item>
+        <actionDate>2017-06-21</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <actionDate>2017-06-21</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

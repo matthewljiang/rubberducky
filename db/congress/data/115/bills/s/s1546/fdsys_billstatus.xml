@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-29T04:34:14Z</updateDate>
+    <relatedBills />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2017-07-12</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>VA</state>
+        <middleName>R.</middleName>
+        <firstName>Mark</firstName>
+        <lastName>Warner</lastName>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8269</gpoId>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+        </identifiers>
+        <bioguideId>W000805</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Commonsense Competition and Access to Health Insurance Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>A bill to amend the Patient Protection and Affordable Care Act to provide greater flexibility in offering health insurance coverage across State lines.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Commonsense Competition and Access to Health Insurance Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Commonsense Competition and Access to Health Insurance Act</title>
+      </item>
+    </titles>
+    <introducedDate>2017-07-12</introducedDate>
+    <policyArea />
+    <title>Commonsense Competition and Access to Health Insurance Act</title>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <bioguideId>M001183</bioguideId>
+        <middleName />
+        <lastName>Manchin</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+          <lisID>1983</lisID>
+          <gpoId>8256</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <firstName>Joe</firstName>
+        <state>WV</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001069</bioguideId>
+        <middleName />
+        <lastName>Heitkamp</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2174</lisID>
+          <gpoId />
+          <bioguideId>H001069</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <firstName>Heidi</firstName>
+        <state>ND</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000383</bioguideId>
+        <middleName />
+        <lastName>King</lastName>
+        <party>I</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <firstName>Angus</firstName>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000607</bioguideId>
+        <middleName />
+        <lastName>Donnelly</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1850</lisID>
+          <gpoId>7941</gpoId>
+          <bioguideId>D000607</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <firstName>Joe</firstName>
+        <state>IN</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <createDate>2017-07-13T00:41:36Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>sshr00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-12T21:35:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>1546</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

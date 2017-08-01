@@ -1,0 +1,52 @@
+<bill session="115" type="s" number="1141" updated="2017-07-20T18:46:06Z">
+  <state datetime="2017-05-25">REPORTED</state>
+  <status>
+    <unknown datetime="2017-05-25"/>
+  </status>
+  <introduced datetime="2017-05-16"/>
+  <titles>
+    <title type="short" as="introduced">Women, Peace, and Security Act of 2017</title>
+    <title type="short" as="introduced">Women, Peace, and Security Act of 2017</title>
+    <title type="short" as="reported to senate">Women, Peace, and Security Act of 2017</title>
+    <title type="short" as="reported to senate">Women, Peace, and Security Act of 2017</title>
+    <title type="official" as="introduced">A bill to ensure that the United States promotes the meaningful participation of women in mediation and negotiation processes seeking to prevent, mitigate, or resolve violent conflict.</title>
+    <title type="display">Women, Peace, and Security Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="S001181"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001047" joined="2017-05-16"/>
+    <cosponsor bioguide_id="C000141" joined="2017-06-06"/>
+    <cosponsor bioguide_id="C001088" joined="2017-05-24"/>
+    <cosponsor bioguide_id="R000595" joined="2017-05-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-16">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="2017-05-25" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2017-06-08">
+      <text>Committee on Foreign Relations. Reported by Senator Corker without amendment. With written report No. 115-93.</text>
+    </action>
+    <calendar datetime="2017-06-08" calendar="Senate Legislative" under="General Orders" number="123">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 123.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2484"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>S. Rept. 115-93</report>
+  </committee-reports>
+</bill>

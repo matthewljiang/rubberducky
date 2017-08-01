@@ -1,0 +1,44 @@
+<bill session="115" type="s" number="1207" updated="2017-07-20T16:56:28Z">
+  <state datetime="2017-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-23"/>
+  </status>
+  <introduced datetime="2017-05-23"/>
+  <titles>
+    <title type="short" as="introduced">Farmers Undertake Environmental Land Stewardship Act</title>
+    <title type="short" as="introduced">Farmers Undertake Environmental Land Stewardship Act</title>
+    <title type="short" as="introduced">FUELS Act</title>
+    <title type="official" as="introduced">A bill to amend the Water Resources Reform and Development Act of 2014 with respect to the application of the Spill Prevention, Control, and Countermeasure rule to certain farms, and for other purposes.</title>
+    <title type="display">FUELS Act</title>
+  </titles>
+  <sponsor bioguide_id="F000463"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001236" joined="2017-05-23"/>
+    <cosponsor bioguide_id="E000295" joined="2017-05-23"/>
+    <cosponsor bioguide_id="H001061" joined="2017-05-23"/>
+    <cosponsor bioguide_id="M000934" joined="2017-05-23"/>
+    <cosponsor bioguide_id="R000584" joined="2017-05-23"/>
+    <cosponsor bioguide_id="R000307" joined="2017-05-23"/>
+    <cosponsor bioguide_id="S001197" joined="2017-05-23"/>
+    <cosponsor bioguide_id="W000437" joined="2017-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-23">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="1737"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

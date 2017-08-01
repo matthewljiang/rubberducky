@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <billNumber>776</billNumber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Marijuana Revenue and Regulation Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Marijuana Revenue and Regulation Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to provide for the taxation and regulation of marijuana products, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Marijuana Revenue and Regulation Act</title>
+      </item>
+    </titles>
+    <amendments />
+    <cosponsors />
+    <originChamber>Senate</originChamber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <calendarNumbers />
+    <notes />
+    <billType>S</billType>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+          <lisID>1247</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <byRequestType />
+        <party>D</party>
+        <bioguideId>W000779</bioguideId>
+        <firstName>RON</firstName>
+        <state>OR</state>
+        <lastName>WYDEN</lastName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2017-03-30</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-03-30T15:53:59Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-03-31T05:07:21Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Marijuana Revenue and Regulation Act </b></p> <p>This bill removes marijuana from the list of controlled substances and establishes requirements for the taxation and regulation of marijuana products. </p> <p>The bill amends the Internal Revenue Code to impose: (1) an excise tax on any marijuana product produced in or imported into the United States, and (2) an occupational tax on marijuana production facilities and export warehouses. </p> <p>The term "marijuana product" does not include: (1) any article containing marijuana which has been approved by the Food and Drug Administration for sale for therapeutic purposes and is marketed and sold solely for such purpose, or (2) industrial hemp</p> <p>The excise tax includes exemptions for: (1) products that are used for research or by government entities for nonconsumption purposes; and (2) the transfer of products between production, import, and export facilities. A credit or refund of the tax must be issued for products that are withdrawn from the market, lost, or destroyed.</p> <p>The Department of Justice must remove marijuana from all schedules of controlled substances under the Controlled Substances Act (CSA). The bill amends the CSA to require penalties for shipping or transporting marijuana into any state or jurisdiction where it is illegal. </p> <p>The bill requires producers, importers, and exporters of marijuana products to: </p> <ul> <li> obtain a permit and a bond covering tax liability from the Department of the Treasury prior to beginning operations; </li> <li> meet recordkeeping requirements; and </li> <li>comply with certain policies and restrictions regarding packaging, labeling, and advertising.</li> </ul> <p>The bill also:</p> <ul> <li>establishes penalties for violations of marijuana laws; </li> <li>prohibits the sale of more than one ounce of marijuana in any single retail transaction; and </li> <li>provides specified authorities to the Food and Drug Administration and the Bureau of Alcohol, Tobacco, Firearms, and Explosives with respect to marijuana. </li> </ul>]]></text>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-03-30T04:00:00Z</updateDate>
+          <actionDate>2017-03-30</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-06-26T18:35:58Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <title>Marijuana Revenue and Regulation Act</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-03-30</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <actionDate>2017-03-30</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>1823</number>
+        <latestTitle>Marijuana Revenue and Regulation Act</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2017-03-30</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>1841</number>
+        <latestTitle>Regulate Marijuana Like Alcohol Act</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+          <actionDate>2017-04-24</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <recordedVotes />
+    <updateDate>2017-06-27T04:32:54Z</updateDate>
+    <introducedDate>2017-03-30</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,69 @@
+<bill session="115" type="s" number="957" updated="2017-06-19T22:00:19Z">
+  <state datetime="2017-04-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-27"/>
+  </status>
+  <introduced datetime="2017-04-27"/>
+  <titles>
+    <title type="short" as="introduced">Access to Contraception for Women Servicemembers and Dependents Act of 2017</title>
+    <title type="short" as="introduced">Access to Contraception for Women Servicemembers and Dependents Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to ensure that women members of the Armed Forces and their families have access to the contraception they need in order to promote the health and readiness of all members of the Armed Forces, and for other purposes.</title>
+    <title type="display">Access to Contraception for Women Servicemembers and Dependents Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="S001181"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001230" joined="2017-04-27"/>
+    <cosponsor bioguide_id="B001267" joined="2017-04-27"/>
+    <cosponsor bioguide_id="B001277" joined="2017-04-27"/>
+    <cosponsor bioguide_id="B001288" joined="2017-04-27"/>
+    <cosponsor bioguide_id="B000944" joined="2017-04-27"/>
+    <cosponsor bioguide_id="C000127" joined="2017-04-27"/>
+    <cosponsor bioguide_id="C000141" joined="2017-04-27"/>
+    <cosponsor bioguide_id="C000174" joined="2017-05-03"/>
+    <cosponsor bioguide_id="C001088" joined="2017-04-27"/>
+    <cosponsor bioguide_id="C001113" joined="2017-04-27"/>
+    <cosponsor bioguide_id="D000563" joined="2017-04-27"/>
+    <cosponsor bioguide_id="F000062" joined="2017-04-27"/>
+    <cosponsor bioguide_id="F000457" joined="2017-04-27"/>
+    <cosponsor bioguide_id="G000555" joined="2017-04-27"/>
+    <cosponsor bioguide_id="H001075" joined="2017-04-27"/>
+    <cosponsor bioguide_id="H001076" joined="2017-04-27"/>
+    <cosponsor bioguide_id="H001046" joined="2017-04-27"/>
+    <cosponsor bioguide_id="H001042" joined="2017-04-27"/>
+    <cosponsor bioguide_id="K000384" joined="2017-04-27"/>
+    <cosponsor bioguide_id="K000367" joined="2017-04-27"/>
+    <cosponsor bioguide_id="M000133" joined="2017-04-27"/>
+    <cosponsor bioguide_id="M000639" joined="2017-04-27"/>
+    <cosponsor bioguide_id="M001176" joined="2017-04-27"/>
+    <cosponsor bioguide_id="M001169" joined="2017-04-27"/>
+    <cosponsor bioguide_id="M001111" joined="2017-04-27"/>
+    <cosponsor bioguide_id="P000595" joined="2017-04-27"/>
+    <cosponsor bioguide_id="R000122" joined="2017-04-27"/>
+    <cosponsor bioguide_id="S000033" joined="2017-04-27"/>
+    <cosponsor bioguide_id="S000770" joined="2017-04-27"/>
+    <cosponsor bioguide_id="T000464" joined="2017-04-27"/>
+    <cosponsor bioguide_id="V000128" joined="2017-04-27"/>
+    <cosponsor bioguide_id="W000817" joined="2017-04-27"/>
+    <cosponsor bioguide_id="W000802" joined="2017-04-27"/>
+    <cosponsor bioguide_id="W000779" joined="2017-04-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-27">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-04-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2180"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

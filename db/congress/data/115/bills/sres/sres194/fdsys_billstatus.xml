@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <laws />
+    <committeeReports />
+    <sponsors>
+      <item>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <middleName />
+        <bioguideId>B001277</bioguideId>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <byRequestType />
+        <lastName>Blumenthal</lastName>
+        <firstName>Richard</firstName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Families</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A resolution designating June 15, 2017, as "World Elder Abuse Awareness Day".</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>A resolution designating June 15, 2017, as "World Elder Abuse Awareness Day".</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-15T21:32:40Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <middleName>MARGARET</middleName>
+        <bioguideId>C001035</bioguideId>
+        <party>R</party>
+        <state>ME</state>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <lastName>COLLINS</lastName>
+        <firstName>SUSAN</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <middleName />
+        <bioguideId>M001169</bioguideId>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+          <lisID>1837</lisID>
+          <gpoId>7870</gpoId>
+        </identifiers>
+        <lastName>Murphy</lastName>
+        <firstName>Christopher</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <middleName>ERNEST</middleName>
+        <bioguideId>G000386</bioguideId>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <lisID>457</lisID>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <lastName>GRASSLEY</lastName>
+        <firstName>CHARLES</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <middleName />
+        <bioguideId>C001070</bioguideId>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <lisID>1828</lisID>
+          <gpoId>8282</gpoId>
+        </identifiers>
+        <lastName>Casey</lastName>
+        <firstName>Bob</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <middleName />
+        <bioguideId>C001095</bioguideId>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Cotton</lastName>
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <middleName>Roland</middleName>
+        <bioguideId>T000476</bioguideId>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Tillis</lastName>
+        <firstName>Thomas</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <middleName />
+        <bioguideId>M001170</bioguideId>
+        <party>D</party>
+        <state>MO</state>
+        <identifiers>
+          <lisID>1820</lisID>
+          <gpoId>8252</gpoId>
+          <bioguideId>M001170</bioguideId>
+        </identifiers>
+        <lastName>McCaskill</lastName>
+        <firstName>Claire</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <middleName />
+        <bioguideId>F000463</bioguideId>
+        <party>R</party>
+        <state>NE</state>
+        <identifiers>
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Fischer</lastName>
+        <firstName>Deb</firstName>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Families</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2017-06-15</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S3557-3558</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S3557-3558</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (text: CR S3557-3558)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-06-15</actionDate>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <billNumber>194</billNumber>
+    <latestAction>
+      <text>Referred to the Committee on the Judiciary. (text: CR S3557-3558)</text>
+      <links />
+      <actionDate>2017-06-15</actionDate>
+    </latestAction>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-06-16T00:41:34Z</createDate>
+    <introducedDate>2017-06-15</introducedDate>
+    <title>A resolution designating June 15, 2017, as "World Elder Abuse Awareness Day".</title>
+    <version>1.0.0</version>
+    <updateDate>2017-07-20T17:26:13Z</updateDate>
+    <congress>115</congress>
+    <recordedVotes />
+    <billType>SRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

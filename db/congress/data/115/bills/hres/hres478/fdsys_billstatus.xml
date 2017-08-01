@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors />
+    <cboCostEstimates />
+    <title>Providing for further consideration of the bill (H.R. 3219) making appropriations for the Department of Defense for the fiscal year ending September 30, 2018, and for other purposes, and providing for consideration of motions to suspend the rules.</title>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>H00069</calendar>
+      </item>
+    </calendarNumbers>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Providing for further consideration of the bill (H.R. 3219) making appropriations for the Department of Defense for the fiscal year ending September 30, 2018, and for other purposes, and providing for consideration of motions to suspend the rules.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Providing for further consideration of the bill (H.R. 3219) making appropriations for the Department of Defense for the fiscal year ending September 30, 2018, and for other purposes, and providing for consideration of motions to suspend the rules.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-28T19:14:00Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Sets forth the rule for consideration of H.R. 3219 (Department of Defense Appropriations Act, 2018).</p>]]></text>
+          <actionDate>2017-07-26</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-07-26T04:00:00Z</updateDate>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-07-28T19:14:11Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Sets forth the rule for consideration of H.R. 3219 (Department of Defense Appropriations Act, 2018).</p>]]></text>
+          <actionDate>2017-07-26</actionDate>
+          <versionCode>79</versionCode>
+          <name>Reported to House without amendment</name>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <updateDate>2017-07-26T15:47:47Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>478</billNumber>
+    <recordedVotes>
+      <recordedVote>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <url>http://clerk.house.gov/evs/2017/roll427.xml</url>
+        <congress>115</congress>
+        <rollNumber>427</rollNumber>
+        <date>2017-07-27T18:16:05Z</date>
+      </recordedVote>
+      <recordedVote>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <url>http://clerk.house.gov/evs/2017/roll426.xml</url>
+        <congress>115</congress>
+        <rollNumber>426</rollNumber>
+        <date>2017-07-27T18:09:13Z</date>
+      </recordedVote>
+    </recordedVotes>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionTime>17:20:26</actionTime>
+          <actionDate>2017-07-27</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Department of Defense Appropriations Act, 2018</latestTitle>
+        <number>3219</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-261</citation>
+      </committeeReport>
+    </committeeReports>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <billType>HRES</billType>
+    <originChamber>House</originChamber>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>N000189</bioguideId>
+        <firstName>Dan</firstName>
+        <district>4</district>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2275</lisID>
+          <bioguideId>N000189</bioguideId>
+        </identifiers>
+        <lastName>Newhouse</lastName>
+        <middleName />
+        <party>R</party>
+        <byRequestType />
+        <state>WA</state>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <introducedDate>2017-07-26</introducedDate>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <latestAction>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+      <actionDate>2017-07-27</actionDate>
+      <actionTime>14:16:07</actionTime>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-27T01:09:32Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-07-28T19:15:18Z</updateDate>
+    <createDate>2017-07-27T03:11:31Z</createDate>
+    <actions>
+      <item>
+        <actionCode>H38310</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-27</actionDate>
+        <actionTime>14:16:07</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H37100</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-27</actionDate>
+        <actionTime>14:16:05</actionTime>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 230 - 196 (Roll no. 427). (text: CR H6481)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H6481</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6481</url>
+          </link>
+          <link>
+            <name>Roll no. 427</name>
+            <url>http://clerk.house.gov/evs/2017/roll427.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-27</actionDate>
+        <actionTime>14:16:05</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 230 - 196 (Roll no. 427).</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>Roll no. 427</name>
+            <url>http://clerk.house.gov/evs/2017/roll427.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>H35000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-27</actionDate>
+        <actionTime>14:09:13</actionTime>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 233 - 185 (Roll no. 426). (consideration: CR H6490)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H6490</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6490</url>
+          </link>
+          <link>
+            <name>Roll no. 426</name>
+            <url>http://clerk.house.gov/evs/2017/roll426.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-27</actionDate>
+        <actionTime>13:42:00</actionTime>
+        <text>DEBATE - The House resumed debate on H. Res. 478.</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H. Res. 478</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/478</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-27</actionDate>
+        <actionTime>12:38:28</actionTime>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 478.</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H. Res. 478</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/478</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-27</actionDate>
+        <actionTime>12:35:01</actionTime>
+        <text>Considered as privileged matter. (consideration: CR H6480-6491)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H6480-6491</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6480-6491</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>H12420</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-26</actionDate>
+        <text>Placed on the House Calendar, Calendar No. 69.</text>
+        <type>Calendars</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H12700</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-26</actionDate>
+        <actionTime>21:09:33</actionTime>
+        <text>The resolution provides for further consideration of H.R. 3219, under a structured rule. The resolution makes in order only those further amendments printed in Part B of the report. Also the resolution provides that it shall be in order at any time on the legislative day of July 27, 2017, or July 28, 2017, for the Speaker to entertain motions to suspend the rules.</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 3219</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3219</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>H12100</actionCode>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-26</actionDate>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-261, by Mr. Newhouse.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-261</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/261</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>5000</actionCode>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-26</actionDate>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-261, by Mr. Newhouse.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-261</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/261</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-26</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <considerationByHouse>1</considerationByHouse>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <provisionsOfARule>1</provisionsOfARule>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <reportedToHouse>1</reportedToHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <generalDebate>2</generalDebate>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

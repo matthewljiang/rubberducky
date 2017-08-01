@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <laws />
+    <committeeReports />
+    <billType>S</billType>
+    <introducedDate>2017-05-25</introducedDate>
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>M001176</bioguideId>
+        <lastName>Merkley</lastName>
+        <firstName>Jeff</firstName>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <state>OR</state>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-25</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-25</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>1285</billNumber>
+    <congress>115</congress>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <updateDate>2017-07-20T16:56:28Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Oregon Tribal Economic Development Act</b></p> <p>This bill allows the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians, the Confederated Tribes of the Grand Ronde Community of Oregon, the Confederated Tribes of Siletz Indians of Oregon, the Confederated Tribes of Warm Springs, and the Cow Creek Band of Umpqua Tribe of Indians to lease, sell, convey, warrant, or transfer their real property that is not held in trust by the United States. </p>]]></text>
+          <lastSummaryUpdateDate>2017-07-07T12:43:38Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-05-25</actionDate>
+          <updateDate>2017-05-25T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills />
+    <title>Oregon Tribal Economic Development Act</title>
+    <amendments />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Oregon Tribal Economic Development Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Oregon Tribal Economic Development Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to allow the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians, the Confederated Tribes of the Grand Ronde Community of Oregon, the Confederated Tribes of Siletz Indians of Oregon, the Confederated Tribes of Warm Springs, and the Cow Creek Band of Umpqua Tribe of Indians to lease or transfer certain lands.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Oregon Tribal Economic Development Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>slia00</systemCode>
+          <subcommittees />
+          <type>Other</type>
+          <name>Indian Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2017-07-12T18:30:02Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2017-05-25T21:12:32Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>RON</firstName>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <state>OR</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+          <lisID>1247</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>WYDEN</lastName>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <createDate>2017-05-26T00:41:40Z</createDate>
+    <latestAction>
+      <links />
+      <text>Committee on Indian Affairs. Hearings held.</text>
+      <actionDate>2017-07-12</actionDate>
+    </latestAction>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,40 @@
+<bill session="115" type="h" number="3271" updated="2017-07-29T07:17:51Z">
+  <state datetime="2017-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-17"/>
+  </status>
+  <introduced datetime="2017-07-17"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Access to Diabetes Supplies Act of 2017</title>
+    <title type="short" as="introduced">Protecting Access to Diabetes Supplies Act of 2017</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act in order to strengthen rules in case of competition for diabetic testing strips, and for other purposes.</title>
+    <title type="display">Protecting Access to Diabetes Supplies Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="D000197"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001257" joined="2017-07-28"/>
+    <cosponsor bioguide_id="B001284" joined="2017-07-17"/>
+    <cosponsor bioguide_id="D000619" joined="2017-07-28"/>
+    <cosponsor bioguide_id="G000558" joined="2017-07-27"/>
+    <cosponsor bioguide_id="R000585" joined="2017-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-17">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-17" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-17">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

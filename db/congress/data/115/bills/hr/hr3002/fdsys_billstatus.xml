@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Small Business.</text>
+          <actionDate>2017-07-10</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Small Business Development Center Cyber Training Act of 2017</latestTitle>
+        <number>3170</number>
+        <type>HR</type>
+      </item>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+          <actionDate>2017-06-26</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Small Business Cyber Training Act of 2017</latestTitle>
+        <number>1428</number>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Small Business.</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-06-22</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hssm00</systemCode>
+          <name>Small Business Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-06-22</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-06-22</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+    </actions>
+    <amendments />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Small Business Cyber Training Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Small Business Cyber Training Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To amend the Small Business Act to require cyber certification for small business development center counselors, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Small Business Cyber Training Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <laws />
+    <notes />
+    <updateDate>2017-07-19T20:15:14Z</updateDate>
+    <committeeReports />
+    <introducedDate>2017-06-22</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CHABOT:H.R. 3002.Congress has the power to enact this legislation pursuantto the following:Article 1 Section 8 of the Constitution[Page H5110]</pre>]]></constitutionalAuthorityStatementText>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hssm00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-22T14:02:10Z</date>
+            </item>
+          </activities>
+          <name>Small Business Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <billNumber>3002</billNumber>
+    <title>Small Business Cyber Training Act of 2017</title>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <byRequestType />
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <district>1</district>
+        <state>OH</state>
+        <middleName />
+        <firstName>STEVE</firstName>
+        <identifiers>
+          <gpoId>8091</gpoId>
+          <lisID>186</lisID>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <lastName>CHABOT</lastName>
+        <bioguideId>C000266</bioguideId>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <text>Referred to the House Committee on Small Business.</text>
+      <links />
+      <actionDate>2017-06-22</actionDate>
+    </latestAction>
+    <createDate>2017-06-23T03:11:37Z</createDate>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

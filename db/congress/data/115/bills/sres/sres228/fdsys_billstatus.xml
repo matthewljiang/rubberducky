@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>A resolution calling for a credible, peaceful, free, and fair presidential election in Kenya in August 2017.</title>
+    <sponsors>
+      <item>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>CARDIN</lastName>
+        <firstName>BENJAMIN</firstName>
+        <bioguideId>C000141</bioguideId>
+        <state>MD</state>
+        <middleName>L.</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <titles>
+      <item>
+        <title>A resolution calling for a credible, peaceful, free, and fair presidential election in Kenya in August 2017.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>A resolution calling for a credible, peaceful, free, and fair presidential election in Kenya in August 2017.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <updateDate>2017-07-27T04:49:38Z</updateDate>
+    <cboCostEstimates />
+    <latestAction>
+      <links />
+      <actionDate>2017-07-20</actionDate>
+      <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4119)</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-07-20T20:56:46Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <introducedDate>2017-07-20</introducedDate>
+    <calendarNumbers />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <createDate>2017-07-21T00:56:43Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>228</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S4119</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4119</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4119)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <laws />
+    <billType>SRES</billType>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001088</bioguideId>
+        <middleName>A.</middleName>
+        <state>DE</state>
+        <firstName>Christopher</firstName>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <lastName>Coons</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001288</bioguideId>
+        <middleName>A.</middleName>
+        <state>NJ</state>
+        <firstName>Cory</firstName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <lastName>Booker</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001176</bioguideId>
+        <middleName />
+        <state>OR</state>
+        <firstName>Jeff</firstName>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <lastName>Merkley</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

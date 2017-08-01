@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <notes />
+    <recordedVotes />
+    <cboCostEstimates />
+    <actions>
+      <item>
+        <actionDate>2017-04-27</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-04-27</actionDate>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-04-27</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-04-27</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2017-07-28T07:16:23Z</updateDate>
+    <createDate>2017-04-28T03:11:52Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-04-27</actionDate>
+          <lastSummaryUpdateDate>2017-07-27T15:23:41Z</lastSummaryUpdateDate>
+          <updateDate>2017-04-27T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>Veterans Crisis Line Improvement Act</strong></p> <p>This bill directs the Department of Veterans Affairs (VA) to ensure that the first message a person hears upon calling the main telephone number of any VA medical facility allows the caller to choose to be quickly redirected to the Veterans Crisis Line without ending the call.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <relatedBills />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CASTRO of Texas:H.R. 2198.Congress has the power to enact this legislation pursuantto the following:The Congress shall have power . . . To make all laws whichshall be necessary and proper for carrying into execution theforegoing powers, and all other powers vested by thisConstitution in the government of the United States, or inany department or officer thereof.[Page H2942]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <party>D</party>
+        <lastName>Takano</lastName>
+        <firstName>Mark</firstName>
+        <bioguideId>T000472</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000472</bioguideId>
+          <lisID>2110</lisID>
+        </identifiers>
+        <district>41</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <middleName />
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <party>R</party>
+        <lastName>Grothman</lastName>
+        <firstName>Glenn</firstName>
+        <bioguideId>G000576</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <middleName />
+        <sponsorshipDate>2017-05-30</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <party>D</party>
+        <lastName>Bordallo</lastName>
+        <firstName>Madeleine</firstName>
+        <bioguideId>B001245</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1723</lisID>
+          <gpoId>7911</gpoId>
+          <bioguideId>B001245</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <state>GU</state>
+        <middleName>Z.</middleName>
+        <sponsorshipDate>2017-05-30</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <party>D</party>
+        <lastName>BISHOP</lastName>
+        <firstName>SANFORD</firstName>
+        <bioguideId>B000490</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7899</gpoId>
+          <bioguideId>B000490</bioguideId>
+          <lisID>91</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2017-05-30</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Hunter, Duncan D. [R-CA-50]</fullName>
+        <party>R</party>
+        <lastName>Hunter</lastName>
+        <firstName>Duncan</firstName>
+        <bioguideId>H001048</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7857</gpoId>
+          <lisID>1909</lisID>
+          <bioguideId>H001048</bioguideId>
+        </identifiers>
+        <district>50</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <party>D</party>
+        <lastName>GUTIERREZ</lastName>
+        <firstName>LUIS</firstName>
+        <bioguideId>G000535</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7924</gpoId>
+          <bioguideId>G000535</bioguideId>
+          <lisID>478</lisID>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <middleName>V.</middleName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <party>D</party>
+        <lastName>Shea-Porter</lastName>
+        <firstName>Carol</firstName>
+        <bioguideId>S001170</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+          <lisID>1861</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <middleName />
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <party>D</party>
+        <lastName>Khanna</lastName>
+        <firstName>Ro</firstName>
+        <bioguideId>K000389</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+          <lisID>2308</lisID>
+          <gpoId />
+        </identifiers>
+        <district>17</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <middleName />
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <party>D</party>
+        <lastName>Carson</lastName>
+        <firstName>Andre</firstName>
+        <bioguideId>C001072</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001072</bioguideId>
+          <lisID>1889</lisID>
+          <gpoId>7946</gpoId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <state>IN</state>
+        <middleName />
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <party>R</party>
+        <lastName>Fitzpatrick</lastName>
+        <firstName>Brian</firstName>
+        <bioguideId>F000466</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <party>D</party>
+        <lastName>Loebsack</lastName>
+        <firstName>David</firstName>
+        <bioguideId>L000565</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000565</bioguideId>
+          <lisID>1846</lisID>
+          <gpoId>7915</gpoId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>IA</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <party>D</party>
+        <lastName>Torres</lastName>
+        <firstName>Norma</firstName>
+        <bioguideId>T000474</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2231</lisID>
+          <gpoId />
+          <bioguideId>T000474</bioguideId>
+        </identifiers>
+        <district>35</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <party>R</party>
+        <lastName>Curbelo</lastName>
+        <firstName>Carlos</firstName>
+        <bioguideId>C001107</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2235</lisID>
+          <bioguideId>C001107</bioguideId>
+        </identifiers>
+        <district>26</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <party>D</party>
+        <lastName>NORTON</lastName>
+        <firstName>ELEANOR</firstName>
+        <bioguideId>N000147</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <state>DC</state>
+        <middleName>HOLMES</middleName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Veterans Crisis Line Improvement Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Veterans Crisis Line Improvement Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To direct the Secretary of Veterans Affairs to ensure that calls to medical facilities of the Department can be quickly redirected to the Veterans Crisis Line.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Veterans Crisis Line Improvement Act</title>
+      </item>
+    </titles>
+    <laws />
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2017-04-27</actionDate>
+      <links />
+    </latestAction>
+    <billType>HR</billType>
+    <introducedDate>2017-04-27</introducedDate>
+    <title>Veterans Crisis Line Improvement Act</title>
+    <sponsors>
+      <item>
+        <lastName>Castro</lastName>
+        <party>D</party>
+        <fullName>Rep. Castro, Joaquin [D-TX-20]</fullName>
+        <bioguideId>C001091</bioguideId>
+        <firstName>Joaquin</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001091</bioguideId>
+          <lisID>2163</lisID>
+        </identifiers>
+        <middleName />
+        <state>TX</state>
+        <district>20</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billNumber>2198</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-27T17:01:13Z</date>
+                </item>
+              </activities>
+              <systemCode>hsvr03</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+          <chamber>House</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-27T14:04:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

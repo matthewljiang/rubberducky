@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="3588" updated="2017-07-29T07:33:09Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Magnuson-Stevens Fishery Conservation and Management Act to provide for management of red snapper in the Gulf of Mexico, and for other purposes.</title>
+    <title type="display">To amend the Magnuson-Stevens Fishery Conservation and Management Act to provide for management of red snapper in the Gulf of Mexico, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="G000577"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001289" joined="2017-07-28"/>
+    <cosponsor bioguide_id="C001049" joined="2017-07-28"/>
+    <cosponsor bioguide_id="F000460" joined="2017-07-28"/>
+    <cosponsor bioguide_id="H001077" joined="2017-07-28"/>
+    <cosponsor bioguide_id="P000601" joined="2017-07-28"/>
+    <cosponsor bioguide_id="R000588" joined="2017-07-28"/>
+    <cosponsor bioguide_id="S001189" joined="2017-07-28"/>
+    <cosponsor bioguide_id="T000193" joined="2017-07-28"/>
+    <cosponsor bioguide_id="W000814" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

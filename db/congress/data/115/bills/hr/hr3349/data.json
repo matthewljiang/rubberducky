@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-20", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-20", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3349-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001181", 
+      "district": "7", 
+      "name": "Meehan, Patrick", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-20", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000585", 
+      "district": "23", 
+      "name": "Reed, Tom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-20", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000577", 
+      "district": "13", 
+      "name": "Ryan, Tim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-20", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-20", 
+  "number": "3349", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to provide a tax incentive for the installation and maintenance of mechanical insulation property.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "S001156", 
+    "district": "38", 
+    "name": "Sanchez, Linda T.", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-07-20", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to provide a tax incentive for the installation and maintenance of mechanical insulation property.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to provide a tax incentive for the installation and maintenance of mechanical insulation property.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-21T07:31:36Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3349.xml"
+}

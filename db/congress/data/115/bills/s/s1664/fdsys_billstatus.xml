@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <notes />
+    <recordedVotes />
+    <cboCostEstimates />
+    <actions>
+      <item>
+        <actionDate>2017-07-27</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S4430</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4430</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (text of measure as introduced: CR S4430)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-07-27</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2017-07-28T18:57:25Z</updateDate>
+    <createDate>2017-07-28T06:26:38Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <relatedBills />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <bioguideId>K000384</bioguideId>
+        <middleName />
+        <lastName>Kaine</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>Timothy</firstName>
+        <state>VA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <title>A bill to amend section 5307 of title 49, United States Code, with respect to the treatment of communities as urbanized areas following a major disaster.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>A bill to amend section 5307 of title 49, United States Code, with respect to the treatment of communities as urbanized areas following a major disaster.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (text of measure as introduced: CR S4430)</text>
+      <actionDate>2017-07-27</actionDate>
+      <links />
+    </latestAction>
+    <billType>S</billType>
+    <originChamber>Senate</originChamber>
+    <introducedDate>2017-07-27</introducedDate>
+    <title>A bill to amend section 5307 of title 49, United States Code, with respect to the treatment of communities as urbanized areas following a major disaster.</title>
+    <sponsors>
+      <item>
+        <lastName>Cornyn</lastName>
+        <party>R</party>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <bioguideId>C001056</bioguideId>
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>TX</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billNumber>1664</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-27T22:15:22Z</date>
+            </item>
+          </activities>
+          <systemCode>ssbk00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

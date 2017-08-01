@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>To require the Secretary of Defense to declassify certain documents related to incidents in which members of the Armed Forces were exposed to toxic substances.</title>
+    <sponsors>
+      <item>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <identifiers>
+          <bioguideId>T000460</bioguideId>
+          <gpoId>7806</gpoId>
+          <lisID>1593</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>THOMPSON</lastName>
+        <district>5</district>
+        <firstName>MIKE</firstName>
+        <bioguideId>T000460</bioguideId>
+        <state>CA</state>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <titles>
+      <item>
+        <title>To require the Secretary of Defense to declassify certain documents related to incidents in which members of the Armed Forces were exposed to toxic substances.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>To require the Secretary of Defense to declassify certain documents related to incidents in which members of the Armed Forces were exposed to toxic substances.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <notes />
+    <updateDate>2017-07-28T07:17:16Z</updateDate>
+    <constitutionalAuthorityStatementText />
+    <cboCostEstimates />
+    <latestAction>
+      <links />
+      <actionDate>2017-07-20</actionDate>
+      <text>Referred to the House Committee on Armed Services.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-20T13:02:35Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <introducedDate>2017-07-20</introducedDate>
+    <calendarNumbers />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <createDate>2017-07-21T03:11:37Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>3327</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <laws />
+    <billType>HR</billType>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <party>R</party>
+        <lastName>YOUNG</lastName>
+        <firstName>DON</firstName>
+        <bioguideId>Y000033</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7785</gpoId>
+          <bioguideId>Y000033</bioguideId>
+          <lisID>1256</lisID>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <state>AK</state>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <party>R</party>
+        <lastName>JONES</lastName>
+        <firstName>WALTER</firstName>
+        <bioguideId>J000255</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <gpoId>8026</gpoId>
+          <lisID>612</lisID>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <party>R</party>
+        <lastName>Marshall</lastName>
+        <firstName>Roger</firstName>
+        <bioguideId>M001198</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001198</bioguideId>
+          <lisID>2328</lisID>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>KS</state>
+        <middleName>W.</middleName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+        <party>R</party>
+        <lastName>LOBIONDO</lastName>
+        <firstName>FRANK</firstName>
+        <bioguideId>L000554</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000554</bioguideId>
+          <lisID>699</lisID>
+          <gpoId>8044</gpoId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <party>D</party>
+        <lastName>Huffman</lastName>
+        <firstName>Jared</firstName>
+        <bioguideId>H001068</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001068</bioguideId>
+          <lisID>2101</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

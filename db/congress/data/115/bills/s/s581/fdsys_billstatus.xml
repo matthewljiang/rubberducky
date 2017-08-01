@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2017-03-08</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1691-1692</url>
+            <name>S1691-1692</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S1691-1692)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-03-08</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Jessie's Law</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Jessie's Law</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to include information concerning a patient's opioid addiction in certain medical records.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Jessie's Law</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1983</lisID>
+          <bioguideId>M001183</bioguideId>
+          <gpoId>8256</gpoId>
+        </identifiers>
+        <bioguideId>M001183</bioguideId>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <byRequestType />
+        <state>WV</state>
+        <firstName>Joe</firstName>
+        <lastName>Manchin</lastName>
+        <party>D</party>
+        <middleName />
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <createDate>2017-03-09T05:25:17Z</createDate>
+    <introducedDate>2017-03-08</introducedDate>
+    <billNumber>581</billNumber>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <billType>S</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sshr00</systemCode>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-03-08T20:58:39Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-07-17T12:49:30Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Jessie's Law</b></p> <p>This bill requires the Department of Health and Human Services to develop and disseminate standards for hospitals and physicians regarding displaying the history of opioid addiction in the medical records of patients who have provided information about their addiction to a health care provider.</p>]]></text>
+          <actionDate>2017-03-08</actionDate>
+          <updateDate>2017-03-08T05:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <title>Jessie's Law</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Drug therapy</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2017-03-08</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S1691-1692)</text>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>1554</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-03-17</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Jessie's Law</latestTitle>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <version>1.0.0</version>
+    <updateDate>2017-07-19T04:32:29Z</updateDate>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <firstName>SHELLEY</firstName>
+        <state>WV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001047</bioguideId>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <identifiers>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <middleName>MOORE</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>CAPITO</lastName>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Amy</firstName>
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Klobuchar</lastName>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>DIANNE</firstName>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000062</bioguideId>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>FEINSTEIN</lastName>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

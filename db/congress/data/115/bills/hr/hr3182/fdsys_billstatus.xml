@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <amendments />
+    <billNumber>3182</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <notes />
+    <recordedVotes />
+    <updateDate>2017-07-19T14:00:11Z</updateDate>
+    <createDate>2017-07-12T03:11:37Z</createDate>
+    <congress>115</congress>
+    <policyArea />
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <bioguideId>D000216</bioguideId>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <middleName />
+        <district>3</district>
+        <byRequestType />
+        <state>CT</state>
+        <party>D</party>
+        <firstName>ROSA</firstName>
+        <identifiers>
+          <lisID>281</lisID>
+          <gpoId>7868</gpoId>
+          <bioguideId>D000216</bioguideId>
+        </identifiers>
+        <lastName>DELAURO</lastName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <introducedDate>2017-07-11</introducedDate>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cosponsors>
+      <item>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>LUCILLE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>997</lisID>
+          <bioguideId>R000486</bioguideId>
+          <gpoId>7839</gpoId>
+        </identifiers>
+        <district>40</district>
+        <bioguideId>R000486</bioguideId>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+      </item>
+      <item>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>229</lisID>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+        </identifiers>
+        <district>13</district>
+        <bioguideId>C000714</bioguideId>
+        <lastName>CONYERS</lastName>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+      </item>
+      <item>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Debbie</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>2251</lisID>
+          <bioguideId>D000624</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>12</district>
+        <bioguideId>D000624</bioguideId>
+        <lastName>Dingell</lastName>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+      </item>
+      <item>
+        <state>CT</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Joe</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>1836</lisID>
+          <bioguideId>C001069</bioguideId>
+          <gpoId>7867</gpoId>
+        </identifiers>
+        <district>2</district>
+        <bioguideId>C001069</bioguideId>
+        <lastName>Courtney</lastName>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+      </item>
+      <item>
+        <state>DC</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELEANOR</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <middleName>HOLMES</middleName>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+        </identifiers>
+        <district>0</district>
+        <bioguideId>N000147</bioguideId>
+        <lastName>NORTON</lastName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+      </item>
+      <item>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>ALCEE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+          <lisID>511</lisID>
+        </identifiers>
+        <district>20</district>
+        <bioguideId>H000324</bioguideId>
+        <lastName>HASTINGS</lastName>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ro</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>2308</lisID>
+          <gpoId />
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <bioguideId>K000389</bioguideId>
+        <lastName>Khanna</lastName>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+      </item>
+      <item>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Robin</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <identifiers>
+          <lisID>2190</lisID>
+          <bioguideId>K000385</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <bioguideId>K000385</bioguideId>
+        <lastName>Kelly</lastName>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+      </item>
+      <item>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Daniel</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <middleName>T.</middleName>
+        <identifiers>
+          <lisID>2134</lisID>
+          <bioguideId>K000380</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>5</district>
+        <bioguideId>K000380</bioguideId>
+        <lastName>Kildee</lastName>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+      </item>
+      <item>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Yvette</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <identifiers>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <bioguideId>C001067</bioguideId>
+        <lastName>Clarke</lastName>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+      </item>
+      <item>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>SHEILA</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+          <gpoId>8174</gpoId>
+          <lisID>588</lisID>
+        </identifiers>
+        <district>18</district>
+        <bioguideId>J000032</bioguideId>
+        <lastName>JACKSON LEE</lastName>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+      </item>
+      <item>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELIJAH</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>256</lisID>
+          <bioguideId>C000984</bioguideId>
+          <gpoId>7982</gpoId>
+        </identifiers>
+        <district>7</district>
+        <bioguideId>C000984</bioguideId>
+        <lastName>CUMMINGS</lastName>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+      </item>
+      <item>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Frederica</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <middleName>S.</middleName>
+        <identifiers>
+          <lisID>2004</lisID>
+          <bioguideId>W000808</bioguideId>
+          <gpoId>7889</gpoId>
+        </identifiers>
+        <district>24</district>
+        <bioguideId>W000808</bioguideId>
+        <lastName>Wilson</lastName>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+      </item>
+      <item>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Debbie</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>W000797</bioguideId>
+          <gpoId>7892</gpoId>
+          <lisID>1777</lisID>
+        </identifiers>
+        <district>23</district>
+        <bioguideId>W000797</bioguideId>
+        <lastName>Wasserman Schultz</lastName>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+      </item>
+      <item>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>NYDIA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>1184</lisID>
+          <bioguideId>V000081</bioguideId>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <district>7</district>
+        <bioguideId>V000081</bioguideId>
+        <lastName>VELAZQUEZ</lastName>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+      </item>
+      <item>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Darren</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>2319</lisID>
+          <bioguideId>S001200</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>9</district>
+        <bioguideId>S001200</bioguideId>
+        <lastName>Soto</lastName>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>D000623</bioguideId>
+          <gpoId />
+          <lisID>2227</lisID>
+        </identifiers>
+        <district>11</district>
+        <bioguideId>D000623</bioguideId>
+        <lastName>DeSaulnier</lastName>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>SMART Child Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Screen, Manage, Address, and Remove Toxins for Children Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend section 317A of the Public Health Service Act to reauthorize a program for screenings and referrals regarding lead poisoning, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>SMART Child Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>SMART Child Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Screen, Manage, Address, and Remove Toxins for Children Act of 2017</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-11T16:00:17Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <actionDate>2017-07-11</actionDate>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. DeLAURO:H.R. 3182.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clauses 3 and 18 of the United StatesConstitution[Page H5433]</pre>]]></constitutionalAuthorityStatementText>
+    <title>SMART Child Act of 2017</title>
+    <actions>
+      <item>
+        <actionDate>2017-07-11</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-07-11</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-07-11</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

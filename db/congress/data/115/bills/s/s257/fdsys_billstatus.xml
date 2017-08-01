@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on Federal Lands.</text>
+          <actionDate>2017-02-10</actionDate>
+        </latestAction>
+        <number>763</number>
+        <latestTitle>Acadia National Park Boundary Clarification Act</latestTitle>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <middleName>MARGARET</middleName>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001035</bioguideId>
+        <lastName>COLLINS</lastName>
+        <firstName>SUSAN</firstName>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <state>ME</state>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Maine</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>Solid waste and recycling</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <name>National Parks Subcommittee</name>
+          <systemCode>sseg04</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-01</actionDate>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Acadia National Park Boundary Clarification Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Acadia National Park Boundary Clarification Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to clarify the boundary of Acadia National Park, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Acadia National Park Boundary Clarification Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <laws />
+    <notes />
+    <introducedDate>2017-02-01</introducedDate>
+    <committeeReports />
+    <updateDate>2017-07-20T04:50:01Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sseg00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>sseg04</systemCode>
+              <name>National Parks Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-07-19T14:15:12Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <date>2017-02-01T21:28:17Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <billNumber>257</billNumber>
+    <title>Acadia National Park Boundary Clarification Act</title>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <party>I</party>
+        <byRequestType />
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <state>ME</state>
+        <middleName />
+        <firstName>Angus</firstName>
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>King</lastName>
+        <bioguideId>K000383</bioguideId>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+      <links />
+      <actionDate>2017-07-19</actionDate>
+    </latestAction>
+    <createDate>2017-02-02T05:28:48Z</createDate>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

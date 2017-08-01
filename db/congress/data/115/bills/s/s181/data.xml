@@ -1,0 +1,40 @@
+<bill session="115" type="s" number="181" updated="2017-05-04T00:11:35Z">
+  <state datetime="2017-01-20">REFERRED</state>
+  <status>
+    <introduced datetime="2017-01-20"/>
+  </status>
+  <introduced datetime="2017-01-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to ensure that certain Federal public works and infrastructure projects use materials produced in the United States, and for other purposes.</title>
+    <title type="display">A bill to ensure that certain Federal public works and infrastructure projects use materials produced in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="B000944"/>
+  <cosponsors>
+    <cosponsor bioguide_id="P000449" joined="2017-01-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-01-20">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-01-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Building construction"/>
+    <term name="Buy American requirements"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Infrastructure development"/>
+    <term name="Manufacturing"/>
+    <term name="Metals"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

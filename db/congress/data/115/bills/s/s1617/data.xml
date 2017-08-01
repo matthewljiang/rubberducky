@@ -1,0 +1,39 @@
+<bill session="115" type="s" number="1617" updated="2017-07-28T10:38:06Z">
+  <state datetime="2017-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-24"/>
+  </status>
+  <introduced datetime="2017-07-24"/>
+  <titles>
+    <title type="short" as="introduced">Javier Vega, Jr. Memorial Act of 2017</title>
+    <title type="official" as="introduced">A bill to designate the checkpoint of the United States Border Patrol located on United States Highway 77 North in Sarita, Texas, as the "Javier Vega, Jr. Border Patrol Checkpoint".</title>
+    <title type="display">Javier Vega, Jr. Memorial Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C001056"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001098" joined="2017-07-24"/>
+    <cosponsor bioguide_id="H001069" joined="2017-07-24"/>
+    <cosponsor bioguide_id="J000293" joined="2017-07-24"/>
+    <cosponsor bioguide_id="M001170" joined="2017-07-24"/>
+    <cosponsor bioguide_id="T000464" joined="2017-07-24"/>
+    <cosponsor bioguide_id="T000476" joined="2017-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-24">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <reference ref="CR S4137" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

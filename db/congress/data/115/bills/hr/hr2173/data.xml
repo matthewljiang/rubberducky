@@ -1,0 +1,49 @@
+<bill session="115" type="h" number="2173" updated="2017-07-27T07:16:08Z">
+  <state datetime="2017-04-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-26"/>
+  </status>
+  <introduced datetime="2017-04-26"/>
+  <titles>
+    <title type="short" as="introduced">Cruise Passenger Protection Act</title>
+    <title type="short" as="introduced">Cruise Passenger Protection Act</title>
+    <title type="official" as="introduced">To improve passenger vessel security and safety, and for other purposes.</title>
+    <title type="display">Cruise Passenger Protection Act</title>
+  </titles>
+  <sponsor bioguide_id="M001163"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001285" joined="2017-05-16"/>
+    <cosponsor bioguide_id="C001080" joined="2017-06-06"/>
+    <cosponsor bioguide_id="C001101" joined="2017-07-26"/>
+    <cosponsor bioguide_id="F000449" joined="2017-07-19"/>
+    <cosponsor bioguide_id="H001047" joined="2017-04-26"/>
+    <cosponsor bioguide_id="M000312" joined="2017-05-16"/>
+    <cosponsor bioguide_id="P000592" joined="2017-04-26"/>
+    <cosponsor bioguide_id="R000486" joined="2017-05-16"/>
+    <cosponsor bioguide_id="S001150" joined="2017-05-16"/>
+    <cosponsor bioguide_id="T000465" joined="2017-05-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-26" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-04-27">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Coast Guard and Maritime Transportation" code="HSPW07" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="965"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

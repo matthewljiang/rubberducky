@@ -1,0 +1,68 @@
+<bill session="115" type="h" number="2408" updated="2017-07-28T07:16:27Z">
+  <state datetime="2017-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-11"/>
+  </status>
+  <introduced datetime="2017-05-11"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Girls' Access to Education Act</title>
+    <title type="short" as="introduced">Protecting Girls' Access to Education in Vulnerable Settings Act</title>
+    <title type="short" as="introduced">Protecting Girls&#8217; Access to Education Act</title>
+    <title type="short" as="introduced">Protecting Girls&#8217; Access to Education in Vulnerable Settings Act</title>
+    <title type="official" as="introduced">To enhance the transparency, improve the coordination, and intensify the impact of assistance to support access to primary and secondary education for displaced children and persons, including women and girls, and for other purposes.</title>
+    <title type="display">Protecting Girls' Access to Education Act</title>
+  </titles>
+  <sponsor bioguide_id="C000266"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001284" joined="2017-06-02"/>
+    <cosponsor bioguide_id="B001275" joined="2017-06-02"/>
+    <cosponsor bioguide_id="C001066" joined="2017-07-20"/>
+    <cosponsor bioguide_id="C001080" joined="2017-07-26"/>
+    <cosponsor bioguide_id="C001077" joined="2017-07-24"/>
+    <cosponsor bioguide_id="C001105" joined="2017-07-20"/>
+    <cosponsor bioguide_id="C001078" joined="2017-06-02"/>
+    <cosponsor bioguide_id="C001094" joined="2017-07-20"/>
+    <cosponsor bioguide_id="C001107" joined="2017-07-25"/>
+    <cosponsor bioguide_id="D000627" joined="2017-07-24"/>
+    <cosponsor bioguide_id="D000625" joined="2017-07-26"/>
+    <cosponsor bioguide_id="G000582" joined="2017-07-20"/>
+    <cosponsor bioguide_id="K000009" joined="2017-06-13"/>
+    <cosponsor bioguide_id="K000385" joined="2017-05-11"/>
+    <cosponsor bioguide_id="K000378" joined="2017-07-26"/>
+    <cosponsor bioguide_id="K000391" joined="2017-07-26"/>
+    <cosponsor bioguide_id="L000582" joined="2017-07-20"/>
+    <cosponsor bioguide_id="M001199" joined="2017-06-13"/>
+    <cosponsor bioguide_id="M001196" joined="2017-07-26"/>
+    <cosponsor bioguide_id="O000170" joined="2017-07-20"/>
+    <cosponsor bioguide_id="P000604" joined="2017-07-26"/>
+    <cosponsor bioguide_id="P000608" joined="2017-07-26"/>
+    <cosponsor bioguide_id="R000606" joined="2017-06-27"/>
+    <cosponsor bioguide_id="R000435" joined="2017-06-21"/>
+    <cosponsor bioguide_id="R000487" joined="2017-07-26"/>
+    <cosponsor bioguide_id="S001168" joined="2017-07-24"/>
+    <cosponsor bioguide_id="S000344" joined="2017-07-24"/>
+    <cosponsor bioguide_id="S000480" joined="2017-07-25"/>
+    <cosponsor bioguide_id="T000465" joined="2017-07-26"/>
+    <cosponsor bioguide_id="V000081" joined="2017-06-21"/>
+    <cosponsor bioguide_id="V000108" joined="2017-07-26"/>
+    <cosponsor bioguide_id="W000822" joined="2017-07-26"/>
+    <cosponsor bioguide_id="W000795" joined="2017-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-11">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-11" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

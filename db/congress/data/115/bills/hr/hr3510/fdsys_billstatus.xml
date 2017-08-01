@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-28T07:32:38Z</updateDate>
+    <relatedBills />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the House Committee on Armed Services.</text>
+      <actionDate>2017-07-27</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>OR</state>
+        <middleName />
+        <firstName>Kurt</firstName>
+        <lastName>Schrader</lastName>
+        <fullName>Rep. Schrader, Kurt [D-OR-5]</fullName>
+        <identifiers>
+          <bioguideId>S001180</bioguideId>
+          <gpoId>8118</gpoId>
+          <lisID>1950</lisID>
+        </identifiers>
+        <byRequestType />
+        <district>5</district>
+        <bioguideId>S001180</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend title 10, United States Code, to exempt members of the Armed Forces who voluntarily separate from active duty and incur a service-connected disability after being recalled to active duty from the requirement to repay voluntary separation pay.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>To amend title 10, United States Code, to exempt members of the Armed Forces who voluntarily separate from active duty and incur a service-connected disability after being recalled to active duty from the requirement to repay voluntary separation pay.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-07-27</introducedDate>
+    <policyArea />
+    <title>To amend title 10, United States Code, to exempt members of the Armed Forces who voluntarily separate from active duty and incur a service-connected disability after being recalled to active duty from the requirement to repay voluntary separation pay.</title>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-27</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Armed Services.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-27</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-27</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billType>HR</billType>
+    <cosponsors />
+    <cboCostEstimates />
+    <createDate>2017-07-28T03:11:38Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-27T14:09:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>3510</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

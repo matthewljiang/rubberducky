@@ -1,0 +1,32 @@
+<bill session="115" type="h" number="2393" updated="2017-06-19T22:15:24Z">
+  <state datetime="2017-05-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-04"/>
+  </status>
+  <introduced datetime="2017-05-04"/>
+  <titles>
+    <title type="short" as="introduced">Accelerate Our Startups Act of 2017</title>
+    <title type="short" as="introduced">Accelerate Our Startups Act of 2017</title>
+    <title type="official" as="introduced">To create a grant program for governmental and other nonprofit organizations that support startup businesses in formation and early growth stages by providing entrepreneurs with resources and services to produce viable businesses, and for other purposes.</title>
+    <title type="display">Accelerate Our Startups Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="S001190"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-05-04">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-04" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>2267</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Resident Physician Shortage Reduction Act of 2017</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-05-05</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-06-07T16:07:49Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <createDate>2017-06-08T00:26:36Z</createDate>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-06-07</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <congress>115</congress>
+    <billNumber>1301</billNumber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <updateDate>2017-06-23T10:54:19Z</updateDate>
+    <cosponsors>
+      <item>
+        <bioguideId>H001041</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Dean</firstName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <state>NV</state>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Heller</lastName>
+        <identifiers>
+          <gpoId>8060</gpoId>
+          <bioguideId>H001041</bioguideId>
+          <lisID>1863</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S000148</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>CHARLES</firstName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <state>NY</state>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <middleName>E.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>SCHUMER</lastName>
+        <identifiers>
+          <gpoId>8279</gpoId>
+          <bioguideId>S000148</bioguideId>
+          <lisID>1036</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <laws />
+    <title>Resident Physician Shortage Reduction Act of 2017</title>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-06-07</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Resident Physician Shortage Reduction Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Resident Physician Shortage Reduction Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to amend title XVIII of the Social Security Act to provide for the distribution of additional residency positions, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Resident Physician Shortage Reduction Act of 2017</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <introducedDate>2017-06-07</introducedDate>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <recordedVotes />
+    <committeeReports />
+    <cboCostEstimates />
+    <amendments />
+    <sponsors>
+      <item>
+        <bioguideId>N000032</bioguideId>
+        <firstName>CLARENCE</firstName>
+        <state>FL</state>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <middleName>WILLIAM</middleName>
+        <party>D</party>
+        <byRequestType />
+        <lastName>NELSON</lastName>
+        <identifiers>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

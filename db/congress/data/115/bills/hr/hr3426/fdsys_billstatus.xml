@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <notes />
+    <recordedVotes />
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionDate>2017-07-26</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2017-07-26</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-26</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-26</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2017-07-27T07:31:51Z</updateDate>
+    <createDate>2017-07-27T03:11:34Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <relatedBills />
+    <policyArea />
+    <constitutionalAuthorityStatementText />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000381</bioguideId>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kilmer</lastName>
+        <party>D</party>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <firstName>Derek</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <middleName />
+        <state>WA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001143</bioguideId>
+        <identifiers>
+          <bioguideId>M001143</bioguideId>
+          <lisID>1653</lisID>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCCOLLUM</lastName>
+        <party>D</party>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <firstName>BETTY</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <middleName />
+        <state>MN</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000216</bioguideId>
+        <identifiers>
+          <lisID>281</lisID>
+          <gpoId>7868</gpoId>
+          <bioguideId>D000216</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>DELAURO</lastName>
+        <party>D</party>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <firstName>ROSA</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <middleName />
+        <state>CT</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000009</bioguideId>
+        <identifiers>
+          <gpoId>8099</gpoId>
+          <bioguideId>K000009</bioguideId>
+          <lisID>616</lisID>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>KAPTUR</lastName>
+        <party>D</party>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <firstName>MARCY</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <middleName />
+        <state>OH</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000480</bioguideId>
+        <identifiers>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+          <bioguideId>S000480</bioguideId>
+        </identifiers>
+        <district>25</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>SLAUGHTER</lastName>
+        <party>D</party>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <firstName>LOUISE</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <middleName>M.</middleName>
+        <state>NY</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001163</bioguideId>
+        <identifiers>
+          <lisID>1814</lisID>
+          <gpoId>7810</gpoId>
+          <bioguideId>M001163</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Matsui</lastName>
+        <party>D</party>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <firstName>Doris</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <middleName>O.</middleName>
+        <state>CA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001145</bioguideId>
+        <identifiers>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>SCHAKOWSKY</lastName>
+        <party>D</party>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <firstName>JANICE</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <middleName>D.</middleName>
+        <state>IL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000602</bioguideId>
+        <identifiers>
+          <lisID>2262</lisID>
+          <gpoId />
+          <bioguideId>R000602</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rice</lastName>
+        <party>D</party>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <firstName>Kathleen</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <middleName>M.</middleName>
+        <state>NY</state>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend title XVIII of the Social Security Act to remove the exclusion of Medicare coverage for hearing aids and examinations therefor, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>To amend title XVIII of the Social Security Act to remove the exclusion of Medicare coverage for hearing aids and examinations therefor, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <latestAction>
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2017-07-26</actionDate>
+      <links />
+    </latestAction>
+    <billType>HR</billType>
+    <introducedDate>2017-07-26</introducedDate>
+    <title>To amend title XVIII of the Social Security Act to remove the exclusion of Medicare coverage for hearing aids and examinations therefor, and for other purposes.</title>
+    <sponsors>
+      <item>
+        <lastName>Dingell</lastName>
+        <party>D</party>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <bioguideId>D000624</bioguideId>
+        <firstName>Debbie</firstName>
+        <identifiers>
+          <lisID>2251</lisID>
+          <gpoId />
+          <bioguideId>D000624</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>MI</state>
+        <district>12</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billNumber>3426</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-26T14:05:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-26T14:05:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

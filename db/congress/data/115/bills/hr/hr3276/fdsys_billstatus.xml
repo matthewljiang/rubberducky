@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Responsible Path to Full Obamacare Repeal Act</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-18T14:02:05Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Appropriations Committee</name>
+          <systemCode>hsap00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-18T14:02:00Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-18T14:01:50Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-18T14:01:45Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-18T14:01:40Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-18T14:01:35Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-18T14:01:30Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-18T14:01:25Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-18</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Appropriations Committee</name>
+          <systemCode>hsap00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and the Workforce, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-18</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and the Workforce, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-18</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and the Workforce, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-18</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and the Workforce, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-18</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and the Workforce, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-18</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and the Workforce, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-18</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and the Workforce, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-18</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and the Workforce, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-18</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-18</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>8</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea />
+    <recordedVotes />
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <notes />
+    <createDate>2017-07-19T03:11:33Z</createDate>
+    <amendments />
+    <cosponsors>
+      <item>
+        <bioguideId>G000565</bioguideId>
+        <party>R</party>
+        <district>4</district>
+        <middleName>A.</middleName>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7798</gpoId>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-18</sponsorshipDate>
+        <firstName>Paul</firstName>
+        <lastName>Gosar</lastName>
+      </item>
+      <item>
+        <bioguideId>G000580</bioguideId>
+        <party>R</party>
+        <district>5</district>
+        <middleName>A.</middleName>
+        <fullName>Rep. Garrett, Thomas A., Jr. [R-VA-5]</fullName>
+        <state>VA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000580</bioguideId>
+          <lisID>2353</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-18</sponsorshipDate>
+        <firstName>Thomas</firstName>
+        <lastName>Garrett</lastName>
+      </item>
+      <item>
+        <bioguideId>F000448</bioguideId>
+        <party>R</party>
+        <district>8</district>
+        <middleName />
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>F000448</bioguideId>
+          <lisID>1707</lisID>
+          <gpoId>7799</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-18</sponsorshipDate>
+        <firstName>Trent</firstName>
+        <lastName>Franks</lastName>
+      </item>
+      <item>
+        <bioguideId>G000578</bioguideId>
+        <party>R</party>
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000578</bioguideId>
+          <lisID>2314</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-18</sponsorshipDate>
+        <firstName>Matt</firstName>
+        <lastName>Gaetz</lastName>
+      </item>
+      <item>
+        <bioguideId>H001071</bioguideId>
+        <party>R</party>
+        <district>10</district>
+        <middleName>B.</middleName>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <state>GA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001071</bioguideId>
+          <lisID>2237</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-18</sponsorshipDate>
+        <firstName>Jody</firstName>
+        <lastName>Hice</lastName>
+      </item>
+      <item>
+        <bioguideId>M001184</bioguideId>
+        <party>R</party>
+        <district>4</district>
+        <middleName />
+        <fullName>Rep. Massie, Thomas [R-KY-4]</fullName>
+        <state>KY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001184</bioguideId>
+          <lisID>2094</lisID>
+          <gpoId>8371</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-18</sponsorshipDate>
+        <firstName>Thomas</firstName>
+        <lastName>Massie</lastName>
+      </item>
+      <item>
+        <bioguideId>G000552</bioguideId>
+        <party>R</party>
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1801</lisID>
+          <gpoId>8157</gpoId>
+          <bioguideId>G000552</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-18</sponsorshipDate>
+        <firstName>Louie</firstName>
+        <lastName>Gohmert</lastName>
+      </item>
+    </cosponsors>
+    <updateDate>2017-07-26T12:15:13Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>B001302</bioguideId>
+        <byRequestType />
+        <district>5</district>
+        <party>R</party>
+        <lastName>Biggs</lastName>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <firstName>Andy</firstName>
+        <middleName />
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2307</lisID>
+          <gpoId />
+          <bioguideId>B001302</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Responsible Path to Full Obamacare Repeal Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To repeal the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Responsible Path to Full Obamacare Repeal Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Responsible Path to Full Obamacare Repeal Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-07-18</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BIGGS:H.R. 3276.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the U.S. Constitution[Page H5978]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>115</congress>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-07-18</actionDate>
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and the Workforce, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <billNumber>3276</billNumber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

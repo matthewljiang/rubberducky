@@ -1,0 +1,78 @@
+<bill session="115" type="h" number="2193" updated="2017-07-26T07:16:05Z">
+  <state datetime="2017-04-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-27"/>
+  </status>
+  <introduced datetime="2017-04-27"/>
+  <titles>
+    <title type="short" as="introduced">Remote Transactions Parity Act of 2017</title>
+    <title type="short" as="introduced">Remote Transactions Parity Act of 2017</title>
+    <title type="official" as="introduced">To grant States authority to enforce State and local sales and use tax laws on remote transactions, and for other purposes.</title>
+    <title type="display">Remote Transactions Parity Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="N000184"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000369" joined="2017-06-12"/>
+    <cosponsor bioguide_id="B001269" joined="2017-04-27"/>
+    <cosponsor bioguide_id="B000213" joined="2017-06-12"/>
+    <cosponsor bioguide_id="C001076" joined="2017-04-27"/>
+    <cosponsor bioguide_id="C001084" joined="2017-04-27"/>
+    <cosponsor bioguide_id="C001068" joined="2017-06-12"/>
+    <cosponsor bioguide_id="C001062" joined="2017-06-23"/>
+    <cosponsor bioguide_id="C000714" joined="2017-04-27"/>
+    <cosponsor bioguide_id="C001106" joined="2017-06-23"/>
+    <cosponsor bioguide_id="C001107" joined="2017-06-12"/>
+    <cosponsor bioguide_id="D000617" joined="2017-04-27"/>
+    <cosponsor bioguide_id="D000604" joined="2017-06-28"/>
+    <cosponsor bioguide_id="D000610" joined="2017-06-12"/>
+    <cosponsor bioguide_id="G000568" joined="2017-06-12"/>
+    <cosponsor bioguide_id="H001064" joined="2017-06-23"/>
+    <cosponsor bioguide_id="J000290" joined="2017-07-14"/>
+    <cosponsor bioguide_id="J000288" joined="2017-06-12"/>
+    <cosponsor bioguide_id="K000381" joined="2017-06-12"/>
+    <cosponsor bioguide_id="L000557" joined="2017-06-27"/>
+    <cosponsor bioguide_id="M001198" joined="2017-07-25"/>
+    <cosponsor bioguide_id="M001190" joined="2017-04-28"/>
+    <cosponsor bioguide_id="N000147" joined="2017-06-28"/>
+    <cosponsor bioguide_id="P000608" joined="2017-06-27"/>
+    <cosponsor bioguide_id="P000607" joined="2017-06-27"/>
+    <cosponsor bioguide_id="P000592" joined="2017-06-23"/>
+    <cosponsor bioguide_id="R000585" joined="2017-06-23"/>
+    <cosponsor bioguide_id="R000586" joined="2017-06-12"/>
+    <cosponsor bioguide_id="R000593" joined="2017-06-23"/>
+    <cosponsor bioguide_id="S001156" joined="2017-07-25"/>
+    <cosponsor bioguide_id="S001148" joined="2017-06-27"/>
+    <cosponsor bioguide_id="S001175" joined="2017-04-27"/>
+    <cosponsor bioguide_id="S001187" joined="2017-04-27"/>
+    <cosponsor bioguide_id="S001193" joined="2017-06-12"/>
+    <cosponsor bioguide_id="W000800" joined="2017-04-27"/>
+    <cosponsor bioguide_id="W000809" joined="2017-04-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-27" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-05-05">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Regulatory Reform, Commercial And Antitrust Law" code="HSJU05" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="976"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Sales and excise taxes"/>
+    <term name="State and local taxation"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

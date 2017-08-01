@@ -1,0 +1,42 @@
+<bill session="115" type="s" number="1307" updated="2017-07-14T05:10:28Z">
+  <state datetime="2017-06-07">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-07"/>
+  </status>
+  <introduced datetime="2017-06-07"/>
+  <titles>
+    <title type="short" as="introduced">Affordable Health Insurance for the Middle Class Act</title>
+    <title type="short" as="introduced">Affordable Health Insurance for the Middle Class Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to expand eligibility to receive refundable tax credits for coverage under a qualified health plan.</title>
+    <title type="display">Affordable Health Insurance for the Middle Class Act</title>
+  </titles>
+  <sponsor bioguide_id="F000062"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001230" joined="2017-06-07"/>
+    <cosponsor bioguide_id="F000457" joined="2017-06-13"/>
+    <cosponsor bioguide_id="G000555" joined="2017-06-07"/>
+    <cosponsor bioguide_id="H001075" joined="2017-06-07"/>
+    <cosponsor bioguide_id="H001076" joined="2017-06-07"/>
+    <cosponsor bioguide_id="L000174" joined="2017-06-07"/>
+    <cosponsor bioguide_id="M000133" joined="2017-07-13"/>
+    <cosponsor bioguide_id="W000817" joined="2017-06-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-07">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-06-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S3330-3331" label="Sponsor introductory remarks on measure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

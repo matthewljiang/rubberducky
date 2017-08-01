@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>2105</number>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-05-02</actionDate>
+          <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        </latestAction>
+        <latestTitle>NIST Small Business Cybersecurity Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <cboCostEstimates>
+      <item>
+        <title>S. 770, MAIN STREET Cybersecurity Act of 2017</title>
+        <pubDate>2017-05-08T15:01:04Z</pubDate>
+        <url>https://www.cbo.gov/publication/52702</url>
+      </item>
+    </cboCostEstimates>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Risch</lastName>
+        <middleName>E.</middleName>
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+          <lisID>1896</lisID>
+          <gpoId>8274</gpoId>
+        </identifiers>
+        <bioguideId>R000584</bioguideId>
+        <state>ID</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>James</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>THUNE</lastName>
+        <middleName>R.</middleName>
+        <identifiers>
+          <lisID>1534</lisID>
+          <bioguideId>T000250</bioguideId>
+          <gpoId>8257</gpoId>
+        </identifiers>
+        <bioguideId>T000250</bioguideId>
+        <state>SD</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>CANTWELL</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8288</gpoId>
+          <bioguideId>C000127</bioguideId>
+          <lisID>172</lisID>
+        </identifiers>
+        <bioguideId>C000127</bioguideId>
+        <state>WA</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>MARIA</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>NELSON</lastName>
+        <middleName>WILLIAM</middleName>
+        <identifiers>
+          <lisID>859</lisID>
+          <bioguideId>N000032</bioguideId>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <bioguideId>N000032</bioguideId>
+        <state>FL</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>CLARENCE</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gardner</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>7862</gpoId>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+        </identifiers>
+        <bioguideId>G000562</bioguideId>
+        <state>CO</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Cory</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cortez Masto</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2299</lisID>
+          <gpoId />
+          <bioguideId>C001113</bioguideId>
+        </identifiers>
+        <bioguideId>C001113</bioguideId>
+        <state>NV</state>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Catherine</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hassan</lastName>
+        <middleName>Wood</middleName>
+        <identifiers>
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001076</bioguideId>
+        <state>NH</state>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Margaret</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>McCaskill</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>1820</lisID>
+          <bioguideId>M001170</bioguideId>
+          <gpoId>8252</gpoId>
+        </identifiers>
+        <bioguideId>M001170</bioguideId>
+        <state>MO</state>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Claire</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gillibrand</lastName>
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <bioguideId>G000555</bioguideId>
+        <state>NY</state>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Kirsten</firstName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <orderedReported>1</orderedReported>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-03-29</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>MAIN STREET Cybersecurity Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Making Available Information Now to Strengthen Trust and Resilience and Enhance Enterprise Technology Cybersecurity Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>MAIN STREET Cybersecurity Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Making Available Information Now to Strengthen Trust and Resilience and Enhance Enterprise Technology Cybersecurity Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to require the Director of the National Institute of Standards and Technology to disseminate resources to help reduce small business cybersecurity risks, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>MAIN STREET Cybersecurity Act of 2017</title>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <laws />
+    <notes />
+    <introducedDate>2017-03-29</introducedDate>
+    <committeeReports />
+    <updateDate>2017-07-20T16:56:22Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2017-04-05T14:00:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-29T21:16:48Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <systemCode>sscm00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <billNumber>770</billNumber>
+    <title>MAIN STREET Cybersecurity Act of 2017</title>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <byRequestType />
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <state>HI</state>
+        <middleName />
+        <firstName>Brian</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+          <lisID>2173</lisID>
+        </identifiers>
+        <lastName>Schatz</lastName>
+        <bioguideId>S001194</bioguideId>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-05-04T21:53:12Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><b>Making Available Information Now to Strengthen Trust and Resilience and Enhance Enterprise Technology Cybersecurity Act of 2017 or the MAIN STREET Cybersecurity Act of 2017</b></p> <p>This bill amends the National Institute of Standards and Technology Act to require the National Institute of Standards and Technology (NIST) to consider small businesses when it facilitates and supports the development of voluntary, consensus-based, industry-led guidelines and procedures to cost-effectively reduce cyber risks to critical infrastructure.</p> <p>NIST must disseminate, and publish on its website, standard and method resources that small business may use voluntarily to help reduce their cybersecurity risks. The resources must be: (1) technology-neutral, (2) based on international standards to the extent possible, (3) able to vary with the nature and size of the implementing small business and the sensitivity of the data collected or stored on the information systems, and (4) consistent with the national cybersecurity awareness and education program under the Cybersecurity Enhancement Act of 2014.</p> <p>Other federal agencies that NIST considers appropriate must also publish the resources on their own websites. </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <actionDate>2017-03-29</actionDate>
+          <updateDate>2017-03-29T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <links />
+      <actionDate>2017-04-05</actionDate>
+    </latestAction>
+    <createDate>2017-03-30T04:33:15Z</createDate>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <district>5</district>
+        <lastName>Thompson</lastName>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <state>PA</state>
+        <bioguideId>T000467</bioguideId>
+        <middleName />
+        <firstName>Glenn</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000467</bioguideId>
+          <gpoId>8123</gpoId>
+          <lisID>1952</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <district>18</district>
+        <lastName>Murphy</lastName>
+        <fullName>Rep. Murphy, Tim [R-PA-18]</fullName>
+        <state>PA</state>
+        <bioguideId>M001151</bioguideId>
+        <middleName />
+        <firstName>Tim</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001151</bioguideId>
+          <gpoId>8723</gpoId>
+          <lisID>1744</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <district>7</district>
+        <lastName>Meehan</lastName>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <state>PA</state>
+        <bioguideId>M001181</bioguideId>
+        <middleName />
+        <firstName>Patrick</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001181</bioguideId>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <district>15</district>
+        <lastName>Dent</lastName>
+        <fullName>Rep. Dent, Charles W. [R-PA-15]</fullName>
+        <state>PA</state>
+        <bioguideId>D000604</bioguideId>
+        <middleName>W.</middleName>
+        <firstName>Charles</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1799</lisID>
+          <gpoId>8133</gpoId>
+          <bioguideId>D000604</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <district>11</district>
+        <lastName>Barletta</lastName>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <state>PA</state>
+        <bioguideId>B001269</bioguideId>
+        <middleName />
+        <firstName>Lou</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8129</gpoId>
+          <bioguideId>B001269</bioguideId>
+          <lisID>2054</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <district>6</district>
+        <lastName>Costello</lastName>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <state>PA</state>
+        <bioguideId>C001106</bioguideId>
+        <middleName>A.</middleName>
+        <firstName>Ryan</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001106</bioguideId>
+          <gpoId />
+          <lisID>2266</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <district>13</district>
+        <lastName>Boyle</lastName>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <state>PA</state>
+        <bioguideId>B001296</bioguideId>
+        <middleName>F.</middleName>
+        <firstName>Brendan</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001296</bioguideId>
+          <lisID>2267</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <district>10</district>
+        <lastName>Marino</lastName>
+        <fullName>Rep. Marino, Tom [R-PA-10]</fullName>
+        <state>PA</state>
+        <bioguideId>M001179</bioguideId>
+        <middleName />
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2053</lisID>
+          <gpoId>8128</gpoId>
+          <bioguideId>M001179</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <district>1</district>
+        <lastName>BRADY</lastName>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <state>PA</state>
+        <bioguideId>B001227</bioguideId>
+        <middleName>A.</middleName>
+        <firstName>ROBERT</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001227</bioguideId>
+          <lisID>1469</lisID>
+          <gpoId>8119</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <district>9</district>
+        <lastName>Shuster</lastName>
+        <fullName>Rep. Shuster, Bill [R-PA-9]</fullName>
+        <state>PA</state>
+        <bioguideId>S001154</bioguideId>
+        <middleName />
+        <firstName>Bill</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8127</gpoId>
+          <bioguideId>S001154</bioguideId>
+          <lisID>1681</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <district>8</district>
+        <lastName>Fitzpatrick</lastName>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <state>PA</state>
+        <bioguideId>F000466</bioguideId>
+        <middleName>K.</middleName>
+        <firstName>Brian</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <district>2</district>
+        <lastName>Evans</lastName>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <state>PA</state>
+        <bioguideId>E000296</bioguideId>
+        <middleName />
+        <firstName>Dwight</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2298</lisID>
+          <bioguideId>E000296</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-05-15</sponsorshipDate>
+        <district>14</district>
+        <lastName>DOYLE</lastName>
+        <fullName>Rep. Doyle, Michael F. [D-PA-14]</fullName>
+        <state>PA</state>
+        <bioguideId>D000482</bioguideId>
+        <middleName />
+        <firstName>MIKE</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000482</bioguideId>
+          <gpoId>8132</gpoId>
+          <lisID>316</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <district>12</district>
+        <lastName>Rothfus</lastName>
+        <fullName>Rep. Rothfus, Keith J. [R-PA-12]</fullName>
+        <state>PA</state>
+        <bioguideId>R000598</bioguideId>
+        <middleName>J.</middleName>
+        <firstName>Keith</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000598</bioguideId>
+          <lisID>2158</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <district>4</district>
+        <lastName>Perry</lastName>
+        <fullName>Rep. Perry, Scott [R-PA-4]</fullName>
+        <state>PA</state>
+        <bioguideId>P000605</bioguideId>
+        <middleName />
+        <firstName>Scott</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000605</bioguideId>
+          <gpoId />
+          <lisID>2157</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <district>16</district>
+        <lastName>Smucker</lastName>
+        <fullName>Rep. Smucker, Lloyd [R-PA-16]</fullName>
+        <state>PA</state>
+        <bioguideId>S001199</bioguideId>
+        <middleName />
+        <firstName>Lloyd</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001199</bioguideId>
+          <lisID>2346</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <district>17</district>
+        <lastName>Cartwright</lastName>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <state>PA</state>
+        <bioguideId>C001090</bioguideId>
+        <middleName />
+        <firstName>Matt</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2159</lisID>
+          <gpoId />
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p> This bill designates the Department of Veterans Affairs (VA) community living center in Butler Township, Butler County, Pennsylvania, as the &quot;Sergeant Joseph George Kusick VA Community Living Center.&quot;</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2017-04-27T04:00:00Z</updateDate>
+          <actionDate>2017-04-27</actionDate>
+          <lastSummaryUpdateDate>2017-07-29T14:48:58Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p>(Sec. 2) This bill designates the Department of Veterans Affairs (VA) community living center in Butler Township, Butler County, Pennsylvania, as the &quot;Sergeant Joseph George Kusick VA Community Living Center.&quot;</p>]]></text>
+          <versionCode>81</versionCode>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <name>Passed House without amendment</name>
+          <updateDate>2017-07-17T17:09:33Z</updateDate>
+          <actionDate>2017-07-17</actionDate>
+          <lastSummaryUpdateDate>2017-07-29T14:51:59Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-27T13:47:36Z</date>
+                </item>
+              </activities>
+              <systemCode>hsvr03</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+          <chamber>House</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-27T14:03:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <latestAction>
+      <text>Received in the Senate.</text>
+      <actionDate>2017-07-18</actionDate>
+      <links />
+    </latestAction>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>379</rollNumber>
+        <date>2017-07-17T22:55:26Z</date>
+        <url>http://clerk.house.gov/evs/2017/roll379.xml</url>
+        <sessionNumber>1</sessionNumber>
+        <congress>115</congress>
+        <chamber>House</chamber>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+      </recordedVote>
+    </recordedVotes>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <updateDate>2017-07-29T15:00:17Z</updateDate>
+    <cboCostEstimates />
+    <introducedDate>2017-04-27</introducedDate>
+    <actions>
+      <item>
+        <actionDate>2017-07-18</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-07-17</actionDate>
+        <type>Floor</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+        <actionTime>18:55:27</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-17</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H5890</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5890</url>
+          </link>
+          <link>
+            <name>Roll no. 379</name>
+            <url>http://clerk.house.gov/evs/2017/roll379.xml</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H37300</actionCode>
+        <actionTime>18:55:26</actionTime>
+        <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 379). (text: CR H5890)</text>
+      </item>
+      <item>
+        <actionDate>2017-07-17</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>Roll no. 379</name>
+            <url>http://clerk.house.gov/evs/2017/roll379.xml</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+        <actionTime>18:55:26</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 379).</text>
+      </item>
+      <item>
+        <actionDate>2017-07-17</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H5901</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5901</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <actionTime>18:30:57</actionTime>
+        <text>Considered as unfinished business. (consideration: CR H5901)</text>
+      </item>
+      <item>
+        <actionDate>2017-07-17</actionDate>
+        <type>Floor</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H37220</actionCode>
+        <actionTime>16:58:39</actionTime>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-17</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 2210</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2210</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H8D000</actionCode>
+        <actionTime>16:46:13</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2210.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-17</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H5890-5892</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5890-5892</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <actionTime>16:46:11</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H5890-5892)</text>
+      </item>
+      <item>
+        <actionDate>2017-07-17</actionDate>
+        <type>Floor</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30300</actionCode>
+        <actionTime>16:45:44</actionTime>
+        <text>Mr. Dunn moved to suspend the rules and pass the bill.</text>
+      </item>
+      <item>
+        <actionDate>2017-04-27</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+      </item>
+      <item>
+        <actionDate>2017-04-27</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsvr03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-27</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-04-27</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <generalDebate>1</generalDebate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <considerationByHouse>2</considerationByHouse>
+        <introducedInSenate>1</introducedInSenate>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <lastName>Kelly</lastName>
+        <bioguideId>K000376</bioguideId>
+        <state>PA</state>
+        <middleName />
+        <party>R</party>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <district>3</district>
+        <byRequestType />
+        <firstName>Mike</firstName>
+        <identifiers>
+          <lisID>2051</lisID>
+          <gpoId>8708</gpoId>
+          <bioguideId>K000376</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>To designate the community living center of the Department of Veterans Affairs in Butler Township, Butler County, Pennsylvania, as the "Sergeant Joseph George Kusick VA Community Living Center".</title>
+    <notes />
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <laws />
+    <billNumber>2210</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KELLY of Pennsylvania:H.R. 2210.Congress has the power to enact this legislation pursuantto the following:The United States Constitution, Article 1, Section 8.[Page H2942]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2017-04-28T03:11:52Z</createDate>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To designate the community living center of the Department of Veterans Affairs in Butler Township, Butler County, Pennsylvania, as the "Sergeant Joseph George Kusick VA Community Living Center".</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To designate the community living center of the Department of Veterans Affairs in Butler Township, Butler County, Pennsylvania, as the "Sergeant Joseph George Kusick VA Community Living Center".</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

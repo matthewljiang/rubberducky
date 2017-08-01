@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-28T13:15:18Z</updateDate>
+    <relatedBills />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <actionDate>2017-07-26</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>CT</state>
+        <middleName />
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <bioguideId>B001277</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>A bill to require auto dealers to fix outstanding safety recalls before selling or leasing a used passenger motor vehicle.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>A bill to require auto dealers to fix outstanding safety recalls before selling or leasing a used passenger motor vehicle.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-07-26</introducedDate>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <title>A bill to require auto dealers to fix outstanding safety recalls before selling or leasing a used passenger motor vehicle.</title>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-26</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <middleName>J.</middleName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>MARKEY</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+        </identifiers>
+        <bioguideId>M000133</bioguideId>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>EDWARD</firstName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <createDate>2017-07-27T00:41:33Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-26T18:52:42Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>1634</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>VA Procurement Efficiency and Transparency Act</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-25T18:48:39Z</date>
+            </item>
+          </activities>
+          <systemCode>ssva00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-07-24T19:31:58Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-07-19T21:05:52Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-06T13:03:05Z</date>
+            </item>
+          </activities>
+          <systemCode>hsvr00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Oversight and Investigations Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Reported by</name>
+                  <date>2017-07-12T13:11:00Z</date>
+                </item>
+                <item>
+                  <name>Markup by</name>
+                  <date>2017-07-12T13:05:35Z</date>
+                </item>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2017-06-29T15:57:12Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-06T16:38:47Z</date>
+                </item>
+              </activities>
+              <systemCode>hsvr08</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-07-24</actionDate>
+        <committee />
+        <actionCode>H38310</actionCode>
+        <actionTime>19:16:30</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-07-24</actionDate>
+        <committee />
+        <actionCode>H37300</actionCode>
+        <actionTime>19:16:26</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6174-6175</url>
+            <name>H6174-6175</name>
+          </link>
+        </links>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6174-6175)</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-07-24</actionDate>
+        <committee />
+        <actionCode>8000</actionCode>
+        <actionTime>19:16:26</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-07-24</actionDate>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <actionTime>19:16:03</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6199</url>
+            <name>H6199</name>
+          </link>
+        </links>
+        <text>Considered as unfinished business. (consideration: CR H6199)</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-07-24</actionDate>
+        <committee />
+        <actionCode>H37210</actionCode>
+        <actionTime>15:53:10</actionTime>
+        <links />
+        <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Walz objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-07-24</actionDate>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <actionTime>15:53:04</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2006</url>
+            <name>H.R. 2006</name>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2006.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-07-24</actionDate>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <actionTime>15:53:02</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6174-6175</url>
+            <name>H6174-6175</name>
+          </link>
+        </links>
+        <text>Considered under suspension of the rules. (consideration: CR H6174-6175)</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-07-24</actionDate>
+        <committee />
+        <actionCode>H30300</actionCode>
+        <actionTime>15:53:00</actionTime>
+        <links />
+        <text>Mr. Roe (TN) moved to suspend the rules and pass the bill.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Calendars</type>
+        <actionDate>2017-07-24</actionDate>
+        <links />
+        <actionCode>H12410</actionCode>
+        <committee />
+        <text>Placed on the Union Calendar, Calendar No. 178.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2017-07-24</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/246</url>
+            <name>H. Rept. 115-246</name>
+          </link>
+        </links>
+        <actionCode>H12200</actionCode>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <text>Reported by the Committee on Veterans' Affairs. H. Rept. 115-246.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2017-07-24</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/246</url>
+            <name>H. Rept. 115-246</name>
+          </link>
+        </links>
+        <actionCode>5000</actionCode>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <text>Reported by the Committee on Veterans' Affairs. H. Rept. 115-246.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <committee>
+          <name>Oversight and Investigations Subcommittee</name>
+          <systemCode>hsvr08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <committee>
+          <name>Oversight and Investigations Subcommittee</name>
+          <systemCode>hsvr08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <committee>
+          <name>Oversight and Investigations Subcommittee</name>
+          <systemCode>hsvr08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-06</actionDate>
+        <committee>
+          <name>Oversight and Investigations Subcommittee</name>
+          <systemCode>hsvr08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Oversight and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-04-06</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-04-06</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-04-06</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <reportedToHouse>1</reportedToHouse>
+        <placeholderTextForH>4</placeholderTextForH>
+        <referredToCommittee>1</referredToCommittee>
+        <considerationByHouse>2</considerationByHouse>
+        <generalDebate>1</generalDebate>
+        <actionStageOverride>1</actionStageOverride>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <designationOfSpeakerProTempore>1</designationOfSpeakerProTempore>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <billReferrals>1</billReferrals>
+        <prayer>1</prayer>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>20</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <recordedVotes />
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <notes />
+    <createDate>2017-04-07T03:11:58Z</createDate>
+    <amendments />
+    <cosponsors />
+    <updateDate>2017-07-29T13:00:13Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>C001077</bioguideId>
+        <byRequestType />
+        <district>6</district>
+        <party>R</party>
+        <lastName>Coffman</lastName>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <firstName>Mike</firstName>
+        <middleName />
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>C001077</bioguideId>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>VA Procurement Efficiency and Transparency Act</title>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>VA Procurement Efficiency and Transparency Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>VA Procurement Efficiency and Transparency Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend title 38, United States Code, to improve the procurement practices of the Department of Veterans Affairs, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>VA Procurement Efficiency and Transparency Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 2006, VA Procurement Efficiency and Transparency Act</title>
+        <pubDate>2017-07-21T20:45:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/52951</url>
+      </item>
+    </cboCostEstimates>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-04-06</actionDate>
+          <lastSummaryUpdateDate>2017-04-15T14:43:21Z</lastSummaryUpdateDate>
+          <updateDate>2017-04-06T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>VA Procurement Efficiency and Transparency Act</strong></p> <p>This bill requires the Department of Veterans Affairs (VA), with respect to any VA contract that is reported in the Federal Procurement Data System, to record the amount of any cost or price savings realized by using competitive procedures in awarding such contract. </p> <p>The VA shall make available and use on a VA-wide basis the standardized procurement templates used by the Central Office of the VA, the Veterans Health Administration, the Veterans Benefits Administration, and the National Cemetery Administration. Such templates may be customized to address particular procurement situations. </p>]]></text>
+        </item>
+        <item>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <actionDate>2017-07-24</actionDate>
+          <lastSummaryUpdateDate>2017-07-29T12:45:31Z</lastSummaryUpdateDate>
+          <updateDate>2017-07-24T15:56:58Z</updateDate>
+          <versionCode>81</versionCode>
+          <name>Passed House without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><strong>VA Procurement Efficiency and Transparency Act</strong></p> <p>(Sec. 2) This bill requires the Department of Veterans Affairs (VA), with respect to any VA contract that is reported in the Federal Procurement Data System, to record the amount of any cost or price savings realized by using competitive procedures in awarding such contract. </p> <p>(Sec. 3) The VA shall make available and use on a VA-wide basis the standardized procurement templates used by the Central Office of the VA, the Veterans Health Administration, the Veterans Benefits Administration, and the National Cemetery Administration. Such templates may be customized to address particular procurement situations. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-246</citation>
+      </committeeReport>
+    </committeeReports>
+    <introducedDate>2017-04-06</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COFFMAN:H.R. 2006.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the Constitution of the UnitedStates.[Page H2790]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>115</congress>
+    <calendarNumbers>
+      <item>
+        <calendar>U00178</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <latestAction>
+      <actionDate>2017-07-25</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <billNumber>2006</billNumber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

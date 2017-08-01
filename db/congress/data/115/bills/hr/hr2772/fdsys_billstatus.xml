@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <billNumber>2772</billNumber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-07-24T19:37:24Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-07-19T21:06:47Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-06-06T16:00:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-07-12T13:09:48Z</date>
+                  <name>Reported by</name>
+                </item>
+                <item>
+                  <date>2017-07-12T13:05:17Z</date>
+                  <name>Markup by</name>
+                </item>
+                <item>
+                  <date>2017-06-29T15:57:53Z</date>
+                  <name>Hearings by</name>
+                </item>
+                <item>
+                  <date>2017-06-06T16:43:15Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Economic Opportunity Subcommittee</name>
+              <systemCode>hsvr10</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00180</calendar>
+      </item>
+    </calendarNumbers>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <number>2517</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-05-18</actionDate>
+          <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        </latestAction>
+        <latestTitle>To amend title 38, United States Code, to provide for requirements relating to the reassignment of Department of Veterans Affairs senior executive employees.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>VA Senior Executive Accountability Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Reported to House</titleType>
+        <title>SEA Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Reported to House</titleType>
+        <title>VA Senior Executive Accountability Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>SEA Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>VA Senior Executive Accountability Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 38, United States Code, to provide for requirements relating to the reassignment of Department of Veterans Affairs senior executive employees.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>SEA Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <title>VA Senior Executive Accountability Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>VA Senior Executive Accountability Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <createDate>2017-06-07T03:11:40Z</createDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-248</citation>
+      </committeeReport>
+    </committeeReports>
+    <billType>HR</billType>
+    <updateDate>2017-07-31T15:42:15Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <placeholderTextForH>3</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <designationOfSpeakerProTempore>1</designationOfSpeakerProTempore>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <reportedToHouse>1</reportedToHouse>
+        <generalDebate>1</generalDebate>
+        <prayer>1</prayer>
+        <billReferrals>1</billReferrals>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <actionStageOverride>1</actionStageOverride>
+      </actionTypeCounts>
+      <item>
+        <actionTime>11:12:26</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+        <links />
+        <actionDate>2017-07-28</actionDate>
+        <type>Floor</type>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <actionTime>11:12:24</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H37300</actionCode>
+        <links>
+          <link>
+            <name>H6540</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6540</url>
+          </link>
+        </links>
+        <actionDate>2017-07-28</actionDate>
+        <type>Floor</type>
+        <committee />
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6540)</text>
+      </item>
+      <item>
+        <actionTime>11:12:24</actionTime>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+        <links />
+        <actionDate>2017-07-28</actionDate>
+        <type>Floor</type>
+        <committee />
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      </item>
+      <item>
+        <actionTime>11:08:26</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H8D000</actionCode>
+        <links>
+          <link>
+            <name>H.R. 2772</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2772</url>
+          </link>
+        </links>
+        <actionDate>2017-07-28</actionDate>
+        <type>Floor</type>
+        <committee />
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2772.</text>
+      </item>
+      <item>
+        <actionTime>11:08:25</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <name>H6540</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6540</url>
+          </link>
+        </links>
+        <actionDate>2017-07-28</actionDate>
+        <type>Floor</type>
+        <committee />
+        <text>Considered under suspension of the rules. (consideration: CR H6540)</text>
+      </item>
+      <item>
+        <actionTime>11:08:13</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30300</actionCode>
+        <links />
+        <actionDate>2017-07-28</actionDate>
+        <type>Floor</type>
+        <committee />
+        <text>Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H12410</actionCode>
+        <links />
+        <actionDate>2017-07-24</actionDate>
+        <type>Calendars</type>
+        <committee />
+        <text>Placed on the Union Calendar, Calendar No. 180.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H12200</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-248</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/248</url>
+          </link>
+        </links>
+        <actionDate>2017-07-24</actionDate>
+        <type>Committee</type>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <text>Reported by the Committee on Veterans' Affairs. H. Rept. 115-248.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>5000</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-248</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/248</url>
+          </link>
+        </links>
+        <actionDate>2017-07-24</actionDate>
+        <type>Committee</type>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <text>Reported by the Committee on Veterans' Affairs. H. Rept. 115-248.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <committee>
+          <name>Economic Opportunity Subcommittee</name>
+          <systemCode>hsvr10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <committee>
+          <name>Economic Opportunity Subcommittee</name>
+          <systemCode>hsvr10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <committee>
+          <name>Economic Opportunity Subcommittee</name>
+          <systemCode>hsvr10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-06</actionDate>
+        <committee>
+          <name>Economic Opportunity Subcommittee</name>
+          <systemCode>hsvr10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2017-06-06</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2017-06-06</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2017-06-06</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>18</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <lastName>Takano</lastName>
+        <district>41</district>
+        <party>D</party>
+        <bioguideId>T000472</bioguideId>
+        <middleName />
+        <firstName>Mark</firstName>
+        <state>CA</state>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <identifiers>
+          <bioguideId>T000472</bioguideId>
+          <gpoId />
+          <lisID>2110</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Stefanik</lastName>
+        <district>21</district>
+        <party>R</party>
+        <bioguideId>S001196</bioguideId>
+        <middleName>M.</middleName>
+        <firstName>Elise</firstName>
+        <state>NY</state>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2263</lisID>
+          <bioguideId>S001196</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. TAYLOR:H.R. 2772.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8The Congress shall have Power To lay and collect Taxes,Duties, Imposts and Excises, to pay the Debts and provide forthe common Defence and general Welfare of the United States;but all Duties, Imposts and Excises shall be uniformthroughout the United States;To borrow money on the credit of the United States;To regulate Commerce with foreign Nations, and among theseveral States, and with the Indian Tribes;To establish an uniform Rule of Naturalization, and uniformLaws on the subject of Bankruptcies throughout the UnitedStates;To coin Money, regulate the Value thereof, and of foreignCoin, and fix the Standard of Weights and Measures;To provide for the Punishment of counterfeiting theSecurities and current Coin of the United States;To establish Post Offices and Post Roads;To promote the Progress of Science and useful Arts, bysecuring for limited Times to Authors and Inventors theexclusive Right to their respective Writings and Discoveries;To constitute Tribunals inferior to the supreme Court;and Offenses against the Law of Nations;To declare War, grant Letters of Marque and Reprisal, andmake Rules concerning Captures on Land and Water;To raise and support Armies, but no Appropriation of Moneyto that Use shall be for a longer Term than two Years;To provide and maintain a Navy;To make Rules for the Government and Regulation of the landand naval Forces;To provide for calling forth the Militia to execute theLaws of the Union, suppress Insurrections and repelInvasions;To provide for organizing, arming, and disciplining, theMilitia, and for governing such Part of them as may beemployed in the Service of the United States, reserving tothe States respectively, the Appointment of the Officers, andthe Authority of training the Militia according to thediscipline prescribed by Congress;To exercise exclusive Legislation in all Cases whatsoever,over such District (not exceeding ten Miles square) as may,by Cession of particular States, and the acceptance ofCongress, become the Seat of the Government of the UnitedStates, and to exercise like Authority over all Placespurchased by the Consent of the Legislature of the State inwhich the Same shall be, for the Erection of Forts,Magazines, Arsenals, dock-Yards, and other needful Buildings;AndTo make all Laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by this Constitution in the Government of theUnited States, or in any Department or Officer thereof.[Page H4647]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <latestAction>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionDate>2017-07-28</actionDate>
+      <links />
+      <actionTime>11:12:26</actionTime>
+    </latestAction>
+    <sponsors>
+      <item>
+        <lastName>Taylor</lastName>
+        <district>2</district>
+        <bioguideId>T000477</bioguideId>
+        <firstName>Scott</firstName>
+        <party>R</party>
+        <byRequestType />
+        <state>VA</state>
+        <fullName>Rep. Taylor, Scott [R-VA-2]</fullName>
+        <identifiers>
+          <lisID>2351</lisID>
+          <bioguideId>T000477</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-07-21T20:45:00Z</pubDate>
+        <title>H.R. 2772, SEA Act</title>
+        <url>https://www.cbo.gov/publication/52949</url>
+      </item>
+    </cboCostEstimates>
+    <title>SEA Act</title>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <introducedDate>2017-06-06</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,41 @@
+<bill session="115" type="h" number="2191" updated="2017-06-23T12:00:10Z">
+  <state datetime="2017-04-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-27"/>
+  </status>
+  <introduced datetime="2017-04-27"/>
+  <titles>
+    <title type="short" as="introduced">SEAT Act of 2017</title>
+    <title type="short" as="introduced">Secure Equity in Airline Transportation Act of 2017</title>
+    <title type="short" as="introduced">Secure Equity in Airline Transportation Act of 2017</title>
+    <title type="official" as="introduced">To direct the Secretary of Transportation to revise certain regulations relating to aircraft boarding, and for other purposes.</title>
+    <title type="display">SEAT Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="D000628"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001260" joined="2017-04-27"/>
+    <cosponsor bioguide_id="G000581" joined="2017-04-27"/>
+    <cosponsor bioguide_id="N000015" joined="2017-04-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-27" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-04-28">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Aviation" code="HSPW05" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

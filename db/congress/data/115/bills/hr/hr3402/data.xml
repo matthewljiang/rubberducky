@@ -1,0 +1,37 @@
+<bill session="115" type="h" number="3402" updated="2017-07-27T07:31:48Z">
+  <state datetime="2017-07-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-26"/>
+  </status>
+  <introduced datetime="2017-07-26"/>
+  <titles>
+    <title type="official" as="introduced">To amend the fresh fruit and vegetable program under the Richard B. Russell National School Lunch Act to include canned, dried, frozen, or pureed fruits and vegetables.</title>
+    <title type="display">To amend the fresh fruit and vegetable program under the Richard B. Russell National School Lunch Act to include canned, dried, frozen, or pureed fruits and vegetables.</title>
+  </titles>
+  <sponsor bioguide_id="P000611"/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000559" joined="2017-07-26"/>
+    <cosponsor bioguide_id="H001056" joined="2017-07-26"/>
+    <cosponsor bioguide_id="K000188" joined="2017-07-26"/>
+    <cosponsor bioguide_id="M001189" joined="2017-07-26"/>
+    <cosponsor bioguide_id="R000592" joined="2017-07-26"/>
+    <cosponsor bioguide_id="S001180" joined="2017-07-26"/>
+    <cosponsor bioguide_id="V000129" joined="2017-07-26"/>
+    <cosponsor bioguide_id="W000799" joined="2017-07-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-26" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

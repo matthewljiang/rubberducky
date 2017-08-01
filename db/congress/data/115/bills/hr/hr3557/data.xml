@@ -1,0 +1,31 @@
+<bill session="115" type="h" number="3557" updated="2017-07-29T07:33:04Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to increase the number of health care professionals employed by the Department of Veterans Affairs by improving the Department of Veterans Affairs Education Debt Reduction Program.</title>
+    <title type="display">To amend title 38, United States Code, to increase the number of health care professionals employed by the Department of Veterans Affairs by improving the Department of Veterans Affairs Education Debt Reduction Program.</title>
+  </titles>
+  <sponsor bioguide_id="W000791"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000191" joined="2017-07-28"/>
+    <cosponsor bioguide_id="N000189" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

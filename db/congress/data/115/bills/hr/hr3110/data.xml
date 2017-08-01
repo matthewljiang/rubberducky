@@ -1,0 +1,70 @@
+<bill session="115" type="h" number="3110" updated="2017-07-27T07:13:28Z">
+  <state datetime="2017-07-25">REPORTED</state>
+  <status>
+    <unknown datetime="2017-07-25"/>
+  </status>
+  <introduced datetime="2017-06-29"/>
+  <titles>
+    <title type="short" as="introduced">Financial Stability Oversight Council Insurance Member Continuity Act</title>
+    <title type="short" as="introduced">Financial Stability Oversight Council Insurance Member Continuity Act</title>
+    <title type="official" as="introduced">To amend the Financial Stability Act of 2010 to modify the term of the independent member of the Financial Stability Oversight Council.</title>
+    <title type="display">Financial Stability Oversight Council Insurance Member Continuity Act</title>
+  </titles>
+  <sponsor bioguide_id="H001059"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001281" joined="2017-06-29"/>
+    <cosponsor bioguide_id="C001049" joined="2017-06-29"/>
+    <cosponsor bioguide_id="C001061" joined="2017-06-29"/>
+    <cosponsor bioguide_id="C001107" joined="2017-07-25"/>
+    <cosponsor bioguide_id="D000620" joined="2017-07-25"/>
+    <cosponsor bioguide_id="E000288" joined="2017-07-18"/>
+    <cosponsor bioguide_id="F000454" joined="2017-06-29"/>
+    <cosponsor bioguide_id="G000583" joined="2017-06-29"/>
+    <cosponsor bioguide_id="K000390" joined="2017-06-29"/>
+    <cosponsor bioguide_id="K000380" joined="2017-06-29"/>
+    <cosponsor bioguide_id="K000210" joined="2017-06-29"/>
+    <cosponsor bioguide_id="M000087" joined="2017-07-25"/>
+    <cosponsor bioguide_id="M001137" joined="2017-06-29"/>
+    <cosponsor bioguide_id="M001189" joined="2017-06-29"/>
+    <cosponsor bioguide_id="M001160" joined="2017-06-29"/>
+    <cosponsor bioguide_id="P000588" joined="2017-06-29"/>
+    <cosponsor bioguide_id="P000593" joined="2017-06-29"/>
+    <cosponsor bioguide_id="P000606" joined="2017-06-29"/>
+    <cosponsor bioguide_id="P000611" joined="2017-06-29"/>
+    <cosponsor bioguide_id="R000593" joined="2017-06-29"/>
+    <cosponsor bioguide_id="R000487" joined="2017-06-29"/>
+    <cosponsor bioguide_id="S001157" joined="2017-06-29"/>
+    <cosponsor bioguide_id="S000344" joined="2017-06-29"/>
+    <cosponsor bioguide_id="S001191" joined="2017-07-25"/>
+    <cosponsor bioguide_id="T000478" joined="2017-07-12"/>
+    <cosponsor bioguide_id="T000475" joined="2017-06-29"/>
+    <cosponsor bioguide_id="V000081" joined="2017-06-29"/>
+    <cosponsor bioguide_id="W000187" joined="2017-06-29"/>
+    <cosponsor bioguide_id="Z000017" joined="2017-06-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-29">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-29" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2017-07-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-07-25" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 60 - 0.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="1463"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

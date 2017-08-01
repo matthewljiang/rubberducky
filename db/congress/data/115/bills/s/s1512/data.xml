@@ -1,0 +1,53 @@
+<bill session="115" type="s" number="1512" updated="2017-07-26T04:35:42Z">
+  <state datetime="2017-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-29"/>
+  </status>
+  <introduced datetime="2017-06-29"/>
+  <titles>
+    <title type="short" as="introduced">Transparency and Honesty in Energy Regulations Act of 2017</title>
+    <title type="short" as="introduced">Transparency and Honesty in Energy Regulations Act of 2017</title>
+    <title type="official" as="introduced">A bill to prohibit the Secretary of Energy, the Administrator of the Environmental Protection Agency, the Secretary of the Interior, the Secretary of Transportation, and the Chair of the Council on Environmental Quality from considering, in taking any action, the social cost of carbon, the social cost of methane, the social cost of nitrous oxide, or the social cost of any other greenhouse gas, unless compliant with Office of Management and Budget guidance, and for other purposes.</title>
+    <title type="display">Transparency and Honesty in Energy Regulations Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="L000575"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001261" joined="2017-06-29"/>
+    <cosponsor bioguide_id="B000575" joined="2017-06-29"/>
+    <cosponsor bioguide_id="C001047" joined="2017-07-13"/>
+    <cosponsor bioguide_id="C001056" joined="2017-06-29"/>
+    <cosponsor bioguide_id="C001095" joined="2017-07-18"/>
+    <cosponsor bioguide_id="I000024" joined="2017-06-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-29">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-06-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="3117"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Energy"/>
+    <term name="Department of the Interior"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Executive Office of the President"/>
+    <term name="Oil and gas"/>
+    <term name="Presidents and presidential powers, Vice Presidents"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

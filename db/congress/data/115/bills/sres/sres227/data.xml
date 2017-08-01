@@ -1,0 +1,36 @@
+<bill session="115" type="sr" number="227" updated="2017-07-29T04:37:28Z">
+  <state datetime="2017-07-20">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-20"/>
+  </status>
+  <introduced datetime="2017-07-20"/>
+  <titles>
+    <title type="official" as="introduced">A resolution recognizing "National Youth Sports Week" and the efforts by parents, volunteers, and national organizations in their efforts to promote healthy living and youth development.</title>
+    <title type="display">A resolution recognizing "National Youth Sports Week" and the efforts by parents, volunteers, and national organizations in their efforts to promote healthy living and youth development.</title>
+  </titles>
+  <sponsor bioguide_id="C001047"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000622" joined="2017-07-20"/>
+    <cosponsor bioguide_id="D000563" joined="2017-07-20"/>
+    <cosponsor bioguide_id="M000934" joined="2017-07-20"/>
+    <cosponsor bioguide_id="U000039" joined="2017-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-20">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-20" state="REFERRED">
+      <text>Referred to the Committee on Commerce, Science, and Transportation.</text>
+      <reference ref="CR S4119" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

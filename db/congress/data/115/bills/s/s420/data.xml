@@ -1,0 +1,46 @@
+<bill session="115" type="s" number="420" updated="2017-06-19T21:15:26Z">
+  <state datetime="2017-02-16">REFERRED</state>
+  <status>
+    <introduced datetime="2017-02-16"/>
+  </status>
+  <introduced datetime="2017-02-16"/>
+  <titles>
+    <title type="short" as="introduced">Iran Terror-Free Skies Act of 2017</title>
+    <title type="short" as="introduced">Iran Terror-Free Skies Act of 2017</title>
+    <title type="official" as="introduced">A bill to require the President to report on the use by the Government of Iran of commercial aircraft and related services for illicit military or other activities, and for other purposes.</title>
+    <title type="display">Iran Terror-Free Skies Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="R000595"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001056" joined="2017-02-16"/>
+    <cosponsor bioguide_id="P000612" joined="2017-02-16"/>
+    <cosponsor bioguide_id="R000605" joined="2017-03-01"/>
+    <cosponsor bioguide_id="S001197" joined="2017-02-16"/>
+    <cosponsor bioguide_id="Y000064" joined="2017-02-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-02-16">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-02-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="566"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Aviation and airports"/>
+    <term name="Congressional oversight"/>
+    <term name="Iran"/>
+    <term name="Middle East"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

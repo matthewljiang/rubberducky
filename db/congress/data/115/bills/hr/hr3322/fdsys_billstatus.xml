@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-20T13:03:20Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <createDate>2017-07-21T03:11:37Z</createDate>
+    <title>To amend the Internal Revenue Code of 1986 to require that States give preference in allocating low-income housing credit dollar amounts to projects which are committed to providing non-smoking buildings.</title>
+    <billNumber>3322</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <relatedBills />
+    <notes />
+    <policyArea />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-20</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-20</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <latestAction>
+      <actionDate>2017-07-20</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <constitutionalAuthorityStatementText />
+    <committeeReports />
+    <sponsors>
+      <item>
+        <firstName>Vicky</firstName>
+        <state>MO</state>
+        <middleName />
+        <bioguideId>H001053</bioguideId>
+        <byRequestType />
+        <party>R</party>
+        <district>4</district>
+        <lastName>Hartzler</lastName>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <identifiers>
+          <lisID>2032</lisID>
+          <gpoId>8012</gpoId>
+          <bioguideId>H001053</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to require that States give preference in allocating low-income housing credit dollar amounts to projects which are committed to providing non-smoking buildings.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to require that States give preference in allocating low-income housing credit dollar amounts to projects which are committed to providing non-smoking buildings.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <introducedDate>2017-07-20</introducedDate>
+    <version>1.0.0</version>
+    <cosponsors />
+    <amendments />
+    <cboCostEstimates />
+    <updateDate>2017-07-21T07:31:32Z</updateDate>
+    <laws />
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

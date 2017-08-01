@@ -1,0 +1,41 @@
+<bill session="115" type="s" number="1577" updated="2017-07-31T12:45:15Z">
+  <state datetime="2017-07-18">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-18"/>
+  </status>
+  <introduced datetime="2017-07-18"/>
+  <titles>
+    <title type="short" as="introduced">Separation of Powers Restoration Act of 2017</title>
+    <title type="short" as="introduced">Separation of Powers Restoration Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, with respect to the judicial review of agency interpretations of statutory and regulatory provisions.</title>
+    <title type="display">Separation of Powers Restoration Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="H000338"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001056" joined="2017-07-18"/>
+    <cosponsor bioguide_id="C000880" joined="2017-07-18"/>
+    <cosponsor bioguide_id="C001098" joined="2017-07-18"/>
+    <cosponsor bioguide_id="F000444" joined="2017-07-18"/>
+    <cosponsor bioguide_id="G000386" joined="2017-07-18"/>
+    <cosponsor bioguide_id="K000393" joined="2017-07-18"/>
+    <cosponsor bioguide_id="L000575" joined="2017-07-18"/>
+    <cosponsor bioguide_id="L000577" joined="2017-07-18"/>
+    <cosponsor bioguide_id="S001197" joined="2017-07-18"/>
+    <cosponsor bioguide_id="T000476" joined="2017-07-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-18">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

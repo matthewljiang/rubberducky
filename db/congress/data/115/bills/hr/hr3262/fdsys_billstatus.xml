@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <billNumber>3262</billNumber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-07-28T15:04:20Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-07-19T21:04:15Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-17T16:00:06Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00192</calendar>
+      </item>
+    </calendarNumbers>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Grow Our Own Directive: Physician Assistant Employment and Education Act of 2017</strong></p> <p>This bill directs the Department of Veterans Affairs (VA) to carry out the Grow Our Own Directive or G.O.O.D. pilot program to provide educational assistance to certain former members of the Armed Forces for education and training as VA physician assistants. </p> <p>An individual is eligible to participate in the program if the individual: </p> <ul> <li>has medical or military health experience gained while serving in the Armed Forces; </li> <li>has received a certificate, associate degree, baccalaureate degree, master's degree, or postbaccalaureate training in a science relating to health care; </li> <li>has participated in the delivery of health care services or related medical services; and </li> <li>does not have a degree of doctor of medicine, doctor of osteopathy, or doctor of dentistry. </li> </ul> <p>The VA shall: </p> <ul> <li>provide educational assistance to program participants for the costs of obtaining a master's degree in physician assistant studies or a similar master's degree, </li> <li> ensure that mentors are available for program participants at each VA facility at which a participant is employed, and </li> <li>seek to partner with specified government programs and with appropriate educational institutions that offer degrees in physician assistant studies.</li> </ul> <p>The VA shall: </p> <ul> <li>establish specified standards to improve the education and and hiring of VA physician assistants, and </li> <li>implement a national plan for the retention and recruitment of VA physician assistants that includes the adoption of competitive pay standards. </li> </ul> <p>VA physician assistant pay grades are established.</p>]]></text>
+          <actionDate>2017-07-17</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-07-29T12:47:40Z</lastSummaryUpdateDate>
+          <updateDate>2017-07-17T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <number>426</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-07-11</actionDate>
+          <text>Committee on Veterans' Affairs. Hearings held.</text>
+        </latestAction>
+        <latestTitle>Grow Our Own Directive: Physician Assistant Employment and Education Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+        <title>Grow Our Own Directive: Physician Assistant Employment and Education Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+        <title>Grow Our Own Directive: Physician Assistant Employment and Education Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Grow Our Own Directive: Physician Assistant Employment and Education Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType>Official Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <title>To require the Secretary of Veterans Affairs to carry out a pilot program to provide educational assistance to certain former members of the Armed Forces for education and training as physician assistants of the Department of Veterans Affairs, and for other purposes.</title>
+        <titleType>Official Titles as Amended by House</titleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>To require the Secretary of Veterans Affairs to carry out a pilot program to provide educational assistance to certain former members of the Armed Forces for education and training as physician assistants of the Department of Veterans Affairs, to establish pay grades and require competitive pay for physician assistants of the Department, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>To require the Secretary of Veterans Affairs to carry out a pilot program to provide educational assistance to certain former members of the Armed Forces for education and training as physician assistants of the Department of Veterans Affairs, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Grow Our Own Directive: Physician Assistant Employment and Education Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <createDate>2017-07-18T03:11:32Z</createDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-267</citation>
+      </committeeReport>
+    </committeeReports>
+    <billType>HR</billType>
+    <updateDate>2017-07-31T15:42:16Z</updateDate>
+    <actions>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <text>The title of the measure was amended. Agreed to without objection.</text>
+        <actionCode>H38800</actionCode>
+        <actionTime>11:23:56</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <actionTime>11:23:54</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6540-6542</url>
+            <name>H6540-6542</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6540-6542)</text>
+        <actionCode>H37300</actionCode>
+        <actionTime>11:23:52</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <actionCode>8000</actionCode>
+        <actionTime>11:23:52</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3262</url>
+            <name>H.R. 3262</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3262.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>11:12:59</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6540-6543</url>
+            <name>H6540-6543</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <text>Considered under suspension of the rules. (consideration: CR H6540-6543)</text>
+        <actionCode>H30000</actionCode>
+        <actionTime>11:12:58</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <text>Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.</text>
+        <actionCode>H30300</actionCode>
+        <actionTime>11:12:28</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 192.</text>
+        <actionCode>H12410</actionCode>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/267</url>
+            <name>H. Rept. 115-267</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <actionDate>2017-07-28</actionDate>
+        <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-267.</text>
+        <actionCode>H12200</actionCode>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/267</url>
+            <name>H. Rept. 115-267</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <actionDate>2017-07-28</actionDate>
+        <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-267.</text>
+        <actionCode>5000</actionCode>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <actionDate>2017-07-17</actionDate>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-17</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-17</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <reportedToHouse>1</reportedToHouse>
+        <amendingTheTitleOfAnActWithoutObjection>1</amendingTheTitleOfAnActWithoutObjection>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <considerationByHouse>1</considerationByHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <actionStageOverride>1</actionStageOverride>
+        <generalDebate>1</generalDebate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>15</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <district>1</district>
+        <fullName>Rep. Bergman, Jack [R-MI-1]</fullName>
+        <firstName>Jack</firstName>
+        <lastName>Bergman</lastName>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <bioguideId>B001301</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001301</bioguideId>
+          <lisID>2333</lisID>
+        </identifiers>
+        <party>R</party>
+        <state>MI</state>
+      </item>
+    </cosponsors>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. KUSTER of New Hampshire:H.R. 3262.Congress has the power to enact this legislation pursuantto the following:Under Article I, Section 8 of the Constitution, Congresshas the power ``to make all Laws which shall be necessary andproper for carrying into Execution the foregoing Powers, andall other Powers vested by this Constitution in theGovernment of the United States, or any Department or Officerthereof.''[Page H5920]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <latestAction>
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+      <actionDate>2017-07-28</actionDate>
+      <links />
+      <actionTime>11:23:56</actionTime>
+    </latestAction>
+    <sponsors>
+      <item>
+        <lastName>Kuster</lastName>
+        <district>2</district>
+        <bioguideId>K000382</bioguideId>
+        <firstName>Ann</firstName>
+        <party>D</party>
+        <byRequestType />
+        <state>NH</state>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+          <lisID>2145</lisID>
+        </identifiers>
+        <middleName>M.</middleName>
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-07-24T16:46:59Z</pubDate>
+        <title>H.R. 3262, Grow Our Own Directive: Physician Assistant Employment and Education Act of 2027</title>
+        <url>https://www.cbo.gov/publication/52961</url>
+      </item>
+    </cboCostEstimates>
+    <title>To require the Secretary of Veterans Affairs to carry out a pilot program to provide educational assistance to certain former members of the Armed Forces for education and training as physician assistants of the Department of Veterans Affairs, and for other purposes.</title>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <introducedDate>2017-07-17</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Recognizing America’s Children Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Recognizing America's Children Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To authorize the cancellation of removal and adjustment of status of certain aliens who are long-term United States residents and who entered the United States as children, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Recognizing America's Children Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>3</placeholderTextForH>
+        <billReferrals>3</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-03-22</actionDate>
+        <committee>
+          <name>Counterterrorism and Intelligence Subcommittee</name>
+          <systemCode>hshm05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-22</actionDate>
+        <committee>
+          <name>Border and Maritime Security Subcommittee</name>
+          <systemCode>hshm11</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-21</actionDate>
+        <committee>
+          <name>Immigration and Border Security Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <actionDate>2017-03-09</actionDate>
+        <text>Referred to House Armed Services</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <actionDate>2017-03-09</actionDate>
+        <text>Referred to House Homeland Security</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionDate>2017-03-09</actionDate>
+        <text>Referred to House Judiciary</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-03-09</actionDate>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-03-09</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-03-09</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Citizenship and naturalization</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Foreign labor</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <congress>115</congress>
+    <title>Recognizing America's Children Act</title>
+    <billType>HR</billType>
+    <sponsors>
+      <item>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <bioguideId>C001107</bioguideId>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001107</bioguideId>
+          <lisID>2235</lisID>
+        </identifiers>
+        <lastName>Curbelo</lastName>
+        <middleName />
+        <firstName>Carlos</firstName>
+        <district>26</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2017-03-09</introducedDate>
+    <billNumber>1468</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2017-06-24T07:16:23Z</updateDate>
+    <relatedBills />
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CO</state>
+        <party>R</party>
+        <district>6</district>
+        <identifiers>
+          <gpoId>7864</gpoId>
+          <bioguideId>C001077</bioguideId>
+          <lisID>1912</lisID>
+        </identifiers>
+        <lastName>Coffman</lastName>
+        <bioguideId>C001077</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeff</firstName>
+        <fullName>Rep. Denham, Jeff [R-CA-10]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <party>R</party>
+        <district>10</district>
+        <identifiers>
+          <bioguideId>D000612</bioguideId>
+          <lisID>1995</lisID>
+          <gpoId>7824</gpoId>
+        </identifiers>
+        <lastName>Denham</lastName>
+        <bioguideId>D000612</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Mario</firstName>
+        <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>FL</state>
+        <party>R</party>
+        <district>25</district>
+        <identifiers>
+          <bioguideId>D000600</bioguideId>
+          <lisID>1717</lisID>
+          <gpoId>7893</gpoId>
+        </identifiers>
+        <lastName>Diaz-Balart</lastName>
+        <bioguideId>D000600</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>ILEANA</firstName>
+        <fullName>Rep. Ros-Lehtinen, Ileana [R-FL-27]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>FL</state>
+        <party>R</party>
+        <district>27</district>
+        <identifiers>
+          <bioguideId>R000435</bioguideId>
+          <lisID>985</lisID>
+          <gpoId>7890</gpoId>
+        </identifiers>
+        <lastName>ROS-LEHTINEN</lastName>
+        <bioguideId>R000435</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NV</state>
+        <party>R</party>
+        <district>2</district>
+        <identifiers>
+          <lisID>2090</lisID>
+          <gpoId>8366</gpoId>
+          <bioguideId>A000369</bioguideId>
+        </identifiers>
+        <lastName>Amodei</lastName>
+        <bioguideId>A000369</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>G.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <fullName>Rep. Valadao, David G. [R-CA-21]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <party>R</party>
+        <district>21</district>
+        <identifiers>
+          <bioguideId>V000129</bioguideId>
+          <lisID>2105</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Valadao</lastName>
+        <bioguideId>V000129</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Jenniffer</firstName>
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PR</state>
+        <party>R</party>
+        <district>0</district>
+        <identifiers>
+          <bioguideId>G000582</bioguideId>
+          <lisID>2347</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Gonzalez-Colon</lastName>
+        <bioguideId>G000582</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>FRED</firstName>
+        <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MI</state>
+        <party>R</party>
+        <district>6</district>
+        <identifiers>
+          <bioguideId>U000031</bioguideId>
+          <lisID>1177</lisID>
+          <gpoId>7991</gpoId>
+        </identifiers>
+        <lastName>UPTON</lastName>
+        <bioguideId>U000031</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>G.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WA</state>
+        <party>R</party>
+        <district>8</district>
+        <identifiers>
+          <gpoId>8212</gpoId>
+          <bioguideId>R000578</bioguideId>
+          <lisID>1810</lisID>
+        </identifiers>
+        <lastName>Reichert</lastName>
+        <bioguideId>R000578</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Adam</firstName>
+        <fullName>Rep. Kinzinger, Adam [R-IL-16]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <party>R</party>
+        <district>16</district>
+        <identifiers>
+          <gpoId>7931</gpoId>
+          <bioguideId>K000378</bioguideId>
+          <lisID>2014</lisID>
+        </identifiers>
+        <lastName>Kinzinger</lastName>
+        <bioguideId>K000378</bioguideId>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Daniel</firstName>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <party>R</party>
+        <district>11</district>
+        <identifiers>
+          <bioguideId>D000625</bioguideId>
+          <lisID>2293</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Donovan</lastName>
+        <bioguideId>D000625</bioguideId>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Scott</firstName>
+        <fullName>Rep. Taylor, Scott [R-VA-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VA</state>
+        <party>R</party>
+        <district>2</district>
+        <identifiers>
+          <lisID>2351</lisID>
+          <gpoId />
+          <bioguideId>T000477</bioguideId>
+        </identifiers>
+        <lastName>Taylor</lastName>
+        <bioguideId>T000477</bioguideId>
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <fullName>Rep. Faso, John J. [R-NY-19]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <party>R</party>
+        <district>19</district>
+        <identifiers>
+          <bioguideId>F000464</bioguideId>
+          <lisID>2343</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Faso</lastName>
+        <bioguideId>F000464</bioguideId>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Martha</firstName>
+        <fullName>Rep. McSally, Martha [R-AZ-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+        <party>R</party>
+        <district>2</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001197</bioguideId>
+          <lisID>2225</lisID>
+        </identifiers>
+        <lastName>McSally</lastName>
+        <bioguideId>M001197</bioguideId>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Dan</firstName>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WA</state>
+        <party>R</party>
+        <district>4</district>
+        <identifiers>
+          <lisID>2275</lisID>
+          <gpoId />
+          <bioguideId>N000189</bioguideId>
+        </identifiers>
+        <lastName>Newhouse</lastName>
+        <bioguideId>N000189</bioguideId>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Don</firstName>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NE</state>
+        <party>R</party>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>B001298</bioguideId>
+          <lisID>2337</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Bacon</lastName>
+        <bioguideId>B001298</bioguideId>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Brian</firstName>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <party>R</party>
+        <district>8</district>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <lastName>Fitzpatrick</lastName>
+        <bioguideId>F000466</bioguideId>
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <notes />
+    <amendments />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CURBELO of Florida:H.R. 1468.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 4:The Congress shall have Power * * * To establish an uniformRule of Naturalization, and uniform Laws on the subject ofBankruptcies throughout the United States.[Page H2020]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <latestAction>
+      <links />
+      <actionDate>2017-03-22</actionDate>
+      <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+    </latestAction>
+    <calendarNumbers />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <createDate>2017-03-10T05:16:37Z</createDate>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hshm05</systemCode>
+              <name>Counterterrorism and Intelligence Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-03-22T20:57:27Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <systemCode>hshm11</systemCode>
+              <name>Border and Maritime Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-03-22T20:39:03Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-03-09T15:08:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Border Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-03-21T13:47:16Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-03-09T15:08:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-03-09T15:08:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

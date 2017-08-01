@@ -1,0 +1,32 @@
+<bill session="115" type="h" number="3500" updated="2017-07-28T07:32:36Z">
+  <state datetime="2017-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-27"/>
+  </status>
+  <introduced datetime="2017-07-27"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to prohibit the Commissioner of the Internal Revenue Service from rehiring any employee of the Internal Revenue Service who was involuntarily separated from service for misconduct.</title>
+    <title type="display">To amend the Internal Revenue Code of 1986 to prohibit the Commissioner of the Internal Revenue Service from rehiring any employee of the Internal Revenue Service who was involuntarily separated from service for misconduct.</title>
+  </titles>
+  <sponsor bioguide_id="N000184"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001273" joined="2017-07-27"/>
+    <cosponsor bioguide_id="R000597" joined="2017-07-27"/>
+    <cosponsor bioguide_id="R000580" joined="2017-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-27" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

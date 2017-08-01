@@ -1,0 +1,31 @@
+<bill session="115" type="h" number="3344" updated="2017-07-21T07:31:35Z">
+  <state datetime="2017-07-20">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-20"/>
+  </status>
+  <introduced datetime="2017-07-20"/>
+  <titles>
+    <title type="official" as="introduced">To amend the STEM Education Act of 2015 to require the National Science Foundation to promote the integration of art and design in STEM education, and for other purposes.</title>
+    <title type="display">To amend the STEM Education Act of 2015 to require the National Science Foundation to promote the integration of art and design in STEM education, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="L000559"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001278" joined="2017-07-20"/>
+    <cosponsor bioguide_id="S001196" joined="2017-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-20">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-20" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <bioguideId>S000583</bioguideId>
+        <party>R</party>
+        <district>21</district>
+        <middleName />
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8177</gpoId>
+          <lisID>1075</lisID>
+          <bioguideId>S000583</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <firstName>LAMAR</firstName>
+        <lastName>SMITH</lastName>
+      </item>
+      <item>
+        <bioguideId>M001181</bioguideId>
+        <party>R</party>
+        <district>7</district>
+        <middleName />
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001181</bioguideId>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <firstName>Patrick</firstName>
+        <lastName>Meehan</lastName>
+      </item>
+      <item>
+        <bioguideId>C000266</bioguideId>
+        <party>R</party>
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <state>OH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+          <gpoId>8091</gpoId>
+          <lisID>186</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <firstName>STEVE</firstName>
+        <lastName>CHABOT</lastName>
+      </item>
+      <item>
+        <bioguideId>Q000023</bioguideId>
+        <party>D</party>
+        <district>5</district>
+        <middleName />
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <state>IL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+          <lisID>1967</lisID>
+          <gpoId>7925</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <firstName>Mike</firstName>
+        <lastName>Quigley</lastName>
+      </item>
+      <item>
+        <bioguideId>P000592</bioguideId>
+        <party>R</party>
+        <district>2</district>
+        <middleName />
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1802</lisID>
+          <gpoId>8158</gpoId>
+          <bioguideId>P000592</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <firstName>Ted</firstName>
+        <lastName>Poe</lastName>
+      </item>
+      <item>
+        <bioguideId>C001049</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <middleName>LACY</middleName>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <state>MO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001049</bioguideId>
+          <gpoId>8009</gpoId>
+          <lisID>1654</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <firstName>WM.</firstName>
+        <lastName>CLAY</lastName>
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <party>D</party>
+        <district>0</district>
+        <middleName>HOLMES</middleName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <state>DC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+      </item>
+      <item>
+        <bioguideId>K000382</bioguideId>
+        <party>D</party>
+        <district>2</district>
+        <middleName>M.</middleName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <state>NH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2145</lisID>
+          <gpoId />
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <firstName>Ann</firstName>
+        <lastName>Kuster</lastName>
+      </item>
+      <item>
+        <bioguideId>M000312</bioguideId>
+        <party>D</party>
+        <district>2</district>
+        <middleName>P.</middleName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <state>MA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <title>PROTECT Our Children Act of 2017</title>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>PROTECT Our Children Act of 2017</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Providing Resources, Officers, and Technology To Eradicate Cyber Threats to Our Children Act of 2017</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>PROTECT Our Children Act of 2017</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Providing Resources, Officers, and Technology To Eradicate Cyber Threats to Our Children Act of 2017</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To reauthorize the National Internet Crimes Against Children Task Force Program, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>PROTECT Our Children Act of 2017</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>1846</billNumber>
+    <recordedVotes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>782</number>
+        <latestTitle>Providing Resources, Officers, and Technology To Eradicate Cyber Threats to Our Children Act of 2017</latestTitle>
+        <type>S</type>
+        <latestAction>
+          <text>Referred to the House Committee on the Judiciary.</text>
+          <actionDate>2017-06-20</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Domestic violence and child abuse</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Pornography</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. WASSERMAN SCHULTZ:H.R. 1846.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution.[Page H2601]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>W000797</bioguideId>
+        <firstName>Debbie</firstName>
+        <district>23</district>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <identifiers>
+          <bioguideId>W000797</bioguideId>
+          <lisID>1777</lisID>
+          <gpoId>7892</gpoId>
+        </identifiers>
+        <lastName>Wasserman Schultz</lastName>
+        <middleName />
+        <party>D</party>
+        <byRequestType />
+        <state>FL</state>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <introducedDate>2017-03-30</introducedDate>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+      <actionDate>2017-04-24</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-03-30T13:07:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <date>2017-04-24T15:32:45Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-07-26T16:00:14Z</updateDate>
+    <createDate>2017-03-31T05:07:10Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2017-04-24</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-03-30</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-30</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-30</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

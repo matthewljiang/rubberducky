@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. DeEGETTE:H.R. 3271.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3[Page H5921]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-29T07:17:51Z</updateDate>
+    <relatedBills />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2017-07-17</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>CO</state>
+        <middleName />
+        <firstName>DIANA</firstName>
+        <lastName>DEGETTE</lastName>
+        <fullName>Rep. DeGette, Diana [D-CO-1]</fullName>
+        <identifiers>
+          <bioguideId>D000197</bioguideId>
+          <lisID>1479</lisID>
+          <gpoId>7859</gpoId>
+        </identifiers>
+        <byRequestType />
+        <district>1</district>
+        <bioguideId>D000197</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>Protecting Access to Diabetes Supplies Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend title XVIII of the Social Security Act in order to strengthen rules in case of competition for diabetic testing strips, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Protecting Access to Diabetes Supplies Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Protecting Access to Diabetes Supplies Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-07-17</introducedDate>
+    <policyArea />
+    <title>Protecting Access to Diabetes Supplies Act of 2017</title>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-17</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-17</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-17</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-17</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2129</lisID>
+          <gpoId />
+          <bioguideId>B001284</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName>W.</middleName>
+        <district>5</district>
+        <firstName>Susan</firstName>
+        <bioguideId>B001284</bioguideId>
+        <lastName>Brooks</lastName>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <state>IN</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000585</bioguideId>
+          <lisID>1982</lisID>
+          <gpoId>8090</gpoId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <district>23</district>
+        <firstName>Tom</firstName>
+        <bioguideId>R000585</bioguideId>
+        <lastName>Reed</lastName>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7954</gpoId>
+          <lisID>1922</lisID>
+          <bioguideId>G000558</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <district>2</district>
+        <firstName>Brett</firstName>
+        <bioguideId>G000558</bioguideId>
+        <lastName>Guthrie</lastName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <state>KY</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7881</gpoId>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <district>12</district>
+        <firstName>Gus</firstName>
+        <bioguideId>B001257</bioguideId>
+        <lastName>Bilirakis</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000619</bioguideId>
+          <lisID>2126</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <district>13</district>
+        <firstName>Rodney</firstName>
+        <bioguideId>D000619</bioguideId>
+        <lastName>Davis</lastName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <createDate>2017-07-18T03:11:33Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-17T16:00:26Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-17T16:00:21Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>3271</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

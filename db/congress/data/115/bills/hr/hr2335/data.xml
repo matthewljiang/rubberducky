@@ -1,0 +1,37 @@
+<bill session="115" type="h" number="2335" updated="2017-06-19T22:15:27Z">
+  <state datetime="2017-05-03">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-03"/>
+  </status>
+  <introduced datetime="2017-05-03"/>
+  <titles>
+    <title type="short" as="introduced">Equal Access to Congressional Research Service Reports Act of 2017</title>
+    <title type="short" as="introduced">Equal Access to Congressional Research Service Reports Act of 2017</title>
+    <title type="official" as="introduced">To direct the Director of the Government Publishing Office to provide members of the public with Internet access to Congressional Research Service reports, and for other purposes.</title>
+    <title type="display">Equal Access to Congressional Research Service Reports Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="L000567"/>
+  <cosponsors>
+    <cosponsor bioguide_id="F000460" joined="2017-05-23"/>
+    <cosponsor bioguide_id="M000312" joined="2017-05-23"/>
+    <cosponsor bioguide_id="N000147" joined="2017-05-23"/>
+    <cosponsor bioguide_id="Q000023" joined="2017-05-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-03">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-03" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

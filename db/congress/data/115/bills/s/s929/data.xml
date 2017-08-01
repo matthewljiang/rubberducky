@@ -1,0 +1,37 @@
+<bill session="115" type="s" number="929" updated="2017-06-22T14:23:24Z">
+  <state datetime="2017-04-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-25"/>
+  </status>
+  <introduced datetime="2017-04-25"/>
+  <titles>
+    <title type="short" as="introduced">Invest in Rural Small Business Act of 2017</title>
+    <title type="short" as="introduced">Invest in Rural Small Business Act of 2017</title>
+    <title type="official" as="introduced">A bill to improve the HUBZone program.</title>
+    <title type="display">Invest in Rural Small Business Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="S001181"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000944" joined="2017-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-25">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-04-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+    <action datetime="2017-04-26">
+      <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Hearings, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

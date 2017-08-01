@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <committeeReports />
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RYAN of Ohio:H.R. 1793.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8: To make all Laws which shall benecessary and proper for carrying into Execution for theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H2560]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <party>R</party>
+        <lastName>Costello</lastName>
+        <firstName>Ryan</firstName>
+        <bioguideId>C001106</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2266</lisID>
+          <gpoId />
+          <bioguideId>C001106</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <party>D</party>
+        <lastName>Sinema</lastName>
+        <firstName>Kyrsten</firstName>
+        <bioguideId>S001191</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+          <gpoId />
+        </identifiers>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <middleName />
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <party>D</party>
+        <lastName>Quigley</lastName>
+        <firstName>Mike</firstName>
+        <bioguideId>Q000023</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7925</gpoId>
+          <bioguideId>Q000023</bioguideId>
+          <lisID>1967</lisID>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <middleName />
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <party>D</party>
+        <lastName>Shea-Porter</lastName>
+        <firstName>Carol</firstName>
+        <bioguideId>S001170</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <middleName />
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <party>D</party>
+        <lastName>Peters</lastName>
+        <firstName>Scott</firstName>
+        <bioguideId>P000608</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2113</lisID>
+          <gpoId />
+          <bioguideId>P000608</bioguideId>
+        </identifiers>
+        <district>52</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <party>D</party>
+        <lastName>Bordallo</lastName>
+        <firstName>Madeleine</firstName>
+        <bioguideId>B001245</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1723</lisID>
+          <gpoId>7911</gpoId>
+          <bioguideId>B001245</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <state>GU</state>
+        <middleName>Z.</middleName>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <party>D</party>
+        <lastName>Cohen</lastName>
+        <firstName>Steve</firstName>
+        <bioguideId>C001068</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+        <middleName />
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>764</number>
+        <latestTitle>Veterans Education Priority Enrollment Act of 2017</latestTitle>
+        <type>S</type>
+        <latestAction>
+          <text>Committee on Veterans' Affairs. Hearings held.</text>
+          <actionDate>2017-05-17</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <actionDate>2017-04-12</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <originChamber>House</originChamber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-04-12</actionDate>
+        <committee>
+          <name>Military Personnel Subcommittee</name>
+          <systemCode>hsas02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <committee>
+          <name>Economic Opportunity Subcommittee</name>
+          <systemCode>hsvr10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to House Armed Services</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-03-29</actionDate>
+      </item>
+      <item>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to House Veterans' Affairs</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-03-29</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-03-29</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-03-29</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-03-29</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <district>13</district>
+        <firstName>TIM</firstName>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <state>OH</state>
+        <middleName />
+        <bioguideId>R000577</bioguideId>
+        <identifiers>
+          <gpoId>8107</gpoId>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+        </identifiers>
+        <party>D</party>
+        <byRequestType />
+        <lastName>RYAN</lastName>
+      </item>
+    </sponsors>
+    <billNumber>1793</billNumber>
+    <createDate>2017-03-30T04:33:08Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>Veterans Education Priority Enrollment Act</strong> <b>of 2017</b></p> <p>This bill prohibits the Department of Veterans Affairs or a state approving agency from approving a program of education offered by an educational institution for purposes of an educational assistance program for veterans or members of the Selected Reserve or the Ready Reserve of the Armed Forces unless any such institution that administers a priority enrollment system allows an eligible veteran, member, or dependent to enroll in courses at the earliest possible time.</p> <BR>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-03-29</actionDate>
+          <updateDate>2017-03-29T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-04-08T13:26:00Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+          <activities>
+            <item>
+              <date>2017-03-29T12:00:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Military Personnel Subcommittee</name>
+              <systemCode>hsas02</systemCode>
+              <activities>
+                <item>
+                  <date>2017-04-12T17:05:41Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+          <activities>
+            <item>
+              <date>2017-03-29T12:00:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Economic Opportunity Subcommittee</name>
+              <systemCode>hsvr10</systemCode>
+              <activities>
+                <item>
+                  <date>2017-03-29T20:03:31Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Veterans Education Priority Enrollment Act of 2017'.</title>
+    <introducedDate>2017-03-29</introducedDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <title>Veterans Education Priority Enrollment Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Veterans Education Priority Enrollment Act of 2017'.</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend title 38, United States Code, to improve the enrollment of veterans in certain courses of education, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Veterans Education Priority Enrollment Act of 2017'.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <updateDate>2017-07-28T08:56:13Z</updateDate>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

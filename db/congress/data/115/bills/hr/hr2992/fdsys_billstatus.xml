@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <title>Fairness in Forgiveness Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>To amend the Higher Education Act of 1965 to expand eligibility for public service student loan forgiveness to certain contractor employees of national laboratories.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Fairness in Forgiveness Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <title>Fairness in Forgiveness Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-06-21T14:01:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+          <name>Education and the Workforce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Department of Energy</name>
+          </item>
+          <item>
+            <name>Energy research</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <introducedDate>2017-06-21</introducedDate>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SWALWELL of California:H.R. 2992.Congress has the power to enact this legislation pursuantto the following:Article I, Sections 8 and 9[Page H5049]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <lastName>Swalwell</lastName>
+        <byRequestType />
+        <party>D</party>
+        <firstName>Eric</firstName>
+        <middleName />
+        <district>15</district>
+        <identifiers>
+          <lisID>2104</lisID>
+          <gpoId />
+          <bioguideId>S001193</bioguideId>
+        </identifiers>
+        <bioguideId>S001193</bioguideId>
+        <state>CA</state>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <district>19</district>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <bioguideId>L000397</bioguideId>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <lastName>LOFGREN</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>ZOE</firstName>
+        <state>CA</state>
+      </item>
+      <item>
+        <district>3</district>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <bioguideId>L000570</bioguideId>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <lastName>Lujan</lastName>
+        <middleName>Ray</middleName>
+        <identifiers>
+          <gpoId>8058</gpoId>
+          <lisID>1939</lisID>
+          <bioguideId>L000570</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ben</firstName>
+        <state>NM</state>
+      </item>
+      <item>
+        <district>1</district>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <bioguideId>L000580</bioguideId>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <lastName>Lujan Grisham</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000580</bioguideId>
+          <lisID>2146</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Michelle</firstName>
+        <state>NM</state>
+      </item>
+      <item>
+        <district>13</district>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <bioguideId>L000551</bioguideId>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <lastName>LEE</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>BARBARA</firstName>
+        <state>CA</state>
+      </item>
+      <item>
+        <district>7</district>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <bioguideId>P000593</bioguideId>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <lastName>Perlmutter</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>1835</lisID>
+          <gpoId>7865</gpoId>
+          <bioguideId>P000593</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ed</firstName>
+        <state>CO</state>
+      </item>
+      <item>
+        <district>29</district>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <bioguideId>C001097</bioguideId>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <lastName>Cardenas</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001097</bioguideId>
+          <gpoId />
+          <lisID>2107</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tony</firstName>
+        <state>CA</state>
+      </item>
+      <item>
+        <district>27</district>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <bioguideId>C001080</bioguideId>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <lastName>Chu</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>1970</lisID>
+          <bioguideId>C001080</bioguideId>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Judy</firstName>
+        <state>CA</state>
+      </item>
+    </cosponsors>
+    <amendments />
+    <notes />
+    <latestAction>
+      <actionDate>2017-06-21</actionDate>
+      <links />
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </latestAction>
+    <billNumber>2992</billNumber>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-06-21</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-06-21</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-06-21</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <title>Fairness in Forgiveness Act of 2017</title>
+    <recordedVotes />
+    <committeeReports />
+    <version>1.0.0</version>
+    <updateDate>2017-07-14T07:16:14Z</updateDate>
+    <originChamber>House</originChamber>
+    <laws />
+    <calendarNumbers />
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <createDate>2017-06-22T08:44:32Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

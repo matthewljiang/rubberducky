@@ -1,0 +1,145 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-12", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-12", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1532-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001277", 
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-27", 
+      "state": "CT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001056", 
+      "district": null, 
+      "name": "Cornyn, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-13", 
+      "state": "TX", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000367", 
+      "district": null, 
+      "name": "Klobuchar, Amy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-12", 
+      "state": "MN", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000032", 
+      "district": null, 
+      "name": "Nelson, Bill", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-12", 
+      "state": "FL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000595", 
+      "district": null, 
+      "name": "Rubio, Marco", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-13", 
+      "state": "FL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-12", 
+  "number": "1532", 
+  "official_title": "A bill to disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving human trafficking.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "No Human Trafficking on Our Roads Act", 
+  "sponsor": {
+    "bioguide_id": "T000250", 
+    "district": null, 
+    "name": "Thune, John", 
+    "state": "SD", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-07-12", 
+  "subjects": [
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "No Human Trafficking on Our Roads Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "No Human Trafficking on Our Roads Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving human trafficking.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "No Human Trafficking on Our Roads Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-28T11:36:03Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1532.xml"
+}

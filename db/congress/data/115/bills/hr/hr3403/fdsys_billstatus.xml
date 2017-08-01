@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000576</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7977</gpoId>
+          <bioguideId>R000576</bioguideId>
+          <lisID>1728</lisID>
+        </identifiers>
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+        <party>D</party>
+        <firstName>C. A.</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <lastName>Ruppersberger</lastName>
+        <middleName>Dutch</middleName>
+        <state>MD</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000804</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000804</bioguideId>
+          <lisID>1886</lisID>
+          <gpoId>8192</gpoId>
+        </identifiers>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <party>R</party>
+        <firstName>Robert</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <lastName>Wittman</lastName>
+        <middleName>J.</middleName>
+        <state>VA</state>
+      </item>
+    </cosponsors>
+    <billNumber>3403</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-07-26</introducedDate>
+    <updateDate>2017-07-27T07:31:48Z</updateDate>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-26</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-26</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-26</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001304</bioguideId>
+        <middleName>G.</middleName>
+        <lastName>Brown</lastName>
+        <identifiers>
+          <lisID>2331</lisID>
+          <gpoId />
+          <bioguideId>B001304</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <state>MD</state>
+        <district>4</district>
+        <firstName>Anthony</firstName>
+        <fullName>Rep. Brown, Anthony G. [D-MD-4]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <title>To provide for an interagency cyber victim coordinator to respond to data breaches and other cyber attacks on Federal employees.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To provide for an interagency cyber victim coordinator to respond to data breaches and other cyber attacks on Federal employees.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2017-07-27T03:11:33Z</createDate>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-26T14:03:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2017-07-26</actionDate>
+      <links />
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <amendments />
+    <policyArea />
+    <relatedBills />
+    <title>To provide for an interagency cyber victim coordinator to respond to data breaches and other cyber attacks on Federal employees.</title>
+    <constitutionalAuthorityStatementText />
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

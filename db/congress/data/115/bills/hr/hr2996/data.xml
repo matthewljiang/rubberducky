@@ -1,0 +1,65 @@
+<bill session="115" type="h" number="2996" updated="2017-07-29T07:17:38Z">
+  <state datetime="2017-06-22">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-22"/>
+  </status>
+  <introduced datetime="2017-06-22"/>
+  <titles>
+    <title type="short" as="introduced">Supplemental Nutrition Assistance Program Reform Act of 2017</title>
+    <title type="short" as="introduced">Supplemental Nutrition Assistance Program Reform Act of 2017</title>
+    <title type="official" as="introduced">To amend the Food and Nutrition Act of 2008 to modify the work requirement applicable to able-bodied adults without dependents.</title>
+    <title type="display">Supplemental Nutrition Assistance Program Reform Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="G000577"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000372" joined="2017-07-26"/>
+    <cosponsor bioguide_id="B001291" joined="2017-06-29"/>
+    <cosponsor bioguide_id="B001299" joined="2017-06-29"/>
+    <cosponsor bioguide_id="B001282" joined="2017-07-19"/>
+    <cosponsor bioguide_id="B001302" joined="2017-07-28"/>
+    <cosponsor bioguide_id="B001293" joined="2017-07-25"/>
+    <cosponsor bioguide_id="B001290" joined="2017-07-14"/>
+    <cosponsor bioguide_id="B001305" joined="2017-07-28"/>
+    <cosponsor bioguide_id="C001048" joined="2017-07-28"/>
+    <cosponsor bioguide_id="D000616" joined="2017-07-19"/>
+    <cosponsor bioguide_id="F000460" joined="2017-07-25"/>
+    <cosponsor bioguide_id="F000461" joined="2017-07-19"/>
+    <cosponsor bioguide_id="G000565" joined="2017-07-19"/>
+    <cosponsor bioguide_id="G000546" joined="2017-07-25"/>
+    <cosponsor bioguide_id="J000299" joined="2017-07-14"/>
+    <cosponsor bioguide_id="L000564" joined="2017-07-25"/>
+    <cosponsor bioguide_id="L000583" joined="2017-07-28"/>
+    <cosponsor bioguide_id="L000569" joined="2017-07-25"/>
+    <cosponsor bioguide_id="M001187" joined="2017-07-26"/>
+    <cosponsor bioguide_id="P000606" joined="2017-07-25"/>
+    <cosponsor bioguide_id="R000601" joined="2017-07-19"/>
+    <cosponsor bioguide_id="R000597" joined="2017-07-26"/>
+    <cosponsor bioguide_id="S001195" joined="2017-06-29"/>
+    <cosponsor bioguide_id="S000583" joined="2017-07-25"/>
+    <cosponsor bioguide_id="W000812" joined="2017-07-25"/>
+    <cosponsor bioguide_id="W000819" joined="2017-07-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-22">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-22" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2017-07-11">
+      <text>Referred to the Subcommittee on Nutrition.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Nutrition" code="HSAG03" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1290"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

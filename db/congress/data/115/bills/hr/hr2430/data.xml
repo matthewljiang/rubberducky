@@ -1,0 +1,135 @@
+<bill session="115" type="h" number="2430" updated="2017-07-28T10:31:48Z">
+  <state datetime="2017-07-12T14:21:52-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-07-12T14:21:52-04:00"/>
+  </status>
+  <introduced datetime="2017-05-16"/>
+  <titles>
+    <title type="short" as="reported to house">FDA Reauthorization Act of 2017</title>
+    <title type="short" as="reported to house" partial="1">Biosimilar User Fee Amendments of 2017</title>
+    <title type="short" as="reported to house" partial="1">Generic Drug User Fee Amendments of 2017</title>
+    <title type="short" as="reported to house" partial="1">Medical Device User Fee Amendments of 2017</title>
+    <title type="short" as="reported to house" partial="1">Prescription Drug User Fee Amendments of 2017</title>
+    <title type="short" as="introduced">FDA Reauthorization Act of 2017</title>
+    <title type="short" as="introduced">FDA Reauthorization Act of 2017</title>
+    <title type="short" as="introduced" partial="1">Biosimilar User Fee Amendments of 2017</title>
+    <title type="short" as="introduced" partial="1">Biosimilar User Fee Amendments of 2017</title>
+    <title type="short" as="introduced" partial="1">Generic Drug User Fee Amendments of 2017</title>
+    <title type="short" as="introduced" partial="1">Generic Drug User Fee Amendments of 2017</title>
+    <title type="short" as="introduced" partial="1">Medical Device User Fee Amendments of 2017</title>
+    <title type="short" as="introduced" partial="1">Medical Device User Fee Amendments of 2017</title>
+    <title type="short" as="introduced" partial="1">Prescription Drug User Fee Amendments of 2017</title>
+    <title type="short" as="introduced" partial="1">Prescription Drug User Fee Amendments of 2017</title>
+    <title type="short" as="passed house">FDA Reauthorization Act of 2017</title>
+    <title type="short" as="passed house">FDA Reauthorization Act of 2017</title>
+    <title type="short" as="passed house" partial="1">Biosimilar User Fee Amendments of 2017</title>
+    <title type="short" as="passed house" partial="1">Biosimilar User Fee Amendments of 2017</title>
+    <title type="short" as="passed house" partial="1">Generic Drug User Fee Amendments of 2017</title>
+    <title type="short" as="passed house" partial="1">Generic Drug User Fee Amendments of 2017</title>
+    <title type="short" as="passed house" partial="1">Medical Device User Fee Amendments of 2017</title>
+    <title type="short" as="passed house" partial="1">Medical Device User Fee Amendments of 2017</title>
+    <title type="short" as="passed house" partial="1">Prescription Drug User Fee Amendments of 2017</title>
+    <title type="short" as="passed house" partial="1">Prescription Drug User Fee Amendments of 2017</title>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to revise and extend the user-fee programs for prescription drugs, medical devices, generic drugs, and biosimilar biological products, and for other purposes.</title>
+    <title type="display">FDA Reauthorization Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="W000791"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001248" joined="2017-05-16"/>
+    <cosponsor bioguide_id="G000410" joined="2017-05-16"/>
+    <cosponsor bioguide_id="P000034" joined="2017-05-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-16">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-16" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2017-05-16">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2017-05-18">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2017-05-18">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+    </action>
+    <action datetime="2017-06-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-06-07" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 54 - 0.</text>
+    </calendar>
+    <action datetime="2017-07-11">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-201.</text>
+    </action>
+    <calendar datetime="2017-07-11" calendar="Union" number="138">
+      <text>Placed on the Union Calendar, Calendar No. 138.</text>
+    </calendar>
+    <action datetime="2017-07-12T13:33:23-04:00">
+      <text>Mr. Walden moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2017-07-12T13:33:37-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5454-5483" label="consideration"/>
+    </action>
+    <action datetime="2017-07-12T13:33:38-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2430.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2017-07-12T14:21:52-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5454-5477" label="text"/>
+    </vote>
+    <action datetime="2017-07-12T14:21:54-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2017-07-13">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2017-07-17" calendar="Senate Legislative" under="General Orders" number="174">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 174.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Reporting, Markup, Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="934"/>
+    <bill type="h" session="115" relation="unknown" number="1652"/>
+    <bill type="s" session="115" relation="unknown" number="670"/>
+    <bill type="s" session="115" relation="unknown" number="1048"/>
+    <bill type="s" session="115" relation="unknown" number="1069"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-05-16T04:00:00Z" status="Introduced in House">FDA Reauthorization Act of 2017
+
+Prescription Drug User Fee Amendments of 2017
+
+This bill amends the Federal Food, Drug, and Cosmetic Act to extend through FY2022 and revise Food and Drug Administration (FDA) user fees for new drug applications. User fees are eliminated for supplements to new drug applications and drug manufacturing facilities.
+
+Medical Device User Fee Amendments of 2017
+
+The bill extends through FY2022 and revises FDA user fees for medical devices. A user fee is established for requests to classify devices that are not substantially equivalent to marketed devices. The FDA is no longer granted the discretion to waive or reduce fees in the interest of public health.
+
+The FDA must establish a pilot program to accredit testing laboratories to determine whether medical devices conform to performance standards.
+
+The bill revises the types of medical devices that the FDA may accredit third parties to review.
+
+Generic Drug User Fee Amendments of 2017
+
+The bill extends through FY2022 and revises FDA user fees for generic drugs. User fees are eliminated for supplements to generic drug applications. An annual fee is assessed on holders of approved generic drug applications.
+
+Biosimilar User Fee Amendments of 2017
+
+The bill extends through FY2022 and revises FDA user fees for biosimilars. (Biosimilars are biological products approved by the FDA based on their similarity to an already-approved biological product.) User fees are eliminated for supplements to biosimilar applications and biosimilar manufacturing facilities. An annual fee is assessed on holders of approved applications for biosimilars. The bill sets the annual amount of revenue that must be generated by fees.
+
+The bill extends through FY2022 programs and policies including Critical Path Public-Private Partnerships, support for development of medical products for rare conditions, and the program to conduct pediatric studies of drugs.</summary>
+  <committee-reports>
+    <report>H. Rept. 115-201</report>
+  </committee-reports>
+</bill>

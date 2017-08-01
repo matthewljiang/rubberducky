@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <bioguideId>P000595</bioguideId>
+        <firstName>Gary</firstName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>Peters</lastName>
+        <middleName>C.</middleName>
+        <state>MI</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Small Business and Entrepreneurship Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-30T20:16:04Z</date>
+            </item>
+          </activities>
+          <systemCode>sssb00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <laws />
+    <title>Small Business Innovation Protection Act of 2017</title>
+    <actions>
+      <item>
+        <actionDate>2017-03-30</actionDate>
+        <committee>
+          <name>Small Business and Entrepreneurship Committee</name>
+          <systemCode>sssb00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2017-03-30</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <titles>
+      <item>
+        <title>Small Business Innovation Protection Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Small Business Innovation Protection Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>A bill to amend the Small Business Act to expand intellectual property education and training for small businesses, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Small Business Innovation Protection Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <introducedDate>2017-03-30</introducedDate>
+    <latestAction>
+      <actionDate>2017-03-30</actionDate>
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+      <links />
+    </latestAction>
+    <amendments />
+    <updateDate>2017-06-29T17:15:11Z</updateDate>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <party>R</party>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <state>ID</state>
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+          <gpoId>8274</gpoId>
+          <lisID>1896</lisID>
+        </identifiers>
+        <bioguideId>R000584</bioguideId>
+        <firstName>James</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <lastName>Risch</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <billNumber>791</billNumber>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <createDate>2017-03-31T05:07:22Z</createDate>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-06-26</actionDate>
+          <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+        </latestAction>
+        <type>HR</type>
+        <number>2655</number>
+        <latestTitle>Small Business Innovation Protection Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <congress>115</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

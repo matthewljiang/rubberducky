@@ -1,0 +1,76 @@
+<bill session="115" type="h" number="2226" updated="2017-07-28T07:16:23Z">
+  <state datetime="2017-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-28"/>
+  </status>
+  <introduced datetime="2017-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Portfolio Lending and Mortgage Access Act</title>
+    <title type="short" as="introduced">Portfolio Lending and Mortgage Access Act</title>
+    <title type="official" as="introduced">To amend the Truth in Lending Act to provide a safe harbor from certain requirements related to qualified mortgages for residential mortgage loans held on an originating depository institution's portfolio, and for other purposes.</title>
+    <title type="display">Portfolio Lending and Mortgage Access Act</title>
+  </titles>
+  <sponsor bioguide_id="B001282"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000369" joined="2017-04-28"/>
+    <cosponsor bioguide_id="A000375" joined="2017-05-01"/>
+    <cosponsor bioguide_id="B001294" joined="2017-04-28"/>
+    <cosponsor bioguide_id="D000626" joined="2017-04-28"/>
+    <cosponsor bioguide_id="D000614" joined="2017-04-28"/>
+    <cosponsor bioguide_id="E000294" joined="2017-04-28"/>
+    <cosponsor bioguide_id="H001072" joined="2017-04-28"/>
+    <cosponsor bioguide_id="H001074" joined="2017-04-28"/>
+    <cosponsor bioguide_id="H001058" joined="2017-04-28"/>
+    <cosponsor bioguide_id="H001059" joined="2017-04-28"/>
+    <cosponsor bioguide_id="J000292" joined="2017-04-28"/>
+    <cosponsor bioguide_id="K000210" joined="2017-04-28"/>
+    <cosponsor bioguide_id="K000362" joined="2017-06-21"/>
+    <cosponsor bioguide_id="K000392" joined="2017-04-28"/>
+    <cosponsor bioguide_id="L000583" joined="2017-04-28"/>
+    <cosponsor bioguide_id="L000491" joined="2017-04-28"/>
+    <cosponsor bioguide_id="L000569" joined="2017-04-28"/>
+    <cosponsor bioguide_id="M001158" joined="2017-04-28"/>
+    <cosponsor bioguide_id="M001156" joined="2017-04-28"/>
+    <cosponsor bioguide_id="M001189" joined="2017-04-28"/>
+    <cosponsor bioguide_id="P000588" joined="2017-04-28"/>
+    <cosponsor bioguide_id="P000606" joined="2017-04-28"/>
+    <cosponsor bioguide_id="P000592" joined="2017-07-27"/>
+    <cosponsor bioguide_id="P000611" joined="2017-04-28"/>
+    <cosponsor bioguide_id="P000599" joined="2017-04-28"/>
+    <cosponsor bioguide_id="R000593" joined="2017-05-17"/>
+    <cosponsor bioguide_id="R000598" joined="2017-04-28"/>
+    <cosponsor bioguide_id="R000487" joined="2017-04-28"/>
+    <cosponsor bioguide_id="S001192" joined="2017-04-28"/>
+    <cosponsor bioguide_id="S001187" joined="2017-04-28"/>
+    <cosponsor bioguide_id="T000478" joined="2017-05-01"/>
+    <cosponsor bioguide_id="T000470" joined="2017-04-28"/>
+    <cosponsor bioguide_id="T000475" joined="2017-04-28"/>
+    <cosponsor bioguide_id="W000812" joined="2017-04-28"/>
+    <cosponsor bioguide_id="W000798" joined="2017-04-28"/>
+    <cosponsor bioguide_id="W000816" joined="2017-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-28" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="10"/>
+    <bill type="h" session="115" relation="unknown" number="2133"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Civil actions and liability"/>
+    <term name="Housing finance and home ownership"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>To impose sanctions on foreign persons that are responsible for gross violations of internationally recognized human rights by reason of the use by Hizballah of civilians as human shields, and for other purposes.</title>
+    <sponsors>
+      <item>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000579</bioguideId>
+          <lisID>2355</lisID>
+        </identifiers>
+        <party>R</party>
+        <lastName>Gallagher</lastName>
+        <district>8</district>
+        <firstName>Mike</firstName>
+        <bioguideId>G000579</bioguideId>
+        <state>WI</state>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To impose sanctions on foreign persons that are responsible for gross violations of internationally recognized human rights by reason of the use by Hizballah of civilians as human shields, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>To impose sanctions on foreign persons that are responsible for gross violations of internationally recognized human rights by reason of the use by Hizballah of civilians as human shields, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <updateDate>2017-07-29T07:18:03Z</updateDate>
+    <constitutionalAuthorityStatementText />
+    <cboCostEstimates />
+    <latestAction>
+      <links />
+      <actionDate>2017-07-20</actionDate>
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-20T13:05:35Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <chamber>House</chamber>
+          <name>Foreign Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-20T13:05:30Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <introducedDate>2017-07-20</introducedDate>
+    <calendarNumbers />
+    <policyArea />
+    <createDate>2017-07-21T03:11:38Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billNumber>3342</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-20</actionDate>
+      </item>
+      <item>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-20</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-20</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-20</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <laws />
+    <billType>HR</billType>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <bioguideId>S001201</bioguideId>
+        <party>D</party>
+        <district>3</district>
+        <middleName>R.</middleName>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2341</lisID>
+          <gpoId />
+          <bioguideId>S001201</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <firstName>Thomas</firstName>
+        <lastName>Suozzi</lastName>
+      </item>
+      <item>
+        <bioguideId>R000487</bioguideId>
+        <party>R</party>
+        <district>39</district>
+        <middleName />
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7845</gpoId>
+          <bioguideId>R000487</bioguideId>
+          <lisID>998</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <firstName>ED</firstName>
+        <lastName>ROYCE</lastName>
+      </item>
+      <item>
+        <bioguideId>R000580</bioguideId>
+        <party>R</party>
+        <district>6</district>
+        <middleName>J.</middleName>
+        <fullName>Rep. Roskam, Peter J. [R-IL-6]</fullName>
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1848</lisID>
+          <gpoId>7926</gpoId>
+          <bioguideId>R000580</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <firstName>Peter</firstName>
+        <lastName>Roskam</lastName>
+      </item>
+      <item>
+        <bioguideId>E000179</bioguideId>
+        <party>D</party>
+        <district>16</district>
+        <middleName>L.</middleName>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>E000179</bioguideId>
+          <lisID>344</lisID>
+          <gpoId>8078</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <firstName>ELIOT</firstName>
+        <lastName>ENGEL</lastName>
+      </item>
+      <item>
+        <bioguideId>W000797</bioguideId>
+        <party>D</party>
+        <district>23</district>
+        <middleName />
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1777</lisID>
+          <gpoId>7892</gpoId>
+          <bioguideId>W000797</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>Debbie</firstName>
+        <lastName>Wasserman Schultz</lastName>
+      </item>
+      <item>
+        <bioguideId>K000378</bioguideId>
+        <party>R</party>
+        <district>16</district>
+        <middleName />
+        <fullName>Rep. Kinzinger, Adam [R-IL-16]</fullName>
+        <state>IL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7931</gpoId>
+          <bioguideId>K000378</bioguideId>
+          <lisID>2014</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>Adam</firstName>
+        <lastName>Kinzinger</lastName>
+      </item>
+      <item>
+        <bioguideId>L000563</bioguideId>
+        <party>D</party>
+        <district>3</district>
+        <middleName>William</middleName>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <state>IL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7923</gpoId>
+          <bioguideId>L000563</bioguideId>
+          <lisID>1781</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>Daniel</firstName>
+        <lastName>Lipinski</lastName>
+      </item>
+      <item>
+        <bioguideId>G000580</bioguideId>
+        <party>R</party>
+        <district>5</district>
+        <middleName>A.</middleName>
+        <fullName>Rep. Garrett, Thomas A., Jr. [R-VA-5]</fullName>
+        <state>VA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000580</bioguideId>
+          <lisID>2353</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>Thomas</firstName>
+        <lastName>Garrett</lastName>
+      </item>
+      <item>
+        <bioguideId>R000608</bioguideId>
+        <party>D</party>
+        <district>3</district>
+        <middleName />
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+        <state>NV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+          <lisID>2339</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>Jacky</firstName>
+        <lastName>Rosen</lastName>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

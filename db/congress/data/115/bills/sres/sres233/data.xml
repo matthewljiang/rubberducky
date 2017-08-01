@@ -1,0 +1,42 @@
+<bill session="115" type="sr" number="233" updated="2017-07-28T11:35:32Z">
+  <state datetime="2017-07-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-26"/>
+  </status>
+  <introduced datetime="2017-07-26"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating August 16, 2017, as "National Airborne Day".</title>
+    <title type="display">A resolution designating August 16, 2017, as "National Airborne Day".</title>
+  </titles>
+  <sponsor bioguide_id="R000122"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001277" joined="2017-07-26"/>
+    <cosponsor bioguide_id="C001071" joined="2017-07-27"/>
+    <cosponsor bioguide_id="C001095" joined="2017-07-27"/>
+    <cosponsor bioguide_id="I000055" joined="2017-07-27"/>
+    <cosponsor bioguide_id="M001183" joined="2017-07-27"/>
+    <cosponsor bioguide_id="M001153" joined="2017-07-26"/>
+    <cosponsor bioguide_id="P000612" joined="2017-07-27"/>
+    <cosponsor bioguide_id="P000595" joined="2017-07-26"/>
+    <cosponsor bioguide_id="S001181" joined="2017-07-26"/>
+    <cosponsor bioguide_id="S001198" joined="2017-07-27"/>
+    <cosponsor bioguide_id="T000464" joined="2017-07-26"/>
+    <cosponsor bioguide_id="V000128" joined="2017-07-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-26">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-26" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S4310" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

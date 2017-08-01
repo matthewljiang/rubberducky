@@ -1,0 +1,69 @@
+<bill session="115" type="s" number="976" updated="2017-07-20T16:56:17Z">
+  <state datetime="2017-04-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-27"/>
+  </status>
+  <introduced datetime="2017-04-27"/>
+  <titles>
+    <title type="short" as="introduced">Marketplace Fairness Act of 2017</title>
+    <title type="short" as="introduced">Marketplace Fairness Act of 2017</title>
+    <title type="official" as="introduced">A bill to restore States' sovereign rights to enforce State and local sales and use tax laws, and for other purposes.</title>
+    <title type="display">Marketplace Fairness Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="E000285"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000360" joined="2017-04-27"/>
+    <cosponsor bioguide_id="B001230" joined="2017-05-09"/>
+    <cosponsor bioguide_id="B000575" joined="2017-04-27"/>
+    <cosponsor bioguide_id="B001236" joined="2017-05-23"/>
+    <cosponsor bioguide_id="C000141" joined="2017-04-27"/>
+    <cosponsor bioguide_id="C000174" joined="2017-06-22"/>
+    <cosponsor bioguide_id="C001035" joined="2017-04-27"/>
+    <cosponsor bioguide_id="C001071" joined="2017-05-23"/>
+    <cosponsor bioguide_id="D000607" joined="2017-05-18"/>
+    <cosponsor bioguide_id="D000622" joined="2017-04-27"/>
+    <cosponsor bioguide_id="D000563" joined="2017-04-27"/>
+    <cosponsor bioguide_id="F000062" joined="2017-05-01"/>
+    <cosponsor bioguide_id="F000457" joined="2017-05-01"/>
+    <cosponsor bioguide_id="H001069" joined="2017-04-27"/>
+    <cosponsor bioguide_id="K000384" joined="2017-04-27"/>
+    <cosponsor bioguide_id="K000383" joined="2017-05-01"/>
+    <cosponsor bioguide_id="K000367" joined="2017-05-03"/>
+    <cosponsor bioguide_id="M001183" joined="2017-05-08"/>
+    <cosponsor bioguide_id="M000133" joined="2017-04-27"/>
+    <cosponsor bioguide_id="R000122" joined="2017-04-27"/>
+    <cosponsor bioguide_id="R000605" joined="2017-04-27"/>
+    <cosponsor bioguide_id="W000805" joined="2017-04-27"/>
+    <cosponsor bioguide_id="W000817" joined="2017-04-27"/>
+    <cosponsor bioguide_id="W000802" joined="2017-04-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-27">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-04-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="2017-05-18">
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Hearings"/>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2193"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Internet and video services"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Sales and excise taxes"/>
+    <term name="State and local government operations"/>
+    <term name="State and local taxation"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

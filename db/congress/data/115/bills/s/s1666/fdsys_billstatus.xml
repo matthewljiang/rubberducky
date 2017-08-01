@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>F000457</bioguideId>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>F000457</bioguideId>
+        <state>MN</state>
+        <middleName />
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Al</firstName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <lastName>Franken</lastName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <title>A bill to direct the Secretary of Transportation to issue a rule requiring all new passenger motor vehicles to be equipped with a child safety alert system, and for other purposes.</title>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <title>A bill to direct the Secretary of Transportation to issue a rule requiring all new passenger motor vehicles to be equipped with a child safety alert system, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>A bill to direct the Secretary of Transportation to issue a rule requiring all new passenger motor vehicles to be equipped with a child safety alert system, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>1666</billNumber>
+    <recordedVotes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <relatedBills />
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <firstName>Richard</firstName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <lastName>Blumenthal</lastName>
+        <middleName />
+        <party>D</party>
+        <byRequestType />
+        <state>CT</state>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <introducedDate>2017-07-27</introducedDate>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <links />
+      <actionDate>2017-07-27</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>sscm00</systemCode>
+          <chamber>Senate</chamber>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-27T22:17:33Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-07-28T13:00:17Z</updateDate>
+    <createDate>2017-07-28T06:26:38Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-27</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

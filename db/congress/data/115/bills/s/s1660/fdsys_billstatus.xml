@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Rules and Administration Committee</name>
+          <chamber>Senate</chamber>
+          <systemCode>ssra00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-27T21:29:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <laws />
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <party>R</party>
+        <middleName />
+        <firstName>Roy</firstName>
+        <lastName>Blunt</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <party>D</party>
+        <middleName />
+        <firstName>DIANNE</firstName>
+        <lastName>FEINSTEIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>W000805</bioguideId>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <firstName>Mark</firstName>
+        <lastName>Warner</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <identifiers>
+          <gpoId>8269</gpoId>
+          <bioguideId>W000805</bioguideId>
+          <lisID>1897</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <createDate>2017-07-28T06:26:38Z</createDate>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+      <actionDate>2017-07-27</actionDate>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <recordedVotes />
+    <introducedDate>2017-07-27</introducedDate>
+    <policyArea />
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>115</congress>
+    <relatedBills />
+    <calendarNumbers />
+    <title>A bill to amend the Federal Election Campaign Act of 1971 to prohibit the acceptance by political committees of online contributions from certain unverified sources, and for other purposes.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+        </identifiers>
+        <bioguideId>K000367</bioguideId>
+        <firstName>Amy</firstName>
+      </item>
+    </sponsors>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-27</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-27</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <amendments />
+    <titles>
+      <item>
+        <title>A bill to amend the Federal Election Campaign Act of 1971 to prohibit the acceptance by political committees of online contributions from certain unverified sources, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>A bill to amend the Federal Election Campaign Act of 1971 to prohibit the acceptance by political committees of online contributions from certain unverified sources, and for other purposes.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <billNumber>1660</billNumber>
+    <updateDate>2017-07-28T10:48:54Z</updateDate>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

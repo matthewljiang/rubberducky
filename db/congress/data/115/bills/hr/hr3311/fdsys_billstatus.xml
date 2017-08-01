@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LANGEVIN:H.R. 3311.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3[Page H6042]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-29T07:17:58Z</updateDate>
+    <relatedBills />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2017-07-19</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>RI</state>
+        <middleName>R.</middleName>
+        <firstName>JAMES</firstName>
+        <lastName>LANGEVIN</lastName>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <identifiers>
+          <gpoId>8140</gpoId>
+          <bioguideId>L000559</bioguideId>
+          <lisID>1668</lisID>
+        </identifiers>
+        <byRequestType />
+        <district>2</district>
+        <bioguideId>L000559</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>Individual Health Insurance Marketplace Improvement Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To establish an Individual Market Reinsurance fund to provide funding for State individual market stabilization reinsurance programs.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Individual Health Insurance Marketplace Improvement Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Individual Health Insurance Marketplace Improvement Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-07-19</introducedDate>
+    <policyArea />
+    <title>Individual Health Insurance Marketplace Improvement Act</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionDate>2017-07-19</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2017-07-19</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-19</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-19</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <bioguideId>C001080</bioguideId>
+        <party>D</party>
+        <district>27</district>
+        <middleName />
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <firstName>Judy</firstName>
+        <lastName>Chu</lastName>
+      </item>
+      <item>
+        <bioguideId>R000599</bioguideId>
+        <party>D</party>
+        <district>36</district>
+        <middleName />
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000599</bioguideId>
+          <lisID>2109</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <firstName>Raul</firstName>
+        <lastName>Ruiz</lastName>
+      </item>
+      <item>
+        <bioguideId>N000179</bioguideId>
+        <party>D</party>
+        <district>32</district>
+        <middleName>F.</middleName>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>GRACE</firstName>
+        <lastName>NAPOLITANO</lastName>
+      </item>
+      <item>
+        <bioguideId>C001068</bioguideId>
+        <party>D</party>
+        <district>9</district>
+        <middleName />
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <state>TN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>Steve</firstName>
+        <lastName>Cohen</lastName>
+      </item>
+      <item>
+        <bioguideId>C001110</bioguideId>
+        <party>D</party>
+        <district>46</district>
+        <middleName>Luis</middleName>
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001110</bioguideId>
+          <lisID>2312</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>J.</firstName>
+        <lastName>Correa</lastName>
+      </item>
+      <item>
+        <bioguideId>M000312</bioguideId>
+        <party>D</party>
+        <district>2</district>
+        <middleName>P.</middleName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <state>MA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <createDate>2017-07-20T03:11:33Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-19T14:04:25Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-19T14:04:20Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>3311</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

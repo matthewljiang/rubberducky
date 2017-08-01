@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LAWSON of Florida:H.R. 2855.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8: To make all Laws which shall benecessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H4820]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-27T11:45:12Z</updateDate>
+    <relatedBills>
+      <item>
+        <latestTitle>Social Security Expansion Act</latestTitle>
+        <number>1114</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-03-01</actionDate>
+          <text>Referred to the Subcommittee on Social Security.</text>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Protecting Our Widows and Widowers in Retirement (POWR) Act</latestTitle>
+        <number>1583</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-03-24</actionDate>
+          <text>Referred to the Subcommittee on Social Security.</text>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Save Social Security Act of 2017</latestTitle>
+        <number>1631</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-03-20</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Social Security 2100 Act</latestTitle>
+        <number>1902</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-04-07</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Social Security Expansion Act</latestTitle>
+        <number>427</number>
+        <type>S</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-02-16</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Fair COLA for Seniors Act of 2017</latestTitle>
+        <number>2896</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-06-13</actionDate>
+          <text>Referred to House Education and the Workforce</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2017-06-09</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>FL</state>
+        <middleName />
+        <firstName>Al</firstName>
+        <lastName>Lawson</lastName>
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <identifiers>
+          <bioguideId>L000586</bioguideId>
+          <lisID>2317</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <district>5</district>
+        <bioguideId>L000586</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>Social Security for Future Generations Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Social Security for Future Generations Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend title II of the Social Security Act to enhance Social Security benefits and maintain the commitment and the long-term solvency of the Social Security program.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Social Security for Future Generations Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-06-08</introducedDate>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <title>Social Security for Future Generations Act of 2017</title>
+    <actions>
+      <item>
+        <actionDate>2017-06-09</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-09</actionDate>
+        <committee>
+          <systemCode>hspw14</systemCode>
+          <name>Railroads, Pipelines, and Hazardous Materials Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-06-08</actionDate>
+        <text>Referred to House Energy and Commerce</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-06-08</actionDate>
+        <text>Referred to House Transportation and Infrastructure</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-06-08</actionDate>
+        <text>Referred to House Education and the Workforce</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-06-08</actionDate>
+        <text>Referred to House Ways and Means</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100-A</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-06-08</actionDate>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Education and the Workforce, Transportation and Infrastructure, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-06-08</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-06-08</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>4</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+          <bioguideId>V000081</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>NYDIA</firstName>
+        <middleName>M.</middleName>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>VELAZQUEZ</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <bioguideId>V000081</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000297</bioguideId>
+          <lisID>2342</lisID>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Adriano</firstName>
+        <middleName />
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Espaillat</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <bioguideId>E000297</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2201</lisID>
+          <bioguideId>A000370</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Alma</firstName>
+        <middleName>S.</middleName>
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Adams</lastName>
+        <party>D</party>
+        <state>NC</state>
+        <bioguideId>A000370</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <district>20</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>ALCEE</firstName>
+        <middleName>L.</middleName>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>HASTINGS</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <bioguideId>H000324</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+          <lisID>1501</lisID>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>BARBARA</firstName>
+        <middleName />
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LEE</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>L000551</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001296</bioguideId>
+          <gpoId />
+          <lisID>2267</lisID>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Brendan</firstName>
+        <middleName>F.</middleName>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Boyle</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <bioguideId>B001296</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001200</bioguideId>
+          <lisID>2352</lisID>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>A.</firstName>
+        <middleName>Donald</middleName>
+        <fullName>Rep. McEachin, A. Donald [D-VA-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>McEachin</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <bioguideId>M001200</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+          <lisID>2298</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Dwight</firstName>
+        <middleName />
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Evans</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <bioguideId>E000296</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELEANOR</firstName>
+        <middleName>HOLMES</middleName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <state>DC</state>
+        <bioguideId>N000147</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <gpoId>7889</gpoId>
+          <bioguideId>W000808</bioguideId>
+          <lisID>2004</lisID>
+        </identifiers>
+        <district>24</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Frederica</firstName>
+        <middleName>S.</middleName>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Wilson</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <bioguideId>W000808</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C000714</bioguideId>
+          <lisID>229</lisID>
+          <gpoId>7999</gpoId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <middleName />
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CONYERS</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <bioguideId>C000714</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <gpoId>8099</gpoId>
+          <bioguideId>K000009</bioguideId>
+          <lisID>616</lisID>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>MARCY</firstName>
+        <middleName />
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>KAPTUR</lastName>
+        <party>D</party>
+        <state>OH</state>
+        <bioguideId>K000009</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <middleName />
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <state>TN</state>
+        <bioguideId>C001068</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000385</bioguideId>
+          <lisID>2190</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Robin</firstName>
+        <middleName>L.</middleName>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Kelly</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <bioguideId>K000385</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <lisID>2107</lisID>
+          <gpoId />
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <district>29</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tony</firstName>
+        <middleName />
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cardenas</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>C001097</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+        <middleName>P.</middleName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MCGOVERN</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <bioguideId>M000312</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <identifiers>
+          <lisID>2313</lisID>
+          <gpoId />
+          <bioguideId>B001303</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Lisa</firstName>
+        <middleName />
+        <fullName>Rep. Blunt Rochester, Lisa [D-DE-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Blunt Rochester</lastName>
+        <party>D</party>
+        <state>DE</state>
+        <bioguideId>B001303</bioguideId>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <createDate>2017-06-09T03:11:39Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-08T14:04:50Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-09T19:58:16Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-08T14:04:45Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Railroads, Pipelines, and Hazardous Materials Subcommittee</name>
+              <systemCode>hspw14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-09T13:42:22Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-08T14:04:40Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-08T14:04:35Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>2855</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

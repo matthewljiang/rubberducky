@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-27T04:49:37Z</updateDate>
+    <relatedBills />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2017-07-20</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>UT</state>
+        <middleName />
+        <firstName>Mike</firstName>
+        <lastName>Lee</lastName>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8303</gpoId>
+          <bioguideId>L000577</bioguideId>
+          <lisID>2080</lisID>
+        </identifiers>
+        <bioguideId>L000577</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the National Labor Relations Act to modify the authority of the National Labor Relations Board with respect to rulemaking, issuance of complaints, and authority over unfair labor practices.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A bill to amend the National Labor Relations Act to modify the authority of the National Labor Relations Board with respect to rulemaking, issuance of complaints, and authority over unfair labor practices.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-07-20</introducedDate>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <title>A bill to amend the National Labor Relations Act to modify the authority of the National Labor Relations Board with respect to rulemaking, issuance of complaints, and authority over unfair labor practices.</title>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <lisID>2175</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <lastName>Cruz</lastName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ted</firstName>
+        <bioguideId>C001098</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>TX</state>
+      </item>
+      <item>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <identifiers>
+          <gpoId>8113</gpoId>
+          <bioguideId>L000575</bioguideId>
+          <lisID>2050</lisID>
+        </identifiers>
+        <party>R</party>
+        <lastName>Lankford</lastName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>James</firstName>
+        <bioguideId>L000575</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>OK</state>
+      </item>
+      <item>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <lastName>Cotton</lastName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <bioguideId>C001095</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>AR</state>
+      </item>
+      <item>
+        <fullName>Sen. Strange, Luther [R-AL]</fullName>
+        <identifiers>
+          <lisID>2357</lisID>
+          <gpoId />
+          <bioguideId>S001202</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <lastName>Strange</lastName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Luther</firstName>
+        <bioguideId>S001202</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>AL</state>
+      </item>
+      <item>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <identifiers>
+          <gpoId>8242</gpoId>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <lastName>Rubio</lastName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Marco</firstName>
+        <bioguideId>R000595</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>FL</state>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <createDate>2017-07-21T00:56:46Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-20T17:46:55Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>1594</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

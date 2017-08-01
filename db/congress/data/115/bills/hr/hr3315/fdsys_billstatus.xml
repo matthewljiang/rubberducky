@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <laws />
+    <committeeReports />
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText />
+    <introducedDate>2017-07-19</introducedDate>
+    <sponsors>
+      <item>
+        <middleName>B.</middleName>
+        <firstName>James</firstName>
+        <bioguideId>R000586</bioguideId>
+        <lastName>Renacci</lastName>
+        <district>16</district>
+        <identifiers>
+          <lisID>2048</lisID>
+          <bioguideId>R000586</bioguideId>
+          <gpoId>8106</gpoId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <state>OH</state>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <actions>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-07-19</actionDate>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-07-19</actionDate>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-07-19</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-07-19</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billNumber>3315</billNumber>
+    <congress>115</congress>
+    <policyArea />
+    <updateDate>2017-07-20T07:31:38Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <cboCostEstimates />
+    <amendments />
+    <titles>
+      <item>
+        <title>To amend section 9010 of the Patient Protection and Affordable Care Act to exclude limited scope vision insurance coverage from health insurance coverage subject to the health insurance provider annual fee.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To amend section 9010 of the Patient Protection and Affordable Care Act to exclude limited scope vision insurance coverage from health insurance coverage subject to the health insurance provider annual fee.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-19T14:00:46Z</date>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-19T14:00:41Z</date>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <title>To amend section 9010 of the Patient Protection and Affordable Care Act to exclude limited scope vision insurance coverage from health insurance coverage subject to the health insurance provider annual fee.</title>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bera</lastName>
+        <party>D</party>
+        <district>7</district>
+        <fullName>Rep. Bera, Ami [D-CA-7]</fullName>
+        <bioguideId>B001287</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <firstName>Ami</firstName>
+        <identifiers>
+          <lisID>2102</lisID>
+          <bioguideId>B001287</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <createDate>2017-07-20T03:11:33Z</createDate>
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2017-07-19</actionDate>
+    </latestAction>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

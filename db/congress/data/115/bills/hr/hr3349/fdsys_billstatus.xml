@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-20T13:02:20Z</date>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <createDate>2017-07-21T03:11:38Z</createDate>
+    <title>To amend the Internal Revenue Code of 1986 to provide a tax incentive for the installation and maintenance of mechanical insulation property.</title>
+    <billNumber>3349</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <relatedBills />
+    <notes />
+    <policyArea />
+    <actions>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <actionDate>2017-07-20</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <constitutionalAuthorityStatementText />
+    <committeeReports />
+    <sponsors>
+      <item>
+        <firstName>LINDA</firstName>
+        <state>CA</state>
+        <middleName>T.</middleName>
+        <bioguideId>S001156</bioguideId>
+        <byRequestType />
+        <party>D</party>
+        <district>38</district>
+        <lastName>SANCHEZ</lastName>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <identifiers>
+          <lisID>1757</lisID>
+          <bioguideId>S001156</bioguideId>
+          <gpoId>7844</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to provide a tax incentive for the installation and maintenance of mechanical insulation property.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to provide a tax incentive for the installation and maintenance of mechanical insulation property.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <introducedDate>2017-07-20</introducedDate>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Reed</lastName>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <party>R</party>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tom</firstName>
+        <bioguideId>R000585</bioguideId>
+        <district>23</district>
+        <identifiers>
+          <bioguideId>R000585</bioguideId>
+          <lisID>1982</lisID>
+          <gpoId>8090</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>RYAN</lastName>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <party>D</party>
+        <state>OH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>TIM</firstName>
+        <bioguideId>R000577</bioguideId>
+        <district>13</district>
+        <identifiers>
+          <gpoId>8107</gpoId>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Meehan</lastName>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <party>R</party>
+        <state>PA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Patrick</firstName>
+        <bioguideId>M001181</bioguideId>
+        <district>7</district>
+        <identifiers>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+          <bioguideId>M001181</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <amendments />
+    <cboCostEstimates />
+    <updateDate>2017-07-21T07:31:36Z</updateDate>
+    <laws />
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

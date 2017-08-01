@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <billType>S</billType>
+    <amendments />
+    <billNumber>1465</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <recordedVotes />
+    <updateDate>2017-07-18T04:32:11Z</updateDate>
+    <createDate>2017-06-29T00:26:35Z</createDate>
+    <congress>115</congress>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <bioguideId>C001075</bioguideId>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <middleName />
+        <byRequestType />
+        <state>LA</state>
+        <party>R</party>
+        <firstName>Bill</firstName>
+        <identifiers>
+          <bioguideId>C001075</bioguideId>
+          <gpoId>7964</gpoId>
+          <lisID>1925</lisID>
+        </identifiers>
+        <lastName>Cassidy</lastName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <introducedDate>2017-06-28</introducedDate>
+    <relatedBills />
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <state>LA</state>
+        <lastName>Kennedy</lastName>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <identifiers>
+          <lisID>2303</lisID>
+          <bioguideId>K000393</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName>Neely</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000393</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <state>WV</state>
+        <lastName>CAPITO</lastName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <identifiers>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <firstName>SHELLEY</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName>MOORE</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001047</bioguideId>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>LNG Now Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>License Natural Gas Now Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to terminate the prohibitions on the exportation and importation of natural gas, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>LNG Now Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>LNG Now Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>License Natural Gas Now Act of 2017</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sseg00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-28T21:14:32Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Energy and Natural Resources Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2017-06-28</actionDate>
+    </latestAction>
+    <title>LNG Now Act of 2017</title>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-28</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-06-28</actionDate>
+      </item>
+    </actions>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SANFORD:H.R. 3238.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the U.S. Constitution[Page H5832]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-26T07:13:02Z</updateDate>
+    <relatedBills />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <actionDate>2017-07-14</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>SC</state>
+        <middleName />
+        <firstName>Mark</firstName>
+        <lastName>Sanford</lastName>
+        <fullName>Rep. Sanford, Mark [R-SC-1]</fullName>
+        <identifiers>
+          <bioguideId>S000051</bioguideId>
+          <lisID>1012</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <district>1</district>
+        <bioguideId>S000051</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>Disaster Assistance Equity Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Disaster Assistance Equity Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to provide assistance for common interest communities, condominiums, and housing cooperatives damaged by a major disaster, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Disaster Assistance Equity Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <introducedDate>2017-07-13</introducedDate>
+    <policyArea />
+    <title>Disaster Assistance Equity Act of 2017</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-14</actionDate>
+        <committee>
+          <systemCode>hspw13</systemCode>
+          <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-13</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-13</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-13</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <district>10</district>
+        <lastName>NADLER</lastName>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <state>NY</state>
+        <bioguideId>N000002</bioguideId>
+        <middleName />
+        <firstName>JERROLD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8069</gpoId>
+          <lisID>850</lisID>
+          <bioguideId>N000002</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <district>1</district>
+        <lastName>Zeldin</lastName>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <state>NY</state>
+        <bioguideId>Z000017</bioguideId>
+        <middleName>M.</middleName>
+        <firstName>Lee</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2261</lisID>
+          <gpoId />
+          <bioguideId>Z000017</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <district>16</district>
+        <lastName>ENGEL</lastName>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <state>NY</state>
+        <bioguideId>E000179</bioguideId>
+        <middleName>L.</middleName>
+        <firstName>ELIOT</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>344</lisID>
+          <gpoId>8078</gpoId>
+          <bioguideId>E000179</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <district>2</district>
+        <lastName>KING</lastName>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <state>NY</state>
+        <bioguideId>K000210</bioguideId>
+        <middleName>T.</middleName>
+        <firstName>PETER</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <createDate>2017-07-14T03:11:34Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hspw13</systemCode>
+              <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-07-14T19:34:00Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Transportation and Infrastructure Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hspw00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-13T14:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-25T20:58:33Z</lastSummaryUpdateDate>
+          <updateDate>2017-07-13T04:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Disaster Assistance Equity Act of 2017</strong></p> <p>This bill amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act to modify the definition of &quot;private nonprofit facility&quot; to include any facilities (including roads, bridges, sewer systems, and other critical community infrastructure) owned or operated by a common interest community that provide essential services of a governmental nature.</p> <p>The bill also defines additional terms under such Act, including &quot;condominium&quot; and &quot;housing cooperative.&quot; &quot;Common interest community&quot; is defined as: (1) any nonprofit mandatory membership organization comprised of owners of real estate (other than a condominium or housing cooperative) described in a declaration or created pursuant to a covenant or other applicable law with respect to which a person, by virtue of the person's ownership of a unit, is obligated to pay for a share of real estate taxes, insurance premiums, maintenance or improvement of, or services or other expenses related to, common elements, other units, or any other real estate other than the unit described in the declaration; and (2) a condominium project that is comprised entirely of detached single family units or that is comprised of four or more multi-unit housing structures and that owns or operates facilities that provide essential services of a governmental nature. </p> <p>The bill amends such Act to provide that for purposes of the provision of federal disaster assistance with respect to residential elements that are the legal responsibility of an association for a condominium or housing cooperative, the terms &quot;individual&quot; or &quot;household&quot; include the association. </p> <p>The President must determine the maximum amount of assistance that any such association may receive under such Act for a single disaster.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2017-07-13</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>3238</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

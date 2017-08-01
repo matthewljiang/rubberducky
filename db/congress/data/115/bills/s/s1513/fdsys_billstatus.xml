@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <laws />
+    <committeeReports />
+    <sponsors>
+      <item>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <middleName>L.</middleName>
+        <bioguideId>C000141</bioguideId>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <byRequestType />
+        <lastName>CARDIN</lastName>
+        <firstName>BENJAMIN</firstName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Tax-exempt organizations</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>National Fish and Wildlife Foundation Establishment Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to reauthorize and amend the National Fish and Wildlife Foundation Establishment Act.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>National Fish and Wildlife Foundation Establishment Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>National Fish and Wildlife Foundation Establishment Act</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Committee on Environment and Public Works. Hearings held.</text>
+          <actionDate>2017-07-19</actionDate>
+        </latestAction>
+        <number>1514</number>
+        <latestTitle>HELP for Wildlife Act</latestTitle>
+        <type>S</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-29T20:18:05Z</date>
+            </item>
+          </activities>
+          <name>Environment and Public Works Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssev00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000464</bioguideId>
+        <lastName>Tester</lastName>
+        <firstName>Jon</firstName>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <state>MT</state>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>ANN</middleName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000770</bioguideId>
+        <lastName>STABENOW</lastName>
+        <firstName>DEBORAH</firstName>
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <state>MI</state>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000174</bioguideId>
+        <lastName>CARPER</lastName>
+        <firstName>THOMAS</firstName>
+        <identifiers>
+          <lisID>179</lisID>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+        </identifiers>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <state>DE</state>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>U000039</bioguideId>
+        <lastName>UDALL</lastName>
+        <firstName>TOM</firstName>
+        <identifiers>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+        </identifiers>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <state>NM</state>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000802</bioguideId>
+        <lastName>Whitehouse</lastName>
+        <firstName>Sheldon</firstName>
+        <identifiers>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <state>RI</state>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000567</bioguideId>
+        <lastName>Cochran</lastName>
+        <firstName>Thad</firstName>
+        <identifiers>
+          <gpoId>8292</gpoId>
+          <lisID>213</lisID>
+          <bioguideId>C000567</bioguideId>
+        </identifiers>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <state>MS</state>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-06-29</actionDate>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <billNumber>1513</billNumber>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <links />
+      <actionDate>2017-06-29</actionDate>
+    </latestAction>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-06-30T00:41:35Z</createDate>
+    <introducedDate>2017-06-29</introducedDate>
+    <title>National Fish and Wildlife Foundation Establishment Act</title>
+    <version>1.0.0</version>
+    <updateDate>2017-07-21T05:07:20Z</updateDate>
+    <congress>115</congress>
+    <recordedVotes />
+    <billType>S</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

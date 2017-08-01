@@ -1,0 +1,32 @@
+<bill session="115" type="h" number="3395" updated="2017-07-29T07:18:08Z">
+  <state datetime="2017-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-25"/>
+  </status>
+  <introduced datetime="2017-07-25"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow tax free distributions from section 529 college savings plans for certain expenses associated with registered apprenticeship programs.</title>
+    <title type="display">To amend the Internal Revenue Code of 1986 to allow tax free distributions from section 529 college savings plans for certain expenses associated with registered apprenticeship programs.</title>
+  </titles>
+  <sponsor bioguide_id="M001181"/>
+  <cosponsors>
+    <cosponsor bioguide_id="K000376" joined="2017-07-28"/>
+    <cosponsor bioguide_id="N000188" joined="2017-07-25"/>
+    <cosponsor bioguide_id="W000813" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-25" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

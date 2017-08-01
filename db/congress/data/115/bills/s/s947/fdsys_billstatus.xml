@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>TICKETS Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Transparency Improvements and Compensation to Keep Every Ticketholder Safe Act of 2017</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>TICKETS Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Transparency Improvements and Compensation to Keep Every Ticketholder Safe Act of 2017</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to protect passengers on flights in air transportation from being denied boarding involuntarily, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>TICKETS Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <updateDate>2017-06-28T05:49:51Z</updateDate>
+    <title>TICKETS Act</title>
+    <amendments />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001194</bioguideId>
+        <lastName>Schatz</lastName>
+        <firstName>Brian</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <state>HI</state>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2173</lisID>
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000133</bioguideId>
+        <lastName>MARKEY</lastName>
+        <firstName>EDWARD</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <state>MA</state>
+        <middleName>J.</middleName>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001277</bioguideId>
+        <lastName>Blumenthal</lastName>
+        <firstName>Richard</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <state>CT</state>
+        <middleName />
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001113</bioguideId>
+        <lastName>Cortez Masto</lastName>
+        <firstName>Catherine</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <state>NV</state>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001113</bioguideId>
+          <lisID>2299</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000457</bioguideId>
+        <lastName>Franken</lastName>
+        <firstName>Al</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <state>MN</state>
+        <middleName />
+        <identifiers>
+          <bioguideId>F000457</bioguideId>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000128</bioguideId>
+        <lastName>Van Hollen</lastName>
+        <firstName>Chris</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <state>MD</state>
+        <middleName />
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001070</bioguideId>
+        <lastName>Casey</lastName>
+        <firstName>Bob</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <state>PA</state>
+        <middleName />
+        <identifiers>
+          <gpoId>8282</gpoId>
+          <lisID>1828</lisID>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000639</bioguideId>
+        <lastName>MENENDEZ</lastName>
+        <firstName>ROBERT</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <state>NJ</state>
+        <middleName />
+        <identifiers>
+          <gpoId>8239</gpoId>
+          <lisID>791</lisID>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001288</bioguideId>
+        <lastName>Booker</lastName>
+        <firstName>Cory</firstName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <state>NJ</state>
+        <middleName>A.</middleName>
+        <identifiers>
+          <gpoId />
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000779</bioguideId>
+        <lastName>WYDEN</lastName>
+        <firstName>RON</firstName>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <state>OR</state>
+        <middleName />
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-04-26</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <actionDate>2017-04-26</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+      </item>
+    </actions>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <introducedDate>2017-04-26</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sscm00</systemCode>
+          <type>Standing</type>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <activities>
+            <item>
+              <date>2017-04-26T15:43:34Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2017-04-26</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </latestAction>
+    <billNumber>947</billNumber>
+    <laws />
+    <createDate>2017-04-27T00:41:42Z</createDate>
+    <congress>115</congress>
+    <recordedVotes />
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <lastName>Hassan</lastName>
+        <firstName>Margaret</firstName>
+        <bioguideId>H001076</bioguideId>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <state>NH</state>
+        <party>D</party>
+        <middleName>Wood</middleName>
+        <identifiers>
+          <gpoId />
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <billType>S</billType>
+    <committeeReports />
+    <relatedBills />
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

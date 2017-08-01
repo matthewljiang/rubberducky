@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-06-13T21:26:56Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Finance Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Stopping the Pharmaceutical Industry from Keeping Drugs Expensive (SPIKE) Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to amend title XI of the Social Security Act to require drug manufacturers to publicly justify unnecessary price increases.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Stopping the Pharmaceutical Industry from Keeping Drugs Expensive (SPIKE) Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Stopping the Pharmaceutical Industry from Keeping Drugs Expensive (SPIKE) Act of 2017</title>
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Social Welfare</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <congress>115</congress>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <middleName>L.</middleName>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <firstName>BENJAMIN</firstName>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <lastName>CARDIN</lastName>
+        <state>MD</state>
+        <party>D</party>
+        <bioguideId>C000141</bioguideId>
+      </item>
+      <item>
+        <middleName>ANN</middleName>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <firstName>DEBORAH</firstName>
+        <identifiers>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+        </identifiers>
+        <lastName>STABENOW</lastName>
+        <state>MI</state>
+        <party>D</party>
+        <bioguideId>S000770</bioguideId>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <firstName>Kirsten</firstName>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+          <lisID>1866</lisID>
+        </identifiers>
+        <lastName>Gillibrand</lastName>
+        <state>NY</state>
+        <party>D</party>
+        <bioguideId>G000555</bioguideId>
+      </item>
+      <item>
+        <middleName>R.</middleName>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <firstName>THOMAS</firstName>
+        <identifiers>
+          <gpoId>8283</gpoId>
+          <bioguideId>C000174</bioguideId>
+          <lisID>179</lisID>
+        </identifiers>
+        <lastName>CARPER</lastName>
+        <state>DE</state>
+        <party>D</party>
+        <bioguideId>C000174</bioguideId>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <firstName>Christopher</firstName>
+        <identifiers>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <lastName>Coons</lastName>
+        <state>DE</state>
+        <party>D</party>
+        <bioguideId>C001088</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <firstName>Jon</firstName>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <lastName>Tester</lastName>
+        <state>MT</state>
+        <party>D</party>
+        <bioguideId>T000464</bioguideId>
+      </item>
+    </cosponsors>
+    <billNumber>1348</billNumber>
+    <introducedDate>2017-06-13</introducedDate>
+    <billType>S</billType>
+    <notes />
+    <createDate>2017-06-14T00:26:36Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-13</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-06-13</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <laws />
+    <amendments />
+    <sponsors>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <middleName />
+        <firstName>RON</firstName>
+        <party>D</party>
+        <byRequestType />
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <lastName>WYDEN</lastName>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <updateDate>2017-07-13T13:17:58Z</updateDate>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <title>Stopping the Pharmaceutical Industry from Keeping Drugs Expensive (SPIKE) Act of 2017</title>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <latestAction>
+      <links />
+      <actionDate>2017-06-13</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>To expand the tropical disease product priority review voucher program to encourage treatments for the Middle East respiratory syndrome.</title>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To expand the tropical disease product priority review voucher program to encourage treatments for the Middle East respiratory syndrome.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>To expand the tropical disease product priority review voucher program to encourage treatments for the Middle East respiratory syndrome.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText />
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <cboCostEstimates />
+    <billNumber>3348</billNumber>
+    <updateDate>2017-07-21T07:31:36Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Peters</lastName>
+        <middleName>H.</middleName>
+        <state>CA</state>
+        <firstName>Scott</firstName>
+        <identifiers>
+          <lisID>2113</lisID>
+          <bioguideId>P000608</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>P000608</bioguideId>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <party>D</party>
+        <district>52</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>PA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2267</lisID>
+          <bioguideId>B001296</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <bioguideId>B001296</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <lastName>Boyle</lastName>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Brendan</firstName>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>KS</state>
+        <identifiers>
+          <lisID>2328</lisID>
+          <gpoId />
+          <bioguideId>M001198</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <bioguideId>M001198</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <lastName>Marshall</lastName>
+        <middleName>W.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Roger</firstName>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <state>PA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000598</bioguideId>
+          <lisID>2158</lisID>
+        </identifiers>
+        <district>12</district>
+        <bioguideId>R000598</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Rothfus, Keith J. [R-PA-12]</fullName>
+        <lastName>Rothfus</lastName>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Keith</firstName>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <laws />
+    <notes />
+    <originChamber>House</originChamber>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <actionDate>2017-07-20</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-20T13:02:05Z</date>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-20</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-20</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-20</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-07-21T03:11:38Z</createDate>
+    <congress>115</congress>
+    <amendments />
+    <relatedBills />
+    <introducedDate>2017-07-20</introducedDate>
+    <recordedVotes />
+    <policyArea />
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

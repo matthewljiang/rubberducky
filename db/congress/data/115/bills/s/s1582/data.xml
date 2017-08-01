@@ -1,0 +1,31 @@
+<bill session="115" type="s" number="1582" updated="2017-07-21T12:27:11Z">
+  <state datetime="2017-07-19">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-19"/>
+  </status>
+  <introduced datetime="2017-07-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish the Frederick Douglass Bicentennial Commission.</title>
+    <title type="display">A bill to establish the Frederick Douglass Bicentennial Commission.</title>
+  </titles>
+  <sponsor bioguide_id="V000128"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C000141" joined="2017-07-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-19">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S4083" label="Sponsor introductory remarks on measure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>150</billNumber>
+    <billType>SRES</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <sponsors>
+      <item>
+        <state>PA</state>
+        <middleName />
+        <byRequestType />
+        <firstName>Bob</firstName>
+        <lastName>Casey</lastName>
+        <identifiers>
+          <gpoId>8282</gpoId>
+          <bioguideId>C001070</bioguideId>
+          <lisID>1828</lisID>
+        </identifiers>
+        <bioguideId>C001070</bioguideId>
+        <party>D</party>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>First Amendment rights</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>News media and reporting</name>
+          </item>
+          <item>
+            <name>Rule of law and government transparency</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+          <item>
+            <name>United Nations</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Rubio</lastName>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+          <lisID>2084</lisID>
+        </identifiers>
+        <firstName>Marco</firstName>
+        <bioguideId>R000595</bioguideId>
+        <middleName />
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>WYDEN</lastName>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+          <lisID>1247</lisID>
+        </identifiers>
+        <firstName>RON</firstName>
+        <bioguideId>W000779</bioguideId>
+        <middleName />
+        <state>OR</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2725)</text>
+      <actionDate>2017-05-03</actionDate>
+    </latestAction>
+    <notes />
+    <introducedDate>2017-05-03</introducedDate>
+    <createDate>2017-05-04T00:26:43Z</createDate>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution recognizing threats to freedom of the press and expression around the world and reaffirming freedom of the press as a priority in efforts of the United States Government to promote democracy and good governance.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution recognizing threats to freedom of the press and expression around the world and reaffirming freedom of the press as a priority in efforts of the United States Government to promote democracy and good governance.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <title>A resolution recognizing threats to freedom of the press and expression around the world and reaffirming freedom of the press as a priority in efforts of the United States Government to promote democracy and good governance.</title>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-03T18:50:24Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <laws />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-05-03</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S2725</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2725</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2725)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-05-03</actionDate>
+        <committee />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <amendments />
+    <updateDate>2017-06-06T10:12:37Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

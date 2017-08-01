@@ -1,0 +1,38 @@
+<bill session="115" type="sr" number="199" updated="2017-07-01T04:28:11Z">
+  <state datetime="2017-06-22">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-22"/>
+  </status>
+  <introduced datetime="2017-06-22"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating June 2017 as "Great Outdoors Month".</title>
+    <title type="display">A resolution designating June 2017 as "Great Outdoors Month".</title>
+  </titles>
+  <sponsor bioguide_id="D000618"/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000562" joined="2017-06-22"/>
+    <cosponsor bioguide_id="H001046" joined="2017-06-22"/>
+    <cosponsor bioguide_id="H001042" joined="2017-06-22"/>
+    <cosponsor bioguide_id="P000595" joined="2017-06-22"/>
+    <cosponsor bioguide_id="R000584" joined="2017-06-22"/>
+    <cosponsor bioguide_id="S001181" joined="2017-06-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-22">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-06-22" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S3734-3735" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

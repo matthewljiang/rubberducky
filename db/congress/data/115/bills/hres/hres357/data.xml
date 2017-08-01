@@ -1,0 +1,68 @@
+<bill session="115" type="hr" number="357" updated="2017-07-28T07:15:41Z">
+  <state datetime="2017-05-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-25"/>
+  </status>
+  <introduced datetime="2017-05-25"/>
+  <titles>
+    <title type="official" as="introduced">Reaffirming the strategic partnership between the United States and Canada, recognizing bilateral cooperation that advances United States national interests, and urging increased bilateral cooperation on security, economic issues, and energy, and for other purposes.</title>
+    <title type="display">Reaffirming the strategic partnership between the United States and Canada, recognizing bilateral cooperation that advances United States national interests, and urging increased bilateral cooperation on security, economic issues, and energy, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="D000615"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001301" joined="2017-07-24"/>
+    <cosponsor bioguide_id="C001078" joined="2017-07-27"/>
+    <cosponsor bioguide_id="C001096" joined="2017-05-25"/>
+    <cosponsor bioguide_id="D000625" joined="2017-07-24"/>
+    <cosponsor bioguide_id="E000296" joined="2017-07-24"/>
+    <cosponsor bioguide_id="H001058" joined="2017-05-25"/>
+    <cosponsor bioguide_id="J000298" joined="2017-07-24"/>
+    <cosponsor bioguide_id="K000009" joined="2017-07-24"/>
+    <cosponsor bioguide_id="K000385" joined="2017-07-24"/>
+    <cosponsor bioguide_id="K000382" joined="2017-07-24"/>
+    <cosponsor bioguide_id="L000581" joined="2017-07-24"/>
+    <cosponsor bioguide_id="L000582" joined="2017-07-24"/>
+    <cosponsor bioguide_id="M001157" joined="2017-07-24"/>
+    <cosponsor bioguide_id="M001137" joined="2017-05-25"/>
+    <cosponsor bioguide_id="R000586" joined="2017-07-27"/>
+    <cosponsor bioguide_id="R000409" joined="2017-07-24"/>
+    <cosponsor bioguide_id="R000607" joined="2017-07-24"/>
+    <cosponsor bioguide_id="R000435" joined="2017-07-24"/>
+    <cosponsor bioguide_id="S000244" joined="2017-07-24"/>
+    <cosponsor bioguide_id="S001196" joined="2017-07-24"/>
+    <cosponsor bioguide_id="T000477" joined="2017-07-27"/>
+    <cosponsor bioguide_id="T000475" joined="2017-07-24"/>
+    <cosponsor bioguide_id="U000031" joined="2017-07-24"/>
+    <cosponsor bioguide_id="W000813" joined="2017-07-24"/>
+    <cosponsor bioguide_id="W000795" joined="2017-07-27"/>
+    <cosponsor bioguide_id="Y000033" joined="2017-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-25" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-05-25">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2017-05-25">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2017-06-27">
+      <text>Referred to the Subcommittee on the Western Hemisphere.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Western Hemisphere" code="HSFA07" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

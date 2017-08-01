@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-06-19T20:45:21Z</updateDate>
+    <recordedVotes />
+    <laws />
+    <sponsors>
+      <item>
+        <middleName>Kilili Camacho</middleName>
+        <lastName>Sablan</lastName>
+        <party>D</party>
+        <firstName>Gregorio</firstName>
+        <state>MP</state>
+        <bioguideId>S001177</bioguideId>
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>S001177</bioguideId>
+          <lisID>1962</lisID>
+          <gpoId>8018</gpoId>
+        </identifiers>
+        <district>0</district>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Natural Resources Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2017-04-27T14:00:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-01T23:35:34Z</date>
+            </item>
+          </activities>
+          <systemCode>sseg00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-05T15:06:05Z</date>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-01-10T22:22:43Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Border Security Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-05T15:06:00Z</date>
+            </item>
+          </activities>
+          <systemCode>hsii00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Northern Mariana Islands Economic Expansion Act</title>
+    <notes />
+    <introducedDate>2017-01-05</introducedDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Building construction</name>
+          </item>
+          <item>
+            <name>Foreign labor</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Northern Mariana Islands</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <calendarNumbers />
+    <congress>115</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-01-05</actionDate>
+          <text><![CDATA[<p><strong>Northern Mariana Islands Economic Expansion Act</strong></p> <p>This bill: (1) requires the Department of Homeland Security to increase the supplemental education fee charged to a prospective employer for each CNMI (Commonwealth of the Northern Mariana Islands)-Only Transitional Worker who is issued a permit during the transition period to U.S. immigration law, (2) allows such a permit for construction occupations to be issued only to extend a permit first issued before October 1, 2015, and (3) caps the number of permits issued for such nonimmigrant workers for FY2017 at 15,000.</p>]]></text>
+          <lastSummaryUpdateDate>2017-02-04T15:51:43Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2017-01-05T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDate>2017-01-30</actionDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p><strong>Northern Mariana Islands Economic Expansion Act</strong></p> <p>This bill: (1) requires the Department of Homeland Security to increase the supplemental education fee charged to a prospective employer for each CNMI (Commonwealth of the Northern Mariana Islands)-Only Transitional Worker who is issued a permit during the transition period to U.S. immigration law, (2) allows such a permit for construction occupations to be issued only to extend a permit first issued before October 1, 2015, and (3) caps the number of permits issued for such nonimmigrant workers for FY2017 at 15,000.</p>]]></text>
+          <lastSummaryUpdateDate>2017-02-04T15:53:22Z</lastSummaryUpdateDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <versionCode>81</versionCode>
+          <name>Passed House without amendment</name>
+          <updateDate>2017-01-30T14:24:51Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SABLAN:H.R. 339.Congress has the power to enact this legislation pursuantto the following:Pursuant to clause 7 of Rule XII of the Rules of the Houseof Representatives, the following statement ins submittedregarding the specific powers granted to Congress in theConstitution to enact the accompanying bill or jointresolution.Congress has the power to enact this legislation pursuantto the following: Under Article I, Section 8, Clauses 1, 3and 4 and Article IV, Section 3, Clause 2 of the Constitutionof the United States.[Page H183]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <cosponsors />
+    <billNumber>339</billNumber>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <actionDate>2017-04-27</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-31</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:43:52</actionTime>
+        <links />
+        <committee />
+        <actionDate>2017-01-30</actionDate>
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:43:50</actionTime>
+        <links>
+          <link>
+            <name>H710</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H710</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-01-30</actionDate>
+        <type>Floor</type>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H710)</text>
+        <actionCode>H37300</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionTime>16:43:50</actionTime>
+        <links>
+          <link>
+            <name>H710</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H710</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-01-30</actionDate>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H710)</text>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:38:55</actionTime>
+        <links>
+          <link>
+            <name>H.R. 339</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/339</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-01-30</actionDate>
+        <type>Floor</type>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 339.</text>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:38:53</actionTime>
+        <links>
+          <link>
+            <name>H710-712</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H710-712</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-01-30</actionDate>
+        <type>Floor</type>
+        <text>Considered under suspension of the rules. (consideration: CR H710-712)</text>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:38:39</actionTime>
+        <links />
+        <committee />
+        <actionDate>2017-01-30</actionDate>
+        <type>Floor</type>
+        <text>Mr. McClintock moved to suspend the rules and pass the bill.</text>
+        <actionCode>H30300</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <committee>
+          <name>Immigration and Border Security Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionDate>2017-01-05</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to House Judiciary</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <actionDate>2017-01-05</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to House Natural Resources</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <links />
+        <committee />
+        <actionDate>2017-01-05</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <actionDate>2017-01-05</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <actionDate>2017-01-05</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <generalDebate>1</generalDebate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <introducedInSenate>1</introducedInSenate>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-01-06T04:57:26Z</createDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <title>Northern Mariana Islands Economic Expansion Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Northern Mariana Islands Economic Expansion Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Northern Mariana Islands Economic Expansion Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To amend Public Law 94-241 with respect to the Northern Mariana Islands.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Northern Mariana Islands Economic Expansion Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2017-04-27</actionDate>
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,94 @@
+<bill session="115" type="h" number="611" updated="2017-06-19T20:45:21Z">
+  <state datetime="2017-01-23">REFERRED</state>
+  <status>
+    <introduced datetime="2017-01-23"/>
+  </status>
+  <introduced datetime="2017-01-23"/>
+  <titles>
+    <title type="short" as="introduced">VA Accountability First and Appeals Modernization Act of 2017</title>
+    <title type="short" as="introduced">VA Accountability First and Appeals Modernization Act of 2017</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide for the removal or demotion of employees of the Department of Veterans Affairs based on performance or misconduct, and for other purposes.</title>
+    <title type="display">VA Accountability First and Appeals Modernization Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="L000564"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000372" joined="2017-02-02"/>
+    <cosponsor bioguide_id="B001293" joined="2017-02-14"/>
+    <cosponsor bioguide_id="C001103" joined="2017-01-30"/>
+    <cosponsor bioguide_id="C001092" joined="2017-02-02"/>
+    <cosponsor bioguide_id="D000612" joined="2017-01-30"/>
+    <cosponsor bioguide_id="F000460" joined="2017-01-30"/>
+    <cosponsor bioguide_id="F000466" joined="2017-02-28"/>
+    <cosponsor bioguide_id="F000448" joined="2017-01-30"/>
+    <cosponsor bioguide_id="G000580" joined="2017-02-14"/>
+    <cosponsor bioguide_id="G000563" joined="2017-02-14"/>
+    <cosponsor bioguide_id="G000560" joined="2017-02-28"/>
+    <cosponsor bioguide_id="H001036" joined="2017-02-14"/>
+    <cosponsor bioguide_id="H001077" joined="2017-02-02"/>
+    <cosponsor bioguide_id="H001047" joined="2017-01-30" withdrawn="2017-02-01"/>
+    <cosponsor bioguide_id="J000292" joined="2017-02-02"/>
+    <cosponsor bioguide_id="K000362" joined="2017-02-02"/>
+    <cosponsor bioguide_id="M001177" joined="2017-01-30"/>
+    <cosponsor bioguide_id="O000168" joined="2017-02-02"/>
+    <cosponsor bioguide_id="P000605" joined="2017-02-02"/>
+    <cosponsor bioguide_id="P000592" joined="2017-03-08"/>
+    <cosponsor bioguide_id="R000597" joined="2017-03-08"/>
+    <cosponsor bioguide_id="R000583" joined="2017-01-30"/>
+    <cosponsor bioguide_id="R000603" joined="2017-01-30"/>
+    <cosponsor bioguide_id="S001189" joined="2017-01-30"/>
+    <cosponsor bioguide_id="S001195" joined="2017-02-14"/>
+    <cosponsor bioguide_id="S000583" joined="2017-01-30"/>
+    <cosponsor bioguide_id="S001187" joined="2017-01-30"/>
+    <cosponsor bioguide_id="T000467" joined="2017-01-30"/>
+    <cosponsor bioguide_id="T000470" joined="2017-01-30"/>
+    <cosponsor bioguide_id="T000475" joined="2017-05-04"/>
+    <cosponsor bioguide_id="V000129" joined="2017-02-02"/>
+    <cosponsor bioguide_id="W000804" joined="2017-02-02"/>
+    <cosponsor bioguide_id="Y000066" joined="2017-02-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-01-23">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-01-23" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-01-23">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2017-01-23">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2017-02-03">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="152"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative remedies"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Disability and paralysis"/>
+    <term name="Employee performance"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Federal officials"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government studies and investigations"/>
+    <term name="Merit Systems Protection Board"/>
+    <term name="Office of Special Counsel"/>
+    <term name="Transportation costs"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

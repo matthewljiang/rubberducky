@@ -1,0 +1,80 @@
+<bill session="115" type="h" number="2539" updated="2017-06-22T14:23:26Z">
+  <state datetime="2017-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-18"/>
+  </status>
+  <introduced datetime="2017-05-18"/>
+  <titles>
+    <title type="short" as="introduced">Quiet Communities Act of 2017</title>
+    <title type="short" as="introduced">Quiet Communities Act of 2017</title>
+    <title type="official" as="introduced">To reestablish the Office of Noise Abatement and Control in the Environmental Protection Agency, and for other purposes.</title>
+    <title type="display">Quiet Communities Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="M001188"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001270" joined="2017-05-22"/>
+    <cosponsor bioguide_id="C001037" joined="2017-05-18"/>
+    <cosponsor bioguide_id="C001038" joined="2017-05-18"/>
+    <cosponsor bioguide_id="E000215" joined="2017-05-18"/>
+    <cosponsor bioguide_id="G000574" joined="2017-05-18"/>
+    <cosponsor bioguide_id="L000480" joined="2017-06-20"/>
+    <cosponsor bioguide_id="L000562" joined="2017-06-20"/>
+    <cosponsor bioguide_id="N000147" joined="2017-05-18"/>
+    <cosponsor bioguide_id="Q000023" joined="2017-05-18"/>
+    <cosponsor bioguide_id="R000602" joined="2017-05-18"/>
+    <cosponsor bioguide_id="S001145" joined="2017-05-18"/>
+    <cosponsor bioguide_id="S000510" joined="2017-05-18"/>
+    <cosponsor bioguide_id="S001175" joined="2017-05-18"/>
+    <cosponsor bioguide_id="S001201" joined="2017-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-18">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-18" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-05-18">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2017-05-18">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2017-05-19">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="2017-05-19">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+    <action datetime="2017-05-19">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+    <action datetime="2017-05-19">
+      <text>Referred to the Subcommittee on Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Environment and the Economy" code="HSIF18" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Railroads, Pipelines, and Hazardous Materials" code="HSPW14" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Aviation" code="HSPW05" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Aviation and airports"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Environmental health"/>
+    <term name="Environmental technology"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Noise pollution"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

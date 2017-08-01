@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Weber</lastName>
+        <middleName>K.</middleName>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+          <lisID>2161</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <firstName>Randy</firstName>
+        <state>TX</state>
+        <district>14</district>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000814</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>ROHRABACHER</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>7851</gpoId>
+          <lisID>979</lisID>
+          <bioguideId>R000409</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>DANA</firstName>
+        <state>CA</state>
+        <district>48</district>
+        <fullName>Rep. Rohrabacher, Dana [R-CA-48]</fullName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000409</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Chu</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Judy</firstName>
+        <state>CA</state>
+        <district>27</district>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001080</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>SESSIONS</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>PETE</firstName>
+        <state>TX</state>
+        <district>32</district>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000250</bioguideId>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <title>Calling on the Government of Iraq to compensate the former residents of Camp Ashraf for their assets seized by groups affiliated with the Government of Iraq.</title>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <title>Calling on the Government of Iraq to compensate the former residents of Camp Ashraf for their assets seized by groups affiliated with the Government of Iraq.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Calling on the Government of Iraq to compensate the former residents of Camp Ashraf for their assets seized by groups affiliated with the Government of Iraq.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>486</billNumber>
+    <recordedVotes />
+    <policyArea />
+    <relatedBills />
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <billType>HRES</billType>
+    <originChamber>House</originChamber>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>P000592</bioguideId>
+        <firstName>Ted</firstName>
+        <district>2</district>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <identifiers>
+          <gpoId>8158</gpoId>
+          <bioguideId>P000592</bioguideId>
+          <lisID>1802</lisID>
+        </identifiers>
+        <lastName>Poe</lastName>
+        <middleName />
+        <party>R</party>
+        <byRequestType />
+        <state>TX</state>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <introducedDate>2017-07-28</introducedDate>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <links />
+      <actionDate>2017-07-28</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-28T13:08:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-07-29T07:32:57Z</updateDate>
+    <createDate>2017-07-29T03:11:32Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionDate>2017-07-28</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

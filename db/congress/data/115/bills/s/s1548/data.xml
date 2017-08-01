@@ -1,0 +1,38 @@
+<bill session="115" type="s" number="1548" updated="2017-07-29T04:36:47Z">
+  <state datetime="2017-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-13"/>
+  </status>
+  <introduced datetime="2017-07-13"/>
+  <titles>
+    <title type="short" as="introduced">Oregon Wildlands Act</title>
+    <title type="short" as="introduced">Oregon Wildlands Act</title>
+    <title type="official" as="introduced">A bill to designate certain land administered by the Bureau of Land Management and the Forest Service in the State of Oregon as wilderness and national recreation areas and to make additional wild and scenic river designations in the State of Oregon, and for other purposes.</title>
+    <title type="display">Oregon Wildlands Act</title>
+  </titles>
+  <sponsor bioguide_id="W000779"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001176" joined="2017-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-13">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2017-07-26">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands, Forests, and Mining" code="SSEG03" name="Senate Energy and Natural Resources" activity="Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

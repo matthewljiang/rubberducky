@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <notes />
+    <recordedVotes />
+    <cboCostEstimates />
+    <actions>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Natural Resources.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2017-07-29T07:33:09Z</updateDate>
+    <createDate>2017-07-29T03:11:38Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <relatedBills />
+    <policyArea />
+    <constitutionalAuthorityStatementText />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000588</bioguideId>
+        <identifiers>
+          <bioguideId>R000588</bioguideId>
+          <gpoId>7960</gpoId>
+          <lisID>2023</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Richmond</lastName>
+        <party>D</party>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <firstName>Cedric</firstName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <middleName>L.</middleName>
+        <state>LA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001289</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001289</bioguideId>
+          <lisID>2197</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Byrne</lastName>
+        <party>R</party>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <firstName>Bradley</firstName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <middleName />
+        <state>AL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000193</bioguideId>
+        <identifiers>
+          <bioguideId>T000193</bioguideId>
+          <lisID>1151</lisID>
+          <gpoId>8020</gpoId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>THOMPSON</lastName>
+        <party>D</party>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <firstName>BENNIE</firstName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <middleName />
+        <state>MS</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000814</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000814</bioguideId>
+          <lisID>2161</lisID>
+        </identifiers>
+        <district>14</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Weber</lastName>
+        <party>R</party>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <firstName>Randy</firstName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <middleName>K.</middleName>
+        <state>TX</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001049</bioguideId>
+        <identifiers>
+          <bioguideId>C001049</bioguideId>
+          <gpoId>8009</gpoId>
+          <lisID>1654</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>CLAY</lastName>
+        <party>D</party>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <firstName>WM.</firstName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <middleName>LACY</middleName>
+        <state>MO</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000601</bioguideId>
+        <identifiers>
+          <lisID>2035</lisID>
+          <gpoId>8022</gpoId>
+          <bioguideId>P000601</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Palazzo</lastName>
+        <party>R</party>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <firstName>Steven</firstName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <middleName>M.</middleName>
+        <state>MS</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000460</bioguideId>
+        <identifiers>
+          <bioguideId>F000460</bioguideId>
+          <lisID>2067</lisID>
+          <gpoId>8183</gpoId>
+        </identifiers>
+        <district>27</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Farenthold</lastName>
+        <party>R</party>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <firstName>Blake</firstName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <middleName />
+        <state>TX</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001189</bioguideId>
+        <identifiers>
+          <lisID>2009</lisID>
+          <gpoId>7905</gpoId>
+          <bioguideId>S001189</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <firstName>Austin</firstName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <middleName />
+        <state>GA</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001077</bioguideId>
+        <identifiers>
+          <lisID>2329</lisID>
+          <gpoId />
+          <bioguideId>H001077</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Higgins</lastName>
+        <party>R</party>
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <firstName>Clay</firstName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <middleName />
+        <state>LA</state>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Magnuson-Stevens Fishery Conservation and Management Act to provide for management of red snapper in the Gulf of Mexico, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To amend the Magnuson-Stevens Fishery Conservation and Management Act to provide for management of red snapper in the Gulf of Mexico, and for other purposes.</title>
+      </item>
+    </titles>
+    <laws />
+    <latestAction>
+      <text>Referred to the House Committee on Natural Resources.</text>
+      <actionDate>2017-07-28</actionDate>
+      <links />
+    </latestAction>
+    <billType>HR</billType>
+    <introducedDate>2017-07-28</introducedDate>
+    <title>To amend the Magnuson-Stevens Fishery Conservation and Management Act to provide for management of red snapper in the Gulf of Mexico, and for other purposes.</title>
+    <sponsors>
+      <item>
+        <lastName>Graves</lastName>
+        <party>R</party>
+        <fullName>Rep. Graves, Garret [R-LA-6]</fullName>
+        <bioguideId>G000577</bioguideId>
+        <firstName>Garret</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2245</lisID>
+          <bioguideId>G000577</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>LA</state>
+        <district>6</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billNumber>3588</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-28T13:13:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

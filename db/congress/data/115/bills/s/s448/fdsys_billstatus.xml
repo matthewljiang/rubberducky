@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <number>1173</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-03-02</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <latestTitle>Medicare Mental Health Access Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <bioguideId>C001035</bioguideId>
+        <middleName>MARGARET</middleName>
+        <lastName>COLLINS</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+          <lisID>1541</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+        <firstName>SUSAN</firstName>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000605</bioguideId>
+        <middleName />
+        <lastName>Rounds</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2288</lisID>
+          <gpoId />
+          <bioguideId>R000605</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <firstName>Mike</firstName>
+        <state>SD</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <middleName>E.</middleName>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <firstName>Kirsten</firstName>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001069</bioguideId>
+        <middleName />
+        <lastName>Heitkamp</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001069</bioguideId>
+          <lisID>2174</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <firstName>Heidi</firstName>
+        <state>ND</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>U000039</bioguideId>
+        <middleName />
+        <lastName>UDALL</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <firstName>TOM</firstName>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000383</bioguideId>
+        <middleName />
+        <lastName>King</lastName>
+        <party>I</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <firstName>Angus</firstName>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000174</bioguideId>
+        <middleName>JOSEPH</middleName>
+        <lastName>LEAHY</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8244</gpoId>
+          <lisID>1383</lisID>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <firstName>PATRICK</firstName>
+        <state>VT</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-14T21:11:26Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Medicare Mental Health Access Act</strong></p> <p>This bill amends title XVIII (Medicare) of the Social Security Act to expand the definition of "physician," for purposes of the Medicare program, to include a clinical psychologist with respect to the furnishing of qualified psychologist services.</p>]]></text>
+          <actionDate>2017-02-27</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-02-27T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-27T19:53:28Z</date>
+            </item>
+          </activities>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2017-02-27</actionDate>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <updateDate>2017-07-26T06:22:27Z</updateDate>
+    <cboCostEstimates />
+    <introducedDate>2017-02-27</introducedDate>
+    <actions>
+      <item>
+        <actionDate>2017-02-27</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-02-27</actionDate>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <lastName>BROWN</lastName>
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+        <middleName />
+        <party>D</party>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <byRequestType />
+        <firstName>SHERROD</firstName>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Medicare Mental Health Access Act</title>
+    <notes />
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <laws />
+    <billNumber>448</billNumber>
+    <createDate>2017-02-28T05:17:32Z</createDate>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Medicare Mental Health Access Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Medicare Mental Health Access Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title XVIII of the Social Security Act to provide for treatment of clinical psychologists as physicians for purposes of furnishing clinical psychologist services under the Medicare program.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Medicare Mental Health Access Act</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

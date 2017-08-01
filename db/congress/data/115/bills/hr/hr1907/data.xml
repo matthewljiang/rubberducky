@@ -1,0 +1,86 @@
+<bill session="115" type="h" number="1907" updated="2017-06-19T21:45:20Z">
+  <state datetime="2017-04-05">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-05"/>
+  </status>
+  <introduced datetime="2017-04-05"/>
+  <titles>
+    <title type="short" as="introduced">Election Infrastructure and Security Promotion Act of 2017</title>
+    <title type="short" as="introduced">Election Infrastructure and Security Promotion Act of 2017</title>
+    <title type="official" as="introduced">To direct the Secretary of Homeland Security to conduct research and development to mitigate the consequences of threats to voting systems, to amend the Help America Vote Act of 2002 to require the voting systems used in elections for Federal office to comply with national standards developed by the National Institute of Standards and Technology for operational security and ballot verification, to establish programs to promote research in innovative voting system technologies, and for other purposes.</title>
+    <title type="display">Election Infrastructure and Security Promotion Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="J000288"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001270" joined="2017-04-05"/>
+    <cosponsor bioguide_id="B000490" joined="2017-04-05"/>
+    <cosponsor bioguide_id="B001251" joined="2017-04-05"/>
+    <cosponsor bioguide_id="C001080" joined="2017-04-05"/>
+    <cosponsor bioguide_id="C001084" joined="2017-04-05"/>
+    <cosponsor bioguide_id="C001067" joined="2017-04-05"/>
+    <cosponsor bioguide_id="C001068" joined="2017-04-05"/>
+    <cosponsor bioguide_id="C000714" joined="2017-04-05"/>
+    <cosponsor bioguide_id="C000984" joined="2017-04-05"/>
+    <cosponsor bioguide_id="D000096" joined="2017-04-05"/>
+    <cosponsor bioguide_id="E000215" joined="2017-04-05"/>
+    <cosponsor bioguide_id="F000455" joined="2017-04-05"/>
+    <cosponsor bioguide_id="G000553" joined="2017-04-05"/>
+    <cosponsor bioguide_id="H000324" joined="2017-04-05"/>
+    <cosponsor bioguide_id="H001068" joined="2017-04-05"/>
+    <cosponsor bioguide_id="J000032" joined="2017-04-05"/>
+    <cosponsor bioguide_id="L000551" joined="2017-04-05"/>
+    <cosponsor bioguide_id="L000582" joined="2017-04-05"/>
+    <cosponsor bioguide_id="M001166" joined="2017-04-05"/>
+    <cosponsor bioguide_id="M001137" joined="2017-04-05"/>
+    <cosponsor bioguide_id="N000188" joined="2017-04-05"/>
+    <cosponsor bioguide_id="N000147" joined="2017-04-05"/>
+    <cosponsor bioguide_id="P000604" joined="2017-04-05"/>
+    <cosponsor bioguide_id="P000607" joined="2017-04-05"/>
+    <cosponsor bioguide_id="R000606" joined="2017-04-05"/>
+    <cosponsor bioguide_id="R000588" joined="2017-04-05"/>
+    <cosponsor bioguide_id="R000515" joined="2017-04-05"/>
+    <cosponsor bioguide_id="S001157" joined="2017-04-05"/>
+    <cosponsor bioguide_id="S000185" joined="2017-04-05"/>
+    <cosponsor bioguide_id="S000480" joined="2017-04-05"/>
+    <cosponsor bioguide_id="S000510" joined="2017-04-05"/>
+    <cosponsor bioguide_id="W000187" joined="2017-04-05"/>
+    <cosponsor bioguide_id="W000822" joined="2017-04-05"/>
+    <cosponsor bioguide_id="W000808" joined="2017-04-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-05">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-05" state="REFERRED">
+      <text>Referred to the Committee on House Administration, and in addition to the Committees on Science, Space, and Technology, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-04-05">
+      <text>Referred to House Administration</text>
+    </action>
+    <action datetime="2017-04-05">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2017-04-05">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2017-04-17">
+      <text>Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.</text>
+    </action>
+    <action datetime="2017-04-25">
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee subcommittee="Research and Technology" code="HSSY15" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee subcommittee="" code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee subcommittee="Cybersecurity, Infrastructure Protection, and Security Technologies" code="HSHM08" name="House Homeland Security" activity="Referral"/>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

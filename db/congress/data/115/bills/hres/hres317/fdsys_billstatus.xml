@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <committeeReports />
+    <billType>HRES</billType>
+    <constitutionalAuthorityStatementText />
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <bioguideId>L000480</bioguideId>
+        <party>D</party>
+        <district>17</district>
+        <middleName>M.</middleName>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8079</gpoId>
+          <lisID>709</lisID>
+          <bioguideId>L000480</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <firstName>NITA</firstName>
+        <lastName>LOWEY</lastName>
+      </item>
+      <item>
+        <bioguideId>P000592</bioguideId>
+        <party>R</party>
+        <district>2</district>
+        <middleName />
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000592</bioguideId>
+          <lisID>1802</lisID>
+          <gpoId>8158</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <firstName>Ted</firstName>
+        <lastName>Poe</lastName>
+      </item>
+      <item>
+        <bioguideId>D000610</bioguideId>
+        <party>D</party>
+        <district>22</district>
+        <middleName>E.</middleName>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7891</gpoId>
+          <lisID>1976</lisID>
+          <bioguideId>D000610</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <firstName>Theodore</firstName>
+        <lastName>Deutch</lastName>
+      </item>
+      <item>
+        <bioguideId>C001084</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <middleName>N.</middleName>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <state>RI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+          <lisID>2055</lisID>
+          <gpoId>8139</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <firstName>David</firstName>
+        <lastName>Cicilline</lastName>
+      </item>
+      <item>
+        <bioguideId>E000179</bioguideId>
+        <party>D</party>
+        <district>16</district>
+        <middleName>L.</middleName>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8078</gpoId>
+          <lisID>344</lisID>
+          <bioguideId>E000179</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <firstName>ELIOT</firstName>
+        <lastName>ENGEL</lastName>
+      </item>
+      <item>
+        <bioguideId>W000814</bioguideId>
+        <party>R</party>
+        <district>14</district>
+        <middleName>K.</middleName>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000814</bioguideId>
+          <lisID>2161</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <firstName>Randy</firstName>
+        <lastName>Weber</lastName>
+      </item>
+      <item>
+        <bioguideId>L000582</bioguideId>
+        <party>D</party>
+        <district>33</district>
+        <middleName />
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+          <gpoId />
+          <lisID>2230</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <firstName>Ted</firstName>
+        <lastName>Lieu</lastName>
+      </item>
+      <item>
+        <bioguideId>S001192</bioguideId>
+        <party>R</party>
+        <district>2</district>
+        <middleName />
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <state>UT</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001192</bioguideId>
+          <lisID>2168</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <firstName>Chris</firstName>
+        <lastName>Stewart</lastName>
+      </item>
+      <item>
+        <bioguideId>M001187</bioguideId>
+        <party>R</party>
+        <district>11</district>
+        <middleName />
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <state>NC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <lastName>Meadows</lastName>
+      </item>
+      <item>
+        <bioguideId>C000266</bioguideId>
+        <party>R</party>
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <state>OH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <firstName>STEVE</firstName>
+        <lastName>CHABOT</lastName>
+      </item>
+      <item>
+        <bioguideId>C001053</bioguideId>
+        <party>R</party>
+        <district>4</district>
+        <middleName />
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <state>OK</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8112</gpoId>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <firstName>Tom</firstName>
+        <lastName>Cole</lastName>
+      </item>
+      <item>
+        <bioguideId>G000535</bioguideId>
+        <party>D</party>
+        <district>4</district>
+        <middleName>V.</middleName>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <state>IL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7924</gpoId>
+          <lisID>478</lisID>
+          <bioguideId>G000535</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <firstName>LUIS</firstName>
+        <lastName>GUTIERREZ</lastName>
+      </item>
+      <item>
+        <bioguideId>D000625</bioguideId>
+        <party>R</party>
+        <district>11</district>
+        <middleName>M.</middleName>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000625</bioguideId>
+          <lisID>2293</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <firstName>Daniel</firstName>
+        <lastName>Donovan</lastName>
+      </item>
+      <item>
+        <bioguideId>L000564</bioguideId>
+        <party>R</party>
+        <district>5</district>
+        <middleName />
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <state>CO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7863</gpoId>
+          <bioguideId>L000564</bioguideId>
+          <lisID>1834</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <firstName>Doug</firstName>
+        <lastName>Lamborn</lastName>
+      </item>
+      <item>
+        <bioguideId>C001077</bioguideId>
+        <party>R</party>
+        <district>6</district>
+        <middleName />
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <state>CO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001077</bioguideId>
+          <gpoId>7864</gpoId>
+          <lisID>1912</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <firstName>Mike</firstName>
+        <lastName>Coffman</lastName>
+      </item>
+      <item>
+        <bioguideId>W000795</bioguideId>
+        <party>R</party>
+        <district>2</district>
+        <middleName />
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <state>SC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8142</gpoId>
+          <bioguideId>W000795</bioguideId>
+          <lisID>1688</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <firstName>Joe</firstName>
+        <lastName>Wilson</lastName>
+      </item>
+      <item>
+        <bioguideId>R000606</bioguideId>
+        <party>D</party>
+        <district>8</district>
+        <middleName />
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <state>MD</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <firstName>Jamie</firstName>
+        <lastName>Raskin</lastName>
+      </item>
+      <item>
+        <bioguideId>G000410</bioguideId>
+        <party>D</party>
+        <district>29</district>
+        <middleName />
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000410</bioguideId>
+          <lisID>462</lisID>
+          <gpoId>8185</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+        <firstName>GENE</firstName>
+        <lastName>GREEN</lastName>
+      </item>
+      <item>
+        <bioguideId>M000312</bioguideId>
+        <party>D</party>
+        <district>2</district>
+        <middleName>P.</middleName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <state>MA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+      </item>
+      <item>
+        <bioguideId>S000344</bioguideId>
+        <party>D</party>
+        <district>30</district>
+        <middleName />
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+          <gpoId>7832</gpoId>
+          <lisID>1526</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+        <firstName>BRAD</firstName>
+        <lastName>SHERMAN</lastName>
+      </item>
+      <item>
+        <bioguideId>Y000065</bioguideId>
+        <party>R</party>
+        <district>3</district>
+        <middleName>S.</middleName>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2115</lisID>
+          <gpoId />
+          <bioguideId>Y000065</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+        <firstName>Ted</firstName>
+        <lastName>Yoho</lastName>
+      </item>
+      <item>
+        <bioguideId>W000799</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <middleName>J.</middleName>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <state>MN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000799</bioguideId>
+          <lisID>1856</lisID>
+          <gpoId>8001</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+        <firstName>Timothy</firstName>
+        <lastName>Walz</lastName>
+      </item>
+      <item>
+        <bioguideId>C001078</bioguideId>
+        <party>D</party>
+        <district>11</district>
+        <middleName>E.</middleName>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <state>VA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+        <firstName>Gerald</firstName>
+        <lastName>Connolly</lastName>
+      </item>
+      <item>
+        <bioguideId>R000487</bioguideId>
+        <party>R</party>
+        <district>39</district>
+        <middleName />
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7845</gpoId>
+          <lisID>998</lisID>
+          <bioguideId>R000487</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+        <firstName>ED</firstName>
+        <lastName>ROYCE</lastName>
+      </item>
+      <item>
+        <bioguideId>J000126</bioguideId>
+        <party>D</party>
+        <district>30</district>
+        <middleName>BERNICE</middleName>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>J000126</bioguideId>
+          <lisID>599</lisID>
+          <gpoId>8186</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <firstName>EDDIE</firstName>
+        <lastName>JOHNSON</lastName>
+      </item>
+      <item>
+        <bioguideId>Z000017</bioguideId>
+        <party>R</party>
+        <district>1</district>
+        <middleName>M.</middleName>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2261</lisID>
+          <bioguideId>Z000017</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <firstName>Lee</firstName>
+        <lastName>Zeldin</lastName>
+      </item>
+      <item>
+        <bioguideId>S001165</bioguideId>
+        <party>D</party>
+        <district>8</district>
+        <middleName />
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <state>NJ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8055</gpoId>
+          <lisID>1818</lisID>
+          <bioguideId>S001165</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <firstName>Albio</firstName>
+        <lastName>Sires</lastName>
+      </item>
+      <item>
+        <bioguideId>C001094</bioguideId>
+        <party>R</party>
+        <district>8</district>
+        <middleName />
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001094</bioguideId>
+          <lisID>2103</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <firstName>Paul</firstName>
+        <lastName>Cook</lastName>
+      </item>
+      <item>
+        <bioguideId>E000288</bioguideId>
+        <party>D</party>
+        <district>5</district>
+        <middleName />
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <state>MN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1857</lisID>
+          <gpoId>8005</gpoId>
+          <bioguideId>E000288</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <firstName>Keith</firstName>
+        <lastName>Ellison</lastName>
+      </item>
+      <item>
+        <bioguideId>G000568</bioguideId>
+        <party>R</party>
+        <district>9</district>
+        <middleName>Morgan</middleName>
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+        <state>VA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8200</gpoId>
+          <bioguideId>G000568</bioguideId>
+          <lisID>2070</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <firstName>H.</firstName>
+        <lastName>Griffith</lastName>
+      </item>
+      <item>
+        <bioguideId>S001201</bioguideId>
+        <party>D</party>
+        <district>3</district>
+        <middleName>R.</middleName>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001201</bioguideId>
+          <lisID>2341</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <firstName>Thomas</firstName>
+        <lastName>Suozzi</lastName>
+      </item>
+      <item>
+        <bioguideId>W000808</bioguideId>
+        <party>D</party>
+        <district>24</district>
+        <middleName>S.</middleName>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+          <gpoId>7889</gpoId>
+          <lisID>2004</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <firstName>Frederica</firstName>
+        <lastName>Wilson</lastName>
+      </item>
+      <item>
+        <bioguideId>D000600</bioguideId>
+        <party>R</party>
+        <district>25</district>
+        <middleName />
+        <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7893</gpoId>
+          <bioguideId>D000600</bioguideId>
+          <lisID>1717</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <firstName>Mario</firstName>
+        <lastName>Diaz-Balart</lastName>
+      </item>
+      <item>
+        <bioguideId>C001105</bioguideId>
+        <party>R</party>
+        <district>10</district>
+        <middleName />
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <state>VA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2273</lisID>
+          <gpoId />
+          <bioguideId>C001105</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <firstName>Barbara</firstName>
+        <lastName>Comstock</lastName>
+      </item>
+      <item>
+        <bioguideId>W000822</bioguideId>
+        <party>D</party>
+        <district>12</district>
+        <middleName />
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <state>NJ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+          <lisID>2259</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <firstName>Bonnie</firstName>
+        <lastName>Watson Coleman</lastName>
+      </item>
+      <item>
+        <bioguideId>R000583</bioguideId>
+        <party>R</party>
+        <district>17</district>
+        <middleName>J.</middleName>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1916</lisID>
+          <gpoId>7888</gpoId>
+          <bioguideId>R000583</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <firstName>Thomas</firstName>
+        <lastName>Rooney</lastName>
+      </item>
+      <item>
+        <bioguideId>G000582</bioguideId>
+        <party>R</party>
+        <district>0</district>
+        <middleName />
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <state>PR</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000582</bioguideId>
+          <lisID>2347</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <firstName>Jenniffer</firstName>
+        <lastName>Gonzalez-Colon</lastName>
+      </item>
+      <item>
+        <bioguideId>K000380</bioguideId>
+        <party>D</party>
+        <district>5</district>
+        <middleName>T.</middleName>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <state>MI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000380</bioguideId>
+          <lisID>2134</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <firstName>Daniel</firstName>
+        <lastName>Kildee</lastName>
+      </item>
+      <item>
+        <bioguideId>J000298</bioguideId>
+        <party>D</party>
+        <district>7</district>
+        <middleName />
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <state>WA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2354</lisID>
+          <gpoId />
+          <bioguideId>J000298</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <firstName>Pramila</firstName>
+        <lastName>Jayapal</lastName>
+      </item>
+      <item>
+        <bioguideId>G000580</bioguideId>
+        <party>R</party>
+        <district>5</district>
+        <middleName>A.</middleName>
+        <fullName>Rep. Garrett, Thomas A., Jr. [R-VA-5]</fullName>
+        <state>VA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000580</bioguideId>
+          <lisID>2353</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <firstName>Thomas</firstName>
+        <lastName>Garrett</lastName>
+      </item>
+      <item>
+        <bioguideId>R000409</bioguideId>
+        <party>R</party>
+        <district>48</district>
+        <middleName />
+        <fullName>Rep. Rohrabacher, Dana [R-CA-48]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>979</lisID>
+          <gpoId>7851</gpoId>
+          <bioguideId>R000409</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <firstName>DANA</firstName>
+        <lastName>ROHRABACHER</lastName>
+      </item>
+      <item>
+        <bioguideId>S000244</bioguideId>
+        <party>R</party>
+        <district>5</district>
+        <middleName>JAMES</middleName>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <state>WI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8218</gpoId>
+          <bioguideId>S000244</bioguideId>
+          <lisID>1041</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <firstName>F.</firstName>
+        <lastName>SENSENBRENNER</lastName>
+      </item>
+      <item>
+        <bioguideId>S001148</bioguideId>
+        <party>R</party>
+        <district>2</district>
+        <middleName>K.</middleName>
+        <fullName>Rep. Simpson, Michael K. [R-ID-2]</fullName>
+        <state>ID</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7920</gpoId>
+          <bioguideId>S001148</bioguideId>
+          <lisID>1590</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <firstName>MICHAEL</firstName>
+        <lastName>SIMPSON</lastName>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the Committee on Foreign Relations.</text>
+          <actionDate>2017-07-10</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>SRES</type>
+        <number>216</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A resolution calling on the Government of Iran to release unjustly detained United States citizens and legal permanent resident aliens, and for other purposes.</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Iran</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionDate>2017-07-26</actionDate>
+      <actionTime>15:10:29</actionTime>
+      <links />
+    </latestAction>
+    <notes />
+    <originChamber>House</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <designationOfSpeakerProTempore>1</designationOfSpeakerProTempore>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <generalDebate>1</generalDebate>
+        <placeholderTextForH>2</placeholderTextForH>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionTime>15:10:29</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <committee />
+        <actionDate>2017-07-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>15:10:28</actionTime>
+        <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H6332)</text>
+        <actionCode>H37300</actionCode>
+        <committee />
+        <actionDate>2017-07-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H6332</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6332</url>
+          </link>
+        </links>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>15:10:28</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+        <actionCode>8000</actionCode>
+        <committee />
+        <actionDate>2017-07-26</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>14:41:44</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 317.</text>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2017-07-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Res. 317</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/317</url>
+          </link>
+        </links>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>14:41:39</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H6331-6335)</text>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <actionDate>2017-07-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H6331-6335</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6331-6335</url>
+          </link>
+        </links>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>14:41:24</actionTime>
+        <text>Mr. Royce (CA) moved to suspend the rules and agree to the resolution, as amended.</text>
+        <actionCode>H30300</actionCode>
+        <committee />
+        <actionDate>2017-07-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <committee>
+          <systemCode>hsfa13</systemCode>
+          <name>Middle East and North Africa Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Voice Vote .</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <committee>
+          <systemCode>hsfa13</systemCode>
+          <name>Middle East and North Africa Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <systemCode>hsfa13</systemCode>
+          <name>Middle East and North Africa Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Middle East and North Africa.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-04</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-04</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-04</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <district>27</district>
+        <firstName>ILEANA</firstName>
+        <fullName>Rep. Ros-Lehtinen, Ileana [R-FL-27]</fullName>
+        <state>FL</state>
+        <middleName />
+        <bioguideId>R000435</bioguideId>
+        <identifiers>
+          <bioguideId>R000435</bioguideId>
+          <lisID>985</lisID>
+          <gpoId>7890</gpoId>
+        </identifiers>
+        <party>R</party>
+        <byRequestType />
+        <lastName>ROS-LEHTINEN</lastName>
+      </item>
+    </sponsors>
+    <billNumber>317</billNumber>
+    <createDate>2017-05-05T03:11:44Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-05-04T13:04:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-06-29T14:27:14Z</date>
+                  <name>Reported by</name>
+                </item>
+                <item>
+                  <date>2017-06-29T14:20:37Z</date>
+                  <name>Markup by</name>
+                </item>
+                <item>
+                  <date>2017-05-18T15:45:37Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Middle East and North Africa Subcommittee</name>
+              <systemCode>hsfa13</systemCode>
+            </item>
+          </subcommittees>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Calling for the unconditional release of United States citizens and legal permanent resident aliens being held for political purposes by the Government of Iran.</title>
+    <introducedDate>2017-05-04</introducedDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>Calling for the unconditional release of United States citizens and legal permanent resident aliens being held for political purposes by the Government of Iran.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Calling for the unconditional release of United States citizens and legal permanent resident aliens being held for political purposes by the Government of Iran.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <updateDate>2017-07-27T15:12:12Z</updateDate>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

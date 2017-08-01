@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-20T13:02:00Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsvr00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <createDate>2017-07-21T03:11:38Z</createDate>
+    <title>To direct the Secretary of Veterans Affairs to carry out a pilot program to enter into contracts with qualified nonprofit organizations to provide service dogs to eligible veterans with a mental health mobility disorder related to post-traumatic stress or traumatic brain injury, and for other purposes.</title>
+    <billNumber>3335</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <relatedBills />
+    <notes />
+    <policyArea />
+    <actions>
+      <item>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <actionDate>2017-07-20</actionDate>
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <links />
+    </latestAction>
+    <constitutionalAuthorityStatementText />
+    <committeeReports />
+    <sponsors>
+      <item>
+        <firstName>Gus</firstName>
+        <state>FL</state>
+        <middleName>M.</middleName>
+        <bioguideId>B001257</bioguideId>
+        <byRequestType />
+        <party>R</party>
+        <district>12</district>
+        <lastName>Bilirakis</lastName>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <identifiers>
+          <gpoId>7881</gpoId>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To direct the Secretary of Veterans Affairs to carry out a pilot program to enter into contracts with qualified nonprofit organizations to provide service dogs to eligible veterans with a mental health mobility disorder related to post-traumatic stress or traumatic brain injury, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>To direct the Secretary of Veterans Affairs to carry out a pilot program to enter into contracts with qualified nonprofit organizations to provide service dogs to eligible veterans with a mental health mobility disorder related to post-traumatic stress or traumatic brain injury, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <introducedDate>2017-07-20</introducedDate>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <district>28</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001063</bioguideId>
+          <lisID>1807</lisID>
+          <gpoId>8184</gpoId>
+        </identifiers>
+        <bioguideId>C001063</bioguideId>
+        <party>D</party>
+        <lastName>Cuellar</lastName>
+        <firstName>Henry</firstName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <middleName />
+        <state>TX</state>
+      </item>
+    </cosponsors>
+    <amendments />
+    <cboCostEstimates />
+    <updateDate>2017-07-21T07:31:34Z</updateDate>
+    <laws />
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

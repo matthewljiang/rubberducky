@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfr00</systemCode>
+          <type>Standing</type>
+          <name>Foreign Relations Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T17:00:57Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-04-06T02:11:54Z</createDate>
+    <notes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8287</gpoId>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <lastName>CARDIN</lastName>
+        <middleName>L.</middleName>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <bioguideId>C000141</bioguideId>
+        <party>D</party>
+        <firstName>BENJAMIN</firstName>
+        <state>MD</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <billNumber>832</billNumber>
+    <title>AGOA and MCA Modernization Act</title>
+    <congress>115</congress>
+    <amendments />
+    <cosponsors>
+      <item>
+        <middleName />
+        <lastName>Isakson</lastName>
+        <party>R</party>
+        <firstName>Johnny</firstName>
+        <state>GA</state>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <identifiers>
+          <bioguideId>I000055</bioguideId>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+        </identifiers>
+        <bioguideId>I000055</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <lastName>Coons</lastName>
+        <party>D</party>
+        <firstName>Christopher</firstName>
+        <state>DE</state>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <bioguideId>C001088</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>C.</middleName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <firstName>Gary</firstName>
+        <state>MI</state>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <identifiers>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+          <lisID>1929</lisID>
+        </identifiers>
+        <bioguideId>P000595</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Murphy</lastName>
+        <party>D</party>
+        <firstName>Christopher</firstName>
+        <state>CT</state>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+          <lisID>1837</lisID>
+          <gpoId>7870</gpoId>
+        </identifiers>
+        <bioguideId>M001169</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>AGOA and MCA Modernization Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>African Growth and Opportunity Act and Millennium Challenge Act Modernization Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>AGOA and MCA Modernization Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>African Growth and Opportunity Act and Millennium Challenge Act Modernization Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to enhance the transparency and accelerate the impact of programs under the African Growth and Opportunity Act and the Millennium Challenge Corporation, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>AGOA and MCA Modernization Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <actions>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-04-05</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <actionDate>2017-04-05</actionDate>
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </latestAction>
+    <updateDate>2017-06-19T21:45:14Z</updateDate>
+    <calendarNumbers />
+    <introducedDate>2017-04-05</introducedDate>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

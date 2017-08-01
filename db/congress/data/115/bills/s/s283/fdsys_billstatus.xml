@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Mark Takai Atomic Veterans Healthcare Parity Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Mark Takai Atomic Veterans Healthcare Parity Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 38, United States Code, to provide for the treatment of veterans who participated in the cleanup of Enewetak Atoll as radiation exposed veterans for purposes of the presumption of service-connection of certain disabilities by the Secretary of Veterans Affairs, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Mark Takai Atomic Veterans Healthcare Parity Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <actions>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-02-02</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Cancer</name>
+          </item>
+          <item>
+            <name>Marshall Islands</name>
+          </item>
+          <item>
+            <name>Nuclear weapons</name>
+          </item>
+          <item>
+            <name>Radiation</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <congress>115</congress>
+    <title>Mark Takai Atomic Veterans Healthcare Parity Act</title>
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <bioguideId>F000457</bioguideId>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>F000457</bioguideId>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <lastName>Franken</lastName>
+        <middleName />
+        <firstName>Al</firstName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2017-02-02</introducedDate>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>632</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Mark Takai Atomic Veterans Healthcare Parity Act</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-02-03</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-02-25T14:27:47Z</lastSummaryUpdateDate>
+          <actionDate>2017-02-02</actionDate>
+          <versionCode>00</versionCode>
+          <updateDate>2017-02-02T05:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Mark Takai Atomic Veterans Healthcare Parity Act</strong></p> <p>This bill includes veterans who participated in the cleanup of Enewetak Atoll in the Marshall Islands between January 1, 1977, and December 31, 1980, as radiation exposed veterans for purposes of the Department of Veterans Affairs presumption of service-connection for specified cancers.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2017-06-19T21:00:29Z</updateDate>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <bioguideId>T000476</bioguideId>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+          <lisID>2291</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Tillis</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Thomas</firstName>
+        <middleName>Roland</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <bioguideId>C001088</bioguideId>
+        <party>D</party>
+        <state>DE</state>
+        <identifiers>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Coons</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Christopher</firstName>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <bioguideId>M001176</bioguideId>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Merkley</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeff</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <bioguideId>W000779</bioguideId>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+          <lisID>1247</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>WYDEN</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>RON</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <bioguideId>H001042</bioguideId>
+        <party>D</party>
+        <state>HI</state>
+        <identifiers>
+          <gpoId>7913</gpoId>
+          <bioguideId>H001042</bioguideId>
+          <lisID>1844</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Hirono</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mazie</firstName>
+        <middleName>K.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <bioguideId>B001230</bioguideId>
+        <party>D</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>BALDWIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>TAMMY</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <bioguideId>K000383</bioguideId>
+        <party>I</party>
+        <state>ME</state>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <lisID>2185</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>King</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Angus</firstName>
+        <middleName />
+      </item>
+    </cosponsors>
+    <notes />
+    <amendments />
+    <committeeReports />
+    <billNumber>283</billNumber>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <latestAction>
+      <links />
+      <actionDate>2017-02-02</actionDate>
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </latestAction>
+    <calendarNumbers />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <createDate>2017-02-03T05:17:31Z</createDate>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-02-02T19:22:29Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

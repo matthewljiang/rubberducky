@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-05-04", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-05-04", 
+      "action_code": "", 
+      "committees": [
+        "SSSB"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Small Business and Entrepreneurship.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1038-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Small Business and Entrepreneurship", 
+      "committee_id": "SSSB"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000555", 
+      "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-05-04", 
+      "state": "NY", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001042", 
+      "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-08", 
+      "state": "HI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-05-04", 
+  "number": "1038", 
+  "official_title": "A bill to require the Administrator of the Small Business Administration to submit to Congress a report on the utilization of small businesses with respect to certain Federal contracts.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "E000295", 
+    "district": null, 
+    "name": "Ernst, Joni", 
+    "state": "IA", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-05-04", 
+  "subjects": [
+    "Commerce"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to require the Administrator of the Small Business Administration to submit to Congress a report on the utilization of small businesses with respect to certain Federal contracts.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to require the Administrator of the Small Business Administration to submit to Congress a report on the utilization of small businesses with respect to certain Federal contracts.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-20T16:56:26Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1038.xml"
+}

@@ -1,0 +1,60 @@
+<bill session="115" type="h" number="2147" updated="2017-07-28T07:16:22Z">
+  <state datetime="2017-04-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-26"/>
+  </status>
+  <introduced datetime="2017-04-26"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Treatment Court Improvement Act of 2017</title>
+    <title type="short" as="introduced">Veterans Treatment Court Improvement Act of 2017</title>
+    <title type="official" as="introduced">To require the Secretary of Veterans Affairs to hire additional Veterans Justice Outreach Specialists to provide treatment court services to justice-involved veterans, and for other purposes.</title>
+    <title type="display">Veterans Treatment Court Improvement Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C001077"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001299" joined="2017-06-02"/>
+    <cosponsor bioguide_id="C001105" joined="2017-06-08"/>
+    <cosponsor bioguide_id="G000582" joined="2017-05-04"/>
+    <cosponsor bioguide_id="K000382" joined="2017-06-12"/>
+    <cosponsor bioguide_id="M001202" joined="2017-07-27"/>
+    <cosponsor bioguide_id="O000170" joined="2017-05-24"/>
+    <cosponsor bioguide_id="P000608" joined="2017-05-23"/>
+    <cosponsor bioguide_id="P000597" joined="2017-05-19"/>
+    <cosponsor bioguide_id="P000611" joined="2017-06-16"/>
+    <cosponsor bioguide_id="R000609" joined="2017-05-19"/>
+    <cosponsor bioguide_id="S001170" joined="2017-07-12"/>
+    <cosponsor bioguide_id="T000472" joined="2017-05-19"/>
+    <cosponsor bioguide_id="T000470" joined="2017-07-27"/>
+    <cosponsor bioguide_id="W000813" joined="2017-06-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-26" state="REFERRED">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+    <action datetime="2017-04-26">
+      <text>Subcommittee on Disability Assistance and Memorial Affairs Discharged.</text>
+    </action>
+    <action datetime="2017-04-26">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2017-04-26">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Discharged, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="946"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

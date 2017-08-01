@@ -1,0 +1,32 @@
+<bill session="115" type="h" number="2003" updated="2017-06-19T21:45:12Z">
+  <state datetime="2017-04-06">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-06"/>
+  </status>
+  <introduced datetime="2017-04-06"/>
+  <titles>
+    <title type="short" as="introduced">Pre-K for USA Act</title>
+    <title type="short" as="introduced">Pre-K for USA Act</title>
+    <title type="official" as="introduced">To amend the Every Student Succeeds Act to provide grants for high-quality, local prekindergarten programs, and for other purposes.</title>
+    <title type="display">Pre-K for USA Act</title>
+  </titles>
+  <sponsor bioguide_id="C001091"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-04-06">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-06" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

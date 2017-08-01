@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-29T07:32:58Z</updateDate>
+    <relatedBills />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2017-07-28</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>OR</state>
+        <middleName />
+        <firstName>GREG</firstName>
+        <lastName>WALDEN</lastName>
+        <fullName>Rep. Walden, Greg [R-OR-2]</fullName>
+        <identifiers>
+          <gpoId>8115</gpoId>
+          <lisID>1596</lisID>
+          <bioguideId>W000791</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <district>2</district>
+        <bioguideId>W000791</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>Honoring Edward G. Grossman for his distinguished public service and professional assistance to the House of Representatives.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Honoring Edward G. Grossman for his distinguished public service and professional assistance to the House of Representatives.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-07-28</introducedDate>
+    <policyArea />
+    <title>Honoring Edward G. Grossman for his distinguished public service and professional assistance to the House of Representatives.</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on House Administration.</text>
+        <links />
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionDate>2017-07-28</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <billType>HRES</billType>
+    <cosponsors>
+      <item>
+        <bioguideId>R000570</bioguideId>
+        <party>R</party>
+        <district>1</district>
+        <middleName>D.</middleName>
+        <fullName>Rep. Ryan, Paul D. [R-WI-1]</fullName>
+        <state>WI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1560</lisID>
+          <gpoId>8214</gpoId>
+          <bioguideId>R000570</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>Paul</firstName>
+        <lastName>Ryan</lastName>
+      </item>
+      <item>
+        <bioguideId>P000197</bioguideId>
+        <party>D</party>
+        <district>12</district>
+        <middleName />
+        <fullName>Rep. Pelosi, Nancy [D-CA-12]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7813</gpoId>
+          <bioguideId>P000197</bioguideId>
+          <lisID>905</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>NANCY</firstName>
+        <lastName>PELOSI</lastName>
+      </item>
+      <item>
+        <bioguideId>M001165</bioguideId>
+        <party>R</party>
+        <district>23</district>
+        <middleName />
+        <fullName>Rep. McCarthy, Kevin [R-CA-23]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001165</bioguideId>
+          <lisID>1833</lisID>
+          <gpoId>7827</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>Kevin</firstName>
+        <lastName>McCarthy</lastName>
+      </item>
+      <item>
+        <bioguideId>H000874</bioguideId>
+        <party>D</party>
+        <district>5</district>
+        <middleName>H.</middleName>
+        <fullName>Rep. Hoyer, Steny H. [D-MD-5]</fullName>
+        <state>MD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H000874</bioguideId>
+          <lisID>566</lisID>
+          <gpoId>7980</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>STENY</firstName>
+        <lastName>HOYER</lastName>
+      </item>
+      <item>
+        <bioguideId>P000034</bioguideId>
+        <party>D</party>
+        <district>6</district>
+        <middleName />
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <state>NJ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000034</bioguideId>
+          <gpoId>8048</gpoId>
+          <lisID>887</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>FRANK</firstName>
+        <lastName>PALLONE</lastName>
+      </item>
+      <item>
+        <bioguideId>B001248</bioguideId>
+        <party>R</party>
+        <district>26</district>
+        <middleName>C.</middleName>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8182</gpoId>
+          <lisID>1751</lisID>
+          <bioguideId>B001248</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>Michael</firstName>
+        <lastName>Burgess</lastName>
+      </item>
+      <item>
+        <bioguideId>G000410</bioguideId>
+        <party>D</party>
+        <district>29</district>
+        <middleName />
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000410</bioguideId>
+          <lisID>462</lisID>
+          <gpoId>8185</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>GENE</firstName>
+        <lastName>GREEN</lastName>
+      </item>
+      <item>
+        <bioguideId>B000755</bioguideId>
+        <party>R</party>
+        <district>8</district>
+        <middleName />
+        <fullName>Rep. Brady, Kevin [R-TX-8]</fullName>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B000755</bioguideId>
+          <lisID>1468</lisID>
+          <gpoId>8164</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>KEVIN</firstName>
+        <lastName>BRADY</lastName>
+      </item>
+      <item>
+        <bioguideId>N000015</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <middleName>E.</middleName>
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+        <state>MA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7967</gpoId>
+          <bioguideId>N000015</bioguideId>
+          <lisID>854</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>RICHARD</firstName>
+        <lastName>NEAL</lastName>
+      </item>
+      <item>
+        <bioguideId>T000462</bioguideId>
+        <party>R</party>
+        <district>12</district>
+        <middleName>J.</middleName>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <state>OH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1664</lisID>
+          <gpoId>8102</gpoId>
+          <bioguideId>T000462</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>PATRICK</firstName>
+        <lastName>TIBERI</lastName>
+      </item>
+      <item>
+        <bioguideId>L000263</bioguideId>
+        <party>D</party>
+        <district>9</district>
+        <middleName>M.</middleName>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+        <state>MI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000263</bioguideId>
+          <lisID>683</lisID>
+          <gpoId>7997</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <firstName>SANDER</firstName>
+        <lastName>LEVIN</lastName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <createDate>2017-07-29T03:11:32Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hsha00</systemCode>
+          <chamber>House</chamber>
+          <name>House Administration Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-28T13:15:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>489</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

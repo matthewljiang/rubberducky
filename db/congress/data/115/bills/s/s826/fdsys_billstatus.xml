@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-07-20T04:47:30Z</updateDate>
+    <congress>115</congress>
+    <recordedVotes />
+    <titles>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>Fish and Wildlife Coordination Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>WILD Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>Wildlife Innovation and Longevity Driver Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>Fish and Wildlife Coordination Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>WILD Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>Wildlife Innovation and Longevity Driver Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <chamberName />
+        <title>Fish and Wildlife Coordination Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>WILD Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Wildlife Innovation and Longevity Driver Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>WILD Act</title>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>Wildlife Innovation and Longevity Driver Act</title>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <chamberName />
+        <title>WILD Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Wildlife Innovation and Longevity Driver Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>A bill to reauthorize the Partners for Fish and Wildlife Program and certain wildlife conservation funds, to establish prize competitions relating to the prevention of wildlife poaching and trafficking, wildlife conservation, the management of invasive species, and the protection of endangered species, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>WILD Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <billNumber>826</billNumber>
+    <actions>
+      <item>
+        <text>Held at the desk.</text>
+        <links />
+        <actionTime>20:37:21</actionTime>
+        <committee />
+        <actionDate>2017-06-12</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H15000</actionCode>
+      </item>
+      <item>
+        <text>Received in the House.</text>
+        <links />
+        <actionTime>14:02:06</actionTime>
+        <committee />
+        <actionDate>2017-06-12</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H14000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-06-09</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-06-08</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S3375-3380</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S3375-3380</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3375-3380; text of amendment in the nature of a substitute: CR S3375-3380)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2017-06-08</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 91.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-73</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/73</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-73.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-73.</text>
+        <type>Committee</type>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <actionDate>2017-05-17</actionDate>
+        <links>
+          <link>
+            <name>report No. 115-73</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/73</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>14000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S2217</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2217</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works. (Sponsor introductory remarks on measure: CR S2217)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-04-04</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>9</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <reportedToSenate>2</reportedToSenate>
+        <passedSenate>1</passedSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <orderedReported>1</orderedReported>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-05-12T20:00:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/52720</url>
+        <title>S. 826, WILD Act</title>
+      </item>
+    </cboCostEstimates>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <laws />
+    <cosponsors>
+      <item>
+        <lastName>CARPER</lastName>
+        <middleName>R.</middleName>
+        <state>DE</state>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>179</lisID>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+        </identifiers>
+        <bioguideId>C000174</bioguideId>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <party>D</party>
+        <firstName>THOMAS</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>INHOFE</lastName>
+        <middleName />
+        <state>OK</state>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>583</lisID>
+          <bioguideId>I000024</bioguideId>
+          <gpoId>8322</gpoId>
+        </identifiers>
+        <bioguideId>I000024</bioguideId>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <party>R</party>
+        <firstName>JIM</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Booker</lastName>
+        <middleName>A.</middleName>
+        <state>NJ</state>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+        </identifiers>
+        <bioguideId>B001288</bioguideId>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <party>D</party>
+        <firstName>Cory</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Boozman</lastName>
+        <middleName />
+        <state>AR</state>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <bioguideId>B001236</bioguideId>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <party>R</party>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Whitehouse</lastName>
+        <middleName />
+        <state>RI</state>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <bioguideId>W000802</bioguideId>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <party>D</party>
+        <firstName>Sheldon</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <relatedBills />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <title>WILD Act</title>
+    <sponsors>
+      <item>
+        <firstName>John</firstName>
+        <state>WY</state>
+        <lastName>Barrasso</lastName>
+        <byRequestType />
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>1881</lisID>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+        </identifiers>
+        <bioguideId>B001261</bioguideId>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-05-17T18:57:39Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-04-05T14:00:34Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-04T23:14:25Z</date>
+            </item>
+          </activities>
+          <name>Environment and Public Works Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssev00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <introducedDate>2017-04-04</introducedDate>
+    <amendments />
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-73</citation>
+      </committeeReport>
+    </committeeReports>
+    <latestAction>
+      <text>Held at the desk.</text>
+      <actionDate>2017-06-12</actionDate>
+      <links />
+      <actionTime>20:37:21</actionTime>
+    </latestAction>
+    <notes />
+    <createDate>2017-04-05T07:27:16Z</createDate>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0091</number>
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

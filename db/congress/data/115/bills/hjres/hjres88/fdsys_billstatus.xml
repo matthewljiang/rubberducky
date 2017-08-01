@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. McGOVERN:H.J. Res. 88.Congress has the power to enact this legislation pursuantto the following:Article V of the Constitution.____________________[Page H2053]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>First Amendment rights</name>
+          </item>
+          <item>
+            <name>Political advertising</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-29T07:16:14Z</updateDate>
+    <relatedBills>
+      <item>
+        <number>20</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-02-03</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <latestTitle>A joint resolution proposing an amendment to the Constitution of the United States to clarify the authority of Congress and the States to regulate corporations, limited liability companies, and other corporate entities established by the laws of any State, the United States, or any foreign state.</latestTitle>
+        <type>SJRES</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <actionDate>2017-03-10</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>MA</state>
+        <middleName>P.</middleName>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <byRequestType />
+        <district>2</district>
+        <bioguideId>M000312</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Proposing an amendment to the Constitution of the United States to clarify the authority of Congress and the States to regulate corporations, limited liability companies or other corporate entities established by the laws of any State, the United States, or any foreign state.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Proposing an amendment to the Constitution of the United States to clarify the authority of Congress and the States to regulate corporations, limited liability companies or other corporate entities established by the laws of any State, the United States, or any foreign state.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-03-10</introducedDate>
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <title>Proposing an amendment to the Constitution of the United States to clarify the authority of Congress and the States to regulate corporations, limited liability companies or other corporate entities established by the laws of any State, the United States, or any foreign state.</title>
+    <actions>
+      <item>
+        <actionDate>2017-03-10</actionDate>
+        <committee>
+          <name>Constitution and Civil Justice Subcommittee</name>
+          <systemCode>hsju10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-10</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <actionDate>2017-03-10</actionDate>
+        <actionCode>B00100</actionCode>
+        <links>
+          <link>
+            <name>H2025</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2025</url>
+          </link>
+        </links>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Sponsor introductory remarks on measure. (CR H2025)</text>
+      </item>
+      <item>
+        <actionDate>2017-03-10</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-03-10</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billType>HJRES</billType>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <district>8</district>
+        <lastName>Lynch</lastName>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <state>MA</state>
+        <bioguideId>L000562</bioguideId>
+        <middleName>F.</middleName>
+        <firstName>Stephen</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000562</bioguideId>
+          <gpoId>7974</gpoId>
+          <lisID>1686</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <district>9</district>
+        <lastName>Cohen</lastName>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <state>TN</state>
+        <bioguideId>C001068</bioguideId>
+        <middleName />
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <district>2</district>
+        <lastName>LANGEVIN</lastName>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <state>RI</state>
+        <bioguideId>L000559</bioguideId>
+        <middleName>R.</middleName>
+        <firstName>JAMES</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000559</bioguideId>
+          <lisID>1668</lisID>
+          <gpoId>8140</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <district>0</district>
+        <lastName>Welch</lastName>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <state>VT</state>
+        <bioguideId>W000800</bioguideId>
+        <middleName />
+        <firstName>Peter</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8204</gpoId>
+          <bioguideId>W000800</bioguideId>
+          <lisID>1879</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <district>9</district>
+        <lastName>Keating</lastName>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <state>MA</state>
+        <bioguideId>K000375</bioguideId>
+        <middleName>R.</middleName>
+        <firstName>William</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2025</lisID>
+          <gpoId>7975</gpoId>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <district>4</district>
+        <lastName>DEFAZIO</lastName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <state>OR</state>
+        <bioguideId>D000191</bioguideId>
+        <middleName>A.</middleName>
+        <firstName>PETER</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8117</gpoId>
+          <bioguideId>D000191</bioguideId>
+          <lisID>279</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <district>41</district>
+        <lastName>Takano</lastName>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <state>CA</state>
+        <bioguideId>T000472</bioguideId>
+        <middleName />
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2110</lisID>
+          <gpoId />
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <district>1</district>
+        <lastName>Pingree</lastName>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <state>ME</state>
+        <bioguideId>P000597</bioguideId>
+        <middleName />
+        <firstName>Chellie</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7984</gpoId>
+          <lisID>1927</lisID>
+          <bioguideId>P000597</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <district>7</district>
+        <lastName>CAPUANO</lastName>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <state>MA</state>
+        <bioguideId>C001037</bioguideId>
+        <middleName>E.</middleName>
+        <firstName>MICHAEL</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001037</bioguideId>
+          <lisID>1564</lisID>
+          <gpoId>7973</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <district>5</district>
+        <lastName>COOPER</lastName>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <state>TN</state>
+        <bioguideId>C000754</bioguideId>
+        <middleName>H.</middleName>
+        <firstName>JAMES</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C000754</bioguideId>
+          <lisID>231</lisID>
+          <gpoId>8152</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <district>3</district>
+        <lastName>Grijalva</lastName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <state>AZ</state>
+        <bioguideId>G000551</bioguideId>
+        <middleName>M.</middleName>
+        <firstName>Raul</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <district>2</district>
+        <lastName>Loebsack</lastName>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <state>IA</state>
+        <bioguideId>L000565</bioguideId>
+        <middleName />
+        <firstName>David</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000565</bioguideId>
+          <gpoId>7915</gpoId>
+          <lisID>1846</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <district>5</district>
+        <lastName>Clark</lastName>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <state>MA</state>
+        <bioguideId>C001101</bioguideId>
+        <middleName>M.</middleName>
+        <firstName>Katherine</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001101</bioguideId>
+          <lisID>2196</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <district>33</district>
+        <lastName>Lieu</lastName>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <state>CA</state>
+        <bioguideId>L000582</bioguideId>
+        <middleName />
+        <firstName>Ted</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2230</lisID>
+          <gpoId />
+          <bioguideId>L000582</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <createDate>2017-03-11T04:50:58Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-03-10T14:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-03-10T21:06:15Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Constitution and Civil Justice Subcommittee</name>
+              <systemCode>hsju10</systemCode>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Constitutional Amendment </b></p> <p>This joint resolution proposes a constitutional amendment declaring that: (1) the rights protected by the Constitution are intended to be the rights of natural persons; (2) the words "people," "person," or "citizen" as used in the Constitution do not include corporations, limited liability companies, or other corporate entities established by the laws of any state, the United States, or any foreign state; and&nbsp;(3)&nbsp;such corporate entities are subject to such regulation as the people, through their elected state and federal representatives, deem reasonable and are otherwise consistent with the powers of Congress and the states.</p> <p>Nothing in the amendment shall be construed to limit the rights of freedom of speech, the press, exercise of religion, association, and all such other unalienable rights of the people.</p>]]></text>
+          <actionDate>2017-03-10</actionDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-03-15T14:58:42Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-03-10T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>88</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

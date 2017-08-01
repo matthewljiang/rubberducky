@@ -1,0 +1,32 @@
+<bill session="115" type="s" number="1568" updated="2017-07-31T12:45:14Z">
+  <state datetime="2017-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-17"/>
+  </status>
+  <introduced datetime="2017-07-17"/>
+  <titles>
+    <title type="short" as="introduced">President John F. Kennedy Commemorative Coin Act</title>
+    <title type="short" as="introduced">President John F. Kennedy Commemorative Coin Act</title>
+    <title type="official" as="introduced">A bill to require the Secretary of the Treasury to mint coins in commemoration of President John F. Kennedy.</title>
+    <title type="display">President John F. Kennedy Commemorative Coin Act</title>
+  </titles>
+  <sponsor bioguide_id="M000133"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M000303" joined="2017-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-17">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

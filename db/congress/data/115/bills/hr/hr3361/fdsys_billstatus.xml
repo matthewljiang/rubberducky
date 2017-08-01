@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <committeeReports />
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText />
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>24</district>
+        <lastName>Carbajal</lastName>
+        <fullName>Rep. Carbajal, Salud O. [D-CA-24]</fullName>
+        <state>CA</state>
+        <bioguideId>C001112</bioguideId>
+        <middleName>O.</middleName>
+        <firstName>Salud</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001112</bioguideId>
+          <lisID>2310</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>2</district>
+        <lastName>Courtney</lastName>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <state>CT</state>
+        <bioguideId>C001069</bioguideId>
+        <middleName />
+        <firstName>Joe</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7867</gpoId>
+          <lisID>1836</lisID>
+          <bioguideId>C001069</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>20</district>
+        <lastName>HASTINGS</lastName>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <state>FL</state>
+        <bioguideId>H000324</bioguideId>
+        <middleName>L.</middleName>
+        <firstName>ALCEE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+          <lisID>511</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>3</district>
+        <lastName>Grijalva</lastName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <state>AZ</state>
+        <bioguideId>G000551</bioguideId>
+        <middleName>M.</middleName>
+        <firstName>Raul</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>4</district>
+        <lastName>GUTIERREZ</lastName>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <state>IL</state>
+        <bioguideId>G000535</bioguideId>
+        <middleName>V.</middleName>
+        <firstName>LUIS</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>478</lisID>
+          <gpoId>7924</gpoId>
+          <bioguideId>G000535</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>18</district>
+        <lastName>JACKSON LEE</lastName>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <state>TX</state>
+        <bioguideId>J000032</bioguideId>
+        <middleName />
+        <firstName>SHEILA</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>2</district>
+        <lastName>Kelly</lastName>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <state>IL</state>
+        <bioguideId>K000385</bioguideId>
+        <middleName>L.</middleName>
+        <firstName>Robin</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000385</bioguideId>
+          <lisID>2190</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>19</district>
+        <lastName>LOFGREN</lastName>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <state>CA</state>
+        <bioguideId>L000397</bioguideId>
+        <middleName />
+        <firstName>ZOE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>5</district>
+        <lastName>MEEKS</lastName>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <state>NY</state>
+        <bioguideId>M001137</bioguideId>
+        <middleName>W.</middleName>
+        <firstName>GREGORY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1506</lisID>
+          <gpoId>8067</gpoId>
+          <bioguideId>M001137</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>0</district>
+        <lastName>NORTON</lastName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <state>DC</state>
+        <bioguideId>N000147</bioguideId>
+        <middleName>HOLMES</middleName>
+        <firstName>ELEANOR</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>5</district>
+        <lastName>Quigley</lastName>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <state>IL</state>
+        <bioguideId>Q000023</bioguideId>
+        <middleName />
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7925</gpoId>
+          <lisID>1967</lisID>
+          <bioguideId>Q000023</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>9</district>
+        <lastName>SCHAKOWSKY</lastName>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <state>IL</state>
+        <bioguideId>S001145</bioguideId>
+        <middleName>D.</middleName>
+        <firstName>JANICE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+          <lisID>1588</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>1</district>
+        <lastName>Shea-Porter</lastName>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <state>NH</state>
+        <bioguideId>S001170</bioguideId>
+        <middleName />
+        <firstName>Carol</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+          <lisID>1861</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>3</district>
+        <lastName>Suozzi</lastName>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <state>NY</state>
+        <bioguideId>S001201</bioguideId>
+        <middleName>R.</middleName>
+        <firstName>Thomas</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2341</lisID>
+          <gpoId />
+          <bioguideId>S001201</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <district>5</district>
+        <lastName>THOMPSON</lastName>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <state>CA</state>
+        <bioguideId>T000460</bioguideId>
+        <middleName />
+        <firstName>MIKE</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000460</bioguideId>
+          <gpoId>7806</gpoId>
+          <lisID>1593</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <district>1</district>
+        <lastName>RUSH</lastName>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <state>IL</state>
+        <bioguideId>R000515</bioguideId>
+        <middleName>L.</middleName>
+        <firstName>BOBBY</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+          <lisID>1003</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <district>5</district>
+        <lastName>Esty</lastName>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <state>CT</state>
+        <bioguideId>E000293</bioguideId>
+        <middleName>H.</middleName>
+        <firstName>Elizabeth</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>E000293</bioguideId>
+          <lisID>2114</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <district>11</district>
+        <lastName>Foster</lastName>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <state>IL</state>
+        <bioguideId>F000454</bioguideId>
+        <middleName />
+        <firstName>Bill</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>F000454</bioguideId>
+          <lisID>1888</lisID>
+          <gpoId>7355</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <district>15</district>
+        <lastName>Swalwell</lastName>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <state>CA</state>
+        <bioguideId>S001193</bioguideId>
+        <middleName />
+        <firstName>Eric</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2104</lisID>
+          <gpoId />
+          <bioguideId>S001193</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <district>1</district>
+        <lastName>Pingree</lastName>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <state>ME</state>
+        <bioguideId>P000597</bioguideId>
+        <middleName />
+        <firstName>Chellie</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7984</gpoId>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <text>Sponsor introductory remarks on measure. (CR H6280)</text>
+      <actionDate>2017-07-25</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <originChamber>House</originChamber>
+    <actions>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR H6280)</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H6280</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6280</url>
+          </link>
+        </links>
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-25</actionDate>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-24</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-24</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-24</actionDate>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <district>10</district>
+        <firstName>Bradley</firstName>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+        <state>IL</state>
+        <middleName>Scott</middleName>
+        <bioguideId>S001190</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001190</bioguideId>
+          <lisID>2124</lisID>
+        </identifiers>
+        <party>D</party>
+        <byRequestType />
+        <lastName>Schneider</lastName>
+      </item>
+    </sponsors>
+    <billNumber>3361</billNumber>
+    <createDate>2017-07-25T03:11:35Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-24T16:02:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>To amend title 18, United States Code, to require federally licensed firearms importers, manufacturers, and dealers to meet certain requirements with respect to securing their firearms inventory, business records, and business premises.</title>
+    <introducedDate>2017-07-24</introducedDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To amend title 18, United States Code, to require federally licensed firearms importers, manufacturers, and dealers to meet certain requirements with respect to securing their firearms inventory, business records, and business premises.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend title 18, United States Code, to require federally licensed firearms importers, manufacturers, and dealers to meet certain requirements with respect to securing their firearms inventory, business records, and business premises.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <updateDate>2017-07-29T07:18:06Z</updateDate>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

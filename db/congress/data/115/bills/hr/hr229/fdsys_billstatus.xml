@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alaska</name>
+          </item>
+          <item>
+            <name>Alaska Natives and Hawaiians</name>
+          </item>
+          <item>
+            <name>Indian claims</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-03T17:28:10Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsii24</systemCode>
+              <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-10T16:54:52Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. YOUNG of Alaska:H.R. 229.Congress has the power to enact this legislation pursuantto the following:Article IV, Section 3, Clause 2 and Article I, Section 8,Clause 3[Page H53]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide for the recognition of certain Native communities and the settlement of certain claims under the Alaska Native Claims Settlement Act, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <title>Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act</title>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-06-29</actionDate>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <number>1481</number>
+        <type>S</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Alaska Native Claims Settlement Improvement Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <version>1.0.0</version>
+    <amendments />
+    <cosponsors />
+    <originChamber>House</originChamber>
+    <actions>
+      <item>
+        <actionDate>2017-02-10</actionDate>
+        <committee>
+          <systemCode>hsii24</systemCode>
+          <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-01-03</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-02-14T23:02:14Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act</b></p> <p>This bill amends the Alaska Native Claims Settlement Act to permit the Native residents of each of the Native villages of Haines, Ketchikan, Petersburg, Tenakee, and Wrangell, Alaska, to organize as urban corporations and to receive certain settlement land. </p> <p>These urban corporations may establish a settlement trust to promote the health, education, and welfare of the trust beneficiaries, and preserve the Native heritage and culture of their communities. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-01-03</actionDate>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <calendarNumbers />
+    <laws />
+    <updateDate>2017-07-17T21:30:11Z</updateDate>
+    <billType>HR</billType>
+    <billNumber>229</billNumber>
+    <createDate>2017-01-04T07:01:13Z</createDate>
+    <latestAction>
+      <actionDate>2017-02-10</actionDate>
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <recordedVotes />
+    <introducedDate>2017-01-03</introducedDate>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <lastName>YOUNG</lastName>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <state>AK</state>
+        <middleName>E.</middleName>
+        <party>R</party>
+        <firstName>DON</firstName>
+        <identifiers>
+          <lisID>1256</lisID>
+          <bioguideId>Y000033</bioguideId>
+          <gpoId>7785</gpoId>
+        </identifiers>
+        <bioguideId>Y000033</bioguideId>
+        <district>0</district>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

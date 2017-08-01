@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <district>10</district>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <firstName>Michael</firstName>
+        <middleName>T.</middleName>
+        <party>R</party>
+        <state>TX</state>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <identifiers>
+          <lisID>1804</lisID>
+          <gpoId>8166</gpoId>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <bioguideId>M001157</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>McCaul</lastName>
+      </item>
+      <item>
+        <district>2</district>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <firstName>BENNIE</firstName>
+        <middleName />
+        <party>D</party>
+        <state>MS</state>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <identifiers>
+          <bioguideId>T000193</bioguideId>
+          <gpoId>8020</gpoId>
+          <lisID>1151</lisID>
+        </identifiers>
+        <bioguideId>T000193</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>THOMPSON</lastName>
+      </item>
+      <item>
+        <district>2</district>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <firstName>Martha</firstName>
+        <middleName />
+        <party>R</party>
+        <state>AZ</state>
+        <fullName>Rep. McSally, Martha [R-AZ-2]</fullName>
+        <identifiers>
+          <lisID>2225</lisID>
+          <gpoId />
+          <bioguideId>M001197</bioguideId>
+        </identifiers>
+        <bioguideId>M001197</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>McSally</lastName>
+      </item>
+      <item>
+        <district>31</district>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <firstName>John</firstName>
+        <middleName>R.</middleName>
+        <party>R</party>
+        <state>TX</state>
+        <fullName>Rep. Carter, John R. [R-TX-31]</fullName>
+        <identifiers>
+          <bioguideId>C001051</bioguideId>
+          <gpoId>8187</gpoId>
+          <lisID>1752</lisID>
+        </identifiers>
+        <bioguideId>C001051</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Carter</lastName>
+      </item>
+    </cosponsors>
+    <billNumber>3375</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-07-24</introducedDate>
+    <updateDate>2017-07-26T07:13:05Z</updateDate>
+    <actions>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <committee>
+          <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+          <systemCode>hspw13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-24</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-24</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-24</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>V000132</bioguideId>
+        <middleName />
+        <lastName>Vela</lastName>
+        <identifiers>
+          <bioguideId>V000132</bioguideId>
+          <gpoId />
+          <lisID>2167</lisID>
+        </identifiers>
+        <party>D</party>
+        <state>TX</state>
+        <district>34</district>
+        <firstName>Filemon</firstName>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To designate the checkpoint of the United States Border Patrol located on United States Highway 77 North in Sarita, Texas, as the "Javier Vega, Jr. Border Patrol Checkpoint".</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To designate the checkpoint of the United States Border Patrol located on United States Highway 77 North in Sarita, Texas, as the "Javier Vega, Jr. Border Patrol Checkpoint".</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-07-25T03:11:35Z</createDate>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hspw13</systemCode>
+              <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-07-25T19:26:00Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Transportation and Infrastructure Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hspw00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-24T16:03:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2017-07-25</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <amendments />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <relatedBills />
+    <title>To designate the checkpoint of the United States Border Patrol located on United States Highway 77 North in Sarita, Texas, as the "Javier Vega, Jr. Border Patrol Checkpoint".</title>
+    <constitutionalAuthorityStatementText />
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

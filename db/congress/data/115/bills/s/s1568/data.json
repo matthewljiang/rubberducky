@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-17", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-17", 
+      "action_code": "", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1568-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M000303", 
+      "district": null, 
+      "name": "McCain, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-17", 
+      "state": "AZ", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-17", 
+  "number": "1568", 
+  "official_title": "A bill to require the Secretary of the Treasury to mint coins in commemoration of President John F. Kennedy.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "President John F. Kennedy Commemorative Coin Act", 
+  "sponsor": {
+    "bioguide_id": "M000133", 
+    "district": null, 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-07-17", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "President John F. Kennedy Commemorative Coin Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "President John F. Kennedy Commemorative Coin Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to require the Secretary of the Treasury to mint coins in commemoration of President John F. Kennedy.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "President John F. Kennedy Commemorative Coin Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-31T12:45:14Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1568.xml"
+}

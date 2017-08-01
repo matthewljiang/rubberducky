@@ -1,0 +1,48 @@
+<bill session="115" type="h" number="2694" updated="2017-07-07T07:15:31Z">
+  <state datetime="2017-05-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-25"/>
+  </status>
+  <introduced datetime="2017-05-25"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Servicemembers Civil Relief Act to enhance protections regarding voter registration, and for other purposes.</title>
+    <title type="display">To amend the Servicemembers Civil Relief Act to enhance protections regarding voter registration, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="I000056"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001299" joined="2017-05-25"/>
+    <cosponsor bioguide_id="B001284" joined="2017-05-25"/>
+    <cosponsor bioguide_id="C000266" joined="2017-05-25"/>
+    <cosponsor bioguide_id="C001111" joined="2017-05-26"/>
+    <cosponsor bioguide_id="D000626" joined="2017-05-25"/>
+    <cosponsor bioguide_id="D000604" joined="2017-05-25"/>
+    <cosponsor bioguide_id="D000628" joined="2017-05-25"/>
+    <cosponsor bioguide_id="E000296" joined="2017-06-22"/>
+    <cosponsor bioguide_id="H001036" joined="2017-05-25"/>
+    <cosponsor bioguide_id="H001048" joined="2017-07-06"/>
+    <cosponsor bioguide_id="L000578" joined="2017-05-26"/>
+    <cosponsor bioguide_id="P000258" joined="2017-05-25"/>
+    <cosponsor bioguide_id="R000582" joined="2017-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-25" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-05-25">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

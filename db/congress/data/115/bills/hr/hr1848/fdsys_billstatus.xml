@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-151</citation>
+      </committeeReport>
+    </committeeReports>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ROE of Tennessee:H.R. 1848.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution.[Page H2629]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <updateDate>2017-07-27T15:15:12Z</updateDate>
+    <relatedBills />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <actionDate>2017-07-25</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>TN</state>
+        <middleName>P.</middleName>
+        <firstName>David</firstName>
+        <lastName>Roe</lastName>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <identifiers>
+          <bioguideId>R000582</bioguideId>
+          <gpoId>8148</gpoId>
+          <lisID>1954</lisID>
+        </identifiers>
+        <byRequestType />
+        <district>1</district>
+        <bioguideId>R000582</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>Veterans Affairs Medical Scribe Pilot Act of 2017</title>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <title>Veterans Affairs Medical Scribe Pilot Act of 2017</title>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <title>Veterans Affairs Medical Scribe Pilot Act of 2017</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To direct the Secretary of Veterans Affairs to carry out a pilot program on the use of medical scribes in Department of Veterans Affairs medical centers, and for other purposes.</title>
+        <chamberName>House</chamberName>
+        <titleType>Official Titles as Amended by House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Official Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <title>To direct the Secretary of Veterans Affairs to carry out a pilot program on the use of medical scribes in Department of Veterans Affairs medical centers.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Veterans Affairs Medical Scribe Pilot Act of 2017</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Veterans Affairs Medical Scribe Pilot Act of 2017</title>
+        <chamberName>House</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Veterans Affairs Medical Scribe Pilot Act of 2017</title>
+        <chamberName>House</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Veterans Affairs Medical Scribe Pilot Act of 2017</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <introducedDate>2017-04-03</introducedDate>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <title>Veterans Affairs Medical Scribe Pilot Act of 2017</title>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>4</placeholderTextForH>
+        <amendingTheTitleOfAnActWithoutObjection>1</amendingTheTitleOfAnActWithoutObjection>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <reportedToHouse>1</reportedToHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <considerationByHouse>2</considerationByHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <generalDebate>1</generalDebate>
+        <billReferrals>1</billReferrals>
+        <committeeReportOfABill>1</committeeReportOfABill>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>19</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>19:15:59</actionTime>
+        <actionDate>2017-07-24</actionDate>
+        <actionCode>H38800</actionCode>
+        <text>The title of the measure was amended. Agreed to without objection.</text>
+        <type>Floor</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>19:15:57</actionTime>
+        <actionDate>2017-07-24</actionDate>
+        <actionCode>H38310</actionCode>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>19:15:54</actionTime>
+        <actionDate>2017-07-24</actionDate>
+        <actionCode>H37300</actionCode>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6173-6174)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H6173-6174</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6173-6174</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>19:15:54</actionTime>
+        <actionDate>2017-07-24</actionDate>
+        <actionCode>8000</actionCode>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <type>Floor</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>19:15:30</actionTime>
+        <actionDate>2017-07-24</actionDate>
+        <actionCode>H30000</actionCode>
+        <text>Considered as unfinished business. (consideration: CR H6198-6199)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H6198-6199</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6198-6199</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>15:48:30</actionTime>
+        <actionDate>2017-07-24</actionDate>
+        <actionCode>H37210</actionCode>
+        <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Walz objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text>
+        <type>Floor</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>15:44:30</actionTime>
+        <actionDate>2017-07-24</actionDate>
+        <actionCode>H8D000</actionCode>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1848.</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 1848</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1848</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>15:44:29</actionTime>
+        <actionDate>2017-07-24</actionDate>
+        <actionCode>H30000</actionCode>
+        <text>Considered under suspension of the rules. (consideration: CR H6173-6174)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H6173-6174</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6173-6174</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionTime>15:44:20</actionTime>
+        <actionDate>2017-07-24</actionDate>
+        <actionCode>H30300</actionCode>
+        <text>Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.</text>
+        <type>Floor</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-05-23</actionDate>
+        <actionCode>H12410</actionCode>
+        <text>Placed on the Union Calendar, Calendar No. 99.</text>
+        <type>Calendars</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <actionDate>2017-05-23</actionDate>
+        <actionCode>H12200</actionCode>
+        <text>Reported by the Committee on Veterans' Affairs. H. Rept. 115-151.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-151</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/151</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <actionDate>2017-05-23</actionDate>
+        <actionCode>5000</actionCode>
+        <text>Reported by the Committee on Veterans' Affairs. H. Rept. 115-151.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-151</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/151</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-06</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsvr03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsvr03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <actionDate>2017-04-03</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-04-03</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-04-03</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>W000791</bioguideId>
+          <gpoId>8115</gpoId>
+          <lisID>1596</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <district>2</district>
+        <firstName>GREG</firstName>
+        <bioguideId>W000791</bioguideId>
+        <lastName>WALDEN</lastName>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <state>OR</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Walden, Greg [R-OR-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001077</bioguideId>
+          <lisID>2329</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <district>3</district>
+        <firstName>Clay</firstName>
+        <bioguideId>H001077</bioguideId>
+        <lastName>Higgins</lastName>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <state>LA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2242</lisID>
+          <gpoId />
+          <bioguideId>Y000066</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <district>3</district>
+        <firstName>David</firstName>
+        <bioguideId>Y000066</bioguideId>
+        <lastName>Young</lastName>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <state>IA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Young, David [R-IA-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-05-19T19:02:00Z</pubDate>
+        <title>H.R. 1848, Veterans Affairs Medical Scribe Pilot Act of 2017</title>
+        <url>https://www.cbo.gov/publication/52747</url>
+      </item>
+    </cboCostEstimates>
+    <createDate>2017-04-04T03:11:52Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-25T18:47:21Z</date>
+            </item>
+          </activities>
+          <systemCode>ssva00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-05-23T21:22:35Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-05-17T13:26:52Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-03T16:01:00Z</date>
+            </item>
+          </activities>
+          <systemCode>hsvr00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Reported by</name>
+                  <date>2017-04-06T14:15:54Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-05T14:15:20Z</date>
+                </item>
+              </activities>
+              <systemCode>hsvr03</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers>
+      <item>
+        <calendar>U00099</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>1848</billNumber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

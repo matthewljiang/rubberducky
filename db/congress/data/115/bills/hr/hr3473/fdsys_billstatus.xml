@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-27T14:10:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <laws />
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <party>R</party>
+        <lastName>Cole</lastName>
+        <firstName>Tom</firstName>
+        <bioguideId>C001053</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <state>OK</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <party>D</party>
+        <lastName>MCCOLLUM</lastName>
+        <firstName>BETTY</firstName>
+        <bioguideId>M001143</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1653</lisID>
+          <gpoId>8004</gpoId>
+          <bioguideId>M001143</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <party>R</party>
+        <lastName>Mullin</lastName>
+        <firstName>Markwayne</firstName>
+        <bioguideId>M001190</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001190</bioguideId>
+          <lisID>2156</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>OK</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <party>D</party>
+        <lastName>NAPOLITANO</lastName>
+        <firstName>GRACE</firstName>
+        <bioguideId>N000179</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <district>32</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <party>D</party>
+        <lastName>Torres</lastName>
+        <firstName>Norma</firstName>
+        <bioguideId>T000474</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2231</lisID>
+          <bioguideId>T000474</bioguideId>
+        </identifiers>
+        <district>35</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <party>D</party>
+        <lastName>Dingell</lastName>
+        <firstName>Debbie</firstName>
+        <bioguideId>D000624</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000624</bioguideId>
+          <lisID>2251</lisID>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <party>D</party>
+        <lastName>Lujan Grisham</lastName>
+        <firstName>Michelle</firstName>
+        <bioguideId>L000580</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2146</lisID>
+          <gpoId />
+          <bioguideId>L000580</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>NM</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <party>D</party>
+        <lastName>Moore</lastName>
+        <firstName>Gwen</firstName>
+        <bioguideId>M001160</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001160</bioguideId>
+          <lisID>1811</lisID>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <party>R</party>
+        <lastName>Gallagher</lastName>
+        <firstName>Mike</firstName>
+        <bioguideId>G000579</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000579</bioguideId>
+          <lisID>2355</lisID>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <party>D</party>
+        <lastName>Clarke</lastName>
+        <firstName>Yvette</firstName>
+        <bioguideId>C001067</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <party>R</party>
+        <lastName>Radewagen</lastName>
+        <firstName>Aumua Amata</firstName>
+        <bioguideId>R000600</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2222</lisID>
+          <bioguideId>R000600</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <state>AS</state>
+        <middleName>Coleman</middleName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <party>D</party>
+        <lastName>BLUMENAUER</lastName>
+        <firstName>EARL</firstName>
+        <bioguideId>B000574</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <party>D</party>
+        <lastName>O'Halleran</lastName>
+        <firstName>Tom</firstName>
+        <bioguideId>O000171</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2306</lisID>
+          <bioguideId>O000171</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <party>R</party>
+        <lastName>JONES</lastName>
+        <firstName>WALTER</firstName>
+        <bioguideId>J000255</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Issa, Darrell E. [R-CA-49]</fullName>
+        <party>R</party>
+        <lastName>ISSA</lastName>
+        <firstName>DARRELL</firstName>
+        <bioguideId>I000056</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>I000056</bioguideId>
+          <lisID>1640</lisID>
+          <gpoId>7854</gpoId>
+        </identifiers>
+        <district>49</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Noem, Kristi L. [R-SD-At Large]</fullName>
+        <party>R</party>
+        <lastName>Noem</lastName>
+        <firstName>Kristi</firstName>
+        <bioguideId>N000184</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8147</gpoId>
+          <lisID>2060</lisID>
+          <bioguideId>N000184</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <state>SD</state>
+        <middleName>L.</middleName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <party>D</party>
+        <lastName>Ellison</lastName>
+        <firstName>Keith</firstName>
+        <bioguideId>E000288</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1857</lisID>
+          <gpoId>8005</gpoId>
+          <bioguideId>E000288</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <middleName />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <createDate>2017-07-28T03:11:37Z</createDate>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <actionDate>2017-07-27</actionDate>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <recordedVotes />
+    <introducedDate>2017-07-27</introducedDate>
+    <policyArea />
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>115</congress>
+    <relatedBills />
+    <calendarNumbers />
+    <title>To amend section 520E of the Public Health Service Act to require States and their designees receiving grants for development and implementation of statewide suicide early intervention and prevention strategies to collaborate with each Federally recognized Indian tribe, tribal organization, and urban Indian organization in the State.</title>
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <middleName>M.</middleName>
+        <byRequestType />
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <lastName>Grijalva</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <bioguideId>G000551</bioguideId>
+        <district>3</district>
+        <firstName>Raul</firstName>
+      </item>
+    </sponsors>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-27</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-27</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-27</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend section 520E of the Public Health Service Act to require States and their designees receiving grants for development and implementation of statewide suicide early intervention and prevention strategies to collaborate with each Federally recognized Indian tribe, tribal organization, and urban Indian organization in the State.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To amend section 520E of the Public Health Service Act to require States and their designees receiving grants for development and implementation of statewide suicide early intervention and prevention strategies to collaborate with each Federally recognized Indian tribe, tribal organization, and urban Indian organization in the State.</title>
+      </item>
+    </titles>
+    <billNumber>3473</billNumber>
+    <updateDate>2017-07-29T07:18:13Z</updateDate>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

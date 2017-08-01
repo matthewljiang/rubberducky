@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Military history</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Veterans' organizations and recognition</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <updateDate>2017-07-13T13:17:24Z</updateDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A resolution commemorating the 100th anniversary of the 1st Infrantry Division.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>A resolution commemorating the 100th anniversary of the 1st Infrantry Division.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <billType>SRES</billType>
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>267</number>
+        <latestTitle>Recognizing the 100th anniversary of the 1st Infantry Division.</latestTitle>
+        <congress>115</congress>
+        <type>HRES</type>
+        <latestAction>
+          <actionDate>2017-04-12</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <createDate>2017-04-06T02:11:45Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssas00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-06-08T21:42:58Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-04-05T20:10:22Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <name>Armed Services Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <notes />
+    <introducedDate>2017-04-05</introducedDate>
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <middleName />
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <lastName>MORAN</lastName>
+        <firstName>JERRY</firstName>
+        <identifiers>
+          <gpoId>8307</gpoId>
+          <lisID>1507</lisID>
+          <bioguideId>M000934</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <state>KS</state>
+        <party>R</party>
+        <bioguideId>M000934</bioguideId>
+      </item>
+    </sponsors>
+    <billNumber>115</billNumber>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <lastName>ROBERTS</lastName>
+        <state>KS</state>
+        <party>R</party>
+        <firstName>PAT</firstName>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <identifiers>
+          <lisID>968</lisID>
+          <gpoId>8275</gpoId>
+          <bioguideId>R000307</bioguideId>
+        </identifiers>
+        <bioguideId>R000307</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <calendarNumbers />
+    <amendments>
+      <amendment>
+        <number>228</number>
+        <type>SAMDT</type>
+        <congress>115</congress>
+        <latestAction>
+          <text>Amendment SA 228 agreed to in Senate by Unanimous Consent.</text>
+          <actionDate>2017-06-08</actionDate>
+        </latestAction>
+        <purpose>To provide a complete substitute.</purpose>
+        <actions>
+          <actionTypeCounts>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionDate>2017-06-08</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.228</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/228</url>
+                </link>
+                <link>
+                  <name>SA 228</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/228</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 228 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-06-08</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.228</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/228</url>
+                </link>
+                <link>
+                  <name>S3373-3374</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S3373-3374</url>
+                </link>
+                <link>
+                  <name>SA 228</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/228</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 228 proposed by Senator McConnell for Senator Moran. (consideration: CR S3373-3374; text: CR S3373-3374)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-06-08</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <links>
+                <link>
+                  <name>S.Amdt.228</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/228</url>
+                </link>
+                <link>
+                  <name>SA 228</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/228</url>
+                </link>
+              </links>
+              <committee />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionCode>94000</actionCode>
+              <actionDate>2017-06-08</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 228 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <links>
+                <link>
+                  <name>S.Amdt.228</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/228</url>
+                </link>
+                <link>
+                  <name>S3373-3374</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S3373-3374</url>
+                </link>
+                <link>
+                  <name>SA 228</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/228</url>
+                </link>
+              </links>
+              <committee />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionCode>93000</actionCode>
+              <actionDate>2017-06-08</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 228 proposed by Senator McConnell for Senator Moran.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <links />
+              <committee />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionCode>91000</actionCode>
+              <actionDate>2017-06-08</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+            </item>
+          </actions>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+          <count>6</count>
+        </actions>
+        <proposedDate>2017-06-08T04:00:00Z</proposedDate>
+        <description />
+        <createDate>2017-06-09T04:31:08Z</createDate>
+        <submittedDate>2017-06-08T04:00:00Z</submittedDate>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <number>228</number>
+        <updateDate>2017-07-13T13:17:24Z</updateDate>
+        <titles />
+        <version>1.0.0</version>
+        <amendedBill>
+          <congress>115</congress>
+          <type>SRES</type>
+          <originChamberCode>S</originChamberCode>
+          <originChamber>Senate</originChamber>
+          <title>A resolution commemorating the 100th anniversary of the 1st Infrantry Division.</title>
+          <number>115</number>
+        </amendedBill>
+        <notes />
+        <amendedAmendment />
+        <congress>115</congress>
+        <sponsors>
+          <item>
+            <bioguideId>M000934</bioguideId>
+            <identifiers>
+              <gpoId>8307</gpoId>
+              <lisID>1507</lisID>
+              <bioguideId>M000934</bioguideId>
+            </identifiers>
+            <lastName>MORAN</lastName>
+            <firstName>JERRY</firstName>
+            <state>KS</state>
+            <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+            <middleName />
+            <party>R</party>
+          </item>
+        </sponsors>
+        <type>SAMDT</type>
+        <purpose>To provide a complete substitute.</purpose>
+        <chamber>Senate</chamber>
+        <cosponsors>
+          <totalCount>1</totalCount>
+          <item>
+            <bioguideId>R000307</bioguideId>
+            <sponsorshipDate>2017-06-08</sponsorshipDate>
+            <identifiers>
+              <lisID>968</lisID>
+              <gpoId>8275</gpoId>
+              <bioguideId>R000307</bioguideId>
+            </identifiers>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+            <lastName>ROBERTS</lastName>
+            <firstName>PAT</firstName>
+            <state>KS</state>
+            <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+            <middleName />
+            <party>R</party>
+            <sponsorshipWithdrawnDate />
+          </item>
+          <currentCount>1</currentCount>
+        </cosponsors>
+        <description />
+      </amendment>
+      <amendment>
+        <number>227</number>
+        <type>SAMDT</type>
+        <congress>115</congress>
+        <latestAction>
+          <text>Amendment SA 227 agreed to in Senate by Unanimous Consent.</text>
+          <actionDate>2017-06-08</actionDate>
+        </latestAction>
+        <purpose>To provide a complete substitute.</purpose>
+        <description />
+        <submittedDate>2017-06-08T04:00:00Z</submittedDate>
+        <notes />
+        <amendedAmendment />
+        <links />
+        <sponsors>
+          <item>
+            <party>R</party>
+            <lastName>MORAN</lastName>
+            <firstName>JERRY</firstName>
+            <state>KS</state>
+            <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+            <middleName />
+            <bioguideId>M000934</bioguideId>
+            <identifiers>
+              <gpoId>8307</gpoId>
+              <lisID>1507</lisID>
+              <bioguideId>M000934</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <createDate>2017-06-09T04:31:08Z</createDate>
+        <type>SAMDT</type>
+        <congress>115</congress>
+        <purpose>To provide a complete substitute.</purpose>
+        <proposedDate>2017-06-08T04:00:00Z</proposedDate>
+        <titles />
+        <updateDate>2017-07-13T13:17:24Z</updateDate>
+        <number>227</number>
+        <actions>
+          <count>6</count>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+          <actions>
+            <item>
+              <actionDate>2017-06-08</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/227</url>
+                  <name>S.Amdt.227</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/227</url>
+                  <name>SA 227</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 227 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-06-08</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/227</url>
+                  <name>S.Amdt.227</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S3373</url>
+                  <name>S3373</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/227</url>
+                  <name>SA 227</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 227 proposed by Senator McConnell for Senator Moran. (consideration: CR S3373; text: CR S3373)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-06-08</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>Senate amendment proposed (on the floor): Amendment SA 227 proposed by Senator McConnell for Senator Moran.</text>
+              <committee />
+              <type>Floor</type>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/227</url>
+                  <name>S.Amdt.227</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S3373</url>
+                  <name>S3373</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/227</url>
+                  <name>SA 227</name>
+                </link>
+              </links>
+              <actionDate>2017-06-08</actionDate>
+            </item>
+            <item>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>Senate amendment agreed to: Amendment SA 227 agreed to in Senate by Unanimous Consent.</text>
+              <committee />
+              <type>Floor</type>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/227</url>
+                  <name>S.Amdt.227</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/227</url>
+                  <name>SA 227</name>
+                </link>
+              </links>
+              <actionDate>2017-06-08</actionDate>
+            </item>
+            <item>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <text>Senate amendment submitted</text>
+              <committee />
+              <type>Floor</type>
+              <links />
+              <actionDate>2017-06-08</actionDate>
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <amendmentProposed>1</amendmentProposed>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+          </actionTypeCounts>
+        </actions>
+        <amendedBill>
+          <congress>115</congress>
+          <originChamberCode>S</originChamberCode>
+          <type>SRES</type>
+          <number>115</number>
+          <originChamber>Senate</originChamber>
+          <title>A resolution commemorating the 100th anniversary of the 1st Infrantry Division.</title>
+        </amendedBill>
+        <cosponsors>
+          <currentCount>1</currentCount>
+          <totalCount>1</totalCount>
+          <item>
+            <bioguideId>R000307</bioguideId>
+            <party>R</party>
+            <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+            <sponsorshipDate>2017-06-08</sponsorshipDate>
+            <state>KS</state>
+            <sponsorshipWithdrawnDate />
+            <firstName>PAT</firstName>
+            <middleName />
+            <lastName>ROBERTS</lastName>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+            <identifiers>
+              <lisID>968</lisID>
+              <gpoId>8275</gpoId>
+              <bioguideId>R000307</bioguideId>
+            </identifiers>
+          </item>
+        </cosponsors>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <version>1.0.0</version>
+        <chamber>Senate</chamber>
+        <description />
+      </amendment>
+    </amendments>
+    <title>A resolution commemorating the 100th anniversary of the 1st Infrantry Division.</title>
+    <actions>
+      <item>
+        <actionDate>2017-06-08</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S3374-3375</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S3374-3375</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (text: CR S3374-3375)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>S3374-3375</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S3374-3375</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(text: CR S3374-3375)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-06-08</actionDate>
+        <committee />
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-06-08</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S3373-3375</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S3373-3375</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S3373-3375)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-06-08</actionDate>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <links />
+        <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-06-08</actionDate>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+        </committee>
+        <actionCode>14500</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S2369</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2369</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Armed Services. (text as introduced in Senate: CR S2369)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>7</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <committeeDischarged>1</committeeDischarged>
+        <referredToCommittee>1</referredToCommittee>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <agreedToInSenate>1</agreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <actionDate>2017-06-08</actionDate>
+      <text>Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (text: CR S3374-3375)</text>
+      <links />
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Commemorates the 100th anniversary of the 1st Infantry Division on June 8, 2017. </p> <p>Commends such division for continuing to exemplify its motto, &quot;No Mission Too Difficult. No Sacrifice Too Great. Duty First!&quot;</p> <p>Honors the memory of the more than 13,000 soldiers of such division who lost their lives in battle.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-04-05T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-07-07T19:45:12Z</lastSummaryUpdateDate>
+          <actionDate>2017-04-05</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

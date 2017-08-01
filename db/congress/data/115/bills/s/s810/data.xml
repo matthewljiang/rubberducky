@@ -1,0 +1,37 @@
+<bill session="115" type="s" number="810" updated="2017-07-13T13:18:08Z">
+  <state datetime="2017-07-12">REPORTED</state>
+  <status>
+    <unknown datetime="2017-07-12"/>
+  </status>
+  <introduced datetime="2017-04-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to facilitate construction of a bridge on certain property in Christian County, Missouri, and for other purposes.</title>
+    <title type="display">A bill to facilitate construction of a bridge on certain property in Christian County, Missouri, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="B000575"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001170" joined="2017-04-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-04">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-04-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <calendar datetime="2017-07-12" state="REPORTED">
+      <text>Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="1894"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

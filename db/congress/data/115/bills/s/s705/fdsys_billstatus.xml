@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Child Protection Improvements Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Child Protection Improvements Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend the National Child Protection Act of 1993 to establish a national criminal history background check system and criminal history review program for certain individuals who, related to their employment, have access to children, the elderly, or individuals with disabilities, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Child Protection Improvements Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-23T15:30:21Z</date>
+            </item>
+          </activities>
+          <systemCode>ssju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Child Protection Improvements Act of 2017</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>695</number>
+        <latestAction>
+          <actionDate>2017-05-23</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Adult day care</name>
+          </item>
+          <item>
+            <name>Aging</name>
+          </item>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Personnel records</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <introducedDate>2017-03-23</introducedDate>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <lastName>HATCH</lastName>
+        <byRequestType />
+        <party>R</party>
+        <firstName>ORRIN</firstName>
+        <middleName>GRANT</middleName>
+        <identifiers>
+          <bioguideId>H000338</bioguideId>
+          <gpoId>8314</gpoId>
+          <lisID>1351</lisID>
+        </identifiers>
+        <bioguideId>H000338</bioguideId>
+        <state>UT</state>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>F000457</bioguideId>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <identifiers>
+          <gpoId>8339</gpoId>
+          <lisID>1969</lisID>
+          <bioguideId>F000457</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Franken</lastName>
+        <firstName>Al</firstName>
+        <state>MN</state>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <identifiers>
+          <gpoId>8313</gpoId>
+          <lisID>1464</lisID>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Blunt</lastName>
+        <firstName>Roy</firstName>
+        <state>MO</state>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Klobuchar</lastName>
+        <firstName>Amy</firstName>
+        <state>MN</state>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S000148</bioguideId>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S000148</bioguideId>
+          <gpoId>8279</gpoId>
+          <lisID>1036</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>SCHUMER</lastName>
+        <firstName>CHARLES</firstName>
+        <state>NY</state>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <middleName>E.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M000303</bioguideId>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <identifiers>
+          <lisID>754</lisID>
+          <bioguideId>M000303</bioguideId>
+          <gpoId>8253</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MCCAIN</lastName>
+        <firstName>JOHN</firstName>
+        <state>AZ</state>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <middleName>SIDNEY</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <amendments />
+    <billType>S</billType>
+    <latestAction>
+      <actionDate>2017-03-23</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </latestAction>
+    <billNumber>705</billNumber>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-03-23</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-23</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <title>Child Protection Improvements Act of 2017</title>
+    <recordedVotes />
+    <committeeReports />
+    <updateDate>2017-07-11T05:15:58Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <laws />
+    <calendarNumbers />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <createDate>2017-03-24T05:21:03Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

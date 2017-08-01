@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SENSENBRENNER:H.R. 510.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, clause3[Page H473]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2017-05-17</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+    </latestAction>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-05-16</actionDate>
+          <text>Held at the desk.</text>
+          <actionTime>18:20:57</actionTime>
+        </latestAction>
+        <number>139</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestTitle>Rapid DNA Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-05-17T14:33:12Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <systemCode>ssju00</systemCode>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-02-08T21:15:56Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-05-11T18:20:27Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-04-27T20:39:59Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-01-12T15:04:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>16:17:32</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+        <actionDate>2017-05-16</actionDate>
+        <links />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>16:17:30</actionTime>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4204)</text>
+        <committee />
+        <actionDate>2017-05-16</actionDate>
+        <links>
+          <link>
+            <name>H4204</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4204</url>
+          </link>
+        </links>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionTime>16:17:30</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+        <committee />
+        <actionDate>2017-05-16</actionDate>
+        <links />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>16:03:27</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 510.</text>
+        <committee />
+        <actionDate>2017-05-16</actionDate>
+        <links>
+          <link>
+            <name>H.R. 510</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/510</url>
+          </link>
+        </links>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>16:03:24</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H4204-4205)</text>
+        <committee />
+        <actionDate>2017-05-16</actionDate>
+        <links>
+          <link>
+            <name>H4204-4205</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4204-4205</url>
+          </link>
+        </links>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>16:03:05</actionTime>
+        <text>Mr. Goodlatte moved to suspend the rules and pass the bill.</text>
+        <committee />
+        <actionDate>2017-05-16</actionDate>
+        <links />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Placed on the Union Calendar, Calendar No. 70.</text>
+        <committee />
+        <type>Calendars</type>
+        <actionDate>2017-05-11</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Reported by the Committee on Judiciary. H. Rept. 115-117.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2017-05-11</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 115-117</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/117</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Reported by the Committee on Judiciary. H. Rept. 115-117.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2017-05-11</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 115-117</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/117</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-04-27</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-27</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-08</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-12</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-01-12</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-01-12</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <generalDebate>1</generalDebate>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <considerationByHouse>1</considerationByHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInHouse>1</introducedInHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>15</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-12T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-02-01T17:15:04Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-12</actionDate>
+          <text><![CDATA[<p><b>Rapid DNA Act of 2017</b></p> <p>This bill amends the DNA Identification Act of 1994 to require the Federal Bureau of Investigation (FBI) to issue standards and procedures for using Rapid DNA instruments to analyze DNA samples of criminal offenders. </p> <p>Rapid DNA instruments carry out a fully automated process to create a DNA analysis from a DNA sample.</p> <p>DNA samples prepared by criminal justice agencies using Rapid DNA instruments in compliance the FBI-issued standards and procedures may be included in the Combined DNA Index System (CODIS).</p> <p>The bill amends the DNA Analysis Backlog Elimination Act of 2000 to allow the FBI to waive certain existing requirements if a DNA sample is analyzed using Rapid DNA instruments and the results are included in CODIS.</p> <p><br> </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <updateDate>2017-05-11T13:55:40Z</updateDate>
+          <lastSummaryUpdateDate>2017-05-17T14:33:14Z</lastSummaryUpdateDate>
+          <actionDate>2017-05-11</actionDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>Rapid DNA Act of 2017</b></p> <p>(Sec. 2) This bill amends the DNA Identification Act of 1994 to require the Federal Bureau of Investigation (FBI) to issue standards and procedures for using Rapid DNA instruments to analyze DNA samples of criminal offenders.</p> <p>Rapid DNA instruments carry out a fully automated process to create a DNA analysis from a DNA sample.</p> <p>DNA samples prepared by criminal justice agencies using Rapid DNA instruments in compliance the FBI-issued standards and procedures may be included in the Combined DNA Index System (CODIS).</p> <p>(Sec. 3) The bill amends the DNA Analysis Backlog Elimination Act of 2000 to allow the FBI to waive certain existing requirements if a DNA sample is analyzed using Rapid DNA instruments and the results are included in CODIS.</p> <p><br> </p>]]></text>
+          <versionCode>79</versionCode>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <name>Reported to House without amendment</name>
+        </item>
+        <item>
+          <updateDate>2017-05-16T13:21:02Z</updateDate>
+          <lastSummaryUpdateDate>2017-05-22T15:46:04Z</lastSummaryUpdateDate>
+          <actionDate>2017-05-16</actionDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)</p> <p><b>Rapid DNA Act of 2017</b></p> <p>(Sec. 2) This bill amends the DNA Identification Act of 1994 to require the Federal Bureau of Investigation (FBI) to issue standards and procedures for using Rapid DNA instruments to analyze DNA samples of criminal offenders.</p> <p>Rapid DNA instruments carry out a fully automated process to create a DNA analysis from a DNA sample.</p> <p>DNA samples prepared by criminal justice agencies using Rapid DNA instruments in compliance the FBI-issued standards and procedures may be included in the Combined DNA Index System (CODIS).</p> <p>(Sec. 3) The bill amends the DNA Analysis Backlog Elimination Act of 2000 to allow the FBI to waive certain existing requirements if a DNA sample is analyzed using Rapid DNA instruments and the results are included in CODIS.</p> <p><br> </p>]]></text>
+          <versionCode>81</versionCode>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <name>Passed House without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Federal Bureau of Investigation (FBI)</name>
+          </item>
+          <item>
+            <name>Genetics</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-01-13T04:55:32Z</createDate>
+    <recordedVotes />
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-05-10T13:46:45Z</pubDate>
+        <title>H.R. 510, Rapid DNA Act of 2017</title>
+        <url>https://www.cbo.gov/publication/52711</url>
+      </item>
+    </cboCostEstimates>
+    <amendments />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+        <title>Rapid DNA Act of 2017</title>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+        <title>Rapid DNA Act of 2017</title>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Rapid DNA Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Rapid DNA Act of 2017</title>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Rapid DNA Act of 2017</title>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Rapid DNA Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>To establish a system for integration of Rapid DNA instruments for use by law enforcement to reduce violent crime and reduce the current DNA analysis backlog.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Rapid DNA Act of 2017</title>
+        <chamberName />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <introducedDate>2017-01-12</introducedDate>
+    <billNumber>510</billNumber>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S001193</bioguideId>
+          <lisID>2104</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <firstName>Eric</firstName>
+        <district>15</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001193</bioguideId>
+        <state>CA</state>
+        <lastName>Swalwell</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>D000619</bioguideId>
+          <lisID>2126</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <firstName>Rodney</firstName>
+        <district>13</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000619</bioguideId>
+        <state>IL</state>
+        <lastName>Davis</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>RON</firstName>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000188</bioguideId>
+        <state>WI</state>
+        <lastName>KIND</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>TIM</firstName>
+        <district>13</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000577</bioguideId>
+        <state>OH</state>
+        <lastName>RYAN</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>Steve</firstName>
+        <district>9</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001068</bioguideId>
+        <state>TN</state>
+        <lastName>Cohen</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+          <lisID>2137</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <firstName>Ann</firstName>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000812</bioguideId>
+        <state>MO</state>
+        <lastName>Wagner</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <fullName>Rep. Ratcliffe, John [R-TX-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000601</bioguideId>
+          <lisID>2268</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <firstName>John</firstName>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000601</bioguideId>
+        <state>TX</state>
+        <lastName>Ratcliffe</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <gpoId>7817</gpoId>
+          <bioguideId>S001175</bioguideId>
+          <lisID>1890</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>Jackie</firstName>
+        <district>14</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001175</bioguideId>
+        <state>CA</state>
+        <lastName>Speier</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>P000588</bioguideId>
+          <lisID>1738</lisID>
+          <gpoId>8057</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>Stevan</firstName>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000588</bioguideId>
+        <state>NM</state>
+        <lastName>Pearce</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000623</bioguideId>
+          <lisID>2227</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>Mark</firstName>
+        <district>11</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000623</bioguideId>
+        <state>CA</state>
+        <lastName>DeSaulnier</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <fullName>Rep. Yoder, Kevin [R-KS-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId>7951</gpoId>
+          <bioguideId>Y000063</bioguideId>
+          <lisID>2021</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>Kevin</firstName>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>Y000063</bioguideId>
+        <state>KS</state>
+        <lastName>Yoder</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <gpoId>7815</gpoId>
+          <bioguideId>G000559</bioguideId>
+          <lisID>1973</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>John</firstName>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000559</bioguideId>
+        <state>CA</state>
+        <lastName>Garamendi</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId>7864</gpoId>
+          <bioguideId>C001077</bioguideId>
+          <lisID>1912</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>Mike</firstName>
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001077</bioguideId>
+        <state>CO</state>
+        <lastName>Coffman</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>K000386</bioguideId>
+          <lisID>2264</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <firstName>John</firstName>
+        <district>24</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000386</bioguideId>
+        <state>NY</state>
+        <lastName>Katko</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001282</bioguideId>
+          <lisID>2131</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <firstName>Andy</firstName>
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001282</bioguideId>
+        <state>KY</state>
+        <lastName>Barr</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2249</lisID>
+          <bioguideId>B001293</bioguideId>
+        </identifiers>
+        <middleName />
+        <firstName>Mike</firstName>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001293</bioguideId>
+        <state>MI</state>
+        <lastName>Bishop</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>K.</middleName>
+        <firstName>Brian</firstName>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000466</bioguideId>
+        <state>PA</state>
+        <lastName>Fitzpatrick</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-12</sponsorshipDate>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>STEVE</firstName>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C000266</bioguideId>
+        <state>OH</state>
+        <lastName>CHABOT</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-12</sponsorshipDate>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>J000290</bioguideId>
+          <lisID>1921</lisID>
+          <gpoId>7950</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>Lynn</firstName>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>J000290</bioguideId>
+        <state>KS</state>
+        <lastName>Jenkins</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId>8149</gpoId>
+          <lisID>322</lisID>
+          <bioguideId>D000533</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <firstName>JOHN</firstName>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000533</bioguideId>
+        <state>TN</state>
+        <lastName>DUNCAN</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <fullName>Rep. Carter, John R. [R-TX-31]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <lisID>1752</lisID>
+          <gpoId>8187</gpoId>
+          <bioguideId>C001051</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <firstName>John</firstName>
+        <district>31</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001051</bioguideId>
+        <state>TX</state>
+        <lastName>Carter</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>P000592</bioguideId>
+          <lisID>1802</lisID>
+          <gpoId>8158</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>Ted</firstName>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000592</bioguideId>
+        <state>TX</state>
+        <lastName>Poe</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <fullName>Rep. Collins, Doug [R-GA-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2121</lisID>
+          <bioguideId>C001093</bioguideId>
+        </identifiers>
+        <middleName />
+        <firstName>Doug</firstName>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001093</bioguideId>
+        <state>GA</state>
+        <lastName>Collins</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>F000460</bioguideId>
+          <lisID>2067</lisID>
+          <gpoId>8183</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>Blake</firstName>
+        <district>27</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000460</bioguideId>
+        <state>TX</state>
+        <lastName>Farenthold</lastName>
+      </item>
+    </cosponsors>
+    <calendarNumbers>
+      <item>
+        <calendar>U00070</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <title>Rapid DNA Act of 2017</title>
+    <notes />
+    <sponsors>
+      <item>
+        <district>5</district>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <bioguideId>S000244</bioguideId>
+        <lastName>SENSENBRENNER</lastName>
+        <middleName>JAMES</middleName>
+        <byRequestType />
+        <firstName>F.</firstName>
+        <state>WI</state>
+        <identifiers>
+          <gpoId>8218</gpoId>
+          <lisID>1041</lisID>
+          <bioguideId>S000244</bioguideId>
+        </identifiers>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-117</citation>
+      </committeeReport>
+    </committeeReports>
+    <updateDate>2017-06-19T22:15:26Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

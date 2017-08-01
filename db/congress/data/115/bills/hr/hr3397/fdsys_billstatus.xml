@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <title>To direct the National Science Foundation to support STEM education research focused on early childhood.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To direct the National Science Foundation to support STEM education research focused on early childhood.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <notes />
+    <recordedVotes />
+    <amendments />
+    <committeeReports />
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText />
+    <updateDate>2017-07-28T07:17:18Z</updateDate>
+    <introducedDate>2017-07-25</introducedDate>
+    <policyArea />
+    <title>To direct the National Science Foundation to support STEM education research focused on early childhood.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Science, Space, and Technology.</text>
+        <committee>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-25</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-25</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-25</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hssy00</systemCode>
+          <chamber>House</chamber>
+          <name>Science, Space, and Technology Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-25T14:01:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-07-25</actionDate>
+      <links />
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </latestAction>
+    <createDate>2017-07-26T03:11:34Z</createDate>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000387</bioguideId>
+        <district>25</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2228</lisID>
+          <gpoId />
+          <bioguideId>K000387</bioguideId>
+        </identifiers>
+        <fullName>Rep. Knight, Stephen [R-CA-25]</fullName>
+        <party>R</party>
+        <firstName>Stephen</firstName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>Knight</lastName>
+        <middleName />
+        <state>CA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000296</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+          <lisID>2298</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <party>D</party>
+        <firstName>Dwight</firstName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>Evans</lastName>
+        <middleName />
+        <state>PA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001137</bioguideId>
+        <district>5</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1506</lisID>
+          <gpoId>8067</gpoId>
+          <bioguideId>M001137</bioguideId>
+        </identifiers>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <party>D</party>
+        <firstName>GREGORY</firstName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>MEEKS</lastName>
+        <middleName>W.</middleName>
+        <state>NY</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000469</bioguideId>
+        <district>20</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8082</gpoId>
+          <bioguideId>T000469</bioguideId>
+          <lisID>1942</lisID>
+        </identifiers>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <party>D</party>
+        <firstName>Paul</firstName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>Tonko</lastName>
+        <middleName />
+        <state>NY</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001050</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2010</lisID>
+          <gpoId>7912</gpoId>
+          <bioguideId>H001050</bioguideId>
+        </identifiers>
+        <fullName>Rep. Hanabusa, Colleen [D-HI-1]</fullName>
+        <party>D</party>
+        <firstName>Colleen</firstName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>Hanabusa</lastName>
+        <middleName />
+        <state>HI</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001292</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001292</bioguideId>
+          <lisID>2272</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <party>D</party>
+        <firstName>Donald</firstName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>Beyer</lastName>
+        <middleName>S.</middleName>
+        <state>VA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000293</bioguideId>
+        <district>5</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2114</lisID>
+          <gpoId />
+          <bioguideId>E000293</bioguideId>
+        </identifiers>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <party>D</party>
+        <firstName>Elizabeth</firstName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>Esty</lastName>
+        <middleName>H.</middleName>
+        <state>CT</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001111</bioguideId>
+        <district>13</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2321</lisID>
+          <gpoId />
+          <bioguideId>C001111</bioguideId>
+        </identifiers>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <party>D</party>
+        <firstName>Charlie</firstName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>Crist</lastName>
+        <middleName />
+        <state>FL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000480</bioguideId>
+        <district>25</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S000480</bioguideId>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+        </identifiers>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <party>D</party>
+        <firstName>LOUISE</firstName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>SLAUGHTER</lastName>
+        <middleName>M.</middleName>
+        <state>NY</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001200</bioguideId>
+        <district>9</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001200</bioguideId>
+          <lisID>2319</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <party>D</party>
+        <firstName>Darren</firstName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>Soto</lastName>
+        <middleName />
+        <state>FL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001245</bioguideId>
+        <district>0</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1723</lisID>
+          <gpoId>7911</gpoId>
+          <bioguideId>B001245</bioguideId>
+        </identifiers>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <party>D</party>
+        <firstName>Madeleine</firstName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <lastName>Bordallo</lastName>
+        <middleName>Z.</middleName>
+        <state>GU</state>
+      </item>
+    </cosponsors>
+    <billNumber>3397</billNumber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <firstName>Jacky</firstName>
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+        <identifiers>
+          <lisID>2339</lisID>
+          <gpoId />
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <bioguideId>R000608</bioguideId>
+        <district>3</district>
+        <middleName />
+        <lastName>Rosen</lastName>
+        <state>NV</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <laws />
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

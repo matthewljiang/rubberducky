@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <committeeReports />
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <firstName>ROGER</firstName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <state>MS</state>
+        <middleName>F.</middleName>
+        <bioguideId>W000437</bioguideId>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+          <lisID>1226</lisID>
+        </identifiers>
+        <party>R</party>
+        <byRequestType />
+        <lastName>WICKER</lastName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <bioguideId>M001183</bioguideId>
+        <party>D</party>
+        <middleName />
+        <firstName>Joe</firstName>
+        <lastName>Manchin</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>WV</state>
+        <identifiers>
+          <gpoId>8256</gpoId>
+          <lisID>1983</lisID>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>S001198</bioguideId>
+        <party>R</party>
+        <middleName />
+        <firstName>Dan</firstName>
+        <lastName>Sullivan</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>AK</state>
+        <identifiers>
+          <bioguideId>S001198</bioguideId>
+          <lisID>2290</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>B001261</bioguideId>
+        <party>R</party>
+        <middleName />
+        <firstName>John</firstName>
+        <lastName>Barrasso</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>WY</state>
+        <identifiers>
+          <bioguideId>B001261</bioguideId>
+          <lisID>1881</lisID>
+          <gpoId>8300</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>F000463</bioguideId>
+        <party>R</party>
+        <middleName />
+        <firstName>Deb</firstName>
+        <lastName>Fischer</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NE</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000463</bioguideId>
+          <lisID>2179</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>M000934</bioguideId>
+        <party>R</party>
+        <middleName />
+        <firstName>JERRY</firstName>
+        <lastName>MORAN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>KS</state>
+        <identifiers>
+          <bioguideId>M000934</bioguideId>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>S001194</bioguideId>
+        <party>D</party>
+        <middleName />
+        <firstName>Brian</firstName>
+        <lastName>Schatz</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>HI</state>
+        <identifiers>
+          <lisID>2173</lisID>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <party>D</party>
+        <middleName />
+        <firstName>Amy</firstName>
+        <lastName>Klobuchar</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>P000595</bioguideId>
+        <party>D</party>
+        <middleName>C.</middleName>
+        <firstName>Gary</firstName>
+        <lastName>Peters</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <identifiers>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+          <lisID>1929</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <party>D</party>
+        <middleName />
+        <firstName>RON</firstName>
+        <lastName>WYDEN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <actionDate>2017-07-24</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-24</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-24</actionDate>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <billNumber>1621</billNumber>
+    <createDate>2017-07-25T01:41:35Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-24T22:54:58Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <title>A bill to require the Federal Communications Commission to establish a methodology for the collection by the Commission of information about commercial mobile service and commercial mobile data service, and for other purposes.</title>
+    <introducedDate>2017-07-24</introducedDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <title>A bill to require the Federal Communications Commission to establish a methodology for the collection by the Commission of information about commercial mobile service and commercial mobile data service, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>A bill to require the Federal Communications Commission to establish a methodology for the collection by the Commission of information about commercial mobile service and commercial mobile data service, and for other purposes.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <updateDate>2017-07-25T05:54:46Z</updateDate>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

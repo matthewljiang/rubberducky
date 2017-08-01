@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <date>2017-05-11T18:01:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Africa, Global Health, Global Human Rights and International Organizations Subcommittee</name>
+              <systemCode>hsfa16</systemCode>
+              <activities>
+                <item>
+                  <date>2017-05-18T15:10:59Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HRES</billType>
+    <laws />
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <district>8</district>
+        <lastName>Franks</lastName>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <state>AZ</state>
+        <bioguideId>F000448</bioguideId>
+        <middleName />
+        <firstName>Trent</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>F000448</bioguideId>
+          <lisID>1707</lisID>
+          <gpoId>7799</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <district>10</district>
+        <lastName>Hice</lastName>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <state>GA</state>
+        <bioguideId>H001071</bioguideId>
+        <middleName>B.</middleName>
+        <firstName>Jody</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2237</lisID>
+          <gpoId />
+          <bioguideId>H001071</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <district>1</district>
+        <lastName>Fortenberry</lastName>
+        <fullName>Rep. Fortenberry, Jeff [R-NE-1]</fullName>
+        <state>NE</state>
+        <bioguideId>F000449</bioguideId>
+        <middleName />
+        <firstName>Jeff</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>F000449</bioguideId>
+          <lisID>1793</lisID>
+          <gpoId>8038</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <district>18</district>
+        <lastName>ESHOO</lastName>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <state>CA</state>
+        <bioguideId>E000215</bioguideId>
+        <middleName>G.</middleName>
+        <firstName>ANNA</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7819</gpoId>
+          <bioguideId>E000215</bioguideId>
+          <lisID>355</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <district>8</district>
+        <lastName>Hudson</lastName>
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <state>NC</state>
+        <bioguideId>H001067</bioguideId>
+        <middleName />
+        <firstName>Richard</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2140</lisID>
+          <gpoId />
+          <bioguideId>H001067</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <district>5</district>
+        <lastName>Garrett</lastName>
+        <fullName>Rep. Garrett, Thomas A., Jr. [R-VA-5]</fullName>
+        <state>VA</state>
+        <bioguideId>G000580</bioguideId>
+        <middleName>A.</middleName>
+        <firstName>Thomas</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000580</bioguideId>
+          <lisID>2353</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <district>12</district>
+        <lastName>Bilirakis</lastName>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <state>FL</state>
+        <bioguideId>B001257</bioguideId>
+        <middleName>M.</middleName>
+        <firstName>Gus</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1838</lisID>
+          <gpoId>7881</gpoId>
+          <bioguideId>B001257</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <district>4</district>
+        <lastName>King</lastName>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <state>IA</state>
+        <bioguideId>K000362</bioguideId>
+        <middleName />
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000362</bioguideId>
+          <lisID>1724</lisID>
+          <gpoId>7918</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <district>4</district>
+        <lastName>Gowdy</lastName>
+        <fullName>Rep. Gowdy, Trey [R-SC-4]</fullName>
+        <state>SC</state>
+        <bioguideId>G000566</bioguideId>
+        <middleName />
+        <firstName>Trey</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2058</lisID>
+          <gpoId>8144</gpoId>
+          <bioguideId>G000566</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>36</district>
+        <lastName>Babin</lastName>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <state>TX</state>
+        <bioguideId>B001291</bioguideId>
+        <middleName />
+        <firstName>Brian</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+          <gpoId />
+          <lisID>2270</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>14</district>
+        <lastName>Weber</lastName>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <state>TX</state>
+        <bioguideId>W000814</bioguideId>
+        <middleName>K.</middleName>
+        <firstName>Randy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2161</lisID>
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>12</district>
+        <lastName>Allen</lastName>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <state>GA</state>
+        <bioguideId>A000372</bioguideId>
+        <middleName>W.</middleName>
+        <firstName>Rick</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000372</bioguideId>
+          <lisID>2239</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>9</district>
+        <lastName>Pittenger</lastName>
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+        <state>NC</state>
+        <bioguideId>P000606</bioguideId>
+        <middleName />
+        <firstName>Robert</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2141</lisID>
+          <bioguideId>P000606</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>2</district>
+        <lastName>Huizenga</lastName>
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+        <state>MI</state>
+        <bioguideId>H001058</bioguideId>
+        <middleName />
+        <firstName>Bill</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001058</bioguideId>
+          <lisID>2028</lisID>
+          <gpoId>7987</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>0</district>
+        <lastName>Noem</lastName>
+        <fullName>Rep. Noem, Kristi L. [R-SD-At Large]</fullName>
+        <state>SD</state>
+        <bioguideId>N000184</bioguideId>
+        <middleName>L.</middleName>
+        <firstName>Kristi</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8147</gpoId>
+          <bioguideId>N000184</bioguideId>
+          <lisID>2060</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <createDate>2017-05-12T03:11:37Z</createDate>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+      <actionDate>2017-05-18</actionDate>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <recordedVotes />
+    <introducedDate>2017-05-11</introducedDate>
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>115</congress>
+    <relatedBills />
+    <calendarNumbers />
+    <title>Reaffirming the commitment of the United States to promoting religious freedom globally, and for other purposes.</title>
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Hultgren, Randy [R-IL-14]</fullName>
+        <lastName>Hultgren</lastName>
+        <party>R</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>H001059</bioguideId>
+          <lisID>2015</lisID>
+          <gpoId>7934</gpoId>
+        </identifiers>
+        <bioguideId>H001059</bioguideId>
+        <district>14</district>
+        <firstName>Randy</firstName>
+      </item>
+    </sponsors>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <name>Africa, Global Health, Global Human Rights and International Organizations Subcommittee</name>
+          <systemCode>hsfa16</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionDate>2017-05-11</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-05-11</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-05-11</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Reaffirming the commitment of the United States to promoting religious freedom globally, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Reaffirming the commitment of the United States to promoting religious freedom globally, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <billNumber>319</billNumber>
+    <updateDate>2017-07-25T07:15:43Z</updateDate>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

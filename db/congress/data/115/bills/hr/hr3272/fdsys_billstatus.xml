@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Veteran Education Empowerment Act</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-17T16:01:40Z</date>
+            </item>
+          </activities>
+          <systemCode>hsvr00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-17</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-17</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-17</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <recordedVotes />
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <notes />
+    <createDate>2017-07-18T03:11:33Z</createDate>
+    <amendments />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <party>D</party>
+        <lastName>Takano</lastName>
+        <firstName>Mark</firstName>
+        <bioguideId>T000472</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000472</bioguideId>
+          <lisID>2110</lisID>
+          <gpoId />
+        </identifiers>
+        <district>41</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <middleName />
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <party>R</party>
+        <lastName>Bilirakis</lastName>
+        <firstName>Gus</firstName>
+        <bioguideId>B001257</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7881</gpoId>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <party>R</party>
+        <lastName>Rutherford</lastName>
+        <firstName>John</firstName>
+        <bioguideId>R000609</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000609</bioguideId>
+          <lisID>2316</lisID>
+          <gpoId />
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+        <party>D</party>
+        <lastName>Rosen</lastName>
+        <firstName>Jacky</firstName>
+        <bioguideId>R000608</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+          <lisID>2339</lisID>
+          <gpoId />
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>NV</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <party>D</party>
+        <lastName>BISHOP</lastName>
+        <firstName>SANFORD</firstName>
+        <bioguideId>B000490</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>91</lisID>
+          <gpoId>7899</gpoId>
+          <bioguideId>B000490</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <party>D</party>
+        <lastName>Dingell</lastName>
+        <firstName>Debbie</firstName>
+        <bioguideId>D000624</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000624</bioguideId>
+          <lisID>2251</lisID>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <party>R</party>
+        <lastName>JONES</lastName>
+        <firstName>WALTER</firstName>
+        <bioguideId>J000255</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <party>D</party>
+        <lastName>Grijalva</lastName>
+        <firstName>Raul</firstName>
+        <bioguideId>G000551</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <party>D</party>
+        <lastName>Moore</lastName>
+        <firstName>Gwen</firstName>
+        <bioguideId>M001160</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001160</bioguideId>
+          <lisID>1811</lisID>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <party>D</party>
+        <lastName>RUSH</lastName>
+        <firstName>BOBBY</firstName>
+        <bioguideId>R000515</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+          <lisID>1003</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <middleName>L.</middleName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <party>D</party>
+        <lastName>NAPOLITANO</lastName>
+        <firstName>GRACE</firstName>
+        <bioguideId>N000179</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <district>32</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <party>D</party>
+        <lastName>O'Rourke</lastName>
+        <firstName>Beto</firstName>
+        <bioguideId>O000170</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>O000170</bioguideId>
+          <lisID>2162</lisID>
+          <gpoId />
+        </identifiers>
+        <district>16</district>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <party>R</party>
+        <lastName>McCaul</lastName>
+        <firstName>Michael</firstName>
+        <bioguideId>M001157</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001157</bioguideId>
+          <lisID>1804</lisID>
+          <gpoId>8166</gpoId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Graves, Garret [R-LA-6]</fullName>
+        <party>R</party>
+        <lastName>Graves</lastName>
+        <firstName>Garret</firstName>
+        <bioguideId>G000577</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2245</lisID>
+          <bioguideId>G000577</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Webster, Daniel [R-FL-11]</fullName>
+        <party>R</party>
+        <lastName>Webster</lastName>
+        <firstName>Daniel</firstName>
+        <bioguideId>W000806</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7880</gpoId>
+          <bioguideId>W000806</bioguideId>
+          <lisID>2002</lisID>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <party>D</party>
+        <lastName>MCGOVERN</lastName>
+        <firstName>JAMES</firstName>
+        <bioguideId>M000312</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <party>D</party>
+        <lastName>Titus</lastName>
+        <firstName>Dina</firstName>
+        <bioguideId>T000468</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000468</bioguideId>
+          <lisID>1940</lisID>
+          <gpoId>7493</gpoId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <state>NV</state>
+        <middleName />
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <party>R</party>
+        <lastName>Curbelo</lastName>
+        <firstName>Carlos</firstName>
+        <bioguideId>C001107</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001107</bioguideId>
+          <lisID>2235</lisID>
+          <gpoId />
+        </identifiers>
+        <district>26</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <updateDate>2017-07-29T07:17:52Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>F000462</bioguideId>
+        <byRequestType />
+        <district>21</district>
+        <party>D</party>
+        <lastName>Frankel</lastName>
+        <fullName>Rep. Frankel, Lois [D-FL-21]</fullName>
+        <firstName>Lois</firstName>
+        <middleName />
+        <state>FL</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000462</bioguideId>
+          <lisID>2119</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>Veteran Education Empowerment Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>To direct the Secretary of Veterans Affairs to carry out a grant program to provide Veteran Student Centers at institutions of higher education to assist veterans in the pursuit of higher education, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Veteran Education Empowerment Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <title>Veteran Education Empowerment Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-07-17</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. FRANKEL of Florida:H.R. 3272.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 (Clauses 1, 12, 13, and 14) of theUnited States Constitution, which grants Congress the powerto lay and collect taxes for the purpose of spending; toraise and support armies; to provide and maintain a navy; andto make rules for the government and regulation of the landand naval forces.[Page H5921]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>115</congress>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-07-17</actionDate>
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <billNumber>3272</billNumber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

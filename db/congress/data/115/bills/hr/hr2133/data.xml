@@ -1,0 +1,74 @@
+<bill session="115" type="h" number="2133" updated="2017-07-27T07:16:08Z">
+  <state datetime="2017-04-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-25"/>
+  </status>
+  <introduced datetime="2017-04-25"/>
+  <titles>
+    <title type="short" as="introduced">CLEARR Act of 2017</title>
+    <title type="short" as="introduced">CLEARR Act of 2017</title>
+    <title type="short" as="introduced">Community Lending Enhancement and Regulatory Relief Act of 2017</title>
+    <title type="short" as="introduced">Community Lending Enhancement and Regulatory Relief Act of 2017</title>
+    <title type="official" as="introduced">To provide regulatory relief to community financial institutions, and for other purposes.</title>
+    <title type="display">CLEARR Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="L000569"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000375" joined="2017-07-26"/>
+    <cosponsor bioguide_id="B001295" joined="2017-07-11"/>
+    <cosponsor bioguide_id="B001305" joined="2017-06-27"/>
+    <cosponsor bioguide_id="C001096" joined="2017-05-04"/>
+    <cosponsor bioguide_id="C001087" joined="2017-05-04"/>
+    <cosponsor bioguide_id="C001048" joined="2017-06-27"/>
+    <cosponsor bioguide_id="D000619" joined="2017-05-04"/>
+    <cosponsor bioguide_id="E000294" joined="2017-04-28"/>
+    <cosponsor bioguide_id="F000464" joined="2017-05-04"/>
+    <cosponsor bioguide_id="F000466" joined="2017-07-26"/>
+    <cosponsor bioguide_id="H001045" joined="2017-06-27"/>
+    <cosponsor bioguide_id="H001059" joined="2017-05-17"/>
+    <cosponsor bioguide_id="K000392" joined="2017-07-20"/>
+    <cosponsor bioguide_id="L000566" joined="2017-07-20"/>
+    <cosponsor bioguide_id="L000587" joined="2017-05-17"/>
+    <cosponsor bioguide_id="L000583" joined="2017-07-14"/>
+    <cosponsor bioguide_id="M001195" joined="2017-07-14"/>
+    <cosponsor bioguide_id="P000594" joined="2017-05-24"/>
+    <cosponsor bioguide_id="P000588" joined="2017-06-06"/>
+    <cosponsor bioguide_id="R000585" joined="2017-06-06"/>
+    <cosponsor bioguide_id="R000586" joined="2017-07-20"/>
+    <cosponsor bioguide_id="R000582" joined="2017-07-14"/>
+    <cosponsor bioguide_id="R000593" joined="2017-07-11"/>
+    <cosponsor bioguide_id="R000598" joined="2017-05-24"/>
+    <cosponsor bioguide_id="S000250" joined="2017-04-28"/>
+    <cosponsor bioguide_id="S001187" joined="2017-07-14"/>
+    <cosponsor bioguide_id="T000475" joined="2017-07-11"/>
+    <cosponsor bioguide_id="W000798" joined="2017-07-20"/>
+    <cosponsor bioguide_id="W000816" joined="2017-07-11"/>
+    <cosponsor bioguide_id="W000804" joined="2017-06-06"/>
+    <cosponsor bioguide_id="Z000017" joined="2017-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-25" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2017-07-12">
+      <text>Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee subcommittee="Financial Institutions and Consumer Credit" code="HSBA15" name="House Financial Services" activity="Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="1948"/>
+    <bill type="h" session="115" relation="unknown" number="2706"/>
+    <bill type="h" session="115" relation="unknown" number="2226"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

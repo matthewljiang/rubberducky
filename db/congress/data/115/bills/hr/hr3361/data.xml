@@ -1,0 +1,53 @@
+<bill session="115" type="h" number="3361" updated="2017-07-29T07:18:06Z">
+  <state datetime="2017-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-24"/>
+  </status>
+  <introduced datetime="2017-07-24"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 18, United States Code, to require federally licensed firearms importers, manufacturers, and dealers to meet certain requirements with respect to securing their firearms inventory, business records, and business premises.</title>
+    <title type="display">To amend title 18, United States Code, to require federally licensed firearms importers, manufacturers, and dealers to meet certain requirements with respect to securing their firearms inventory, business records, and business premises.</title>
+  </titles>
+  <sponsor bioguide_id="S001190"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001112" joined="2017-07-24"/>
+    <cosponsor bioguide_id="C001069" joined="2017-07-24"/>
+    <cosponsor bioguide_id="E000293" joined="2017-07-25"/>
+    <cosponsor bioguide_id="F000454" joined="2017-07-26"/>
+    <cosponsor bioguide_id="G000551" joined="2017-07-24"/>
+    <cosponsor bioguide_id="G000535" joined="2017-07-24"/>
+    <cosponsor bioguide_id="H000324" joined="2017-07-24"/>
+    <cosponsor bioguide_id="J000032" joined="2017-07-24"/>
+    <cosponsor bioguide_id="K000385" joined="2017-07-24"/>
+    <cosponsor bioguide_id="L000397" joined="2017-07-24"/>
+    <cosponsor bioguide_id="M001137" joined="2017-07-24"/>
+    <cosponsor bioguide_id="N000147" joined="2017-07-24"/>
+    <cosponsor bioguide_id="P000597" joined="2017-07-28"/>
+    <cosponsor bioguide_id="Q000023" joined="2017-07-24"/>
+    <cosponsor bioguide_id="R000515" joined="2017-07-25"/>
+    <cosponsor bioguide_id="S001145" joined="2017-07-24"/>
+    <cosponsor bioguide_id="S001170" joined="2017-07-24"/>
+    <cosponsor bioguide_id="S001201" joined="2017-07-24"/>
+    <cosponsor bioguide_id="S001193" joined="2017-07-27"/>
+    <cosponsor bioguide_id="T000460" joined="2017-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-24">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-24" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-07-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H6280"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

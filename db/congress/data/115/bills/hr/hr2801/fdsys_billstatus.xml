@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>KING</lastName>
+        <middleName>T.</middleName>
+        <identifiers>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>PETER</firstName>
+        <state>NY</state>
+        <district>2</district>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000210</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>SCHAKOWSKY</lastName>
+        <middleName>D.</middleName>
+        <identifiers>
+          <gpoId>7929</gpoId>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>JANICE</firstName>
+        <state>IL</state>
+        <district>9</district>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001145</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>SERRANO</lastName>
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>1042</lisID>
+          <gpoId>8077</gpoId>
+          <bioguideId>S000248</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>JOSE</firstName>
+        <state>NY</state>
+        <district>15</district>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000248</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rice</lastName>
+        <middleName>M.</middleName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000602</bioguideId>
+          <lisID>2262</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>Kathleen</firstName>
+        <state>NY</state>
+        <district>4</district>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000602</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Wasserman Schultz</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>7892</gpoId>
+          <lisID>1777</lisID>
+          <bioguideId>W000797</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Debbie</firstName>
+        <state>FL</state>
+        <district>23</district>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000797</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>BRADY</lastName>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>1469</lisID>
+          <gpoId>8119</gpoId>
+          <bioguideId>B001227</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>ROBERT</firstName>
+        <state>PA</state>
+        <district>1</district>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001227</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Suozzi</lastName>
+        <middleName>R.</middleName>
+        <identifiers>
+          <bioguideId>S001201</bioguideId>
+          <lisID>2341</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <firstName>Thomas</firstName>
+        <state>NY</state>
+        <district>3</district>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001201</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Dingell</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000624</bioguideId>
+          <lisID>2251</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>Debbie</firstName>
+        <state>MI</state>
+        <district>12</district>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000624</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Westerman</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>W000821</bioguideId>
+          <lisID>2224</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <firstName>Bruce</firstName>
+        <state>AR</state>
+        <district>4</district>
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000821</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>COOPER</lastName>
+        <middleName>H.</middleName>
+        <identifiers>
+          <gpoId>8152</gpoId>
+          <bioguideId>C000754</bioguideId>
+          <lisID>231</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>JAMES</firstName>
+        <state>TN</state>
+        <district>5</district>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C000754</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>PRICE</lastName>
+        <middleName>E.</middleName>
+        <identifiers>
+          <gpoId>8027</gpoId>
+          <lisID>930</lisID>
+          <bioguideId>P000523</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>DAVID</firstName>
+        <state>NC</state>
+        <district>4</district>
+        <fullName>Rep. Price, David E. [D-NC-4]</fullName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000523</bioguideId>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <title>HOT CARS Act of 2017</title>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <title>HOT CARS Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Helping Overcome Trauma for Children Alone in Rear Seats Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>HOT CARS Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Helping Overcome Trauma for Children Alone in Rear Seats Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>To require the Secretary of Transportation to issue a rule requiring all new passenger motor vehicles to be equipped with a child safety alert system, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>HOT CARS Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>2801</billNumber>
+    <recordedVotes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <relatedBills />
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RYAN of Ohio:H.R. 2801.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8: To Make Laws which shall benecessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H4701]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>R000577</bioguideId>
+        <firstName>TIM</firstName>
+        <district>13</district>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <identifiers>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <lastName>RYAN</lastName>
+        <middleName />
+        <party>D</party>
+        <byRequestType />
+        <state>OH</state>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <introducedDate>2017-06-07</introducedDate>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+      <links />
+      <actionDate>2017-06-09</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif17</systemCode>
+              <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-06-09T19:56:30Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-06-07T14:01:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hspw12</systemCode>
+              <name>Highways and Transit Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-06-07T13:38:45Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-06-07T14:01:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-07-25T07:17:43Z</updateDate>
+    <createDate>2017-06-08T03:11:41Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2017-06-09</actionDate>
+        <committee>
+          <systemCode>hsif17</systemCode>
+          <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to House Transportation and Infrastructure</text>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to House Energy and Commerce</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <links />
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <committee>
+          <systemCode>hspw12</systemCode>
+          <name>Highways and Transit Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

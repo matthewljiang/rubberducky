@@ -1,0 +1,32 @@
+<bill session="115" type="h" number="3577" updated="2017-07-29T07:33:07Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Food and Nutrition Act of 2008 to establish a competitive grant program to provide grants to States to carry out targeted employment and training projects.</title>
+    <title type="display">To amend the Food and Nutrition Act of 2008 to establish a competitive grant program to provide grants to States to carry out targeted employment and training projects.</title>
+  </titles>
+  <sponsor bioguide_id="C001059"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000617" joined="2017-07-28"/>
+    <cosponsor bioguide_id="L000580" joined="2017-07-28"/>
+    <cosponsor bioguide_id="M000312" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

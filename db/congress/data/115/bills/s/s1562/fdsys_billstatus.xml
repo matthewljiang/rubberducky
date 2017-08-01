@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>M000133</bioguideId>
+        <state>MA</state>
+        <middleName>J.</middleName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>EDWARD</firstName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <lastName>MARKEY</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+          <lisID>791</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>M000639</bioguideId>
+        <state>NJ</state>
+        <middleName />
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ROBERT</firstName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <lastName>MENENDEZ</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>P000449</bioguideId>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>P000449</bioguideId>
+        <state>OH</state>
+        <middleName />
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ROB</firstName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <lastName>PORTMAN</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>R000595</bioguideId>
+        <state>FL</state>
+        <middleName />
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Marco</firstName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <lastName>Rubio</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>C001095</bioguideId>
+        <state>AR</state>
+        <middleName />
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <lastName>Cotton</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+          <lisID>1687</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>B001236</bioguideId>
+        <state>AR</state>
+        <middleName />
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <lastName>Boozman</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+          <lisID>2175</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>C001098</bioguideId>
+        <state>TX</state>
+        <middleName />
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Ted</firstName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <lastName>Cruz</lastName>
+      </item>
+    </cosponsors>
+    <billNumber>1562</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-07-13</introducedDate>
+    <updateDate>2017-07-28T14:30:16Z</updateDate>
+    <actions>
+      <item>
+        <actionDate>2017-07-13</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-07-13</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>G000562</bioguideId>
+        <middleName />
+        <lastName>Gardner</lastName>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+          <lisID>1998</lisID>
+        </identifiers>
+        <party>R</party>
+        <state>CO</state>
+        <firstName>Cory</firstName>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>North Korean Enablers Accountability Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to impose sanctions with respect to the Government of the Democratic People's Republic of Korea and any enablers of the activities of that Government, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>North Korean Enablers Accountability Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>North Korean Enablers Accountability Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <title>North Korean Enablers Accountability Act of 2017</title>
+    <createDate>2017-07-14T00:41:33Z</createDate>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-07-13T20:01:11Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2017-07-13</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </latestAction>
+    <originChamber>Senate</originChamber>
+    <congress>115</congress>
+    <billType>S</billType>
+    <amendments />
+    <policyArea />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

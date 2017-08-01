@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001274</bioguideId>
+        <identifiers>
+          <bioguideId>B001274</bioguideId>
+          <lisID>1987</lisID>
+          <gpoId>7790</gpoId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Brooks</lastName>
+        <party>R</party>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <firstName>Mo</firstName>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <middleName />
+        <state>AL</state>
+      </item>
+    </cosponsors>
+    <billNumber>2370</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Escambia County Land Conveyance Act</b></p> <p> This bill authorizes Escambia County, Florida, to convey its interest in any part of the former Santa Rosa Island National Monument land that was conveyed to it by the federal government in 1947 to any person or entity, without restriction. </p> <p>The bill prohibits any person or entity holding a leasehold interest in such land from being required to involuntarily accept a fee interest to such land in place of the leasehold interest. </p> <p> The bill conditions such conveyance on requirements that: (1) all interest of Escambia County in any part of such land that is within the jurisdictional boundaries of Santa Rosa County, Florida, must be conveyed to Santa Rosa County within two years of the enactment of this bill; and (2) Escambia County must preserve in perpetuity the areas of the conveyed monument land that, as of this bill's enactment, are dedicated for conservation, preservation, public recreation access, and public parking. Santa Rosa County shall assume ownership of the non-federal land conveyed to it free of such restrictions.</p> <p> Santa Rosa County or any other person to whom such county reconveys such land may reconvey any part of it. Any proceeds from the conveyance of such land by either county shall be considered to be windfall profits that shall revert to the United States. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2017-05-04T04:00:00Z</updateDate>
+          <actionDate>2017-05-04</actionDate>
+          <lastSummaryUpdateDate>2017-06-21T14:49:42Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-236</citation>
+      </committeeReport>
+    </committeeReports>
+    <introducedDate>2017-05-04</introducedDate>
+    <updateDate>2017-07-28T15:45:13Z</updateDate>
+    <actions>
+      <item>
+        <actionDate>2017-07-27</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <type>Floor</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+        <actionTime>14:30:12</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H6329</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6329</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H37300</actionCode>
+        <actionTime>14:30:09</actionTime>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6329)</text>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <type>Floor</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+        <actionTime>14:30:09</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 2370</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2370</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H8D000</actionCode>
+        <actionTime>14:22:20</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2370.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H6328-6330</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6328-6330</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <actionTime>14:22:18</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H6328-6330)</text>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <type>Floor</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30300</actionCode>
+        <actionTime>14:22:03</actionTime>
+        <text>Mr. McClintock moved to suspend the rules and pass the bill.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>H12410</actionCode>
+        <links />
+        <committee />
+        <type>Calendars</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Placed on the Union Calendar, Calendar No. 168.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>H12200</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-236</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/236</url>
+          </link>
+        </links>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 115-236.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>5000</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-236</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/236</url>
+          </link>
+        </links>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 115-236.</text>
+      </item>
+      <item>
+        <actionDate>2017-06-27</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-27</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-11</actionDate>
+        <committee>
+          <name>Federal Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-04</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Natural Resources.</text>
+      </item>
+      <item>
+        <actionDate>2017-05-04</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-05-04</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <generalDebate>1</generalDebate>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <actionStageOverride>1</actionStageOverride>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>15</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>G000578</bioguideId>
+        <middleName />
+        <lastName>Gaetz</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2314</lisID>
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <state>FL</state>
+        <district>1</district>
+        <firstName>Matt</firstName>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-07-20T12:51:22Z</pubDate>
+        <url>https://www.cbo.gov/publication/52940</url>
+        <title>H.R. 2370, Escambia County Land Conveyance Act</title>
+      </item>
+    </cboCostEstimates>
+    <titles>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>Escambia County Land Conveyance Act</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Reported to House</titleType>
+        <title>Escambia County Land Conveyance Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Escambia County Land Conveyance Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To authorize Escambia County, Florida, to convey certain property that was formerly part of Santa Rosa Island National Monument and that was conveyed to Escambia County subject to restrictions on use and reconveyance.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Escambia County Land Conveyance Act</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>Escambia County Land Conveyance Act</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <title>Escambia County Land Conveyance Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Escambia County Land Conveyance Act</title>
+      </item>
+    </titles>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00168</calendar>
+      </item>
+    </calendarNumbers>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-05-05T03:11:54Z</createDate>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-27T15:00:46Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-07-20T14:21:50Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-06-27T13:43:18Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-04T13:03:35Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Federal Lands Subcommittee</name>
+              <systemCode>hsii10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-11T20:41:36Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2017-07-27</actionDate>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <amendments />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+          <actionDate>2017-07-19</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>S</type>
+        <number>1073</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Escambia County Land Conveyance Act</latestTitle>
+      </item>
+    </relatedBills>
+    <title>Escambia County Land Conveyance Act</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GAETZ:H.R. 2370.Congress has the power to enact this legislation pursuantto the following:Article IV, Section III, Clause II[Page H4179]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

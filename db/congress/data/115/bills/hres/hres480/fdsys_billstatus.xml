@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <constitutionalAuthorityStatementText />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-07-27T04:00:00Z</updateDate>
+          <actionDate>2017-07-27</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (S. 114) to amend title 38, United States Code, to require the Secretary of Veterans Affairs to submit an annual report regarding performance awards and bonuses awarded to certain high-level employees of the Department of Veterans Affairs.]]></text>
+          <lastSummaryUpdateDate>2017-07-28T08:06:26Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <updateDate>2017-07-31T15:27:15Z</updateDate>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsru00</systemCode>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Rules Committee</name>
+          <activities>
+            <item>
+              <date>2017-07-27T22:41:04Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <title>Providing for consideration of the bill (S. 114) to amend title 38, United States Code, to require the Secretary of Veterans Affairs to submit an annual report regarding performance awards and bonuses awarded to certain high-level employees of the Department of Veterans Affairs.</title>
+    <billType>HRES</billType>
+    <latestAction>
+      <links />
+      <actionDate>2017-07-28</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>09:35:14</actionTime>
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing for consideration of the bill (S. 114) to amend title 38, United States Code, to require the Secretary of Veterans Affairs to submit an annual report regarding performance awards and bonuses awarded to certain high-level employees of the Department of Veterans Affairs.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing for consideration of the bill (S. 114) to amend title 38, United States Code, to require the Secretary of Veterans Affairs to submit an annual report regarding performance awards and bonuses awarded to certain high-level employees of the Department of Veterans Affairs.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <cosponsors />
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>H00070</calendar>
+      </item>
+    </calendarNumbers>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <amendments />
+    <recordedVotes />
+    <createDate>2017-07-28T03:11:32Z</createDate>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <introducedDate>2017-07-27</introducedDate>
+    <billNumber>480</billNumber>
+    <relatedBills>
+      <item>
+        <latestTitle>To  authorize  appropriations  and to appropriate amounts for the Veterans Choice Program of the Department  of  Veterans  Affairs,  to  improve  hiring  authorities  of  the  Department,  to  authorize  major  medical  facility  leases,  and  for  other purposes.</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Procedurally-related</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestAction>
+          <text>The title of the measure was amended. Agreed to without objection.</text>
+          <actionDate>2017-07-28</actionDate>
+          <actionTime>12:53:43</actionTime>
+        </latestAction>
+        <number>114</number>
+      </item>
+    </relatedBills>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <links />
+        <actionCode>H38310</actionCode>
+        <actionTime>09:35:14</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6525</url>
+            <name>H6525</name>
+          </link>
+        </links>
+        <actionCode>H37100</actionCode>
+        <actionTime>09:35:10</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <text>On agreeing to the resolution Agreed to by voice vote. (text: CR H6525)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>8000</actionCode>
+        <actionTime>09:35:10</actionTime>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>H35000</actionCode>
+        <actionTime>09:35:00</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <text>The previous question was ordered without objection.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/480</url>
+            <name>H. Res. 480</name>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <actionTime>09:18:15</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 480.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6525-6527</url>
+            <name>H6525-6527</name>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <actionTime>09:17:01</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <text>Considered as privileged matter. (consideration: CR H6525-6527)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Calendars</type>
+        <actionDate>2017-07-27</actionDate>
+        <text>Placed on the House Calendar, Calendar No. 70.</text>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionCode>H12700</actionCode>
+        <actionTime>18:41:05</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-07-27</actionDate>
+        <text>The resolution provides that the amendment in the nature of a substitute printed in the Rules Committee report shall be considered as adopted and the bill, as amended, shall be considered as read.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/262</url>
+            <name>H. Rept. 115-262</name>
+          </link>
+        </links>
+        <actionCode>H12100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2017-07-27</actionDate>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-262, by Mr. Collins (GA).</text>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/262</url>
+            <name>H. Rept. 115-262</name>
+          </link>
+        </links>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2017-07-27</actionDate>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-262, by Mr. Collins (GA).</text>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-27</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <generalDebate>1</generalDebate>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <provisionsOfARule>1</provisionsOfARule>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001093</bioguideId>
+        <fullName>Rep. Collins, Doug [R-GA-9]</fullName>
+        <state>GA</state>
+        <lastName>Collins</lastName>
+        <party>R</party>
+        <firstName>Doug</firstName>
+        <byRequestType />
+        <middleName />
+        <district>9</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001093</bioguideId>
+          <lisID>2121</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

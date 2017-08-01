@@ -1,0 +1,44 @@
+<bill session="115" type="h" number="2768" updated="2017-07-27T07:13:37Z">
+  <state datetime="2017-07-26">REPORTED</state>
+  <status>
+    <unknown datetime="2017-07-26"/>
+  </status>
+  <introduced datetime="2017-05-30"/>
+  <titles>
+    <title type="short" as="introduced">Fowler and Boskoff Peaks Designation Act</title>
+    <title type="short" as="introduced">Fowler and Boskoff Peaks Designation Act</title>
+    <title type="official" as="introduced">To designate certain mountain peaks in the State of Colorado as ``Fowler Peak'' and "Boskoff Peak".</title>
+    <title type="display">Fowler and Boskoff Peaks Designation Act</title>
+  </titles>
+  <sponsor bioguide_id="T000470"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-05-30">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-30" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2017-07-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-07-26" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Markup, Referral"/>
+    <committee subcommittee="Federal Lands" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="1271"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

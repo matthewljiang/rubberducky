@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <relatedBills />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Kirsten</firstName>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <state>NY</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gillibrand</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mazie</firstName>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <bioguideId>H001042</bioguideId>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <state>HI</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7913</gpoId>
+          <bioguideId>H001042</bioguideId>
+          <lisID>1844</lisID>
+        </identifiers>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hirono</lastName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <actions>
+      <item>
+        <actionDate>2017-05-04</actionDate>
+        <committee>
+          <name>Small Business and Entrepreneurship Committee</name>
+          <systemCode>sssb00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-05-04</actionDate>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <titles>
+      <item>
+        <chamberName />
+        <title>A bill to require the Administrator of the Small Business Administration to submit to Congress a report on the utilization of small businesses with respect to certain Federal contracts.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>A bill to require the Administrator of the Small Business Administration to submit to Congress a report on the utilization of small businesses with respect to certain Federal contracts.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <laws />
+    <notes />
+    <introducedDate>2017-05-04</introducedDate>
+    <committeeReports />
+    <updateDate>2017-07-20T16:56:26Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sssb00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Small Business and Entrepreneurship Committee</name>
+          <activities>
+            <item>
+              <date>2017-05-04T14:30:44Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <billNumber>1038</billNumber>
+    <title>A bill to require the Administrator of the Small Business Administration to submit to Congress a report on the utilization of small businesses with respect to certain Federal contracts.</title>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <byRequestType />
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <state>IA</state>
+        <middleName />
+        <firstName>Joni</firstName>
+        <identifiers>
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Ernst</lastName>
+        <bioguideId>E000295</bioguideId>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+      <links />
+      <actionDate>2017-05-04</actionDate>
+    </latestAction>
+    <createDate>2017-05-05T00:41:44Z</createDate>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>A bill to prohibit the Federal Government from requiring race or ethnicity to be disclosed in connection with the transfer of a firearm.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to prohibit the Federal Government from requiring race or ethnicity to be disclosed in connection with the transfer of a firearm.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>A bill to prohibit the Federal Government from requiring race or ethnicity to be disclosed in connection with the transfer of a firearm.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <cboCostEstimates />
+    <billNumber>1592</billNumber>
+    <updateDate>2017-07-21T05:17:43Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Blunt</lastName>
+        <middleName />
+        <state>MO</state>
+        <firstName>Roy</firstName>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <bioguideId>B000575</bioguideId>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cochran</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8292</gpoId>
+          <lisID>213</lisID>
+          <bioguideId>C000567</bioguideId>
+        </identifiers>
+        <bioguideId>C000567</bioguideId>
+        <state>MS</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Thad</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cornyn</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <bioguideId>C001056</bioguideId>
+        <state>TX</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Manchin</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8256</gpoId>
+          <bioguideId>M001183</bioguideId>
+          <lisID>1983</lisID>
+        </identifiers>
+        <bioguideId>M001183</bioguideId>
+        <state>WV</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Joe</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>ENZI</lastName>
+        <middleName>B.</middleName>
+        <identifiers>
+          <bioguideId>E000285</bioguideId>
+          <lisID>1542</lisID>
+          <gpoId>8328</gpoId>
+        </identifiers>
+        <bioguideId>E000285</bioguideId>
+        <state>WY</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>MICHAEL</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>THUNE</lastName>
+        <middleName>R.</middleName>
+        <identifiers>
+          <lisID>1534</lisID>
+          <bioguideId>T000250</bioguideId>
+          <gpoId>8257</gpoId>
+        </identifiers>
+        <bioguideId>T000250</bioguideId>
+        <state>SD</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <fullName>Sen. Strange, Luther [R-AL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Strange</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2357</lisID>
+          <bioguideId>S001202</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001202</bioguideId>
+        <state>AL</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Luther</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>CAPITO</lastName>
+        <middleName>MOORE</middleName>
+        <identifiers>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <bioguideId>C001047</bioguideId>
+        <state>WV</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>SHELLEY</firstName>
+      </item>
+    </cosponsors>
+    <laws />
+    <notes />
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <actionDate>2017-07-20</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-20T14:53:11Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+        <actionDate>2017-07-20</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-07-21T00:56:46Z</createDate>
+    <congress>115</congress>
+    <amendments />
+    <relatedBills />
+    <introducedDate>2017-07-20</introducedDate>
+    <recordedVotes />
+    <policyArea />
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

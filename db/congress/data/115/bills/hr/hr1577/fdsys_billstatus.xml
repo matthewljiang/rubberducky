@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-03-17T04:49:44Z</createDate>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2017-03-27</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-16</actionDate>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-03-16</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-03-16</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AZ</state>
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <bioguideId>G000565</bioguideId>
+        <middleName>A.</middleName>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <firstName>Paul</firstName>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <party>R</party>
+        <lastName>Gosar</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AZ</state>
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <bioguideId>F000448</bioguideId>
+        <middleName />
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1707</lisID>
+          <gpoId>7799</gpoId>
+          <bioguideId>F000448</bioguideId>
+        </identifiers>
+        <firstName>Trent</firstName>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <party>R</party>
+        <lastName>Franks</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OK</state>
+        <sponsorshipDate>2017-03-20</sponsorshipDate>
+        <bioguideId>C001053</bioguideId>
+        <middleName />
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <party>R</party>
+        <lastName>Cole</lastName>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-03-16</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>M001197</bioguideId>
+        <lastName>McSally</lastName>
+        <firstName>Martha</firstName>
+        <fullName>Rep. McSally, Martha [R-AZ-2]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001197</bioguideId>
+          <lisID>2225</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <state>AZ</state>
+        <district>2</district>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>National Park Service Transparency and Accountability Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>National Park Service Transparency and Accountability Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To require the Secretary of the Interior submit a report to Congress evaluating the Capital Investment Strategy and its results, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>National Park Service Transparency and Accountability Act</title>
+      </item>
+    </titles>
+    <congress>115</congress>
+    <billNumber>1577</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Federal Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-27T20:23:28Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii10</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-16T14:05:10Z</date>
+            </item>
+          </activities>
+          <systemCode>hsii00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. McSALLY:H.R. 1577.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1: The Congress shall havePower To lay and collect Taxes, Duties, Imposts and Excises,to pay the Debts and provide for the common Defence andGeneral Welfare of the United States; but all Duties, Impostsand Excises shall be uniform throughout the United States.Article I, Section 8, Clause 18: To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.Article IV, Section 3, Clause 2: The Congress shall havePower to dispose of and make all needful Rules andRegulations respecting the Territory or other Propertybelonging to the United States; and nothing in thisConstitution shall be so construed as to Prejudice any Claimsof the United States, or of any particular State.[Page H2150]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <title>National Park Service Transparency and Accountability Act</title>
+    <updateDate>2017-06-19T21:30:18Z</updateDate>
+    <laws />
+    <billType>HR</billType>
+    <recordedVotes />
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+      <actionDate>2017-03-27</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

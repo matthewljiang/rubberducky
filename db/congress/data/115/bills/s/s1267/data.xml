@@ -1,0 +1,39 @@
+<bill session="115" type="s" number="1267" updated="2017-07-20T18:46:13Z">
+  <state datetime="2017-05-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-25"/>
+  </status>
+  <introduced datetime="2017-05-25"/>
+  <titles>
+    <title type="short" as="introduced">State Mineral Revenue Protection Act</title>
+    <title type="short" as="introduced">State Mineral Revenue Protection Act</title>
+    <title type="official" as="introduced">A bill to amend the Mineral Leasing Act to require the Secretary of the Interior to convey to a State all right, title, and interest in and to a percentage of the amount of royalties and other amounts required to be paid to the State under that Act with respect to public land and deposits in the State, and for other purposes.</title>
+    <title type="display">State Mineral Revenue Protection Act</title>
+  </titles>
+  <sponsor bioguide_id="E000285"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001261" joined="2017-05-25"/>
+    <cosponsor bioguide_id="G000562" joined="2017-05-25"/>
+    <cosponsor bioguide_id="H000338" joined="2017-05-25"/>
+    <cosponsor bioguide_id="U000039" joined="2017-05-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-25">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="2661"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <bioguideId>J000297</bioguideId>
+        <party>R</party>
+        <district>3</district>
+        <middleName>H.</middleName>
+        <fullName>Rep. Jenkins, Evan H. [R-WV-3]</fullName>
+        <state>WV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2278</lisID>
+          <gpoId />
+          <bioguideId>J000297</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <firstName>Evan</firstName>
+        <lastName>Jenkins</lastName>
+      </item>
+      <item>
+        <bioguideId>P000607</bioguideId>
+        <party>D</party>
+        <district>2</district>
+        <middleName />
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <state>WI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2171</lisID>
+          <gpoId />
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <lastName>Pocan</lastName>
+      </item>
+      <item>
+        <bioguideId>D000619</bioguideId>
+        <party>R</party>
+        <district>13</district>
+        <middleName />
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2126</lisID>
+          <gpoId />
+          <bioguideId>D000619</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <firstName>Rodney</firstName>
+        <lastName>Davis</lastName>
+      </item>
+      <item>
+        <bioguideId>Y000062</bioguideId>
+        <party>D</party>
+        <district>3</district>
+        <middleName>A.</middleName>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <state>KY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7955</gpoId>
+          <bioguideId>Y000062</bioguideId>
+          <lisID>1853</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <firstName>John</firstName>
+        <lastName>Yarmuth</lastName>
+      </item>
+      <item>
+        <bioguideId>O000171</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>O000171</bioguideId>
+          <gpoId />
+          <lisID>2306</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <firstName>Tom</firstName>
+        <lastName>O'Halleran</lastName>
+      </item>
+      <item>
+        <bioguideId>W000800</bioguideId>
+        <party>D</party>
+        <district>0</district>
+        <middleName />
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <state>VT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000800</bioguideId>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <firstName>Peter</firstName>
+        <lastName>Welch</lastName>
+      </item>
+      <item>
+        <bioguideId>D000482</bioguideId>
+        <party>D</party>
+        <district>14</district>
+        <middleName />
+        <fullName>Rep. Doyle, Michael F. [D-PA-14]</fullName>
+        <state>PA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>316</lisID>
+          <gpoId>8132</gpoId>
+          <bioguideId>D000482</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <firstName>MIKE</firstName>
+        <lastName>DOYLE</lastName>
+      </item>
+      <item>
+        <bioguideId>N000188</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. Norcross, Donald [D-NJ-1]</fullName>
+        <state>NJ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>N000188</bioguideId>
+          <lisID>2202</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <firstName>Donald</firstName>
+        <lastName>Norcross</lastName>
+      </item>
+      <item>
+        <bioguideId>J000292</bioguideId>
+        <party>R</party>
+        <district>6</district>
+        <middleName />
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <state>OH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8096</gpoId>
+          <bioguideId>J000292</bioguideId>
+          <lisID>2046</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <firstName>Bill</firstName>
+        <lastName>Johnson</lastName>
+      </item>
+      <item>
+        <bioguideId>M001195</bioguideId>
+        <party>R</party>
+        <district>2</district>
+        <middleName>X.</middleName>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <state>WV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2277</lisID>
+          <gpoId />
+          <bioguideId>M001195</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <firstName>Alexander</firstName>
+        <lastName>Mooney</lastName>
+      </item>
+      <item>
+        <bioguideId>B001281</bioguideId>
+        <party>D</party>
+        <district>3</district>
+        <middleName />
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <state>OH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2153</lisID>
+          <gpoId />
+          <bioguideId>B001281</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <firstName>Joyce</firstName>
+        <lastName>Beatty</lastName>
+      </item>
+      <item>
+        <bioguideId>R000577</bioguideId>
+        <party>D</party>
+        <district>13</district>
+        <middleName />
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <state>OH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <firstName>TIM</firstName>
+        <lastName>RYAN</lastName>
+      </item>
+      <item>
+        <bioguideId>S001187</bioguideId>
+        <party>R</party>
+        <district>15</district>
+        <middleName />
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <state>OH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2047</lisID>
+          <gpoId>8105</gpoId>
+          <bioguideId>S001187</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <firstName>Steve</firstName>
+        <lastName>Stivers</lastName>
+      </item>
+      <item>
+        <bioguideId>S001154</bioguideId>
+        <party>R</party>
+        <district>9</district>
+        <middleName />
+        <fullName>Rep. Shuster, Bill [R-PA-9]</fullName>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1681</lisID>
+          <gpoId>8127</gpoId>
+          <bioguideId>S001154</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <firstName>Bill</firstName>
+        <lastName>Shuster</lastName>
+      </item>
+      <item>
+        <bioguideId>S000185</bioguideId>
+        <party>D</party>
+        <district>3</district>
+        <middleName>C. "Bobby"</middleName>
+        <fullName>Rep. Scott, Robert C. "Bobby" [D-VA-3]</fullName>
+        <state>VA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8194</gpoId>
+          <bioguideId>S000185</bioguideId>
+          <lisID>1037</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <firstName>Robert</firstName>
+        <lastName>Scott</lastName>
+      </item>
+      <item>
+        <bioguideId>R000592</bioguideId>
+        <party>R</party>
+        <district>4</district>
+        <middleName />
+        <fullName>Rep. Rokita, Todd [R-IN-4]</fullName>
+        <state>IN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2017</lisID>
+          <gpoId>7943</gpoId>
+          <bioguideId>R000592</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-18</sponsorshipDate>
+        <firstName>Todd</firstName>
+        <lastName>Rokita</lastName>
+      </item>
+      <item>
+        <bioguideId>L000580</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <state>NM</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000580</bioguideId>
+          <lisID>2146</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <firstName>Michelle</firstName>
+        <lastName>Lujan Grisham</lastName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <title>Miners Pension Protection Act</title>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Miners Pension Protection Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Miners Pension Protection Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the Surface Mining Control and Reclamation Act of 1977 to transfer certain funds to the 1974 United Mine Workers of America Pension Plan, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Miners Pension Protection Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>2713</billNumber>
+    <recordedVotes />
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <latestTitle>Miners Pension Protection Act</latestTitle>
+        <number>1105</number>
+        <type>S</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-05-11</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. McKINLEY:H.R. 2713.Congress has the power to enact this legislation pursuantto the following:According to Article I, Section 8 of the Constitution: TheCongress shall have power to lay and collect taxes, duties,imposts and excises, to pay the debts and provide for thecommon defense and general welfare of the United States butall duties, imposts, and excises shall be uniform throughout.[Page H4609]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>M001180</bioguideId>
+        <firstName>David</firstName>
+        <district>1</district>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <identifiers>
+          <bioguideId>M001180</bioguideId>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+        </identifiers>
+        <lastName>McKinley</lastName>
+        <middleName>B.</middleName>
+        <party>R</party>
+        <byRequestType />
+        <state>WV</state>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <introducedDate>2017-05-25</introducedDate>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <links />
+      <actionDate>2017-06-14</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsii06</systemCode>
+              <name>Energy and Mineral Resources Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-06-14T21:54:01Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-05-25T13:00:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-05-25T13:00:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-07-26T07:16:13Z</updateDate>
+    <createDate>2017-05-26T03:11:43Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2017-06-14</actionDate>
+        <committee>
+          <systemCode>hsii06</systemCode>
+          <name>Energy and Mineral Resources Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <text>Referred to House Ways and Means</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <text>Referred to House Natural Resources</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100-A</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

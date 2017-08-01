@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <party>D</party>
+        <lastName>LARSEN</lastName>
+        <firstName>RICK</firstName>
+        <bioguideId>L000560</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000560</bioguideId>
+          <lisID>1675</lisID>
+          <gpoId>8206</gpoId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+        <middleName />
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Brady, Kevin [R-TX-8]</fullName>
+        <party>R</party>
+        <lastName>BRADY</lastName>
+        <firstName>KEVIN</firstName>
+        <bioguideId>B000755</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8164</gpoId>
+          <lisID>1468</lisID>
+          <bioguideId>B000755</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <middleName />
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <party>D</party>
+        <lastName>Connolly</lastName>
+        <firstName>Gerald</firstName>
+        <bioguideId>C001078</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8202</gpoId>
+          <lisID>1959</lisID>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <title>To include New Zealand in the list of foreign states whose nationals are eligible for admission into the United States as E-1 and E-2 nonimmigrants if United States nationals are treated similarly by the Government of New Zealand.</title>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To include New Zealand in the list of foreign states whose nationals are eligible for admission into the United States as E-1 and E-2 nonimmigrants if United States nationals are treated similarly by the Government of New Zealand.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To include New Zealand in the list of foreign states whose nationals are eligible for admission into the United States as E-1 and E-2 nonimmigrants if United States nationals are treated similarly by the Government of New Zealand.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>3324</billNumber>
+    <recordedVotes />
+    <policyArea />
+    <relatedBills />
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>I000056</bioguideId>
+        <firstName>DARRELL</firstName>
+        <district>49</district>
+        <fullName>Rep. Issa, Darrell E. [R-CA-49]</fullName>
+        <identifiers>
+          <lisID>1640</lisID>
+          <gpoId>7854</gpoId>
+          <bioguideId>I000056</bioguideId>
+        </identifiers>
+        <lastName>ISSA</lastName>
+        <middleName>E.</middleName>
+        <party>R</party>
+        <byRequestType />
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <introducedDate>2017-07-20</introducedDate>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on the Judiciary.</text>
+      <links />
+      <actionDate>2017-07-20</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-20T13:01:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-07-26T07:16:36Z</updateDate>
+    <createDate>2017-07-21T03:11:37Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

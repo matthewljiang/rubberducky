@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Jobs for Our Heroes Act</title>
+    <titles>
+      <item>
+        <chamberName />
+        <title>Jobs for Our Heroes Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Jobs for Our Heroes Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>A bill to streamline the process by which active duty military, reservists, and veterans receive commercial driver's licenses.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Jobs for Our Heroes Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <cboCostEstimates>
+      <item>
+        <title>S. 1393, Jobs For Our Heroes Act</title>
+        <url>https://www.cbo.gov/publication/52927</url>
+        <pubDate>2017-07-17T15:01:24Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <billNumber>1393</billNumber>
+    <updateDate>2017-07-22T04:33:15Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Cornyn</lastName>
+        <middleName />
+        <state>TX</state>
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <bioguideId>C001056</bioguideId>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000817</bioguideId>
+        <lastName>Warren</lastName>
+        <firstName>Elizabeth</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <state>MA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>Roland</middleName>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000476</bioguideId>
+        <lastName>Tillis</lastName>
+        <firstName>Thomas</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+        </identifiers>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <state>NC</state>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName>WILLIAM</middleName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000032</bioguideId>
+        <lastName>NELSON</lastName>
+        <firstName>CLARENCE</firstName>
+        <identifiers>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+          <bioguideId>N000032</bioguideId>
+        </identifiers>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <state>FL</state>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000622</bioguideId>
+        <lastName>Duckworth</lastName>
+        <firstName>Tammy</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000622</bioguideId>
+          <lisID>2123</lisID>
+        </identifiers>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <state>IL</state>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000250</bioguideId>
+        <lastName>THUNE</lastName>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+        </identifiers>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <state>SD</state>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName>Wood</middleName>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001076</bioguideId>
+        <lastName>Hassan</lastName>
+        <firstName>Margaret</firstName>
+        <identifiers>
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <state>NH</state>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>I000024</bioguideId>
+        <lastName>INHOFE</lastName>
+        <firstName>JIM</firstName>
+        <identifiers>
+          <gpoId>8322</gpoId>
+          <lisID>583</lisID>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <state>OK</state>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001181</bioguideId>
+        <lastName>Shaheen</lastName>
+        <firstName>Jeanne</firstName>
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <state>NH</state>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001198</bioguideId>
+        <lastName>Sullivan</lastName>
+        <firstName>Dan</firstName>
+        <identifiers>
+          <lisID>2290</lisID>
+          <gpoId />
+          <bioguideId>S001198</bioguideId>
+        </identifiers>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <state>AK</state>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001277</bioguideId>
+        <lastName>Blumenthal</lastName>
+        <firstName>Richard</firstName>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <state>CT</state>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000383</bioguideId>
+        <lastName>King</lastName>
+        <firstName>Angus</firstName>
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <state>ME</state>
+        <party>I</party>
+      </item>
+    </cosponsors>
+    <laws />
+    <notes />
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <links />
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+      <actionDate>2017-06-29</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <activities>
+            <item>
+              <date>2017-06-29T13:00:00Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-06-21T19:21:31Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>sscm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Department of Transportation</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Motor carriers</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-21</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S3688</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S3688</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S3688)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-06-21</actionDate>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <orderedReported>1</orderedReported>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-06-22T08:44:35Z</createDate>
+    <congress>115</congress>
+    <amendments />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>ADVANCE Act</latestTitle>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+          <actionDate>2017-06-27</actionDate>
+        </latestAction>
+        <number>2258</number>
+        <congress>115</congress>
+      </item>
+      <item>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>ADVANCE Act</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+          <actionDate>2017-06-21</actionDate>
+        </latestAction>
+        <number>1396</number>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <introducedDate>2017-06-21</introducedDate>
+    <recordedVotes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

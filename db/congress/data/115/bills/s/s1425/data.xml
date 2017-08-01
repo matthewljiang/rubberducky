@@ -1,0 +1,55 @@
+<bill session="115" type="s" number="1425" updated="2017-07-27T06:08:15Z">
+  <state datetime="2017-06-22">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-22"/>
+  </status>
+  <introduced datetime="2017-06-22"/>
+  <titles>
+    <title type="short" as="introduced">Coordinated Ocean Monitoring and Research Act</title>
+    <title type="short" as="introduced">Coordinated Ocean Monitoring and Research Act</title>
+    <title type="official" as="introduced">A bill to reauthorize the Integrated Coastal and Ocean Observation System Act of 2009, and for other purposes.</title>
+    <title type="display">Coordinated Ocean Monitoring and Research Act</title>
+  </titles>
+  <sponsor bioguide_id="W000437"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C000127" joined="2017-06-22"/>
+    <cosponsor bioguide_id="C001075" joined="2017-06-22"/>
+    <cosponsor bioguide_id="C001035" joined="2017-06-22"/>
+    <cosponsor bioguide_id="G000359" joined="2017-06-22"/>
+    <cosponsor bioguide_id="H001076" joined="2017-07-26"/>
+    <cosponsor bioguide_id="M000133" joined="2017-06-22"/>
+    <cosponsor bioguide_id="M001153" joined="2017-06-22"/>
+    <cosponsor bioguide_id="P000595" joined="2017-06-22"/>
+    <cosponsor bioguide_id="S001194" joined="2017-06-22"/>
+    <cosponsor bioguide_id="S001198" joined="2017-06-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-22">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-06-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Advisory bodies"/>
+    <term name="Atmospheric science and weather"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Geography"/>
+    <term name="Government information and archives"/>
+    <term name="Great Lakes"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Marine pollution"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>
