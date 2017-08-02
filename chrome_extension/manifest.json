@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name" : "rubberducky",
+	"version": "1.0",
+	"description": "RubberDucky Chrome Extension",
+	"background": { "scripts": ["js_plugins/jquery.min.js","background.js"] },
+	 "browser_action": {},
+	"content_scripts": [
+	{
+		"matches": ["https://www.washingtonpost.com/*"],
+		"js": ["js_plugins/jquery.min.js", "js_plugins/jquery.highlight.js", "content.js"],
+		"css": []
+	}
+	]
+}
