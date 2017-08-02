@@ -22,7 +22,7 @@ def request_test():
 
 @api.route('/legislators/current', methods=["GET"])
 def current_legislators():
-	legislators = dumps(db.legislators_current.find())
+	legislators = dumps(db.legislators_current.find({},{"votes":0}))
 	return legislators
 
 @api.route('/legislator', methods=["GET"])
