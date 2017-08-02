@@ -19,7 +19,15 @@ class Committee extends React.Component {
   render() {
     return (
           <div style={styling.container}>
-
+            <div style={styling.header}>
+              <h1>Header</h1>
+            </div>
+            <div style={styling.info}>
+              <span>Testing</span>
+            </div>
+            <div style={styling.votes}>
+              <span>Votes</span>
+            </div>
           </div>
         );
   }
