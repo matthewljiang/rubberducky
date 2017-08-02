@@ -18,5 +18,5 @@ if __name__ == '__main__':
         print("skipping database setup")
     else:
         print("starting database")
-        db.db.start()
+        db.db.startup()
     app.run('0.0.0.0', 5000)
