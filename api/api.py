@@ -28,11 +28,22 @@ def current_legislators():
 @api.route('/legislator', methods=["GET"])
 def specific_legislator():
 	bioguide = request.args.get('bioguide')
-	legislators = dumps(db.legislators_current.find({"id.bioguide": bioguide}))
-	return legislators
+	legislator = dumps(db.legislators_current.find({"id.bioguide": bioguide}))
+	return legislator
 
 @api.route('/socialmedia', methods=["GET"])
 def specific_socialmedia():
 	bioguide = request.args.get('bioguide')
 	legislators = dumps(db.legislators_social_media.find({"id.bioguide": bioguide}))
 	return legislators
+
+@api.route('/bills/current', methods=["GET"])
+def current_bills():
+	bills = dumps(db.bills.find().sort("introduced_at", -1).limit(100))
+	return bills
+
+@api.route('/bill', methods=["GET"])
+def specific_bill():
+	bill_id = request.args.get('bill_id')
+	bill = dumps(db.bills.find({"bill_id": bill_id}))
+	return bill
