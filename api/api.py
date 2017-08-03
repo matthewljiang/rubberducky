@@ -45,6 +45,5 @@ def current_committees():
 @api.route('/committee', methods=['GET'])
 def specific_committee():
 	committee_id = request.args.get('thomas_id')
-	#theres no committee name in this collection, only the abbreviation.
-	committee = dumps(db.committee_membership_current.find({"thomas_id":thomas_id}, {"thomas_id": 1, "members.name":1, "subcommittees":1, "_id": 0}))
+	committee = dumps(db.committees_current.find({"thomas_id":thomas_id}, {"thomas_id": 1, "name":1, "subcommittees.name":1, "_id": 0}))
 	return committee
