@@ -94,9 +94,7 @@ function validSocials(info) {
 class LegislatorSidebar extends React.Component {
   like() {
     axios.post('/api/approval/like', {
-      params: {
         bioguide: this.props.info.bioguide
-      }
     }).then((response) => {
       console.log(response);
     });
@@ -104,9 +102,7 @@ class LegislatorSidebar extends React.Component {
 
   dislike() {
     axios.post('/api/approval/dislike', {
-      params: {
-        bioguide: this.props.info.bioguide
-      }
+      bioguide: this.props.info.bioguide
     }).then((response) => {
       console.log(response);
     });
@@ -126,8 +122,6 @@ class LegislatorSidebar extends React.Component {
           </div>
           <div style={styling.infoFoot}>
             {socialLinks}
-            <span onClick={this.like.bind(this)}>Like</span>
-            <span onClick={this.dislike.bind(this)}>Dislike</span>
           </div>
         </div>
         );
