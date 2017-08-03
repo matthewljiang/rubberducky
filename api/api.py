@@ -46,7 +46,7 @@ def specific_legislator():
 
 @api.route('/legislators/names', methods=["GET"])
 def legislators_names():
-	names = dumps(db.legislators_current.find( {}, {"name.official_full":1, "_id":0, "terms": {"$slice": -1} }))
+	names = dumps(db.legislators_current.find( {}, {"id.bioguide": 1,"name.official_full":1, "_id":0, "terms": {"$slice": -1} }))
 	return names
 
 @api.route('/socialmedia', methods=["GET"])
