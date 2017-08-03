@@ -76,7 +76,7 @@ function getPopUpDiv(name, terms){
 	var type = (terms[0].type == "rep") ? "Representative" : "Senator";
 	var id = terms.id
 	// return '<div class=popup style=\"position:absolute; background-color: whitesmoke; padding:10px; border:1px solid black; border-radius:10px\"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada turpis metus, vitae fermentum mauris imperdiet ut. Suspendisse aliquam </div>'
-	return '<div class="popup"><i class="btn icon-remove"></i><div>' + type + '</div><div id="name">' + name + '</div><div>' + state + ' - ' + party + '</div> <button id="home" bioid=' + '\"' + id + '\"' + 'type="button" class="btn btn-info center">See More</button></div>'
+	return '<div class="popup"><i class="btn icon-remove"></i><div>' + "Senator" + '</div><div id="name">' + name + '</div><div>' + "GA" + ' - ' + "Republican" + '</div> <button id="home" bioid=' + '\"' + id + '\"' + 'type="button" class="btn btn-info center">See More</button></div>'
 
 }
 
