@@ -46,12 +46,12 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
 			}
 
 			$(".icon-remove").click(function(){
-			console.log("DELETE ICON")
-			$(".popup-outer-wrapper").remove()
+				console.log("DELETE ICON")
+			$(".popup").remove()
 			})
 
 			$("#home").click(function(){
-				window.location.href = "http://localhost:5000/ducky";
+				window.open("http://localhost:5000/ducky/legislators", "_blank");
 			});
 		});
 
