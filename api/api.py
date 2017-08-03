@@ -83,3 +83,21 @@ def specific_committee():
 	committee_id = request.args.get('thomas_id')
 	committee = dumps(db.committees_current.find({"thomas_id":thomas_id}))
 	return committee
+
+@api.route('/bill/votes', methods=["GET"])
+def specific_bill_votes():
+	bill_id = request.args.get('bill_id')
+	votes = dumps(db.votes.find({"bill_id": bill_id}))
+	return votes
+
+@api.route('/approval/like', methods=["POST"])
+def approval_like():
+	bioguide = request.args.get('bioguide')
+	db.legislators_current.update({"id.bioguide":bioguide},{"$inc":{"approval.up":1}})
+	return dumps(db.legislators_current.find({"id.bioguide":bioguide}, {"approval":1}))
+	
+@api.route('/approval/dislike', methods=["POST"])
+def approval_dislike():
+	bioguide = request.args.get('bioguide')
+	db.legislators_current.update({"id.bioguide":bioguide},{"$inc":{"approval.down":1}})
+	return dumps(db.legislators_current.find({"id.bioguide":bioguide}, {"approval":1}))
