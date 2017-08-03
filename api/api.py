@@ -58,6 +58,13 @@ def current_committees():
 	committees = dumps(db.committees_current.find({}, {"name": 1, "thomas_id": 1, "url": 1, "_id": 0 }))
 	return committees
 
+@api.route('/committees/current/sort', methods=["GET"])
+def sort_committees():
+	sortby = request.args.get('sortby')
+	if sortby == 'A-Z':
+		committees = dumps(db.committees_current.find({}, {"name": 1, "thomas_id": 1, "url": 1, "_id": 0 }).sort( 'name', 1 ))
+		return committees
+
 @api.route('/committee', methods=['GET'])
 def specific_committee():
 	committee_id = request.args.get('thomas_id')
