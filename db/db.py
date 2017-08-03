@@ -29,6 +29,7 @@ def startup():
 			if soc is not None:
 				item["social"] = soc["social"]
 			item["votes"] = []
+			item["committees"] = []
 			legislators_current.update_one({"id.bioguide":item["id"]["bioguide"]},{"$set":item},upsert=True)
 
 	print("finished legislators_current table")
@@ -53,14 +54,41 @@ def startup():
 				com = {}
 				com['thomas_id']=item
 				com['members']=committee_membership_current_json[item]
+
+
+				for memb in com['members']:
+					com_info = committees_current.find_one({"thomas_id":com["thomas_id"]})
+					com_info_short = {
+						"committee_type":"main",
+						"thomas_id":com_info["thomas_id"],
+						"type":com_info["type"],
+						"name":com_info["name"],
+						"url":com_info["url"]
+					}
+					legislators_current.update_one({"id.bioguide":memb["bioguide"]}, {"$push":{"committees":com_info_short}})
+
+
+
+
 				com['subcommittees'] = []
 				for item_sub in committee_membership_current_json:
 					if len(str(item_sub))!= 4 and item in item_sub:
-						subdict = {
-										"thomas_id":str(item_sub)[4:],
+						sub_thomas_id = str(item_sub)[4:]
+						sub_com = {
+										"thomas_id":sub_thomas_id,
 										"members":committee_membership_current_json[item_sub]
 								  }
-						com['subcommittees'].append(subdict)
+						com['subcommittees'].append(sub_com)
+						for memb in sub_com['members']:
+							com_info = committees_current.find_one({"thomas_id":com["thomas_id"]})
+							sub_com_info = {
+								"committee_type":"sub",
+								"thomas_id":item_sub
+							}
+							for subcommittee in com_info["subcommittees"]:
+								if subcommittee["thomas_id"] == sub_thomas_id:
+									sub_com_info["name"] = subcommittee["name"]
+							legislators_current.update_one({"id.bioguide":memb["bioguide"]}, {"$push":{"committees":sub_com_info}})
 				committee_membership_current.update_one({"thomas_id":com["thomas_id"]},{"$set":com},upsert=True)
 				
 	print("finished committee-membership-current table")
