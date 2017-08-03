@@ -3,7 +3,7 @@ import Radium from 'radium';
 import axios from 'axios';
 
 import { Table } from 'react-bootstrap';
-import RepSidebar from './components/RepSidebar.js';
+import LegislatorSidebar from './components/LegislatorSidebar.js';
 import colors from '../core/colors.js';
 
 const styling = {
@@ -29,11 +29,11 @@ function compareBill(a,b) {
   return 0;
 }
 
-class Rep extends React.Component {
+class Legislator extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      repInfo: {
+      legislatorInfo: {
         name: '',
         email: '',
         social: {},
@@ -47,39 +47,36 @@ class Rep extends React.Component {
   }
 
   componentDidMount() {
-    // Call API here using props.match.params.repId.
     axios.get( '/api/legislator', {
       params: {
-        bioguide: this.props.match.params.repId
+        bioguide: this.props.match.params.id
       }
     }).then((response) => {
       if (response.data.length === 0) {
         console.log('not found');
       } else {
-        const rep = response.data[0];
-        const lastTerm = rep.terms.slice(-1)[0];
-        const bills = rep.votes.filter((vote) => {
+        const legislator = response.data[0];
+        const lastTerm = legislator.terms.slice(-1)[0];
+        const bills = legislator.votes.filter((vote) => {
           return vote.bill;
         }).sort(compareBill).slice(0,10);
 
-        const repInfo = {}, votingRecord = [], committees = [],
+        const legislatorInfo = {}, votingRecord = [], committees = [],
         wapoArticles = [];
 
-        // Populate representative data
-        repInfo.name = rep.name.official_full;
-        repInfo.state = lastTerm.state;
-        repInfo.party = lastTerm.party;
-        repInfo.social = rep.social;
+        legislator.social.phone = lastTerm.phone;
+        legislator.social.url = lastTerm.url;
 
-        // Populate voting record
-
+        // Populate legislatorresentative data
+        legislatorInfo.name = legislator.name.official_full;
+        legislatorInfo.state = lastTerm.state;
+        legislatorInfo.party = lastTerm.party;
+        legislatorInfo.social = legislator.social;
 
         // Populate committees
 
-
-
         this.setState({
-          repInfo: repInfo,
+          legislatorInfo: legislatorInfo,
           votingRecord: bills,
           committees: [],
           wapoArticles: []
@@ -104,7 +101,7 @@ class Rep extends React.Component {
     }
     return (
         <div style={styling.container}>
-          <RepSidebar info={this.state.repInfo}/>
+          <LegislatorSidebar info={this.state.legislatorInfo}/>
           <div style={styling.body}>
             <div>
               <h1>Voting Record</h1>
@@ -163,4 +160,4 @@ class Rep extends React.Component {
   }
 };
 
-export default Radium(Rep);
+export default Radium(Legislator);

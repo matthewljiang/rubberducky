@@ -4,8 +4,8 @@ import Radium from 'radium';
 
 import Titlebar from './core/Titlebar.js';
 import Home from './home/Home.js';
-import SingleRep from './representative/Rep.js';
-import RepList from './representative/RepList.js';
+import Legislator from './legislators/Legislator.js';
+import LegislatorList from './legislators/LegislatorList.js';
 import Committee from './committee/Committee.js';
 import CommitteeList from './committee/CommitteeList.js';
 
@@ -30,8 +30,8 @@ class Main extends React.Component {
             <Titlebar/>
             <Switch>
               <Route exact path='/ducky' component={Home}/>
-              <Route exact path='/ducky/representatives' component={RepList}/>
-              <Route exact path='/ducky/representative/:repId' component={SingleRep}/>
+              <Route exact path='/ducky/legislators' component={LegislatorList}/>
+              <Route exact path='/ducky/legislator/:id' component={Legislator}/>
               <Route exact path='/ducky/committees' component={CommitteeList}/>
               <Route exact path='/ducky/committee/:tag' component={Committee}/>
             </Switch>

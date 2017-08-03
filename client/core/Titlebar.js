@@ -38,7 +38,7 @@ class Titlebar extends React.Component {
     return (
         <div style={styling.titlebar}>
           <TitlebarLink dest={"/ducky"} text={"home"}/>
-          <TitlebarLink dest={"/ducky/representatives"} text={"reps"}/>
+          <TitlebarLink dest={"/ducky/legislators"} text={"legislators"}/>
           <TitlebarLink dest={"/ducky/committees"} text={"committees"}/>
         </div>
         );

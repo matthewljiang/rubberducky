@@ -1,5 +1,7 @@
 import React from 'react';
 import Radium from 'radium';
+import axios from 'axios';
+
 import { Table } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
@@ -18,44 +20,51 @@ const styling = {
   }
 };
 
-class RepList extends React.Component {
+class LegislatorList extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      reps: []
+      legislators: []
     };
   }
 
   componentDidMount() {
-    this.state.reps = [];
+    axios.get('/api/legislators/current').then((response) => {
+      this.setState({legislators: response.data});
+    });
   }
 
   render() {
     return (
         <div style={styling.container}>
-          <h1>Current Representatives</h1>
+          <h1>Current Legislators</h1>
           <Table responsive>
             <thead>
               <tr>
                 <th>BioID</th>
-                <th>Name</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Position</th>
                 <th>State</th>
                 <th>Party</th>
               </tr>
             </thead>
             <tbody>
               {
-              this.state.reps.map((rep) => {
+              this.state.legislators.map((legislator) => {
               return (
-              <tr key={rep.bioId}>
+              <tr key={legislator.id.bioguide}>
                 <td>
-                  <Link to ={'/representative/' + rep.bioId}>
-                    { rep.bioId }
+                  <Link to ={'/ducky/legislator/' + legislator.id.bioguide}>
+                    { legislator.id.bioguide }
                   </Link>
                 </td>
-                <td>{rep.name}</td>
-                <td>{rep.state}</td>
-                <td>{rep.party}</td>
+                <td>{legislator.name.first}</td>
+                <td>{legislator.name.last}</td>
+                <td>{legislator.terms[legislator.terms.length-1].type}</td>
+                <td>{legislator.terms[legislator.terms.length-1].state}</td>
+                <td>{legislator.terms[legislator.terms.length-1].party}</td>
+
               </tr>
               );
               })
@@ -67,4 +76,4 @@ class RepList extends React.Component {
   }
 }
 
-export default Radium(RepList);
+export default Radium(LegislatorList);
