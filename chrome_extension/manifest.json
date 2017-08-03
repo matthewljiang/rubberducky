@@ -9,7 +9,8 @@
 	{
 		"matches": ["https://www.washingtonpost.com/*"],
 		"js": ["js_plugins/jquery.min.js", "js_plugins/jquery.highlight.js", "content.js"],
-		"css": ["css/content.css"]
+		"css": ["css/content.css", "css/font-awesome.min.css", "css/bootstrap.min.css"]
 	}
-	]
+	],
+	"permissions": ["<all_urls>"]
 }

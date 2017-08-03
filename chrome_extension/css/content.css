@@ -1,9 +1,12 @@
 .popup{
 	position: absolute;
-	background-color: 
-	whitesmoke;
+	background-color: whitesmoke;
 	padding: 10px;
 	border: 1px solid black;
 	border-radius: 10px;
 }
 
+.icon-remove{
+	z-index: 1000;
+	color:black;
+}
