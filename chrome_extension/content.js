@@ -29,7 +29,9 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
 			mapping = {}
 			for(var i = 0; i < data.length; i++){
 				var name = data[i].name.official_full;
-				mapping["name"] = data[i].terms
+				var terms = data[i].terms;
+				terms["id"] = data[0].id.bioguide;
+				mapping["name"] = terms
 			}
 			return mapping;
 		}
@@ -37,7 +39,6 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
 		$(".popup-outer-wrapper").click(function() {
 			var name = $(this).text();
 			var terms = mapping.name;
-			console.log(terms)
 			var popup = $(this).attr("popup");
 			var popUpDiv = getPopUpDiv(name, terms);
 			if(popup != "True"){
@@ -47,11 +48,14 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
 
 			$(".icon-remove").click(function(){
 				console.log("DELETE ICON")
-			$(".popup").remove()
+				$(".popup").remove()
 			})
 
 			$("#home").click(function(){
-				window.open("http://localhost:5000/ducky/legislators", "_blank");
+				var id = $(this).attr("bioid")
+				var link = "http://localhost:5000/ducky/legislator/P000612";
+				console.log(link)
+				window.open(link, "_blank");
 			});
 		});
 
@@ -70,8 +74,9 @@ function getPopUpDiv(name, terms){
 	var state = terms[0].state;
 	var party = terms[0].party;
 	var type = (terms[0].type == "rep") ? "Representative" : "Senator";
+	var id = terms.id
 	// return '<div class=popup style=\"position:absolute; background-color: whitesmoke; padding:10px; border:1px solid black; border-radius:10px\"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada turpis metus, vitae fermentum mauris imperdiet ut. Suspendisse aliquam </div>'
-	return '<div class="popup"><i class="btn icon-remove"></i><div>' + type + '</div><div>' + name + '</div><div>' + state + ' - ' + party + '</div> <button id="home" type="button" class="btn btn-info center">See More</button></div>'
+	return '<div class="popup"><i class="btn icon-remove"></i><div>' + type + '</div><div id="name">' + name + '</div><div>' + state + ' - ' + party + '</div> <button id="home" bioid=' + '\"' + id + '\"' + 'type="button" class="btn btn-info center">See More</button></div>'
 
 }
 
