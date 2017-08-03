@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "axios": "^0.16.2",
+    "debounce": "^1.0.2",
     "radium": "^0.19.4",
     "react": "^15.6.1",
     "react-bootstrap": "^0.31.1",
