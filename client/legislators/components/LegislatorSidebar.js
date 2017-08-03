@@ -1,5 +1,7 @@
 import React from 'react';
 import Radium from 'radium';
+import axios from 'axios';
+
 import FontAwesome from 'react-fontawesome';
 
 import colors from '../../core/colors.js';
@@ -90,6 +92,26 @@ function validSocials(info) {
 }
 
 class LegislatorSidebar extends React.Component {
+  like() {
+    axios.post('/api/approval/like', {
+      params: {
+        bioguide: this.props.info.bioguide
+      }
+    }).then((response) => {
+      console.log(response);
+    });
+  }
+
+  dislike() {
+    axios.post('/api/approval/dislike', {
+      params: {
+        bioguide: this.props.info.bioguide
+      }
+    }).then((response) => {
+      console.log(response);
+    });
+  }
+
   render() {
     const socialLinks = validSocials(this.props.info.social);
     return (
@@ -98,11 +120,14 @@ class LegislatorSidebar extends React.Component {
             <div style={styling.imageContainer}>
               <img src='https://s3.amazonaws.com/rubberducky/bernie.jpg' style={styling.profileImage}/>
             </div>
+            <div>{this.props.info.position}</div>
             <div>{this.props.info.name}</div>
             <div style={{fontSize:'.75em'}}>{this.props.info.party} - {this.props.info.state}</div>
           </div>
           <div style={styling.infoFoot}>
             {socialLinks}
+            <span onClick={this.like.bind(this)}>Like</span>
+            <span onClick={this.dislike.bind(this)}>Dislike</span>
           </div>
         </div>
         );

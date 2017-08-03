@@ -15,9 +15,17 @@ const styling = {
   body: {
     height: '90%',
     width: '100%',
-    margin: '2em',
+    padding: '0 5em',
     color: colors.appPrimary,
     overflowY: 'auto'
+  },
+  scrollable: {
+    marginBottom: '2em',
+    padding: '1em',
+  },
+  scrollTable: {
+    overflowY: 'auto',
+    maxHeight: '30em',
   }
 };
 
@@ -34,6 +42,7 @@ class Legislator extends React.Component {
     super(props);
     this.state = {
       legislatorInfo: {
+        bioguide: '',
         name: '',
         email: '',
         social: {},
@@ -52,6 +61,7 @@ class Legislator extends React.Component {
         bioguide: this.props.match.params.id
       }
     }).then((response) => {
+      console.log(response.data[0]);
       if (response.data.length === 0) {
         console.log('not found');
       } else {
@@ -59,18 +69,24 @@ class Legislator extends React.Component {
         const lastTerm = legislator.terms.slice(-1)[0];
         const bills = legislator.votes.filter((vote) => {
           return vote.bill;
-        }).sort(compareBill).slice(0,10);
+        }).sort(compareBill);
+        const committees = legislator.committees;
 
-        const legislatorInfo = {}, votingRecord = [], committees = [],
-        wapoArticles = [];
+        const legislatorInfo = {}, wapoArticles = [];
 
         legislator.social.phone = lastTerm.phone;
         legislator.social.url = lastTerm.url;
 
         // Populate legislatorresentative data
+        legislatorInfo.bioguide = this.props.match.params.id;
         legislatorInfo.name = legislator.name.official_full;
         legislatorInfo.state = lastTerm.state;
         legislatorInfo.party = lastTerm.party;
+        if (lastTerm.type === 'sen') {
+          legislatorInfo.position = 'Senator';
+        } else {
+          legislatorInfo.position = 'Representative';
+        }
         legislatorInfo.social = legislator.social;
 
         // Populate committees
@@ -78,7 +94,7 @@ class Legislator extends React.Component {
         this.setState({
           legislatorInfo: legislatorInfo,
           votingRecord: bills,
-          committees: [],
+          committees: committees,
           wapoArticles: []
         });
 
@@ -95,7 +111,6 @@ class Legislator extends React.Component {
             <td>{record.bill.number}</td>
             <td>{record.bill.title}</td>
             <td>{record.vote}</td>
-
           </tr>
           );
     }
@@ -103,44 +118,48 @@ class Legislator extends React.Component {
         <div style={styling.container}>
           <LegislatorSidebar info={this.state.legislatorInfo}/>
           <div style={styling.body}>
-            <div>
+            <div style={styling.scrollable}>
               <h1>Voting Record</h1>
-              <Table responsive>
-                <thead>
-                  <tr>
-                    <th>Bill Number</th>
-                    <th>Bill Name</th>
-                    <th>Vote</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {records}
-                </tbody>
-              </Table>
+              <div style={styling.scrollTable}>
+                <Table responsive>
+                  <thead>
+                    <tr>
+                      <th>Bill Number</th>
+                      <th>Bill Name</th>
+                      <th>Vote</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {records}
+                  </tbody>
+                </Table>
+              </div>
             </div>
-            <div>
+            <div style={styling.scrollable}>
               <h1>Committees</h1>
-              <Table responsive>
-                <thead>
-                  <tr>
-                    <th>Committee Tag</th>
-                    <th>Committee Name</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {
-                  this.state.committees.map((committee) => {
-                  return (
-                  <tr>
-                    <th>{committee.tag}</th>
-                    <th>{committee.name}</th>
-                  </tr>)
-                  })
-                  }
-                </tbody>
-              </Table>
+              <div style={styling.scrollTable}>
+                <Table responsive style={styling.scrollTable}>
+                  <thead>
+                    <tr>
+                      <th>Committee Tag</th>
+                      <th>Committee Name</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {
+                    this.state.committees.map((committee) => {
+                    return (
+                    <tr>
+                      <th>{committee.thomas_id}</th>
+                      <th>{committee.name}</th>
+                    </tr>)
+                    })
+                    }
+                  </tbody>
+                </Table>
+              </div>
             </div>
-            <div>
+            <div style={styling.scrollable}>
               <h1>Washington Post Articles</h1>
               <ul>
                 {
