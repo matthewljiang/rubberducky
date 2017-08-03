@@ -35,7 +35,7 @@ class Main extends React.Component {
               <Route exact path='/ducky/legislators' component={LegislatorList}/>
               <Route exact path='/ducky/legislator/:id' component={Legislator}/>
               <Route exact path='/ducky/committees' component={CommitteeList}/>
-              <Route exact path='/ducky/committee/:tag' component={Committee}/>
+              <Route exact path='/ducky/committee/:thomas_id' component={Committee}/>
               <Route exact path='/ducky/bills' component={BillList}/>
               <Route exact path='/ducky/bill/:bill_id' component={Bill}/>
             </Switch>
