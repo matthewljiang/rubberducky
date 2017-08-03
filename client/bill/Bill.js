@@ -40,8 +40,10 @@ class Bill extends React.Component {
       },
       actions: [],
       sponsor: {},
-      committees: []
+      committees: [],
+      votes: {}
     };
+    this.votes = this.votes.bind(this);
   }
 
   componentDidMount() {
@@ -65,7 +67,35 @@ class Bill extends React.Component {
         });
       }
     });
+
+
+    axios.get( '/api/bill/votes', {
+      params: {
+        bill_id: this.props.match.params.bill_id
+      }
+    }).then((response) => {
+      if (response.data.length === 0) {
+        console.log('not found');
+      } else {
+        const info = response.data[0];
+        const votes = info.votes;
+        this.setState({
+          votes: votes
+        });
+      }
+    });
+
   }
+
+  votes() {
+    if(Object.keys(this.state.votes).length === 0) {
+      return <h3> Has not been voted on yet. </h3>
+    } else {
+      return <h1> </h1>
+    }
+  }
+
+
 
   render() {
     return (
@@ -84,56 +114,63 @@ class Bill extends React.Component {
 
             <br></br>
 
-            <Table>
-            <h3> Bill History </h3>
-            <Table responsive style={{width:'50%'}}>
-              <thead>
-                <tr>
-                  <th>Action Code</th>
-                  <th>Text</th>
-                  <th>Acted At</th>
-                  <th>Type</th>
-                </tr>
-              </thead>
-              <tbody>
-                {
-                this.state.actions.map((action) => {
-                return (
-                <tr key={action.action_code}>
-                  <td style={{width:'10%'}}>{action.action_code}</td>
-                  <td style={{width:'76%'}}>{action.text}</td>
-                  <td style={{width:'7%'}}>{action.acted_at}</td>
-                  <td style={{width:'7%'}}>{action.type}</td>
-                </tr>
-                );
-                })
-                }
-              </tbody>
-            </Table>
+            <div style={{display: 'inline-flex'}}>
+              <div style={{width:'50%', margin: '1em'}}>
+                <h3> Bill History </h3>
+                <Table responsive>
+                  <thead>
+                    <tr>
+                      <th>Action Code</th>
+                      <th>Text</th>
+                      <th>Acted At</th>
+                      <th>Type</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {
+                    this.state.actions.map((action) => {
+                    return (
+                    <tr key={action.action_code}>
+                      <td style={{width:'20%'}}>{action.action_code}</td>
+                      <td style={{width:'40%'}}>{action.text}</td>
+                      <td style={{width:'20%'}}>{action.acted_at}</td>
+                      <td style={{width:'20%'}}>{action.type}</td>
+                    </tr>
+                    );
+                    })
+                    }
+                  </tbody>
+                </Table>
+              </div>
 
-            <h3> Committee History </h3>
-            <Table responsive style={{width:'50%'}}>
-              <thead>
-                <tr>
-                  <th>Committee ID</th>
-                  <th>Committee</th>
-                </tr>
-              </thead>
-              <tbody>
-                {
-                this.state.committees.map((committee) => {
-                return (
-                <tr key={committee.committee_id}>
-                  <td style={{width:'10%'}}>{committee.committee_id}</td>
-                  <td style={{width:'10%'}}>{committee.committee}</td>
-                </tr>
-                );
-                })
-                }
-              </tbody>
-            </Table>
+              <div style={{width:'50%', margin: '1em'}}>
+                <h3> Committee History </h3>
+                <Table responsive>
+                  <thead>
+                    <tr>
+                      <th>Committee ID</th>
+                      <th>Committee</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {
+                    this.state.committees.map((committee) => {
+                    return (
+                    <tr key={committee.committee_id}>
+                      <td style={{width:'10%'}}>{committee.committee_id}</td>
+                      <td style={{width:'10%'}}>{committee.committee}</td>
+                    </tr>
+                    );
+                    })
+                    }
+                  </tbody>
+                </Table>
+              </div>
+            </div>
 
 
+
+            {this.votes()}
 
           </div>
         </div>
