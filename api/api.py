@@ -70,3 +70,9 @@ def specific_committee():
 	committee_id = request.args.get('thomas_id')
 	committee = dumps(db.committees_current.find({"thomas_id":thomas_id}))
 	return committee
+
+@api.route('/bill/votes', methods=["GET"])
+def specific_bill_votes():
+	bill_id = request.args.get('bill_id')
+	votes = dumps(db.votes.find({"bill_id": bill_id}))
+	return votes
