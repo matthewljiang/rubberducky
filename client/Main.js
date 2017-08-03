@@ -8,6 +8,8 @@ import Legislator from './legislators/Legislator.js';
 import LegislatorList from './legislators/LegislatorList.js';
 import Committee from './committee/Committee.js';
 import CommitteeList from './committee/CommitteeList.js';
+import BillList from './bill/BillList.js';
+import Bill from './bill/Bill.js';
 
 import colors from './core/colors.js';
 
@@ -34,6 +36,8 @@ class Main extends React.Component {
               <Route exact path='/ducky/legislator/:id' component={Legislator}/>
               <Route exact path='/ducky/committees' component={CommitteeList}/>
               <Route exact path='/ducky/committee/:tag' component={Committee}/>
+              <Route exact path='/ducky/bills' component={BillList}/>
+              <Route exact path='/ducky/bill/:bill_id' component={Bill}/>
             </Switch>
           </div>
         </Router>

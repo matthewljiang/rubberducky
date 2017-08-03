@@ -18,7 +18,7 @@ def startup():
 			legislators_social_media.update_one({"id.bioguide":item["id"]["bioguide"]},{"$set":item},upsert=True)
 
 	print("finished legislators_social_media table")
-	print("creating legislator_current table")
+	print("creating legislators_current table")
 	#create or update legislators
 	legislators_current = db['legislators_current']
 	with open('db/congress-legislators/legislators-current.json') as file:
@@ -29,6 +29,16 @@ def startup():
 			if soc is not None:
 				item["social"] = soc["social"]
 			item["votes"] = []
+			item["committees"] = []
+			leg = legislators_current.find_one({"id.bioguide":item["id"]["bioguide"]})
+			if leg == None or "approval" not in leg:
+				item["approval"] = {
+					"up":0,
+					"down":0
+				}
+			else:
+				item["approval"] = leg["approval"]
+
 			legislators_current.update_one({"id.bioguide":item["id"]["bioguide"]},{"$set":item},upsert=True)
 
 	print("finished legislators_current table")
@@ -53,14 +63,41 @@ def startup():
 				com = {}
 				com['thomas_id']=item
 				com['members']=committee_membership_current_json[item]
+
+
+				for memb in com['members']:
+					com_info = committees_current.find_one({"thomas_id":com["thomas_id"]})
+					com_info_short = {
+						"committee_type":"main",
+						"thomas_id":com_info["thomas_id"],
+						"type":com_info["type"],
+						"name":com_info["name"],
+						"url":com_info["url"]
+					}
+					legislators_current.update_one({"id.bioguide":memb["bioguide"]}, {"$push":{"committees":com_info_short}})
+
+
+
+
 				com['subcommittees'] = []
 				for item_sub in committee_membership_current_json:
 					if len(str(item_sub))!= 4 and item in item_sub:
-						subdict = {
-										"thomas_id":str(item_sub)[4:],
+						sub_thomas_id = str(item_sub)[4:]
+						sub_com = {
+										"thomas_id":sub_thomas_id,
 										"members":committee_membership_current_json[item_sub]
 								  }
-						com['subcommittees'].append(subdict)
+						com['subcommittees'].append(sub_com)
+						for memb in sub_com['members']:
+							com_info = committees_current.find_one({"thomas_id":com["thomas_id"]})
+							sub_com_info = {
+								"committee_type":"sub",
+								"thomas_id":item_sub
+							}
+							for subcommittee in com_info["subcommittees"]:
+								if subcommittee["thomas_id"] == sub_thomas_id:
+									sub_com_info["name"] = subcommittee["name"]
+							legislators_current.update_one({"id.bioguide":memb["bioguide"]}, {"$push":{"committees":sub_com_info}})
 				committee_membership_current.update_one({"thomas_id":com["thomas_id"]},{"$set":com},upsert=True)
 				
 	print("finished committee-membership-current table")
@@ -76,6 +113,9 @@ def startup():
 					votes_json = json.load(file)
 					if not "bill" in votes_json:
 						votes_json["bill"] = None
+						votes_json["bill_id"] = None
+					else:
+						votes_json["bill_id"] = "{0}{1}-{2}".format(votes_json["bill"]["type"],votes_json["bill"]["number"],votes_json["bill"]["congress"])
 					for vote_type in votes_json["votes"]:
 						for v in votes_json["votes"][vote_type]:
 							if votes_json["chamber"] == 'h':
