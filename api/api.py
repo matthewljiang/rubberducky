@@ -22,14 +22,14 @@ def request_test():
 
 @api.route('/legislators/current', methods=["GET"])
 def current_legislators():
-	legislators = dumps(db.legislators_current.find())
+	legislators = dumps(db.legislators_current.find({},{"votes":0}))
 	return legislators
 
 @api.route('/legislator', methods=["GET"])
 def specific_legislator():
 	bioguide = request.args.get('bioguide')
-	legislators = dumps(db.legislators_current.find({"id.bioguide": bioguide}))
-	return legislators
+	legislator = dumps(db.legislators_current.find({"id.bioguide": bioguide}))
+	return legislator
 
 @api.route('/socialmedia', methods=["GET"])
 def specific_socialmedia():
@@ -47,3 +47,15 @@ def specific_committee():
 	committee_id = request.args.get('thomas_id')
 	committee = dumps(db.committees_current.find({"thomas_id":thomas_id}, {"thomas_id": 1, "name":1, "subcommittees.name":1, "_id": 0}))
 	return committee
+
+@api.route('/bills/current', methods=["GET"])
+def current_bills():
+	bills = dumps(db.bills.find().sort("introduced_at", -1).limit(100))
+	return bills
+
+@api.route('/bill', methods=["GET"])
+def specific_bill():
+	bill_id = request.args.get('bill_id')
+	bill = dumps(db.bills.find({"bill_id": bill_id}))
+	return bill
+
