@@ -3,6 +3,7 @@ import Radium from 'radium';
 import axios from 'axios';
 
 import { Table } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import LegislatorSidebar from './components/LegislatorSidebar.js';
 import colors from '../core/colors.js';
 
@@ -106,8 +107,11 @@ class Legislator extends React.Component {
     const records = [];
     for (let i = 0; i < this.state.votingRecord.length; i++) {
       const record = this.state.votingRecord[i];
+      console.log(record);
+      const billId = record.bill.type + record.bill.number + '-' + record.bill.congress;
       records.push(
           <tr key={i}>
+            <td><Link to={'/ducky/bill/'+billId}>{billId}</Link></td>
             <td>{record.bill.number}</td>
             <td>{record.bill.title}</td>
             <td>{record.vote}</td>
@@ -124,6 +128,7 @@ class Legislator extends React.Component {
                 <Table responsive>
                   <thead>
                     <tr>
+                      <th>Bill ID</th>
                       <th>Bill Number</th>
                       <th>Bill Name</th>
                       <th>Vote</th>
@@ -150,7 +155,7 @@ class Legislator extends React.Component {
                     this.state.committees.map((committee) => {
                     return (
                     <tr>
-                      <th>{committee.thomas_id}</th>
+                      <th><Link to={'/ducky/committee/'+committee.thomas_id}>{committee.thomas_id}</Link></th>
                       <th>{committee.name}</th>
                     </tr>)
                     })
