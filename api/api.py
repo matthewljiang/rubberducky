@@ -47,3 +47,8 @@ def specific_bill():
 	bill_id = request.args.get('bill_id')
 	bill = dumps(db.bills.find({"bill_id": bill_id}))
 	return bill
+
+@api.route('/legislators/names', methods=["GET"])
+def legislators_names():
+	names = dumps(db.legislators_current.find( {}, {"name.official_full":1, "_id":0, "terms": {"$slice": -1} }))
+	return names
