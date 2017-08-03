@@ -28,7 +28,6 @@ class RepList extends React.Component {
 
   componentDidMount() {
     this.state.reps = [];
-    console.log("Did Mount");
   }
 
   render() {

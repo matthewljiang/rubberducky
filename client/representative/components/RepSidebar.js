@@ -40,6 +40,37 @@ const styling = {
 
 class RepSidebar extends React.Component {
   render() {
+    console.log(this.props);
+    const info = this.props.info.social;
+    const socialLinks = [];
+
+    if (info.twitter) {
+      socialLinks.unshift(
+          <div key="twitter">
+            <FontAwesome name='twitter' fixedWidth/>
+            <span style={{marginLeft:'.5em'}}>{info.twitter}</span>
+          </div>
+          );
+    }
+
+    if (info.facebook) {
+      socialLinks.unshift(
+          <div key="facebook">
+            <FontAwesome name='facebook' fixedWidth/>
+            <span style={{marginLeft:'.5em'}}>{info.facebook}</span>
+          </div>
+          );
+    }
+
+    if (info.phone) {
+      socialLinks.unshift(
+          <div key="phone">
+            <FontAwesome name='phone' fixedWidth/>
+            <span style={{marginLeft:'.5em'}}>{info.phone}</span>
+          </div>
+          );
+    }
+    console.log(socialLinks);
     return (
         <div style={styling.container}>
           <div style={styling.infoHead}>
@@ -50,21 +81,10 @@ class RepSidebar extends React.Component {
             <div style={{fontSize:'.75em'}}>{this.props.info.party} - {this.props.info.state}</div>
           </div>
           <div style={styling.infoFoot}>
+            {socialLinks}
             <div>
               <FontAwesome name='envelope' fixedWidth/>
               <span style={{marginLeft:'.5em'}}>{this.props.info.email}</span>
-            </div>
-            <div>
-              <FontAwesome name='phone' fixedWidth/>
-              <span style={{marginLeft:'.5em'}}>{this.props.info.phone}</span>
-            </div>
-            <div>
-              <FontAwesome name='facebook' fixedWidth/>
-              <span style={{marginLeft:'.5em'}}>{this.props.info.facebook}</span>
-            </div>
-            <div>
-              <FontAwesome name='twitter' fixedWidth/>
-              <span style={{marginLeft:'.5em'}}>{this.props.info.twitter}</span>
             </div>
           </div>
         </div>

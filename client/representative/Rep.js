@@ -1,9 +1,9 @@
 import React from 'react';
 import Radium from 'radium';
+import axios from 'axios';
+
 import { Table } from 'react-bootstrap';
-
 import RepSidebar from './components/RepSidebar.js';
-
 import colors from '../core/colors.js';
 
 const styling = {
@@ -21,18 +21,24 @@ const styling = {
   }
 };
 
+function compareBill(a,b) {
+  if (a.date < b.date)
+    return 1;
+  if (a.date > b.date)
+    return -1;
+  return 0;
+}
+
 class Rep extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
       repInfo: {
-        name: 'Susan Collins',
-        email: 'susancollins@gmail.com',
-        facebook: 'susancollins',
-        twitter: 'susancollins',
-        phone: '703-703-7030',
-        state: 'VA',
-        party: 'D'
+        name: '',
+        email: '',
+        social: {},
+        state: '',
+        party: ''
       },
       votingRecord: [],
       committees: [],
@@ -42,12 +48,60 @@ class Rep extends React.Component {
 
   componentDidMount() {
     // Call API here using props.match.params.repId.
-    this.state.votingRecord = [],
-    this.state.committees = [],
-    this.state.wapoArticles = []
+    axios.get( '/api/legislator', {
+      params: {
+        bioguide: this.props.match.params.repId
+      }
+    }).then((response) => {
+      if (response.data.length === 0) {
+        console.log('not found');
+      } else {
+        const rep = response.data[0];
+        const lastTerm = rep.terms.slice(-1)[0];
+        const bills = rep.votes.filter((vote) => {
+          return vote.bill;
+        }).sort(compareBill).slice(0,10);
+
+        const repInfo = {}, votingRecord = [], committees = [],
+        wapoArticles = [];
+
+        // Populate representative data
+        repInfo.name = rep.name.official_full;
+        repInfo.state = lastTerm.state;
+        repInfo.party = lastTerm.party;
+        repInfo.social = rep.social;
+
+        // Populate voting record
+
+
+        // Populate committees
+
+
+
+        this.setState({
+          repInfo: repInfo,
+          votingRecord: bills,
+          committees: [],
+          wapoArticles: []
+        });
+
+      }
+    });
   }
 
   render() {
+    const records = [];
+    for (let i = 0; i < this.state.votingRecord.length; i++) {
+      const record = this.state.votingRecord[i];
+      records.push(
+          <tr key={i}>
+            <td>{record.bill.number}</td>
+            <td>{record.bill.title}</td>
+            <td>{record.vote}</td>
+
+          </tr>
+          );
+    }
     return (
         <div style={styling.container}>
           <RepSidebar info={this.state.repInfo}/>
@@ -59,20 +113,11 @@ class Rep extends React.Component {
                   <tr>
                     <th>Bill Number</th>
                     <th>Bill Name</th>
-                    <th>Bill Status</th>
+                    <th>Vote</th>
                   </tr>
                 </thead>
                 <tbody>
-                  {
-                  this.state.votingRecord.map((record) => {
-                  return (
-                  <tr>
-                    <td>{record.number}</td>
-                    <td>{record.name}</td>
-                    <td>{record.status}</td>
-                  </tr>)
-                  })
-                  }
+                  {records}
                 </tbody>
               </Table>
             </div>
@@ -87,7 +132,7 @@ class Rep extends React.Component {
                 </thead>
                 <tbody>
                   {
-                  this.state.votingRecord.map((committee) => {
+                  this.state.committees.map((committee) => {
                   return (
                   <tr>
                     <th>{committee.tag}</th>
@@ -103,11 +148,11 @@ class Rep extends React.Component {
               <ul>
                 {
                 this.state.wapoArticles.map((article) => {
-                  return (
-                  <li>
-                    {article.title}
-                  </li>
-                  )
+                return (
+                <li>
+                  {article.title}
+                </li>
+                )
                 })
                 }
               </ul>

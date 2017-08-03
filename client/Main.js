@@ -29,9 +29,9 @@ class Main extends React.Component {
           <div style={styling.main}>
             <Titlebar/>
             <Switch>
-              <Route path='/ducky' component={Home}/>
-              <Route path='/ducky/representatives' component={RepList}/>
-              <Route path='/ducky/representative/:repId' component={SingleRep}/>
+              <Route exact path='/ducky' component={Home}/>
+              <Route exact path='/ducky/representatives' component={RepList}/>
+              <Route exact path='/ducky/representative/:repId' component={SingleRep}/>
               <Route exact path='/ducky/committees' component={CommitteeList}/>
               <Route exact path='/ducky/committee/:tag' component={Committee}/>
             </Switch>
