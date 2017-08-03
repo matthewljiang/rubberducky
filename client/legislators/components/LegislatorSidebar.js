@@ -114,7 +114,7 @@ class LegislatorSidebar extends React.Component {
         <div style={styling.container}>
           <div style={styling.infoHead}>
             <div style={styling.imageContainer}>
-              <img src='https://s3.amazonaws.com/rubberducky/bernie.jpg' style={styling.profileImage}/>
+              <img src='https://s3.amazonaws.com/rubberducky/person.jpg' style={styling.profileImage}/>
             </div>
             <div>{this.props.info.position}</div>
             <div>{this.props.info.name}</div>
