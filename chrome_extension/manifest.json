@@ -9,7 +9,7 @@
 	{
 		"matches": ["https://www.washingtonpost.com/*"],
 		"js": ["js_plugins/jquery.min.js", "js_plugins/jquery.highlight.js", "content.js"],
-		"css": []
+		"css": ["css/content.css"]
 	}
 	]
 }
