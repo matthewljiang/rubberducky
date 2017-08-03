@@ -12,7 +12,7 @@ class Home extends React.Component {
   render() {
     return (
           <div style={styles.container}>
-            This is home
+            <img src='https://s3.amazonaws.com/rubberducky/duck-svg-4.png'/>
           </div>
         );
   }
