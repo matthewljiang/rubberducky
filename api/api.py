@@ -37,17 +37,6 @@ def specific_socialmedia():
 	legislators = dumps(db.legislators_social_media.find({"id.bioguide": bioguide}))
 	return legislators
 
-@api.route('/committees/current', methods=["GET"])
-def current_committees():
-	committees = dumps(db.committees_current.find({}, {"name": 1, "thomas_id": 1, "url": 1, "_id": 0 }))
-	return committees
-
-@api.route('/committee', methods=['GET'])
-def specific_committee():
-	committee_id = request.args.get('thomas_id')
-	committee = dumps(db.committees_current.find({"thomas_id":thomas_id}, {"thomas_id": 1, "name":1, "subcommittees.name":1, "_id": 0}))
-	return committee
-
 @api.route('/bills/current', methods=["GET"])
 def current_bills():
 	bills = dumps(db.bills.find().sort("introduced_at", -1).limit(100))
@@ -59,3 +48,13 @@ def specific_bill():
 	bill = dumps(db.bills.find({"bill_id": bill_id}))
 	return bill
 
+@api.route('/committees/current', methods=["GET"])
+def current_committees():
+	committees = dumps(db.committees_current.find({}, {"name": 1, "thomas_id": 1, "url": 1, "_id": 0 }))
+	return committees
+
+@api.route('/committee', methods=['GET'])
+def specific_committee():
+	committee_id = request.args.get('thomas_id')
+	committee = dumps(db.committees_current.find({"thomas_id":thomas_id}, {"thomas_id": 1, "name":1, "subcommittees.name":1, "_id": 0}))
+	return committee
