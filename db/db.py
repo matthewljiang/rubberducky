@@ -18,7 +18,7 @@ def startup():
 			legislators_social_media.update_one({"id.bioguide":item["id"]["bioguide"]},{"$set":item},upsert=True)
 
 	print("finished legislators_social_media table")
-	print("creating legislator_current table")
+	print("creating legislators_current table")
 	#create or update legislators
 	legislators_current = db['legislators_current']
 	with open('db/congress-legislators/legislators-current.json') as file:
@@ -30,6 +30,15 @@ def startup():
 				item["social"] = soc["social"]
 			item["votes"] = []
 			item["committees"] = []
+			leg = legislators_current.find_one({"id.bioguide":item["id"]["bioguide"]})
+			if leg == None or "approval" not in leg:
+				item["approval"] = {
+					"up":0,
+					"down":0
+				}
+			else:
+				item["approval"] = leg["approval"]
+
 			legislators_current.update_one({"id.bioguide":item["id"]["bioguide"]},{"$set":item},upsert=True)
 
 	print("finished legislators_current table")
@@ -104,6 +113,9 @@ def startup():
 					votes_json = json.load(file)
 					if not "bill" in votes_json:
 						votes_json["bill"] = None
+						votes_json["bill_id"] = None
+					else:
+						votes_json["bill_id"] = "{0}{1}-{2}".format(votes_json["bill"]["type"],votes_json["bill"]["number"],votes_json["bill"]["congress"])
 					for vote_type in votes_json["votes"]:
 						for v in votes_json["votes"][vote_type]:
 							if votes_json["chamber"] == 'h':
