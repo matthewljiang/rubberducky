@@ -52,3 +52,14 @@ def specific_bill():
 def legislators_names():
 	names = dumps(db.legislators_current.find( {}, {"name.official_full":1, "_id":0, "terms": {"$slice": -1} }))
 	return names
+
+@api.route('/committees/current', methods=["GET"])
+def current_committees():
+	committees = dumps(db.committees_current.find({}, {"name": 1, "thomas_id": 1, "url": 1, "_id": 0 }))
+	return committees
+
+@api.route('/committee', methods=['GET'])
+def specific_committee():
+	committee_id = request.args.get('thomas_id')
+	committee = dumps(db.committees_current.find({"thomas_id":thomas_id}, {"thomas_id": 1, "name":1, "subcommittees.name":1, "_id": 0}))
+	return committee
