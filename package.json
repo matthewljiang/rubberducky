@@ -18,7 +18,7 @@
     "webpack": "^1.12.12"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "debounce": "^1.0.2",
     "radium": "^0.19.4",
     "react": "^15.6.1",
